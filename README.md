@@ -1,6 +1,7 @@
 # Projects
-Includes key projects that I have undertaken for various tasks 
+Includes a variety of projects that span many ML models, for example: 
 
-Examples include;
-- NLP sorting algorithm
-- Hidden Markov Model Regime detection 
+- Ensemble Trees for recession predicition 
+- NLP sorting template for organising financial datadumps
+- Hidden Markov Model for regime detection
+- Hierarchical clustering for stock paritrading algorithms 
