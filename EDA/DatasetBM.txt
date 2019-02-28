@@ -1,0 +1,1370 @@
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah	30,199 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$12,797 	
+2015 BMW i3 60 Ah	12,637 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,779 	
+2014 BMW i3 60 Ah	32,028 miles	Ionic Silver w/BMW i Blue	Mega (Sensatec and Cloth)	$12,900 	
+2015 BMW i3 60 Ah	24,589 miles	Gray	Giga Cassia/Carum Spice Gray	$13,987 	
+2016 BMW i3 60 Ah	24,648 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,985 	
+2015 BMW i3 60 Ah	11,732 miles	White	Beige	$15,000 	
+2014 BMW i3 60 Ah	26,340 miles	Gray	Unknown	$12,988 	
+2015 BMW i3 60 Ah	8,055 miles	Solar Orange Metallic w/Frozen Gray Accent	Giga Cassia/Spice Gray	$15,350 	
+2014 BMW i3 60 Ah	19,753 miles	Arravani Gray w/ BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$13,985 	
+2016 BMW i3 60 Ah	19,953 miles	Solar Orange/frozen Gray	Mega (Sensatec And Cloth)	$15,988 	
+2016 BMW i3 60 Ah	13,595 miles	Mineral Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,000 	
+2014 BMW i3 60 Ah	29,987 miles	Gray	Beige	$12,995 	
+2014 BMW i3 60 Ah	18,435 miles	GRAY	GRAY	$13,999 	
+2016 BMW i3 60 Ah	25,043 miles	Fluid Black non metallic	Mega (Sensatec and Cloth)	$15,900 	
+2015 BMW i3 60 Ah	16,824 miles	Capparis White BMW i Frozen Blue	BKCI - Mega Sensatec and Cloth	$14,900 	
+2015 BMW i3 60 Ah	16,253 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,995 	
+2014 BMW i3 60 Ah	24,175 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$13,894 	
+2014 BMW i3 60 Ah	23,399 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$13,799 	
+2015 BMW i3 60 Ah	15,896 miles	Black	Gray	$15,200 	
+2014 BMW i3 60 Ah	21,793 miles	Silver	Gray	$13,999 	
+2016 BMW i3 60 Ah	24,074 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,692 	
+2015 BMW i3 60 Ah	27,350 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$14,299 	
+2015 BMW i3 60 Ah with Range Extender	16,298 miles	Laurel Grey Metallic w/BMW i Frozen Blue Accent	Giga Cassia and Carum Spice Grey, leather/cloth	$15,250 	
+2015 BMW i3 60 Ah	21,892 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,799 	
+2016 BMW i3 60 Ah	10,194 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,500 	
+2015 BMW i3 60 Ah	17,370 miles	Gray	Beige	$15,299 	
+2016 BMW i3 60 Ah with Range Extender	17,664 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,999 	
+2015 BMW i3 60 Ah	22,658 miles	White	Beige	$14,900 	
+2016 BMW i3 60 Ah	19,534 miles	Black	Giga Cassia/Carum Spice Gray	$15,988 	
+2015 BMW i3 60 Ah with Range Extender	26,730 miles	White	Gray	$15,500 	"1
+2
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah	17,767 miles	Ionic Silver Metallic / BMW i	Giga Cassia / Carum Spice Gray	$15,995 	
+2015 BMW i3 60 Ah	27,004 miles	Solar Orange Metallic w/Frozen Gray Accent	Giga Cassia/Spice Gray	$15,799 	
+2015 BMW i3 60 Ah	31,466 miles	White	Beige	$14,374 	
+2015 BMW i3 60 Ah	24,125 miles	Arravani Gray w/BMW i Frozen Blue Accent	N/A	$14,995 	
+2015 BMW i3 60 Ah	12,641 miles	Andecite Silver w/ Frozen Blue Accent	Mega Carum Spice Gray	$15,995 	
+2016 BMW i3 60 Ah	22,457 miles	Capparis White BMW i Frozen Blue	BKCI - Mega Sensatec and Cloth	$15,900 	
+2015 BMW i3 60 Ah	49,134 miles	Gray	Gray	$12,999 	
+2015 BMW i3 60 Ah	22,903 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$16,785 	
+2015 BMW i3 60 Ah with Range Extender	32,190 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$14,882 	
+2015 BMW i3 60 Ah	15,804 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$16,987 	
+2015 BMW i3 60 Ah	12,840 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,603 	
+2016 BMW i3 60 Ah	29,718 miles	Fluid Black Non Metallic	Bhgi Atelier European Dark Cloth	$15,450 	
+2015 BMW i3 60 Ah with Range Extender	15,030 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,998 	
+2015 BMW i3 60 Ah	27,324 miles	Gray	Gray	$14,995 	
+2015 BMW i3 60 Ah	16,029 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$15,990 	
+2016 BMW i3 60 Ah	12,495 miles	Fluid Black w/Highlight BMW i Blue	Mega Carum Spice Gray	$16,999 	
+2016 BMW i3 60 Ah with Range Extender	36,706 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$16,577 	
+2014 BMW i3 60 Ah with Range Extender	25,840 miles	Andesite Silver Metallic	Mega Carum Spice Gray	$14,500 	
+2015 BMW i3 60 Ah	17,012 miles	Laurel Gray Metallic w/BMW i Fro	Mega Carum Spice Gray	$15,950 	
+2016 BMW i3 60 Ah	19,840 miles	Fluid Black w/Highlight BMW i Blue	N/A	$16,450 	
+2015 BMW i3 60 Ah	29,808 miles	Black	Mega Carum Spice Gray	$14,950 	
+2016 BMW i3 60 Ah with Range Extender	20,905 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,500 	
+2016 BMW i3 60 Ah	14,483 miles	White	Gray	$16,990 	
+2016 BMW i3 60 Ah	33,091 miles	Mineral Grey w/ BMW i Blue	Mega (Sensatec and Cloth)	$16,500 	
+2015 BMW i3 60 Ah with Range Extender	19,629 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$15,999 	
+2015 BMW i3 60 Ah	22,528 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$16,587 	
+2015 BMW i3 60 Ah	33,165 miles	Gray	Gray	$14,900 	
+2016 BMW i3 60 Ah with Range Extender	21,882 miles	IONIC SILVER	DEKA DARK	$18,500 	
+2015 BMW i3 60 Ah with Range Extender	19,976 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$15,999 	
+2015 BMW i3 60 Ah	20,608 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$15,990 	"1
+2
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah with Range Extender	22,665 miles	Silver	GRAY	$15,992 	
+2015 BMW i3 60 Ah with Range Extender	21,415 miles	Solar Orange Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$17,570 	
+2014 BMW i3 60 Ah with Range Extender	45,231 miles	Silver	Unknown	$13,298 	
+2016 BMW i3 60 Ah	19,144 miles	White	Gray	$16,900 	
+2014 BMW i3 60 Ah with Range Extender	45,559 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$13,298 	
+2016 BMW i3 60 Ah	25,173 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$16,450 	
+2016 BMW i3 60 Ah	33,206 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Spice Gray	$17,000 	
+2015 BMW i3 60 Ah with Range Extender	34,592 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$14,998 	
+2015 BMW i3 60 Ah with Range Extender	23,012 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,995 	
+2015 BMW i3 60 Ah	7,940 miles	Solar Orange Metallic / Frozen	Mega Carum Spice Gray	$17,250 	
+2015 BMW i3 60 Ah with Range Extender	29,425 miles	Gray	Mega Carum Spice Gray w/Sensatec/Cloth Upholstery	$16,988 	
+2015 BMW i3 60 Ah with Range Extender	26,255 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,798 	
+2015 BMW i3 60 Ah	36,191 miles	Ionic Silver Metallic w/ BMW i Frozen Blue Accent	Mega Carum Spice Grey/Carum Spice Grey	$14,990 	
+2016 BMW i3 60 Ah	17,156 miles	GRAY	Unknown	$17,290 	
+2015 BMW i3 60 Ah with Range Extender	24,480 miles	Arravani Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,997 	
+2016 BMW i3 60 Ah with Range Extender	27,252 miles	Fluid Black non metallic	Mega (Sensatec and Cloth)	$17,500 	
+2015 BMW i3 60 Ah with Range Extender	24,632 miles	Gray	Gray	$15,997 	
+2015 BMW i3 60 Ah with Range Extender	22,427 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,199 	
+2016 BMW i3 60 Ah with Range Extender	22,505 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$17,896 	
+2016 BMW i3 60 Ah with Range Extender	18,504 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/BMW i Blue Highlight	$18,230 	
+2015 BMW i3 60 Ah with Range Extender	20,420 miles	Gray	Unknown	$16,777 	
+2016 BMW i3 60 Ah	17,595 miles	Black	Unknown	$17,390 	
+2015 BMW i3 60 Ah with Range Extender	25,732 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,435 	
+2014 BMW i3 60 Ah with Range Extender	29,296 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,998 	
+2016 BMW i3 60 Ah with Range Extender	11,493 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$19,999 	
+2016 BMW i3 60 Ah with Range Extender	18,576 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$17,399 	
+2014 BMW i3 60 Ah with Range Extender	32,339 miles	Laurel Grey/BMW i Frozen Blue	Mega (Sensatec and Cloth)	$15,900 	
+2015 BMW i3 60 Ah	20,665 miles	Laurel Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,888 	
+2015 BMW i3 60 Ah with Range Extender	23,505 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,398 	
+2016 BMW i3 60 Ah with Range Extender	25,040 miles	Capparis White	Mega Carum Spice Gray	$16,995 	"1
+3
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah with Range Extender	29,988 miles	Capparis White w/BMW i Frozen Blue Accent	Beige	$16,599 	
+2015 BMW i3 60 Ah with Range Extender	25,211 miles	White	Mega Carum Spice Gray	$18,000 	
+2015 BMW i3 60 Ah with Range Extender	41,040 miles	Capparis White w/BMW i Frozen Blue Accen	Mega Carum Spice Gray	$14,997 	
+2015 BMW i3 60 Ah with Range Extender	24,293 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,392 	
+2016 BMW i3 60 Ah with Range Extender	32,118 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,499 	
+2016 BMW i3 60 Ah with Range Extender	15,517 miles	Fluid Black w/Highlight BMW i Bl	Deka Gray/Blue Highlight	$18,495 	
+2015 BMW i3 60 Ah	21,410 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$16,998 	
+2016 BMW i3 60 Ah with Range Extender	16,870 miles	Platinum Silver w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$17,799 	
+2015 BMW i3 60 Ah	33,055 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$15,750 	
+2015 BMW i3 60 Ah with Range Extender	20,176 miles	White	Gray	$16,830 	
+2015 BMW i3 60 Ah with Range Extender	20,937 miles	Gray	Gray	$16,799 	
+2016 BMW i3 60 Ah with Range Extender	28,514 miles	Mineral Grey w/ BMW i Blue	Mega Sensatec and Cloth	$16,900 	
+2015 BMW i3 60 Ah with Range Extender	30,862 miles	Silver	Brown	$15,998 	
+2014 BMW i3 60 Ah with Range Extender	34,427 miles	Silver	Mega Carum Spice Gray	$14,999 	
+2016 BMW i3 60 Ah	11,463 miles	Capparis White/BMW i Frozen Bl	Mega (Sensatec and Cloth)	$19,000 	
+2016 BMW i3 60 Ah with Range Extender	15,588 miles	Black	Black	$17,995 	
+2017 BMW i3 94 Ah	19,844 miles	Protonic Blue Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$19,995 	
+2015 BMW i3 60 Ah with Range Extender	25,099 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,491 	
+2015 BMW i3 60 Ah with Range Extender	26,058 miles	Capparis White	Mega Carum Spic	$16,500 	
+2016 BMW i3 60 Ah with Range Extender	23,115 miles	Black	Black	$17,498 	
+2015 BMW i3 60 Ah with Range Extender	15,857 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,397 	
+2016 BMW i3 60 Ah with Range Extender	28,641 miles	Fluid Black w/Highlight BMW i Blue	Unknown	$17,998 	
+2016 BMW i3 60 Ah with Range Extender	20,453 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$19,000 	
+2016 BMW i3 60 Ah with Range Extender	29,948 miles	Black	Gray	$16,998 	
+2015 BMW i3 60 Ah with Range Extender	21,661 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,685 	
+2016 BMW i3 60 Ah with Range Extender	19,565 miles	Fluid Black w/Highlight BMW i Blue	TERA WORLD	$18,000 	
+2015 BMW i3 60 Ah with Range Extender	37,108 miles	White	Gray	$16,988 	
+2016 BMW i3 60 Ah with Range Extender	19,332 miles	Fluid Black w/Highlight BMW i Blue	MEGA CARUM SPC GRY	$18,911 	
+2015 BMW i3 60 Ah with Range Extender	21,930 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega (Sensatec and Cloth)	$17,488 	
+2015 BMW i3 60 Ah with Range Extender	35,838 miles	White	Gray	$15,995 	"1
+4
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah with Range Extender	48,033 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$14,990 	
+2016 BMW i3 60 Ah with Range Extender	33,102 miles	Fluid Black w/ BMW i Blue Highlight	Mega Carum Spice Grey/Carum Spice Grey	$16,998 	
+2016 BMW i3 60 Ah with Range Extender	26,272 miles	Platinum Silver w/BMW i Frozen Blue Accent	DEKA DK CLOTH	$18,954 	
+2015 BMW i3 60 Ah with Range Extender	12,864 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,978 	
+2016 BMW i3 60 Ah with Range Extender	33,371 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$16,999 	
+2016 BMW i3 60 Ah with Range Extender	26,901 miles	GRAY	Gray	$17,541 	
+2015 BMW i3 60 Ah with Range Extender	24,855 miles	Champagne	Gray	$16,998 	
+2016 BMW i3 60 Ah with Range Extender	15,870 miles	Fluid Black w/Highlight BMW i Blue	Mega Carum Spice Gray	$19,796 	
+2016 BMW i3 60 Ah with Range Extender	21,815 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/BMW i Blue Highlight	$19,489 	
+2016 BMW i3 60 Ah with Range Extender	17,115 miles	Mineral Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$18,499 	
+2016 BMW i3 60 Ah with Range Extender	24,549 miles	Mineral Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,900 	
+2016 BMW i3 60 Ah with Range Extender	11,362 miles	Ionic Silver w/BMW i Blue	Mega (Sensatec and Cloth)	$18,995 	
+2016 BMW i3 60 Ah with Range Extender	16,673 miles	Black	Giga Cassia/Carum Spice Gray	$18,590 	
+2016 BMW i3 60 Ah with Range Extender	24,997 miles	Fluid Black non Metallic	Deka Dark Cloth	$17,900 	
+2016 BMW i3 60 Ah with Range Extender	20,676 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Spice Gray	$19,698 	
+2015 BMW i3 60 Ah with Range Extender	10,853 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$19,499 	
+2016 BMW i3 60 Ah with Range Extender	24,649 miles	Capparis White w/BMW i Frozen Blue Accent	Tan	$17,949 	
+2016 BMW i3 60 Ah with Range Extender	19,902 miles	Fluid Black non metallic	Atelier European Dark Cloth	$19,888 	
+2015 BMW i3 60 Ah with Range Extender	25,269 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Gray	$17,195 	
+2015 BMW i3 60 Ah with Range Extender	34,137 miles	Gray	Gray	$16,483 	
+2016 BMW i3 60 Ah with Range Extender	24,795 miles	Gray	Gray	$17,998 	
+2015 BMW i3 60 Ah with Range Extender	19,973 miles	Arravani Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,988 	
+2015 BMW i3 60 Ah with Range Extender	38,022 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$16,991 	
+2015 BMW i3 60 Ah with Range Extender	22,567 miles	White	Mega Carum Spice Gray	$17,495 	
+2015 BMW i3 60 Ah with Range Extender	31,156 miles	ANDESITE	LT TAN	$16,800 	
+2016 BMW i3 60 Ah with Range Extender	14,006 miles	Capparis White w/BMW i Frozen Blue Accent	N/A	$20,900 	
+2015 BMW i3 60 Ah with Range Extender	29,938 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,904 	
+2015 BMW i3 60 Ah	25,940 miles	Gray	CASSIA	$16,999 	
+2015 BMW i3 60 Ah with Range Extender	14,114 miles	ANDESITE SILVER	SPICE GRAY	$18,903 	
+2016 BMW i3 60 Ah with Range Extender	26,311 miles	Gray	Gray	$17,999 	"1
+5
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah with Range Extender	26,855 miles	White	Mega Carum Spice Gray	$17,990 	
+2016 BMW i3 60 Ah with Range Extender	11,564 miles	White	Unknown	$19,599 	
+2015 BMW i3 60 Ah with Range Extender	23,078 miles	Silver Metallic	Mega Carum Spice Gray	$17,590 	
+2016 BMW i3 60 Ah with Range Extender	45,121 miles	Fluid Black non Metallic	Deka Dark Cloth	$16,490 	
+2015 BMW i3 60 Ah with Range Extender	24,884 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,478 	
+2016 BMW i3 60 Ah with Range Extender	20,039 miles	Mineral Grey w/ BMW i Blue	Mega (Sensatec and Cloth)	$18,632 	
+2015 BMW i3 60 Ah with Range Extender	25,307 miles	Silver	Mega Carum Sp Gry Sen/Clt	$17,488 	
+2015 BMW i3 60 Ah with Range Extender	7,455 miles	Arravani Grey w/ BMW i Frozen Blue Accent	Silver	$18,999 	
+2016 BMW i3 60 Ah with Range Extender	10,286 miles	Silver	Gray	$19,498 	
+2015 BMW i3 60 Ah with Range Extender	19,835 miles	Andesite Silver Metallic w	Tera Dalbergia Brown, leather	$17,991 	
+2016 BMW i3 60 Ah with Range Extender	28,430 miles	White	Gray	$17,995 	
+2015 BMW i3 60 Ah with Range Extender	10,637 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,761 	
+2015 BMW i3 60 Ah with Range Extender	25,124 miles	Solar Orange Metallic w/Frozen Gray Accent	Tera Dalbergia Brown	$17,368 	
+2015 BMW i3 60 Ah with Range Extender	20,857 miles	White	Mega Carum Spice Gray	$17,990 	
+2016 BMW i3 60 Ah with Range Extender	17,524 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$19,000 	
+2015 BMW i3 60 Ah with Range Extender	15,238 miles	ARRAVANI GRAY	SPICE GRAY	$19,099 	
+2016 BMW i3 60 Ah with Range Extender	23,385 miles	FLUID BLACK W/HIGHLIGHT BMW I BLUE	MEGA CARUM SPICE GRAY	$19,573 	
+2016 BMW i3 60 Ah with Range Extender	26,838 miles	Mineral Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$19,698 	
+2016 BMW i3 60 Ah with Range Extender	19,374 miles	Capparis White BMW i Frozen Blue	Deka Dark Cloth	$18,900 	
+2015 BMW i3 60 Ah with Range Extender	14,540 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega (Sensatec and Cloth)	$18,888 	
+2016 BMW i3 60 Ah with Range Extender	30,969 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$17,973 	
+2016 BMW i3 60 Ah with Range Extender	31,853 miles	Ionic Silver With BMW i blue	Deka Dark Cloth	$17,900 	
+2016 BMW i3 60 Ah with Range Extender	19,863 miles	Capparis White BMW i Frozen Blue	Deka Dark Cloth	$18,900 	
+2016 BMW i3 60 Ah with Range Extender	22,642 miles	Black	N/A	$18,988 	
+2015 BMW i3 60 Ah with Range Extender	22,609 miles	ANDESITE SILVER	N/A	$18,477 	
+2015 BMW i3 60 Ah with Range Extender	35,603 miles	Solar Orange/Frozen Grey	Tera (Full Leather)	$16,988 	
+2016 BMW i3 60 Ah with Range Extender	15,775 miles	Fluid Black non metallic	Atelier European Dark Cloth	$20,888 	
+2016 BMW i3 60 Ah with Range Extender	15,806 miles	Fluid Black non metallic	Deka Dark Cloth	$20,888 	
+2016 BMW i3 60 Ah with Range Extender	35,748 miles	OTHER	OTHER	$17,700 	
+2015 BMW i3 60 Ah with Range Extender	36,839 miles	Solar Orange Frozen Grey	Giga Leather and Cloth	$16,900 	"2
+6
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah with Range Extender	14,513 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$19,900 	
+2016 BMW i3 60 Ah with Range Extender	16,914 miles	Fluid Black non metallic	Deka Dark Cloth	$20,888 	
+2015 BMW i3 60 Ah with Range Extender	25,819 miles	Arravani Grey	Mega Sensatec and Cloth	$17,900 	
+2015 BMW i3 60 Ah with Range Extender	25,286 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,995 	
+2016 BMW i3 60 Ah with Range Extender	18,362 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$21,465 	
+2015 BMW i3 60 Ah with Range Extender	19,336 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,500 	
+2015 BMW i3 60 Ah with Range Extender	27,948 miles	Capparis White w/BMW i Frozen Bl	Giga Cassia/Spice Gray	$17,800 	
+2016 BMW i3 60 Ah with Range Extender	26,318 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$18,988 	
+2016 BMW i3 60 Ah with Range Extender	35,185 miles	ESTORIL BLUE	Mega Carum Spice Gray	$17,970 	
+2017 BMW i3 94 Ah	18,444 miles	Mineral Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$21,685 	
+2016 BMW i3 60 Ah with Range Extender	26,696 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/BMW i Blue Highlight	$18,688 	
+2016 BMW i3 60 Ah with Range Extender	40,216 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$19,695 	
+2016 BMW i3 60 Ah with Range Extender	19,171 miles	Fluid Black non metallic	Deka Dark Cloth	$20,888 	
+2016 BMW i3 60 Ah with Range Extender	12,253 miles	BLACK	Unknown	$19,950 	
+2016 BMW i3 60 Ah with Range Extender	17,912 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/BMW i Blue Highlight	$19,788 	
+2015 BMW i3 60 Ah with Range Extender	29,860 miles	Capparis White w/BMW i Frozen Blue Accent	Gray	$17,787 	
+2016 BMW i3 60 Ah with Range Extender	20,650 miles	Bmw I Frozen Bl	Bkci Mega (Sensatec and Cloth)	$19,295 	
+2016 BMW i3 60 Ah with Range Extender	17,460 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Spice Gray	$20,981 	
+2015 BMW i3 60 Ah with Range Extender	28,231 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$17,987 	
+2016 BMW i3 60 Ah with Range Extender	28,452 miles	Black	Giga Cassia/Carum Spice Gray	$18,690 	
+2015 BMW i3 60 Ah with Range Extender	26,713 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,880 	
+2015 BMW i3 60 Ah with Range Extender	10,377 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	SENSATECN AND CLOTH	$19,488 	
+2015 BMW i3 60 Ah with Range Extender	34,501 miles	Capparis White w/BMW i Frozen Blue Accent	Gray	$17,498 	
+2015 BMW i3 60 Ah with Range Extender	10,433 miles	Ionic Silver Metallic w/BMW i Fr	Giga Cassia/Spice Gray	$19,500 	
+2015 BMW i3 60 Ah with Range Extender	21,434 miles	Solar Orange Metallic w/Frozen Gray Accent	Giga Cassia Natural Leath	$18,588 	
+2016 BMW i3 60 Ah with Range Extender	43,368 miles	Black	Deka Gray/BMW i Blue Highlight	$17,490 	
+2016 BMW i3 60 Ah with Range Extender	13,676 miles	Ionic Silver Metallic w/BMW i Fr	GREY	$19,996 	
+2016 BMW i3 60 Ah with Range Extender	24,627 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,090 	
+2016 BMW i3 60 Ah with Range Extender	22,238 miles	White	BLACK	$19,300 	
+2016 BMW i3 60 Ah with Range Extender	25,323 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$21,000 	"3
+7
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah with Range Extender	42,999 miles	LAUREL GRAY METALLIC W/BMW I FROZEN BLUE ACCENT	MEGA CARUM SPICE GREY	$17,900 	
+2016 BMW i3 60 Ah with Range Extender	21,315 miles	Black	Dk. Gray	$19,400 	
+2015 BMW i3 60 Ah with Range Extender	24,190 miles	CAPPARIS WHITE	NATURAL/GREY	$18,450 	
+2015 BMW i3 60 Ah with Range Extender	35,044 miles	Arravani Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,996 	
+2016 BMW i3 60 Ah with Range Extender	29,341 miles	Mineral Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,799 	
+2016 BMW i3 60 Ah with Range Extender	33,099 miles	Gray	Gray	$18,495 	
+2015 BMW i3 60 Ah with Range Extender	22,030 miles	Gray	Gray	$18,700 	
+2015 BMW i3 60 Ah with Range Extender	22,326 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$19,964 	
+2016 BMW i3 60 Ah with Range Extender	14,962 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$20,495 	
+2016 BMW i3 60 Ah with Range Extender	8,144 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$21,981 	
+2016 BMW i3 60 Ah with Range Extender	23,121 miles	FLUID BLACK NON METALLIC	N/A	$19,400 	
+2015 BMW i3 60 Ah with Range Extender	13,937 miles	Arravani Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,450 	
+2016 BMW i3 60 Ah with Range Extender	16,137 miles	Fluid Black w/Highlight BMW i Fr	GREY	$19,996 	
+2016 BMW i3 60 Ah with Range Extender	30,919 miles	Capparis White w/BMW i Frozen Blue Accent	GREY	$19,987 	
+2016 BMW i3 60 Ah with Range Extender	26,893 miles	Fluid Black non metallic	Atelier European Dark Cloth	$20,900 	
+2016 BMW i3 60 Ah with Range Extender	18,430 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$19,999 	
+2016 BMW i3 60 Ah with Range Extender	29,230 miles	Capparis White/BMW i Frozen Bl	Mega (Sensatec and Cloth)	$19,985 	
+2015 BMW i3 60 Ah with Range Extender	19,914 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$19,585 	
+2016 BMW i3 60 Ah with Range Extender	28,919 miles	Capparis White/BMW i Frozen Bl	Mega (Sensatec and Cloth)	$20,800 	
+2016 BMW i3 60 Ah with Range Extender	14,845 miles	Gray	Tera Dalbergia Brown	$20,225 	
+2016 BMW i3 60 Ah with Range Extender	9,525 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$20,677 	
+2016 BMW i3 60 Ah with Range Extender	19,587 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$19,999 	
+2016 BMW i3 60 Ah with Range Extender	19,369 miles	Silver	GRAY	$19,900 	
+2015 BMW i3 60 Ah with Range Extender	33,938 miles	Gray	Gray	$17,650 	
+2016 BMW i3 60 Ah with Range Extender	48,618 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,500 	
+2016 BMW i3 60 Ah with Range Extender	20,064 miles	Black	Gray	$19,900 	
+2015 BMW i3 60 Ah with Range Extender	26,872 miles	Gray	Gray	$18,350 	
+2016 BMW i3 60 Ah with Range Extender	25,654 miles	Grey	Unknown	$19,546 	
+2012 BMW 5 Series ActiveHybrid 5	29,185 miles	Gray	Beige	$16,399 	
+2015 BMW i3 60 Ah with Range Extender	21,762 miles	Arravani Grey/bmw Frozen Blue	Tera (Full Leather)	$19,988 	"4
+8
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah with Range Extender	32,766 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,988 	
+2015 BMW i3 60 Ah with Range Extender	19,453 miles	B85_CAPPARIS_WHITE	Mega Carum Spice Gray	$19,997 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	45,013 miles	Alpine White	Black	$15,900 	
+2016 BMW i3 60 Ah with Range Extender	21,969 miles	Mineral Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$21,386 	
+2016 BMW i3 60 Ah with Range Extender	17,655 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$21,359 	
+2015 BMW i3 60 Ah with Range Extender	30,004 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,182 	
+2015 BMW i3 60 Ah with Range Extender	15,353 miles	Laurel Gray Metallic w BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$20,795 	
+2016 BMW i3 60 Ah with Range Extender	23,096 miles	Platinum SIilver w/ BMW i Blue	Deka Dark Cloth	$21,000 	
+2015 BMW i3 60 Ah with Range Extender	24,927 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$19,900 	
+2013 BMW 5 Series ActiveHybrid 5 Sedan	53,305 miles	Liquid Blue Metallic	Oyster/Black	$17,655 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	39,061 miles	Black Sapphire Metallic	Saddle Brown	$16,981 	
+2015 BMW i3 60 Ah with Range Extender	14,781 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$20,595 	
+2017 BMW i3 94 Ah	22,895 miles	White	Deka Gray/BMW i Blue Highlight	$21,390 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	53,771 miles	Grey	Tan	$15,979 	
+2017 BMW i3 94 Ah	16,121 miles	CAPPARIS	N/A	$21,990 	
+2013 BMW 5 Series ActiveHybrid 5 Sedan	60,216 miles	Unknown	Unknown	$15,500 	
+2017 BMW i3 94 Ah	24,356 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$22,985 	
+2017 BMW i3 94 Ah	12,035 miles	Capparis White W/Bmw I Frozen Blue Accent	Brown	$22,990 	
+2017 BMW i3 94 Ah with Range Extender	21,987 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$21,699 	
+2016 BMW i3 60 Ah with Range Extender	21,132 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$21,500 	
+2017 BMW i3 94 Ah with Range Extender	17,338 miles	0B85 CAPPARIS WHITE/BMW I FROZEN BL	BHGI ATELIER EUROPEAN DARK CLOTH	$23,958 	
+2013 BMW 5 Series ActiveHybrid 5 Sedan	74,115 miles	BLACK SAPPHIRE	OYSTER	$14,700 	
+2017 BMW i3 94 Ah	21,478 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$21,999 	
+2017 BMW i3 94 Ah with Range Extender	22,045 miles	Mineral Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$21,999 	
+2017 BMW i3 94 Ah	23,154 miles	Mineral Gray w/BMW i Frozen Blue Accent	Black	$21,980 	
+2017 BMW i3 94 Ah	23,548 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$21,999 	
+2017 BMW i3 94 Ah with Range Extender	24,735 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$23,385 	
+2017 BMW i3 94 Ah with Range Extender	24,079 miles	FLUID BLACK	SPICE GRAY	$22,670 	
+2017 BMW i3 94 Ah with Range Extender	14,989 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/BMW i Blue Highlight	$23,000 	
+2017 BMW i3 94 Ah with Range Extender	16,084 miles	Fluid Black non Metallic	Mega (Sensatec and Cloth)	$25,000 	"5
+9
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW 3 Series ActiveHybrid 3 Sedan	60,651 miles	White	Unknown	$17,499 	
+2017 BMW i3 94 Ah with Range Extender	24,232 miles	Protonic Blue	Deka Dark Cloth	$22,900 	
+2017 BMW i3 94 Ah with Range Extender	37,046 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$21,924 	
+2017 BMW i3 94 Ah with Range Extender	18,598 miles	Protonic Blue w/Frozen Grey	Atelier European Dark Cloth	$23,500 	
+2017 BMW i3 94 Ah with Range Extender	18,738 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/BMW i Blue Highlight	$23,500 	
+2017 BMW i3 94 Ah with Range Extender	19,342 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/BMW i Blue Highlight	$23,500 	
+2017 BMW i3 94 Ah with Range Extender	19,582 miles	Fluid Black w/Highlight BMW i Blue	Bhgi	$23,500 	
+2017 BMW i3 94 Ah with Range Extender	15,133 miles	Fluid Black non Metallic	Mega (Sensatec and Cloth)	$23,900 	
+2014 BMW i3 60 Ah	25,512 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,796 	
+2017 BMW i3 94 Ah with Range Extender	28,044 miles	Silver	Deka Gray/BMW i Blue Highlight	$22,888 	
+2017 BMW i3 94 Ah with Range Extender	14,836 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$23,990 	
+2014 BMW i3 60 Ah	34,801 miles	Gray	LT GRAY	$12,996 	
+2014 BMW 3 Series ActiveHybrid 3 Sedan	38,441 miles	White	Tan	$19,995 	
+2017 BMW i3 94 Ah with Range Extender	10,773 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$24,500 	
+2014 BMW i3 60 Ah	36,498 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$13,847 	
+2017 BMW i3 94 Ah with Range Extender	11,814 miles	Mineral Grey w BMW i Blue	Deka Dark Cloth	$26,250 	
+2013 BMW 5 Series ActiveHybrid 5 Sedan	73,776 miles	WHITE	BEIGE	$16,500 	
+2017 BMW i3 94 Ah with Range Extender	20,434 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$25,389 	
+2017 BMW i3 94 Ah with Range Extender	5,934 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$24,997 	
+2017 BMW i3 94 Ah with Range Extender	20,568 miles	Capparis White/BMW i Frozen Bl	Deka Dark Cloth	$24,900 	
+2013 BMW 5 Series ActiveHybrid 5 Sedan	39,500 miles	Blue	Beige	$19,490 	
+2017 BMW i3 94 Ah with Range Extender	14,152 miles	Fluid Black w/Highlight BMW i Blue	Mega Carum Spice Gray	$24,497 	
+2017 BMW i3 94 Ah with Range Extender	10,201 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$26,541 	
+2017 BMW i3 94 Ah with Range Extender	25,816 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Spice Gray	$23,347 	
+2014 BMW i3 60 Ah	46,708 miles	ORANGE	Unknown	$11,998 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	11,315 miles	Black	Red	$24,995 	
+2017 BMW i3 94 Ah with Range Extender	10,789 miles	Mineral Grey w/ BMW i Blue	Giga (Leather and Cloth)	$26,800 	
+2017 BMW i3 94 Ah with Range Extender	12,778 miles	Capparis White w/BMW i Frozen Blue Accent	N/A	$25,777 	
+2014 BMW i3 60 Ah	36,838 miles	Silver	Giga Cassia/Carum Spice Gray	$12,988 	
+2017 BMW i3 94 Ah with Range Extender	15,274 miles	Gray	Deka Gray/BMW i Blue Highlight	$25,000 	"6
+10
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah	28,548 miles	Ionic Silver Metallic	Spice Gray	$14,000 	
+2014 BMW i3 60 Ah	33,979 miles	Gray	Dk. Brown	$13,585 	
+2017 BMW i3 94 Ah with Range Extender	8,147 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$26,627 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	31,032 miles	Black Sapphire Metallic	Black Dakota w/Dark Oyster Highlight, leather	$23,999 	
+2014 BMW i3 60 Ah	19,940 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,995 	
+2014 BMW i3 60 Ah	25,083 miles	White	Unknown	$14,995 	
+2015 BMW i3 60 Ah	13,203 miles	Arravani Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,488 	
+2017 BMW i3 94 Ah with Range Extender	10,082 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$26,995 	
+2017 BMW i3 94 Ah with Range Extender	5,720 miles	White	Gray	$26,400 	
+2014 BMW i3 60 Ah with Range Extender	27,500 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,985 	
+2016 BMW i3 60 Ah	31,741 miles	Capparis White w/BMW i Frozen Blue Accent	BLACK	$17,000 	
+2014 BMW i3 60 Ah	35,894 miles	Solar Orange Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$14,991 	
+2014 BMW i3 60 Ah	27,308 miles	Laurel Gray	White	$14,995 	
+2014 BMW i3 60 Ah	27,085 miles	Arravani Gray w BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$14,775 	
+2014 BMW 3 Series ActiveHybrid 3 Sedan	43,415 miles	Alpine White	Black	$21,500 	
+2017 BMW i3 94 Ah with Range Extender	11,103 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$26,345 	
+2014 BMW i3 60 Ah with Range Extender	42,605 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,749 	
+2014 BMW i3 60 Ah	36,598 miles	Gray	Unknown	$14,300 	
+2014 BMW i3 60 Ah	16,631 miles	Capparis White w/ BMW i Frozen Blue Accent	Black	$15,998 	
+2014 BMW i3 60 Ah	29,134 miles	Solar Orange Metallic w/Frozen Gray Accent	Giga Cassia/Spice Gray	$14,999 	
+2014 BMW i3 60 Ah	30,472 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Gray	$14,919 	
+2011 BMW 7 Series 750Li ActiveHybrid	93,600 miles	Unknown	Unknown	$15,499 	
+2011 BMW 7 Series 750Li ActiveHybrid	50,151 miles	Black Sapphire Metallic	Black	$19,362 	
+2014 BMW i3 60 Ah	32,449 miles	Gray	Unknown	$14,889 	
+2014 BMW i3 60 Ah with Range Extender	54,355 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$14,588 	
+2015 BMW i3 60 Ah	36,376 miles	LAUREL GRAY METALLIC W/BMW I FROZEN BLUE ACCENT	MEGA CARUM SPICE GREY	$16,888 	
+2015 BMW i3 60 Ah	14,212 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$17,200 	
+2016 BMW i3 60 Ah	26,915 miles	Capparis White w	Mega Carum Spice Grey/Carum Spice Grey	$17,499 	
+2017 BMW i3 94 Ah with Range Extender	7,790 miles	Fluid Black Non Metallic	Atelier European Dark Cloth	$27,900 	
+2014 BMW i3 60 Ah	17,777 miles	Silver	Giga Cassia/Carum Spice Gray	$16,250 	"7
+11
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2011 BMW 7 Series 750Li ActiveHybrid	65,900 miles	Black	Black	$17,990 	
+2014 BMW i3 60 Ah	45,200 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,000 	
+2014 BMW i3 60 Ah with Range Extender	30,610 miles	Gray Metallic	Tera Dalbergia Brown	$16,127 	
+2016 BMW i3 60 Ah	18,845 miles	Fluid Black w/Highlight BMW i Blue	Unknown	$17,650 	
+2017 BMW i3 94 Ah with Range Extender	10,075 miles	Black	N/A	$27,900 	
+2015 BMW i3 60 Ah	13,057 miles	Capparis White / BMW i Frozen	Giga Cassia / Carum Spice Gray	$17,500 	
+2015 BMW i3 60 Ah	25,129 miles	Arravani Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$16,500 	
+2015 BMW i3 60 Ah	25,379 miles	White	Gray	$16,500 	
+2015 BMW i3 60 Ah	44,662 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,899 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	23,246 miles	Gray	Black	$25,999 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	29,453 miles	Alpine White	Black	$25,500 	
+2016 BMW i3 60 Ah	21,028 miles	Platinum Silver w	Mega Carum Spice Gray	$17,323 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	45,522 miles	Jet Black	Saddle Brown	$25,070 	
+2016 BMW i3 60 Ah	18,167 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,877 	
+2016 BMW 3 Series 330e Plug-In Hybrid Sedan	33,247 miles	Mineral Gray	Black	$24,500 	
+2014 BMW i3 60 Ah with Range Extender	45,866 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$14,250 	
+2016 BMW i3 60 Ah	30,040 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$17,000 	
+2015 BMW i3 60 Ah	22,065 miles	Unknown	Unknown	$16,995 	
+2016 BMW i3 60 Ah	30,822 miles	Platinum Silver w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,000 	
+2015 BMW i3 60 Ah	24,613 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$16,850 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	19,814 miles	Jet Black	Black	$28,600 	
+2016 BMW i3 60 Ah	44,282 miles	Mineral Grey w	Giga Cassia/Carum Spice Grey	$15,940 	
+2014 BMW i3 60 Ah with Range Extender	50,650 miles	Capparis White w/ BMW i Frozen Blue Accent	Tera Dalbergia Brown	$13,988 	
+2015 BMW i3 60 Ah	16,343 miles	Solar Orange/Frozen Grey	Mega (Sensatec and Cloth)	$18,387 	
+2014 BMW i3 60 Ah with Range Extender	38,864 miles	Gray	Gray	$14,995 	
+2014 BMW i3 60 Ah with Range Extender	39,050 miles	White	Gray	$14,995 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	16,203 miles	Jet Black	Coral Red/Black	$26,900 	
+2015 BMW i3 60 Ah	17,711 miles	GREY	GREY	$17,500 	
+2015 BMW i3 60 Ah	18,191 miles	Silver	Gray	$17,495 	
+2014 BMW i3 60 Ah with Range Extender	40,928 miles	White	Black	$14,900 	"8
+12
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah	26,905 miles	Solar Orange Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$17,500 	
+2016 BMW i3 60 Ah	21,574 miles	SILVER	GRAY	$18,000 	
+2014 BMW i3 60 Ah with Range Extender	28,651 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$15,999 	
+2014 BMW i3 60 Ah with Range Extender	34,874 miles	Ionic Silver Metallic W/Bmw	Giga Cassia/Spice Gray	$15,488 	
+2011 BMW 7 Series 750Li ActiveHybrid	73,864 miles	Black	Black	$17,999 	
+2015 BMW i3 60 Ah with Range Extender	27,305 miles	Arravani Gray w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,996 	
+2014 BMW i3 60 Ah with Range Extender	55,033 miles	Silver	Unknown	$13,979 	
+2014 BMW i3 60 Ah with Range Extender	25,814 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,500 	
+2014 BMW i3 60 Ah with Range Extender	56,256 miles	Gray	Gray	$13,995 	
+2014 BMW i3 60 Ah with Range Extender	31,216 miles	Silver	Unknown	$15,855 	
+2015 BMW i3 60 Ah	18,002 miles	Capparis White	Mega	$17,990 	
+2014 BMW i3 60 Ah with Range Extender	25,705 miles	Gray	tan	$16,990 	
+2014 BMW i3 60 Ah with Range Extender	55,253 miles	BMW i Frozen Blue Accent	Mega Carum Spice Gray	$14,999 	
+2014 BMW i3 60 Ah with Range Extender	35,286 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$15,888 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	18,847 miles	JATOBA BROWN METALLIC	VENETIAN BEIGE/BLACK SENSATEC	$27,293 	
+2014 BMW i3 60 Ah with Range Extender	35,846 miles	Silver	Tan	$15,560 	
+2014 BMW i3 60 Ah with Range Extender	40,204 miles	ORANGE	Unknown	$16,497 	
+2015 BMW i3 60 Ah with Range Extender	29,408 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$18,268 	
+2015 BMW i3 60 Ah	14,021 miles	Ionic Silver Metallic w/BMW i Fr	Giga Cassia/Spice Gray	$18,495 	
+2014 BMW i3 60 Ah with Range Extender	26,333 miles	WHITE	GRAY	$16,788 	
+2014 BMW i3 60 Ah with Range Extender	23,980 miles	Capparis White/BMW i Frozen Bl	Tera (Full Leather)	$17,000 	
+2014 BMW i3 60 Ah with Range Extender	19,000 miles	Gray	Brown	$17,500 	
+2014 BMW i3 60 Ah with Range Extender	39,605 miles	Silver	Brown	$15,795 	
+2015 BMW i3 60 Ah with Range Extender	24,800 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,297 	
+2014 BMW i3 60 Ah with Range Extender	38,025 miles	Solar Orange Metallic w/ Frozen Grey Accent	Mega Carum Spice Grey/Carum Spice Grey	$15,995 	
+2015 BMW i3 60 Ah	23,988 miles	Orange	Gray	$17,550 	
+2015 BMW i3 60 Ah	36,063 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$16,995 	
+2014 BMW i3 60 Ah with Range Extender	16,055 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$17,950 	
+2014 BMW i3 60 Ah with Range Extender	23,964 miles	ARRAVANI_GREY	N/A	$16,998 	
+2016 BMW i3 60 Ah with Range Extender	13,842 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$21,785 	"9
+13
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah with Range Extender	26,116 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	GRAY	$17,995 	
+2012 BMW 7 Series 750Li ActiveHybrid	83,569 miles	Jet Black	Oyster/Black	$18,995 	
+2014 BMW i3 60 Ah with Range Extender	24,781 miles	Andesite Silver/BMW i Frozen B	Mega (Sensatec and Cloth)	$18,492 	
+2015 BMW i3 60 Ah	11,761 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	GIGA CASSIA NTRL LTH	$19,200 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	71,581 miles	Mineral Grey Metallic	Venetian Beige	$14,694 	
+2015 BMW i3 60 Ah with Range Extender	32,702 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$18,461 	
+2014 BMW i3 60 Ah with Range Extender	31,621 miles	Solar Orange Metallic w/ Frozen Grey Accent	Tera Dalbergia Brown	$16,988 	
+2015 BMW i3 60 Ah with Range Extender	14,435 miles	BMW I FROZEN	BKCI MEGA (SENSATEC	$19,995 	
+2014 BMW i3 60 Ah with Range Extender	16,665 miles	Silver	OTHER	$18,300 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	20,344 miles	Jet Black	Black	$28,900 	
+2015 BMW i3 60 Ah with Range Extender	45,778 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,690 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	25,331 miles	Alpine White	Black	$28,964 	
+2015 BMW i3 60 Ah with Range Extender	45,449 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$16,750 	
+2015 BMW i3 60 Ah	41,613 miles	Capparis White/BMW i Frozen Bl	Giga (Leather and Cloth)	$17,100 	
+2015 BMW i3 60 Ah with Range Extender	34,018 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,987 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	15,245 miles	WHITE	BROWN	$28,600 	
+2010 BMW X6 ActiveHybrid AWD	84,218 miles	Blue	Unknown	$17,988 	
+2015 BMW i3 60 Ah with Range Extender	32,915 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$17,989 	
+2015 BMW i3 60 Ah with Range Extender	16,618 miles	Gray	Gray	$19,400 	
+2015 BMW i3 60 Ah with Range Extender	21,791 miles	Silver	Gray	$18,981 	
+2015 BMW i3 60 Ah with Range Extender	14,544 miles	Capparis White w/BMW i Frozen Blue Accent	N/A	$19,600 	
+2015 BMW i3 60 Ah with Range Extender	26,596 miles	Gray	Gray	$18,600 	
+2015 BMW i3 60 Ah with Range Extender	25,175 miles	LAUREL GRAY	SPICE GRAY	$19,325 	
+2015 BMW i3 60 Ah with Range Extender	27,850 miles	Arravani Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$18,500 	
+2016 BMW i3 60 Ah with Range Extender	12,958 miles	Fluid Black W/Highlight Bmw I Blue	Deka Gray/Blue Highlight	$20,990 	
+2014 BMW i3 60 Ah with Range Extender	25,504 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,995 	
+2015 BMW i3 60 Ah with Range Extender	17,335 miles	White	BEIGE	$19,400 	
+2015 BMW i3 60 Ah with Range Extender	16,786 miles	Capparis White w/BMW i Frozen Bl	Mega Carum Spice Gray	$19,500 	
+2015 BMW i3 60 Ah with Range Extender	37,438 miles	Capparis White w	Mega Carum Spice Gray	$17,999 	
+2015 BMW i3 60 Ah with Range Extender	28,048 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$19,394 	"10
+14
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah with Range Extender	47,269 miles	Frozen Beige	MEGA	$16,999 	
+2016 BMW i3 60 Ah with Range Extender	18,646 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$20,910 	
+2016 BMW i3 60 Ah with Range Extender	10,405 miles	Black	Gray	$20,785 	
+2015 BMW i3 60 Ah with Range Extender	18,775 miles	ANDESITE SILVER/BMW I FROZEN B	Mega Carum Spice Gray	$19,400 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	21,140 miles	Estoril Blue Metallic	Venetian Beige/Black	$28,500 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	15,189 miles	Mineral Gray Metallic	Black	$28,995 	
+2014 BMW i3 60 Ah with Range Extender	36,785 miles	White	Gray	$17,197 	
+2016 BMW i3 60 Ah with Range Extender	20,533 miles	White	GRAY	$20,000 	
+2016 BMW i3 60 Ah with Range Extender	16,369 miles	CAPPARIS WHITE W/BMW I FROZEN BLUE ACCENT	DEKA DARK CLOTH W/ BMW I BLUE HIGHLIGHT	$21,888 	
+2015 BMW i3 60 Ah with Range Extender	22,690 miles	Arravani Gray w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$19,720 	
+2016 BMW i3 60 Ah with Range Extender	14,655 miles	CAPPARIS WHITE	SPICE GRAY	$20,495 	
+2015 BMW i3 60 Ah with Range Extender	32,379 miles	Solar Orange Metallic w/Frozen Gray Accent	Tera Dalbergia Brown	$19,996 	
+2016 BMW i3 60 Ah with Range Extender	25,409 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$21,717 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	16,289 miles	Jet Black	Black	$28,950 	
+2015 BMW i3 60 Ah with Range Extender	24,444 miles	Capparis White W/Bmw I Frozen Blue Accent	Giga Cassia/Spice Gray	$20,000 	
+2016 BMW i3 60 Ah	23,262 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$20,488 	
+2014 BMW i3 60 Ah	21,949 miles	White	Giga Cassia/Carum Spice Gray	$16,500 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	19,547 miles	Jet Black	Black	$29,962 	
+2016 BMW i3 60 Ah with Range Extender	22,207 miles	White	Gray	$19,900 	
+2016 BMW i3 60 Ah with Range Extender	21,364 miles	MINERAL GRAY	SPICE GRAY	$20,000 	
+2015 BMW i3 60 Ah with Range Extender	49,164 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$16,980 	
+2016 BMW i3 60 Ah with Range Extender	14,260 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/BMW i Blue Highlight	$20,595 	
+2015 BMW i3 60 Ah with Range Extender	28,736 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,962 	
+2015 BMW i3 60 Ah with Range Extender	14,275 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$19,900 	
+2015 BMW i3 60 Ah with Range Extender	20,394 miles	SILVER	OTHER	$19,400 	
+2015 BMW i3 60 Ah with Range Extender	19,793 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$19,450 	
+2016 BMW i3 60 Ah with Range Extender	15,851 miles	Capparis White w/BMW i Frozen Bl	Deka Gray/Blue Highlight	$20,500 	
+2016 BMW i3 60 Ah with Range Extender	22,037 miles	Capparis White W/ Bmw I Frozen Blue Accent	Giga Cassia/Carum Spice Grey	$19,998 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,134 miles	Alpine White	KCV1/BEIGE	$29,998 	
+2015 BMW i3 60 Ah with Range Extender	14,700 miles	Orange	Brown	$19,998 	"11
+15
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i3 60 Ah with Range Extender	8,700 miles	Champagne	Brown	$20,498 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	18,681 miles	Gray	BEIGE	$29,000 	
+2015 BMW i3 60 Ah with Range Extender	28,850 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$18,900 	
+2015 BMW i3 60 Ah with Range Extender	24,225 miles	White	Gray	$19,300 	
+2016 BMW i3 60 Ah with Range Extender	25,080 miles	White	Dk. Gray	$20,000 	
+2016 BMW i3 60 Ah with Range Extender	29,632 miles	White	Black	$19,630 	
+2018 BMW i3 94 Ah with Range Extender	8,468 miles	Melbourne Red Metallic w/Frozen	Atelier European Dark	$31,964 	
+2015 BMW 3 Series ActiveHybrid 3 Sedan	21,355 miles	silver	BLACK	$27,500 	
+2015 BMW i3 60 Ah with Range Extender	29,125 miles	Solar Orange Metallic w/Frozen Gray Acce	Tera Dalbergia Brown	$19,393 	
+2010 BMW X6 ActiveHybrid AWD	93,338 miles	Blue water metallic	Ivory leather	$17,991 	
+2016 BMW i3 60 Ah with Range Extender	26,382 miles	White	Gray	$19,995 	
+2015 BMW i3 60 Ah with Range Extender	21,810 miles	Gy	Tera Dalbergia Brown	$19,795 	
+2015 BMW i3 60 Ah with Range Extender	24,502 miles	CAPARISE WHITE	GIGA CASSIA	$19,463 	
+2016 BMW i3 60 Ah with Range Extender	27,362 miles	Mineral Gray w/BMW i Frozen Blue	Deka Gray/Blue Highlight	$19,950 	
+2015 BMW i3 60 Ah with Range Extender	37,500 miles	ANDESITE SILVER/BMW I FROZEN B	Mega Carum Spice Gray	$18,400 	
+2013 BMW 7 Series ActiveHybrid 7 L	59,802 miles	Blue	Black	$22,994 	
+2015 BMW i3 60 Ah with Range Extender	39,748 miles	Gray	Mega Carum Spice Gray	$18,999 	
+2015 BMW i3 60 Ah with Range Extender	35,346 miles	White	Gray	$18,600 	
+2016 BMW i3 60 Ah with Range Extender	29,570 miles	Blue	Deka Gray/BMW i Blue Highlight	$19,795 	
+2016 BMW i3 60 Ah with Range Extender	28,441 miles	Platinum Silver w/BMW i Blue	Terra Dakota Leather	$19,900 	
+2015 BMW i3 60 Ah with Range Extender	9,819 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	N/A	$20,800 	
+2016 BMW i3 60 Ah with Range Extender	16,532 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Carum Spice Gray	$20,995 	
+2016 BMW i3 60 Ah with Range Extender	17,838 miles	Fluid Black non metallic	Deka Dark Cloth	$21,885 	
+2015 BMW i3 60 Ah with Range Extender	21,268 miles	IONIC SILVER METALLIC W/BMW I FROZEN BLUE ACCENT	GIGA CASSIA/CARUM SPICE GRAY	$20,991 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	24,970 miles	Jet Black	Black SensaTec	$29,900 	
+2016 BMW i3 60 Ah with Range Extender	29,551 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$19,950 	
+2015 BMW i3 60 Ah with Range Extender	28,790 miles	SILVER	Gray	$19,300 	
+2016 BMW i3 60 Ah with Range Extender	35,440 miles	White	Tera Dalbergia Brown	$19,499 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	31,321 miles	Jet Black	Venetian Beige	$28,967 	
+2016 BMW i3 60 Ah with Range Extender	17,715 miles	Platinum SIilver w/ BMW i Blue	Mega (Sensatec and Cloth)	$21,777 	"12
+16
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah	28,010 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,863 	
+2015 BMW i3 60 Ah with Range Extender	13,852 miles	LAUREL GREY	MEGA	$20,639 	
+2015 BMW i3 60 Ah with Range Extender	15,792 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$20,500 	
+2015 BMW i3 60 Ah with Range Extender	22,150 miles	Solar Orange Metallic w/Frozen Gray Accent	Tera Dalbergia Brown	$19,995 	
+2014 BMW i3 60 Ah	28,440 miles	IONIC SILVER	BEIGE	$15,900 	
+2015 BMW i3 60 Ah with Range Extender	38,239 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$18,995 	
+2015 BMW i3 60 Ah with Range Extender	15,316 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$20,495 	
+2015 BMW i3 60 Ah with Range Extender	24,973 miles	Arravani Gray w/ BMW i Frozen Blue Accent	SENSATECN AND CLOTH	$19,888 	
+2016 BMW i3 60 Ah with Range Extender	33,250 miles	White	Brown	$19,998 	
+2014 BMW i3 60 Ah	29,782 miles	Gray	Gray	$15,995 	
+2016 BMW i3 60 Ah with Range Extender	10,947 miles	IONIC SILVER	Tera (Full Leather)	$21,943 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	5,782 miles	Glacier Silver Metallic	Black/Dark Oyster	$31,965 	
+2015 BMW i3 60 Ah with Range Extender	33,796 miles	IONIC SILVER METALLIC W/BMW I FROZEN BLUE ACCENT	MEGA CARUM SPICE GREY	$20,888 	
+2016 BMW i3 60 Ah with Range Extender	10,751 miles	PLATINUM SILVER	Tera (Full Leather)	$21,987 	
+2015 BMW i3 60 Ah with Range Extender	45,360 miles	CAPPARIS WHITE/BMW I FROZEN BL	Tera Dalbergia Brown	$18,400 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	17,885 miles	Mineral White Metallic	Coral Red	$29,998 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	6,696 miles	Alpine White	black	$30,997 	
+2016 BMW i3 60 Ah with Range Extender	25,270 miles	Fluid Black non metallic	Tera Dalbergia Brown	$20,900 	
+2016 BMW i3 60 Ah with Range Extender	7,280 miles	Fluid Black non metallic	Giga Cassia/Spice Gray	$22,400 	
+2016 BMW i3 60 Ah with Range Extender	19,981 miles	FLUID BLACK W/HIGHLIGHT BMW I BLUE	GIGA CASSIA/CARUM SPICE GRAY	$22,888 	
+2016 BMW i3 60 Ah with Range Extender	20,397 miles	Ionic Silver w/BMW i Blue	Mega (Sensatec and Cloth)	$22,888 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	59,905 miles	Brown	Tan	$15,950 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	12,000 miles	Jet Black	Venetian Beige/Black	$31,000 	
+2016 BMW i3 60 Ah with Range Extender	9,591 miles	Mineral Grey w/ BMW i Blue	Deka Dark Cloth	$23,888 	
+2016 BMW i3 60 Ah with Range Extender	26,962 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$20,940 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	7,944 miles	Melbourne Red Metallic	Kcv1	$32,307 	
+2015 BMW i3 60 Ah with Range Extender	51,361 miles	BMW i Frozen Blue Accent	Tera Dalbergia Brown	$19,000 	
+2016 BMW i3 60 Ah with Range Extender	15,570 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$21,975 	
+2015 BMW i3 60 Ah with Range Extender	16,837 miles	SOLAR ORANGE ME	N/A	$21,976 	
+2016 BMW i3 60 Ah with Range Extender	11,230 miles	CAPPARIS WHITE W/BMW I FROZEN BLUE ACCENT	DEKA DARK CLOTH W/ BMW I BLUE HIGHLIGHT	$23,888 	"13
+17
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW i3 60 Ah with Range Extender	16,935 miles	Mineral Grey w/ BMW i Blue	Tera (Full Leather)	$21,999 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	7,536 miles	Alpine White	Black Dak Lthr w/ Oyster hglgt	$31,777 	
+2016 BMW i3 60 Ah with Range Extender	19,856 miles	Fluid Black w/Highlight BMW i Blue	Brown	$21,679 	
+2016 BMW i3 60 Ah with Range Extender	22,246 miles	Fluid Black w/Highlight BMW i Blue	Tera Dalbergia Brown	$23,072 	
+2015 BMW i3 60 Ah with Range Extender	22,460 miles	Gray	Dk. Brown	$20,800 	
+2015 BMW i3 60 Ah with Range Extender	38,537 miles	Gray	Dk. Brown	$19,500 	
+2016 BMW i3 60 Ah with Range Extender	41,439 miles	Black	BLACK	$20,000 	
+2015 BMW i3 60 Ah with Range Extender	13,401 miles	ARRAVANI GREY/BMW I FROZEN BLU	Tera Dalbergia Brown	$21,639 	
+2016 BMW i3 60 Ah with Range Extender	24,960 miles	Black	Gray	$21,400 	
+2016 BMW i3 60 Ah with Range Extender	24,348 miles	Fluid Black non metallic	Atelier European Dark Cloth	$22,995 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,576 miles	Gray	Black	$31,990 	
+2015 BMW i3 60 Ah with Range Extender	10,001 miles	Arravani Gray w/BMW i Frozen Blu	Tera Dalbergia Brown	$21,950 	
+2016 BMW i3 60 Ah with Range Extender	7,970 miles	Solar Orange/Frozen Grey	Mega (Sensatec and Cloth)	$23,333 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	40,820 miles	Mineral Grey Metallic	Black	$17,995 	
+2016 BMW i3 60 Ah with Range Extender	24,448 miles	Fluid Black w/Highlight BMW i Bl	Tera Dalbergia Brown	$21,500 	
+2016 BMW i3 60 Ah with Range Extender	30,605 miles	WHITE	BLACK	$20,999 	
+2016 BMW i3 60 Ah with Range Extender	13,010 miles	Black	Black	$22,498 	
+2015 BMW 5 Series ActiveHybrid 5 Sedan	10,718 miles	Jet Black	Ivory White Nappa Leather	$29,900 	
+2016 BMW i3 60 Ah with Range Extender	26,415 miles	Fluid Black non metallic	Deka Dark Cloth	$22,995 	
+2017 BMW i3 94 Ah	23,969 miles	Black	Tera Dalbergia Brown	$22,390 	
+2014 BMW i3 60 Ah	28,936 miles	Gold	Beige	$16,995 	
+2015 BMW i3 60 Ah with Range Extender	22,070 miles	Capparis White/BMW i Frozen Bl	Giga (Leather and Cloth)	$21,980 	
+2016 BMW i3 60 Ah with Range Extender	12,398 miles	Fluid Black non metallic	GIGA CASSIA/SPICE GRAY	$22,693 	
+2016 BMW i3 60 Ah with Range Extender	1,316 miles	Mineral Gray w/BMW i Frozen Blue	Tera Dalbergia Brown	$24,964 	
+2010 BMW X6 ActiveHybrid AWD	101,147 miles	Blue	Beige	$18,990 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	93,455 miles	White	Unknown	$13,988 	
+2015 BMW i3 60 Ah with Range Extender	23,868 miles	Capparis White	Giga Cassia	$21,995 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	34,424 miles	Glacier Silver Metallic	Black	$19,000 	
+2015 BMW i3 60 Ah with Range Extender	14,497 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$22,885 	
+2016 BMW i3 60 Ah with Range Extender	24,288 miles	Capparis White w/BMW i Frozen Bl	Tera Dalbergia Brown	$21,995 	"14
+18
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW i3 94 Ah	21,627 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$22,999 	
+2016 BMW i3 60 Ah	17,199 miles	Black	BLACK	$19,800 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	60,176 miles	Alpine White	Venetian Beige w/Dakota Leather Upholstery	$16,991 	
+2016 BMW i3 60 Ah with Range Extender	24,053 miles	Mineral Gray Bmw Blue	Tera (Full Leather)	$22,988 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	97,340 miles	Black	Tan	$13,990 	
+2016 BMW i3 60 Ah	15,520 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$20,100 	
+2015 BMW i3 60 Ah	25,388 miles	White	Gray	$18,600 	
+2017 BMW i3 94 Ah with Range Extender	24,023 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$24,989 	
+2018 BMW i3 94 Ah	7,524 miles	White	Giga Brown/Carum Spice	$32,999 	
+2014 BMW i3 60 Ah	40,006 miles	White	Gray	$16,995 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	11,437 miles	Alpine White	Kcl3	$34,300 	
+2015 BMW i3 60 Ah	32,762 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,864 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	12,774 miles	Melbourne Red Metallic	Venetian Beige	$33,000 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	68,392 miles	White	Beige	$16,950 	
+2014 BMW i3 60 Ah with Range Extender	39,737 miles	Brown	Bronze	$17,179 	
+2014 BMW i3 60 Ah with Range Extender	20,228 miles	Gray	Gray	$18,800 	
+2017 BMW i3 94 Ah	19,314 miles	CAPPARIS WHITE W/BMW I FROZEN BLUE ACCENT	TERA DALBERGIA BROWN	$24,990 	
+2017 BMW i3 94 Ah with Range Extender	14,050 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$26,685 	
+2014 BMW i3 60 Ah with Range Extender	19,999 miles	Capparis White W/bmw Frozen Blue Accent	Giga Cassia/spice Gray	$18,999 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	8,872 miles	Alpine White	Black	$34,900 	
+2016 BMW i3 60 Ah	17,273 miles	Gray	Dk. Brown	$20,800 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	6,976 miles	Jet Black	Black w/Red Stitching	$33,950 	
+2017 BMW i3 94 Ah	7,623 miles	Protonic Blue w/Frozen Grey	Deka Dark Cloth	$26,888 	
+2017 BMW i3 94 Ah	23,500 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/BMW i Blue Highlight	$24,995 	
+2017 BMW i3 94 Ah with Range Extender	29,366 miles	PLATINUM SILVER	SPICE GRAY	$23,900 	
+2017 BMW i3 94 Ah with Range Extender	24,030 miles	Champagne	Gray	$24,498 	
+2015 BMW i3 60 Ah with Range Extender	6,635 miles	Solar Orange Metallic w/Frozen Gray Accent	GIGA CASSIA NTRL LTH	$22,888 	
+2017 BMW i3 94 Ah with Range Extender	23,366 miles	White	N/A	$25,994 	
+2014 BMW i3 60 Ah	31,766 miles	White	Black	$18,900 	
+2018 BMW i3 94 Ah with Range Extender	6,380 miles	Capparis White w/BMW i Frozen Blue Accent	Atelier European Dark	$34,977 	"15
+19
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW i3 94 Ah with Range Extender	19,219 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$25,849 	
+2017 BMW i3 94 Ah with Range Extender	16,238 miles	Protonic Blue Metallic W/Frozen Gray Accent	N/A	$25,500 	
+2017 BMW i3 94 Ah with Range Extender	13,507 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$25,950 	
+2017 BMW i3 94 Ah with Range Extender	37,386 miles	Black	Deka Gray/BMW i Blue Highlight	$23,990 	
+2015 BMW i3 60 Ah with Range Extender	18,412 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$21,900 	
+2017 BMW i3 94 Ah with Range Extender	21,470 miles	Protonic Blue w/Frozen Grey	Deka Dark Cloth	$26,000 	
+2017 BMW i3 94 Ah with Range Extender	16,871 miles	White	Dk. Gray	$25,800 	
+2017 BMW i3 94 Ah with Range Extender	14,623 miles	Mineral Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$25,999 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,490 miles	Glacier Silver Metallic	N/A	$34,600 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,693 miles	Mineral White Metallic	Black SensaTec	$35,477 	
+2017 BMW i3 94 Ah with Range Extender	17,212 miles	Protonic Blue Metallic w/Frozen Gray Accent	Giga Cassia/Spice Gray	$26,495 	
+2017 BMW i3 94 Ah with Range Extender	13,974 miles	Dk. Gray	GRAY	$26,400 	
+2017 BMW i3 94 Ah with Range Extender	32,086 miles	Dk. Gray	Gray	$24,900 	
+2016 BMW i3 60 Ah with Range Extender	14,260 miles	Orange	BLACK	$22,800 	
+2017 BMW i3 94 Ah with Range Extender	19,050 miles	Gray	Brown	$25,998 	
+2015 BMW i3 60 Ah with Range Extender	39,786 miles	Gray	Dk. Brown	$20,000 	
+2017 BMW i3 94 Ah with Range Extender	43,924 miles	Black	Giga Cassia/Carum Spice Gray	$23,990 	
+2015 BMW i3 60 Ah with Range Extender	22,259 miles	CAPPARIS WHITE / BMW FROZEN BLUE	GIGA CASSIA / SPICE GRAY	$21,505 	
+2018 BMW i3 94 Ah with Range Extender	7,294 miles	Fluid Black w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$36,699 	
+2017 BMW i3 94 Ah with Range Extender	11,510 miles	Fluid Black non metallic	Deka Gray/Blue Highlight	$26,800 	
+2017 BMW i3 94 Ah with Range Extender	20,432 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$26,499 	
+2015 BMW i3 60 Ah with Range Extender	26,298 miles	ORANGE	BLACK	$21,300 	
+2015 BMW i3 60 Ah with Range Extender	23,520 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$21,949 	
+2016 BMW i3 60 Ah with Range Extender	8,962 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$23,499 	
+2017 BMW i3 94 Ah with Range Extender	8,684 miles	White	N/A	$27,961 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,743 miles	Mineral Gray Metallic	Black	$37,497 	
+2017 BMW i3 94 Ah with Range Extender	23,940 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$25,995 	
+2017 BMW i3 94 Ah with Range Extender	8,099 miles	PROTONIC BLUE METALLIC W/FROZEN GRAY ACCENT	DEKA GRAY/BMW I BLUE HIGHLIGHT	$28,888 	
+2016 BMW i3 60 Ah with Range Extender	17,513 miles	Fluid Black non metallic	Tera (Full Leather)	$22,989 	
+2016 BMW X5 xDrive40e AWD	56,994 miles	Alpine White	Black	$30,988 	"16
+20
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2018 BMW i3 s 94 Ah with Range Extender	6,127 miles	Mineral Gray Metallic w/BMW i Frozen Blue Accent	Atelier European Dark	$37,500 	
+2017 BMW i3 94 Ah with Range Extender	12,657 miles	Capparis White w/BMW i Frozen Blue Accent	N/A	$27,598 	
+2016 BMW i3 60 Ah with Range Extender	21,350 miles	Gray	Brown	$22,620 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,182 miles	ALPINE WHITE	Beige	$36,649 	
+2017 BMW i3 94 Ah with Range Extender	9,995 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$27,495 	
+2016 BMW X5 xDrive40e AWD	52,905 miles	Space Gray Metallic	Terra	$31,977 	
+2017 BMW i3 94 Ah	20,984 miles	Blue Metallic	Bhgi	$24,992 	
+2017 BMW i3 94 Ah with Range Extender	23,503 miles	PROTONIC BLUE W/FROZEN	GIGA CASSIA/SPICE GRAY	$26,505 	
+2016 BMW i3 60 Ah with Range Extender	12,517 miles	Black	Dk. Gray	$23,900 	
+2016 BMW i3 60 Ah with Range Extender	19,768 miles	Fluid Black non metallic	Tera (Full Leather)	$24,888 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	6,312 miles	Alpine White	Venetian Beige	$37,900 	
+2017 BMW i3 94 Ah with Range Extender	25,650 miles	0B85 Wht/Blue	NLFT	$26,500 	
+2015 BMW i3 60 Ah with Range Extender	37,426 miles	Solar Orange Metallic w/Frozen Gray Acce	Tera Dalbergia Brown	$21,638 	
+2017 BMW i3 94 Ah with Range Extender	19,593 miles	Capparis White w/BMW i Frozen Blue Accent	Deka Gry/Blue Highlt Clth	$27,995 	
+2016 BMW i3 60 Ah with Range Extender	18,459 miles	MINERAL GRAY W/BMW I BLUE	TERA DALBERGIA BROWN	$23,599 	
+2016 BMW X5 xDrive40e AWD	60,229 miles	Imperial Blue Metallic	Lcmy Mocha Dakota Le	$30,998 	
+2017 BMW i3 94 Ah with Range Extender	3,077 miles	Mineral Gray w/BMW i Frozen Blue	Deka Gray/Blue Highlight	$29,964 	
+2017 BMW i3 94 Ah	24,598 miles	Mineral Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$24,995 	
+2016 BMW i3 60 Ah with Range Extender	22,986 miles	Other	Other	$23,988 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,074 miles	Alpine White	Black	$38,997 	
+2016 BMW X5 xDrive40e AWD	40,317 miles	Space Gray Metallic	Black	$32,999 	
+2017 BMW i3 94 Ah with Range Extender	4,433 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$29,304 	
+2016 BMW i3 60 Ah with Range Extender	22,203 miles	Fluid Black w/Highlight BMW i Blue	CARUM GRY SENSATEC/CLTH	$24,988 	
+2016 BMW X5 xDrive40e AWD	50,492 miles	Alpine White	Black	$33,000 	
+2017 BMW i3 94 Ah with Range Extender	7,899 miles	Platinum Silver	Deka Gray/Blue Highlight	$28,800 	
+2016 BMW X5 xDrive40e AWD	20,989 miles	Donington Gray Metallic	Terra Dakota	$34,999 	
+2016 BMW X5 xDrive40e AWD	33,585 miles	Space Gray Metallic	Black	$33,999 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,131 miles	Sunset Orange M	Venetian Beige	$37,895 	
+2016 BMW X5 xDrive40e AWD	35,165 miles	Black Sapphire Metallic	Mocha	$33,999 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	97,976 miles	Black	Black	$15,995 	"17
+21
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW i3 94 Ah	19,765 miles	Ionic Silver w/BMW i Blue	Giga (Leather and Cloth)	$26,888 	
+2016 BMW 3 Series 330e Plug-In Hybrid Sedan	28,011 miles	Mineral Grey Metallic	Black Sensa Tec	$26,900 	
+2016 BMW X5 xDrive40e AWD	41,747 miles	Black Sapphire Metallic	Lcmy	$34,900 	
+2016 BMW X5 xDrive40e AWD	53,448 miles	Space Gray Metallic	Black	$32,999 	
+2016 BMW X5 xDrive40e AWD	35,191 miles	Black Sapphire Metallic	Mocha	$36,485 	
+2017 BMW i3 94 Ah with Range Extender	8,782 miles	PROTONIC BLUE METALLIC W/FROZEN GRAY ACCENT	DEKA GRAY/BMW I BLUE HIGHLIGHT	$30,995 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	8,074 miles	Mineral Gray Metallic	Black Sensatec/red Stitching	$38,988 	
+2016 BMW X5 xDrive40e AWD	55,683 miles	Black Sapphire Metallic	Black Dakota Leather	$32,990 	
+2016 BMW X5 xDrive40e AWD	47,913 miles	Alpine White	Black	$34,616 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	7,327 miles	White	Black	$38,499 	
+2016 BMW X5 xDrive40e AWD	46,789 miles	Glacier Silver Metallic	Mocha	$33,999 	
+2013 BMW 7 Series ActiveHybrid 7 L	65,891 miles	Havanna Metallic	Light Saddle	$22,991 	
+2016 BMW X5 xDrive40e AWD	47,710 miles	DARK GRAPHITE METALLIC	Canberra Beige/Black	$33,990 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	11,023 miles	Black	Canberra Beige/Black	$38,499 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	25,272 miles	Alpine White	Kcsw	$29,992 	
+2016 BMW X5 xDrive40e AWD	52,970 miles	Sparkling Brown Metallic	Kcsw	$34,900 	
+2016 BMW X5 xDrive40e AWD	25,154 miles	Mineral White Metallic	Terra	$35,999 	
+2016 BMW X5 xDrive40e AWD	49,400 miles	Space Gray Metallic	Terra	$33,988 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,995 miles	Glacier Silver Metallic	Black	$40,998 	
+2015 BMW 3 Series ActiveHybrid 3 Sedan	44,882 miles	Imperial Blue Metallic	Saddle Brown	$25,989 	
+2016 BMW X5 xDrive40e AWD	39,283 miles	Space Gray Metallic	Terra Dakota Leather	$34,999 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	9,642 miles	ALPINE WHITE	BLACK	$38,900 	
+2016 BMW X5 xDrive40e AWD	28,038 miles	Black	Brown	$35,995 	
+2016 BMW 3 Series 330e Plug-In Hybrid Sedan	25,976 miles	Mineral Grey Metallic	Black Dak Lthr w/ Oyster hglgt	$29,000 	
+2016 BMW X5 xDrive40e AWD	29,305 miles	White	Ivory White/Black	$35,990 	
+2016 BMW X5 xDrive40e AWD	41,318 miles	Dark Graphite Metallic	Black	$35,444 	
+2016 BMW X5 xDrive40e AWD	31,151 miles	Space Gray Metallic	Terra	$36,994 	
+2016 BMW X5 xDrive40e AWD	18,176 miles	Jet Black	Black	$36,999 	
+2016 BMW X5 xDrive40e AWD	19,359 miles	Alpine White	Mocha	$36,999 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	7,900 miles	Mineral Gray Metallic	Black Sensatec/red Stitching	$39,500 	"18
+22
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW X5 xDrive40e AWD	35,185 miles	Black Sapphire Metallic	Mocha	$36,970 	
+2016 BMW X5 xDrive40e AWD	33,645 miles	Black Sapphire Metallic	Black	$35,995 	
+2016 BMW X5 xDrive40e AWD	45,594 miles	Jet Black	Black	$36,980 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	15,635 miles	BLACK SAPPHIRE	BLACK DAKOTA LE	$38,999 	
+2016 BMW X5 xDrive40e AWD	24,010 miles	Alpine White	Black	$37,995 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,152 miles	Jet Black	Black w/Red Highlight	$31,500 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	22,046 miles	Gray	Black	$30,200 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	20,022 miles	Silver	Black	$30,500 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	300 miles	Silver	Unknown	$40,800 	
+2016 BMW X5 xDrive40e AWD	46,371 miles	Alpine White	Black	$35,577 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	22,158 miles	Jet Black	Black	$31,888 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	16,838 miles	Gray	Black	$30,990 	
+2017 BMW X5 xDrive40e iPerformance AWD	33,593 miles	Alpine White	Black	$37,500 	
+2016 BMW X5 xDrive40e AWD	37,717 miles	Black Sapphire Metallic	Mocha	$36,500 	
+2017 BMW i3 94 Ah with Range Extender	16,259 miles	BLACK	Unknown	$29,500 	
+2016 BMW X5 xDrive40e AWD	45,865 miles	Mineral White Metallic	Mocha	$37,980 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	24,137 miles	Mineral Gray Metallic	Venetian Beige/Black	$31,502 	
+2016 BMW X5 xDrive40e AWD	42,343 miles	Alpine White	Ivory White	$37,072 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,422 miles	White	Black	$31,800 	
+2017 BMW X5 xDrive40e iPerformance AWD	24,462 miles	Blue	Canberra Beige	$38,499 	
+2017 BMW i3 94 Ah with Range Extender	22,900 miles	PROTONIC BLU MT	Other	$28,388 	
+2017 BMW i3 94 Ah with Range Extender	3,849 miles	Capparis White w/BMW i Frozen Blue Accent	CAPPARIS WHITE	$30,888 	
+2016 BMW X5 xDrive40e AWD	30,856 miles	White	Lcmy Mocha Dakota	$37,987 	
+2016 BMW X5 xDrive40e AWD	28,203 miles	Mineral White Metallic	Mocha	$37,888 	
+2016 BMW X5 xDrive40e AWD	41,146 miles	Mineral White Metallic	Mocha Dakota Leather	$38,650 	
+2016 BMW X5 xDrive40e AWD	36,639 miles	Black Sapphire Metallic	Black	$37,300 	
+2017 BMW X5 xDrive40e iPerformance AWD	14,103 miles	Atlas Cedar Metallic	Terra Dakota Leather	$39,900 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,472 miles	Black	Black	$32,900 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	13,741 miles	Jet Black	Venetian Beige Sensatec	$33,900 	
+2016 BMW X5 xDrive40e AWD	25,351 miles	Space Gray Metallic	Terra Dakota Leather	$39,999 	"19
+23
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW X5 xDrive40e AWD	28,520 miles	Jet Black	Terra	$38,990 	
+2018 BMW i3 s 94 Ah with Range Extender	3,678 miles	Fluid Black w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$43,491 	
+2017 BMW i3 94 Ah with Range Extender	23,049 miles	Protonic Blue w/Frozen Grey	Atelier European Dark Cloth	$29,964 	
+2016 BMW X5 xDrive40e AWD	45,870 miles	BLACK SAPPHIRE METALLIC	BLACK	$37,919 	
+2016 BMW X5 xDrive40e AWD	20,724 miles	Carbon Black Metallic	Black	$38,999 	
+2017 BMW i3 94 Ah with Range Extender	15,338 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$29,889 	
+2016 BMW X5 xDrive40e AWD	36,807 miles	White	Brown	$37,833 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	7,683 miles	Alpine White	Black	$42,964 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	38,067 miles	Black Sapphire Metallic	Saddle Brown	$31,466 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	23,034 miles	Silver	Black	$31,540 	
+2016 BMW X5 xDrive40e AWD	31,673 miles	Black Sapphire Metallic	Terra	$40,000 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	5,732 miles	Black Sapphire Metallic	Black	$41,977 	
+2016 BMW X5 xDrive40e AWD	30,418 miles	Black Sapphire Metallic	Black	$38,500 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	16,842 miles	Mineral Gray Metallic	Black	$32,500 	
+2016 BMW X5 xDrive40e AWD	36,926 miles	Jet Black	Black	$37,998 	
+2016 BMW X5 xDrive40e AWD	30,116 miles	Mineral White Metallic	Ivory Dakota Leather	$38,888 	
+2016 BMW X5 xDrive40e AWD	31,394 miles	Alpine White	Black	$38,500 	
+2016 BMW X5 xDrive40e AWD	35,871 miles	Space Gray Metallic	Black	$39,785 	
+2016 BMW X5 xDrive40e AWD	39,077 miles	Black Sapphire Metallic	Mocha	$39,517 	
+2016 BMW X5 xDrive40e AWD	20,257 miles	Gray	Brown	$39,180 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	19,521 miles	Mineral White Metallic	Canberra Beige/Black	$41,000 	
+2016 BMW X5 xDrive40e AWD	31,589 miles	Alpine White	Black SensaTec	$38,888 	
+2016 BMW X5 xDrive40e AWD	33,934 miles	Black	Brown	$38,200 	
+2016 BMW X5 xDrive40e AWD	34,522 miles	Jet Black	Blk Dakota	$40,250 	
+2016 BMW X5 xDrive40e AWD	39,097 miles	Alpine White	Black	$39,620 	
+2016 BMW X5 xDrive40e AWD	30,761 miles	Black Sapphire Metallic	IVRY WHT & BLK DKTA	$38,900 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,545 miles	BLACK	Black	$44,000 	
+2016 BMW X5 xDrive40e AWD	19,565 miles	Jet Black	Black	$39,988 	
+2016 BMW X5 xDrive40e AWD	34,859 miles	Jet Black	N/A	$39,997 	
+2016 BMW X5 xDrive40e AWD	36,411 miles	Mineral White	Mocha with Dakota Leather Upholstery	$39,878 	"20
+24
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW X5 xDrive40e AWD	24,568 miles	A52	N/A	$39,998 	
+2016 BMW X5 xDrive40e AWD	31,412 miles	Glacier Silver Metallic	N/A	$40,384 	
+2017 BMW X5 xDrive40e iPerformance AWD	12,881 miles	Jet Black	Amaro Brown	$41,500 	
+2016 BMW X5 xDrive40e AWD	28,776 miles	Black Sapphire Metallic	Terra	$39,900 	
+2017 BMW i3 94 Ah with Range Extender	4,243 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$31,600 	
+2016 BMW X5 xDrive40e AWD	27,931 miles	Space Gray Metallic	Terra	$39,850 	
+2017 BMW i3 94 Ah with Range Extender	12,543 miles	Protonic Blue Metallic w/Frozen Gray Accent	TERA DALBERGIA BRN LTHR	$33,695 	
+2016 BMW X5 xDrive40e AWD	24,260 miles	Mineral White Metallic	Mocha	$40,749 	
+2016 BMW X5 xDrive40e AWD	5,203 miles	Carbon Black Metallic	Black	$41,999 	
+2016 BMW X5 xDrive40e AWD	32,109 miles	Glacier Silver Metallic	Black Dakota Leather	$40,900 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	1,325 miles	Alpine White	Black	$43,579 	
+2016 BMW X5 xDrive40e AWD	32,280 miles	Jet Black	Black Dakota Leather	$40,990 	
+2017 BMW X5 xDrive40e iPerformance AWD	10,691 miles	Mineral White Metallic	Lcsw	$42,500 	
+2016 BMW X5 xDrive40e AWD	32,252 miles	Space Gray Metallic	Black Dakota Leather	$39,999 	
+2016 BMW X5 xDrive40e AWD	29,697 miles	Space Gray Metallic	Black	$41,685 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	10,514 miles	Jet Black	Canberra Beige/Black	$43,456 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	11,848 miles	Alpine White	Blk Sensa Tec W/Red Stitc	$36,213 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	13,412 miles	Black Sapphire Metallic	Black	$43,965 	
+2017 BMW X5 xDrive40e iPerformance AWD	8,711 miles	Dark Graphite Metallic	Black	$42,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	6,525 miles	Mineral White	Mocha Dakota Leather	$43,499 	
+2016 BMW X5 xDrive40e AWD	29,767 miles	Mineral White Metallic	Black	$41,800 	
+2016 BMW X5 xDrive40e AWD	33,339 miles	Mineral Silver	Mocha with Dakota Leather Upholstery	$40,888 	
+2017 BMW X5 xDrive40e iPerformance AWD	10,288 miles	Jet Black	N/A	$42,995 	
+2016 BMW X5 xDrive40e AWD	82,900 miles	Dark Graphite Metallic	N/A	$29,495 	
+2016 BMW X5 xDrive40e AWD	22,344 miles	Mineral White Metallic	Terra	$42,985 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	9,235 miles	Mineral White Metallic	Cognac	$46,000 	
+2016 BMW X5 xDrive40e AWD	22,260 miles	Black Sapphire Metallic	Black	$42,985 	
+2016 BMW X5 xDrive40e AWD	30,546 miles	Mineral White Metallic	Terra Dakota Leather	$41,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	46,296 miles	White	Unknown	$40,888 	
+2016 BMW X5 xDrive40e AWD	25,638 miles	Alpine White	Black	$42,969 	"21
+25
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	30,707 miles	Melbourne Red Metallic	Saddle Brown/Dark Brown	$31,900 	
+2016 BMW X5 xDrive40e AWD	34,507 miles	Glacier Silver Metallic	Ivory White	$40,999 	
+2017 BMW X5 xDrive40e iPerformance AWD	20,481 miles	White	Nutmeg	$43,994 	
+2017 BMW X5 xDrive40e iPerformance AWD	12,248 miles	JET	BLACK SENSA	$43,775 	
+2016 BMW X5 xDrive40e AWD	26,680 miles	Space Gray Metallic	N/A	$42,370 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	14,145 miles	Mineral White Metallic	Venetian Beige	$32,977 	
+2016 BMW X5 xDrive40e AWD	27,465 miles	Glacier Silver Metallic	Black	$42,162 	
+2016 BMW X5 xDrive40e AWD	24,937 miles	Space Gray Metallic	Black SensaTec	$43,000 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,095 miles	Alpine White	Black	$45,884 	
+2016 BMW X5 xDrive40e AWD	19,920 miles	Black Sapphire Metallic	Mocha	$42,999 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,454 miles	Dark Graphite Metallic	Canberra Beige/Black	$47,157 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,958 miles	Alpine White	Black	$46,511 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	250 miles	JET BLACK	BLACK SENSA	$46,777 	
+2017 BMW X5 xDrive40e iPerformance AWD	24,438 miles	Mineral White Metallic	Black	$43,477 	
+2017 BMW X5 xDrive40e iPerformance AWD	15,546 miles	Atlas Cedar Metallic	Terra	$45,000 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,106 miles	ALPINE WHITE	BLACK SENSA	$46,480 	
+2017 BMW X5 xDrive40e iPerformance AWD	22,414 miles	Carbon Black Metallic	Black Dakota Leather	$45,499 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,872 miles	Jet Black	Black	$46,977 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	11,216 miles	Alpine White	Kcl3	$37,800 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	8,847 miles	Alpine White	Black	$46,496 	
+2017 BMW i3 94 Ah with Range Extender	11,618 miles	Protonic Blue w/Frozen Grey	Atelier European Dark Cloth	$34,652 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,700 miles	300 White	K8Sw Black	$46,988 	
+2018 BMW X5 xDrive40e iPerformance AWD	19,842 miles	Black Sapphire Metallic	Black	$46,997 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	7,696 miles	Alpine White	Ivory White w/Dark Coffee	$46,988 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,477 miles	Bluestone Metallic	Night Blue	$46,990 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	6,362 miles	Alpine White	Black	$46,856 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,927 miles	Jet Black	Black SensaTec	$48,500 	
+2018 BMW X5 xDrive40e iPerformance AWD	15,435 miles	Imperial Blue Metallic	Canberra Beige	$45,999 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,399 miles	Black Sapphire Metallic	Black	$34,998 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,867 miles	Mineral Gray Metallic	Black	$39,497 	"22
+26
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	13,723 miles	Alpine White	VENETIAN BGE/BLK LTHR	$35,988 	
+2017 BMW X5 xDrive40e iPerformance AWD	9,714 miles	Black Sapphire Metallic	Black Dakota Leather	$45,999 	
+2017 BMW X5 xDrive40e iPerformance AWD	20,412 miles	Black Sapphire Metallic	Black	$45,977 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,411 miles	300 White	K8Sw Black	$47,987 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,523 miles	Dark Graphite	Black Sensa Tec	$47,800 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	7,050 miles	Jet Black	Black	$47,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	14,917 miles	BLUE	TAN	$45,950 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,551 miles	Black Sapphire Metallic	N/A	$48,961 	
+2016 BMW X5 xDrive40e AWD	1,208 miles	Dark Graphite	Black Leather	$46,895 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,205 miles	Mineral White Metallic	Canberra Beige/Black	$47,973 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,644 miles	Dark Graphite Metallic	Black SensaTec	$48,788 	
+2018 BMW i3 s 94 Ah with Range Extender	8,187 miles	Imperial Blue Metallic w/Frozen Gray Accent	Tera Dalbergia Brown	$40,999 	
+2017 BMW X5 xDrive40e iPerformance AWD	9,700 miles	Atlas Cedar Metallic	Terra Dakota Leather	$46,850 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,360 miles	Alpine White	Cognac Dakota Leather	$49,900 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,369 miles	Alpine White	Canberra Beige/Black SensaTec	$49,900 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	5,400 miles	Black Sapphire Metallic	K8sw	$49,995 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	250 miles	JET BLACK	BLACK SENSA	$49,940 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	250 miles	JET BLACK	BLACK SENSA	$49,940 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	2,336 miles	ALPINE WHITE	Black	$48,971 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	250 miles	Glacier Silver Metallic	Venetian Beige/Dk. Oyster	$49,270 	
+2018 BMW X5 xDrive40e iPerformance AWD	32,087 miles	Mineral	N/A	$47,012 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,684 miles	Alpine White	Black	$49,186 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	20,312 miles	Black	Black	$37,173 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,808 miles	Alpine White	Black	$49,645 	
+2018 BMW i3 94 Ah with Range Extender	12,107 miles	Capparis White w/ BMW i Frozen Blue Accent	Tera Dalbergia Brown	$37,994 	
+2016 BMW X5 xDrive40e AWD	56,621 miles	Alpine White	Tan	$34,995 	
+2018 BMW i3 s 94 Ah with Range Extender	8,270 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$40,910 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,764 miles	Mineral White Metallic	Canberra Beige/Black SensaTec	$49,871 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,513 miles	Jet Black	Blk Dak Lthr W/C St&Pipin	$50,629 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,031 miles	Jet Black	Black SensaTec	$50,900 	"23
+27
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,330 miles	Alpine White	Canberra Beige/Black SensaTec	$50,900 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,001 miles	Jet Black	Canberra Beige/Black SensaTec	$50,999 	
+2016 BMW X5 xDrive40e AWD	47,745 miles	Alpine White	Canberra Beige/Black	$38,000 	
+2018 BMW X5 xDrive40e iPerformance AWD	21,186 miles	Carbon Black Metallic	Black	$49,999 	
+2016 BMW X5 xDrive40e AWD	51,661 miles	Mineral White Metallic	Lcb8	$37,498 	
+2016 BMW X5 xDrive40e AWD	42,673 miles	Mineral White Metallic	Terra	$38,195 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,505 miles	Bluestone Metallic	Black	$51,871 	
+2018 BMW X5 xDrive40e iPerformance AWD	17,036 miles	Alpine White	Black	$49,961 	
+2016 BMW X5 xDrive40e AWD	45,358 miles	Mineral White Metallic	Terra w/Dakota Leather Upholstery	$36,988 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,666 miles	Black	Black	$52,500 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	9,088 miles	Alpine White	Cognac	$51,000 	
+2018 BMW X5 xDrive40e iPerformance AWD	17,823 miles	Black Sapphire Metallic	N/A	$50,971 	
+2017 BMW X5 xDrive40e iPerformance AWD	5,895 miles	Black	Unknown	$49,800 	
+2017 BMW X5 xDrive40e iPerformance AWD	7,538 miles	Dark Graphite Metallic	Black Dakota Leather	$50,990 	
+2016 BMW X5 xDrive40e AWD	38,953 miles	Black Sapphire Metallic	Black	$38,800 	
+2016 BMW X5 xDrive40e AWD	29,473 miles	Dark Graphite Metallic	Ivory White/Black	$40,499 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	250 miles	GLACIER SILVER	BLACK DAKOTA	$52,700 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,353 miles	Black Sapphire Metallic	Black Dakota Leather	$52,500 	
+2016 BMW X5 xDrive40e AWD	42,897 miles	Mineral Silver Metallic	Ivory White	$38,999 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	29,500 miles	Jet Black	Black	$50,991 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,317 miles	Jet Black	Black Dakota Leather	$52,900 	
+2016 BMW X5 xDrive40e AWD	33,555 miles	Black Sapphire Metallic	Black	$39,485 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	2,972 miles	Black Sapphire Metallic	Black	$52,645 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,446 miles	Dark Graphite Metallic	Black Tec	$52,977 	
+2016 BMW X5 xDrive40e AWD	39,696 miles	Alpine White	Mocha Dakota Leather	$41,000 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	44,265 miles	Champagne Quartz Metallic	Black	$37,495 	
+2016 BMW X5 xDrive40e AWD	42,058 miles	Glacier Silver Metallic	Ivory White	$39,218 	
+2016 BMW X5 xDrive40e AWD	45,377 miles	Carbon Black Metallic	Ivory White/Black	$38,888 	
+2016 BMW X5 xDrive40e AWD	32,613 miles	Alpine White	Black	$39,999 	
+2016 BMW X5 xDrive40e AWD	45,996 miles	Space Gray Metallic	Black SensaTec	$39,990 	"24
+28
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW X5 xDrive40e AWD	26,569 miles	BLACK SAPPHIRE METALLIC	CANBERRA BEIGE/BLACK	$42,000 	
+2016 BMW X5 xDrive40e AWD	34,723 miles	Glacier Silver Metallic	Black	$40,975 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	250 miles	Bluestone Metallic	BLACK DAKOTA	$53,700 	
+2016 BMW X5 xDrive40e AWD	33,205 miles	Black Sapphire Metallic	MOCHA DAKOTA	$40,998 	
+2016 BMW X5 xDrive40e AWD	37,978 miles	Alpine White	Black	$39,999 	
+2016 BMW X5 xDrive40e AWD	37,571 miles	Black Sapphire Metallic	Mocha Dakota Leather	$41,800 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	2,127 miles	Mineral White Metallic	Oyster Dakota Leather	$40,888 	
+2016 BMW X5 xDrive40e AWD	34,409 miles	Alpine White	Black	$40,760 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,717 miles	Bluestone Metallic	Black	$53,243 	
+2016 BMW X5 xDrive40e AWD	42,255 miles	Carbon Black Metallic	Terra	$39,883 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,128 miles	Jet Black	Ivory White/Black	$53,971 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,611 miles	PLATINUM SILVER METALLIC	BLACK	$45,900 	
+2017 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid	6,136 miles	Black Sapphire Metallic	Black Nappa, premium leather	$51,900 	
+2018 BMW X5 xDrive40e iPerformance AWD	7,175 miles	Unknown	Taupe	$52,837 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	31,613 miles	Black	Black	$50,599 	
+2016 BMW X5 xDrive40e AWD	25,600 miles	Alpine White	Black Dakota Leather	$41,900 	
+2018 BMW X5 xDrive40e iPerformance AWD	3,905 miles	Ruby Black Metallic	Black	$52,999 	
+2016 BMW X5 xDrive40e AWD	32,154 miles	Black	Black	$41,070 	
+2016 BMW X5 xDrive40e AWD	34,634 miles	Black Sapphire Metallic	BLACK DAKOTA	$41,900 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	18,648 miles	Jet Black	Black	$44,495 	
+2016 BMW X5 xDrive40e AWD	39,396 miles	Mineral White Metallic	Mocha	$41,990 	
+2018 BMW X5 xDrive40e iPerformance AWD	11,416 miles	White	Unknown	$53,475 	
+2018 BMW X5 xDrive40e iPerformance AWD	3,922 miles	0300 Alpine White	KCSW Black SensaTec	$55,000 	
+2016 BMW X5 xDrive40e AWD	22,005 miles	Black Sapphire Metallic	Black	$42,500 	
+2016 BMW X5 xDrive40e AWD	26,334 miles	MINERAL SILVER METALLIC	BLACK	$44,000 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	318 miles	Mineral White Metallic	Canberra Beige/Black	$54,115 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	2,680 miles	Mineral White Metallic	Black Dakota Leather	$54,999 	
+2016 BMW X5 xDrive40e AWD	31,917 miles	Mineral White Metallic	Terra Dakota Leather	$42,500 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,373 miles	Alpine White	Black SensaTec	$54,999 	
+2018 BMW X5 xDrive40e iPerformance AWD	7,795 miles	Alpine White	black	$53,794 	"25
+29
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2016 BMW X5 xDrive40e AWD	34,848 miles	MINERAL SILVER METALLIC	CANBERRA BEIGE/BLACK	$42,900 	
+2016 BMW X5 xDrive40e AWD	40,483 miles	DARK GRAPHITE METALLIC	BLACK	$42,995 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,724 miles	Jet Black	Black	$54,835 	
+2017 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid	4,860 miles	Black Sapphire Metallic	Black	$52,995 	
+2016 BMW X5 xDrive40e AWD	35,767 miles	Mineral White Metallic	Black	$41,999 	
+2016 BMW X5 xDrive40e AWD	11,824 miles	Mineral Silver Metallic	Canberra Beige/Black Dakota Le	$44,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	23,509 miles	Space Gray Metallic	N/A	$46,199 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,076 miles	White	N/A	$54,900 	
+2016 BMW X5 xDrive40e AWD	27,997 miles	Carbon Black Metallic	Ivory White/Black	$43,000 	
+2016 BMW X5 xDrive40e AWD	18,901 miles	Alpine White	Black	$43,850 	
+2016 BMW X5 xDrive40e AWD	21,306 miles	IMPERIAL BLUE METALLIC	MOCHA	$43,699 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,074 miles	Alpine White	Black Dakota Leather	$55,999 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,290 miles	Mineral White Metallic	Cognac Dakota Leather	$55,999 	
+2018 BMW X5 xDrive40e iPerformance AWD	3,991 miles	Graphite	N/A	$55,300 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	4,410 miles	Alpine White	Black Dakota Leather	$56,000 	
+2016 BMW X5 xDrive40e AWD	27,019 miles	Mineral White Metallic	Ivory White/Black	$43,500 	
+2016 BMW X5 xDrive40e AWD	29,070 miles	Space Gray Metallic	BLK DAKOTA LEATHER	$45,777 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,000 miles	Gray	N/A	$55,999 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	569 miles	Dark Graphite Metallic	Ivory White	$55,577 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,694 miles	Alpine White	Black Dakota Leather $1,450 (Option)	$54,850 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,392 miles	Dark Graphite Metallic	Cognac Dakota Leather	$55,888 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	16,347 miles	Jet Black	Black	$46,901 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	357 miles	Dark Graphite Metallic	Ivory White	$55,774 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	8,508 miles	Black	N/A	$47,800 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	1,656 miles	Black Sapphire Metallic	Black Dakota Leather	$56,771 	
+2018 BMW i3 94 Ah with Range Extender	2,438 miles	Fluid Black w/BMW i Frozen Blue Accent	Atelier European Dark	$47,999 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	9,184 miles	Jet Black	K8SW/BLACK	$47,777 	
+2017 BMW X5 xDrive40e iPerformance AWD	22,353 miles	Glacier Silver Metallic	Black	$47,895 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,085 miles	668 Black	K8Fy Beige	$48,658 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,000 miles	Gray	N/A	$56,999 	"26
+30
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	10,465 miles	Mineral White Metallic	BLACK SENSA TEC	$45,888 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,200 miles	Space Gray Metallic	BLACK SENSATEC	$56,850 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	7,145 miles	Mineral Gray Metallic	Black w/Red Stitching	$45,870 	
+2016 BMW X5 xDrive40e AWD	44,892 miles	Mineral White M	Black	$40,500 	
+2017 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid	13,335 miles	Magellan Gray Metallic	Zagora Beige Nappa Leather	$54,599 	
+2016 BMW X5 xDrive40e AWD	24,237 miles	Dark Graphite Metallic	Ivory White Nappa Leather	$45,999 	
+2016 BMW X5 xDrive40e AWD	5,188 miles	Glacier Silver Metallic	Ivory White	$46,841 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	5,451 miles	ALPINE WHITE	BLACK	$49,991 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,895 miles	Gray	N/A	$57,000 	
+2017 BMW X5 xDrive40e iPerformance AWD	15,854 miles	Mineral White Metallic	Mocha	$46,999 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,554 miles	Jet Black	N/A	$49,500 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,125 miles	0668 Jet Black	LCFK Black Dakota Leather	$50,500 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	5,831 miles	Mineral White Metallic	Venetian Beige	$45,994 	
+2017 BMW X5 xDrive40e iPerformance AWD	41,919 miles	Mineral White Metallic	Black	$45,801 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,191 miles	Glacier Silver Metallic	Black Dakota Leather	$49,900 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	9,562 miles	Jet Black	OYSTR DKTA LTHR	$46,888 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	5,528 miles	Imperial Blue Metallic	Canberra Beige/Black	$48,621 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	8,713 miles	Glacier Silver Metallic	Black	$49,065 	
+2016 BMW X5 xDrive40e AWD	36,491 miles	Black Sapphire	Mocha	$42,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	41,401 miles	Mineral White Metallic	Canberra Beige	$45,887 	
+2017 BMW X5 xDrive40e iPerformance AWD	18,826 miles	Sparkling Brown Metallic	Mocha	$47,990 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	12 miles	Dark Graphite Metallic	Black	$59,045 	
+2016 BMW X5 xDrive40e AWD	1,372 miles	Alpine White	Mocha	$47,977 	
+2017 BMW X5 xDrive40e iPerformance AWD	16,653 miles	Dark Graphite Metallic	Black	$48,994 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,288 miles	Mediterranean Blue Metallic	Beige	$58,990 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,956 miles	Alpine White	Black	$50,995 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,500 miles	Bluestone Metallic	Black	$59,800 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	1,604 miles	Glacier Silver Metallic	Black Dakota Leather	$51,695 	
+2017 BMW X5 xDrive40e iPerformance AWD	28,412 miles	Black Sapphire Metallic	Black	$48,770 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,454 miles	Alpine White	Black Dak Lthr w/ Oyster hglgt	$48,900 	"27
+31
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	250 miles	Glacier Silver Metallic	Black	$51,777 	
+2017 BMW X5 xDrive40e iPerformance AWD	10,445 miles	Gray	Brown	$49,800 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,787 miles	Jet Black	Canberra Beige/Black SensaTec	$51,277 	
+2016 BMW i3 60 Ah with Range Extender	18,848 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$47,845 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,738 miles	ATLAS CEDAR	CANBERRA BEIGE	$51,900 	
+2017 BMW i3 94 Ah with Range Extender	4,273 miles	Mineral Gray w/BMW i Frozen Blue Accent	Deka Gray/Blue Highlight	$48,345 	
+2017 BMW i3 94 Ah with Range Extender	4,361 miles	Protonic Blue Metallic w/Frozen Gray Accent	Deka Gray/Blue Highlight	$48,345 	
+2016 BMW X5 xDrive40e AWD	30,067 miles	Alpine White	Black Dakota Leather	$45,900 	
+2017 BMW X5 xDrive40e iPerformance AWD	14,413 miles	Silver	Black	$50,545 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	4,060 miles	MINERAL GRAY METALLIC	BLACK W/DARK OYSTER HIGHLIGHT	$49,990 	
+2016 BMW X5 xDrive40e AWD	36,087 miles	Alpine White	TERRA	$44,991 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	11,500 miles	Alpine White	Black w/Blue	$48,699 	
+2018 BMW X5 xDrive40e iPerformance AWD	11,402 miles	Black Sapphire Metallic	Unknown	$52,788 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,189 miles	Alpine White	Black	$52,345 	
+2018 BMW X5 xDrive40e iPerformance AWD	18,014 miles	Jet Black	Black	$51,458 	
+2017 BMW X5 xDrive40e iPerformance AWD	13,042 miles	Mineral White Metallic	Ivory White/Black	$51,900 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	2,141 miles	CARBON BLACK	Unknown	$62,645 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,771 miles	Jet Black	Black Dakota Leather	$51,000 	
+2016 BMW X5 xDrive40e AWD	12,021 miles	Mineral White Metallic	Mocha	$48,990 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	11,350 miles	ALPINE WHT	BLK DAKOTA LEATHER	$49,999 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	29,690 miles	Jet Black	Black	$53,480 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,342 miles	Bluestone Metallic	Black Dakota Leather	$51,900 	
+2018 BMW X5 xDrive40e iPerformance AWD	10,246 miles	Alpine White	Mocha	$54,900 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,654 miles	Mineral White Metallic	Black SensaTec	$51,999 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,710 miles	Black Sapphire Metallic	Black	$52,488 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,920 miles	Mineral White Metallic	Black SensaTec	$51,999 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,472 miles	Jet Black	Black Dakota Leather	$52,999 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,839 miles	Alpine White	Black SensaTec	$52,999 	
+2018 BMW X5 xDrive40e iPerformance AWD	7,114 miles	Graphite	Blk Dakota Lth	$55,795 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,474 miles	Jatoba Brown Metallic	Canberra Beige/Black	$51,900 	"28
+32
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,714 miles	JET BLK	BLK SENSATEC LEATHERETTE	$52,995 	
+2018 BMW X5 xDrive40e iPerformance AWD	13,886 miles	Black Sapphire Metallic	Black	$54,986 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,897 miles	Black Sapphire Metallic	Blk Dakota	$53,262 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,294 miles	Mineral White Metallic	Black Dakota Leather	$53,900 	
+2018 BMW X5 xDrive40e iPerformance AWD	17,900 miles	Black Sapphire Metallic	Ivory White/Black	$55,499 	
+2018 BMW 3 Series 330e iPerformance Plug-In Hybrid	5 miles	Mineral Gray Metallic	Oyster	$53,295 	
+2018 BMW X5 xDrive40e iPerformance AWD	8,968 miles	Dark Graphite Metallic	Black	$55,750 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	4,369 miles	Black Sapphire Metallic	Blue	$53,890 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	7,291 miles	White	N/A	$64,895 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,687 miles	Glacier Silver Metallic	black	$54,975 	
+2018 BMW X5 xDrive40e iPerformance AWD	5,514 miles	JET	BEIGE	$57,900 	
+2014 BMW i8 Coupe	27,238 miles	CRYSTAL WHITE PEARL METALLIC	Unknown	$59,888 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	31,507 miles	Jet Black	Black	$55,996 	
+2017 BMW X5 xDrive40e iPerformance AWD	14,617 miles	ALPINE WHITE	BLACK	$53,995 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	9,329 miles	Dark Graphite Metallic	Black	$54,240 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	4,337 miles	Black Sapphire Metallic	BLACK DAKOTA LEATHER W/CO	$55,500 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	2,223 miles	Black Sapphire Metallic	Black	$55,590 	
+2014 BMW i8 Coupe	27,792 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Tera Excl Dalbergia Brown	$60,982 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,507 miles	Alpine White	Black SensaTec	$55,999 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	3,874 miles	Alpine White	Black SensaTec	$55,999 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	4,611 miles	Black Sapphire Metallic	Black	$67,878 	
+2018 BMW X5 xDrive40e iPerformance AWD	5,336 miles	ALPINE WHITE	Unknown	$58,888 	
+2015 BMW i8 Coupe	15,930 miles	SILVER	GREY	$63,995 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	6,281 miles	Bluestone Metallic	Black	$56,897 	
+2018 BMW X5 xDrive40e iPerformance AWD	1,862 miles	JET BLACK	Unknown	$61,530 	
+2018 BMW X5 xDrive40e iPerformance AWD	8,418 miles	Alpine White	Black	$57,465 	
+2018 BMW X5 xDrive40e iPerformance AWD	22,123 miles	Mineral	LCMY Mocha Dakota Leather	$56,488 	
+2015 BMW i8 Coupe	23,429 miles	White	Giga Amido	$64,888 	
+2018 BMW X5 xDrive40e iPerformance AWD	18,129 miles	Alpine	Blk Dakota Lth	$56,990 	
+2014 BMW i8 Coupe	26,769 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice	$65,820 	"29
+33
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW X5 xDrive40e iPerformance AWD	4,614 miles	Space Gray	Unknown	$58,895 	
+2015 BMW i8 Coupe	15,713 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$65,999 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	1,619 miles	Jet Black	Black D.L.	$59,445 	
+2015 BMW i8 Coupe	30,117 miles	Crystal White Pearl Metallic W/bmw Frozen Blue	Mega Carum Spice Gray	$64,900 	
+2018 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	424 miles	Alpine White	Night Blue Dakota Leather	$58,888 	
+2014 BMW i8 Coupe	26,174 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Excl Dalbergia Brown	$65,497 	
+2015 BMW i8 Coupe	47,926 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Excl Dalbergia Brown	$63,977 	
+2017 BMW X5 xDrive40e iPerformance AWD	5,611 miles	Mineral	Unknown	$59,587 	
+2014 BMW i8 Coupe	30,919 miles	Black Matte Custom	Giga Amido	$64,999 	
+2015 BMW i8 Coupe	31,765 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$65,777 	
+2014 BMW i8 Coupe	8,589 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice Gray	$66,999 	
+2015 BMW i8 Coupe	42,924 miles	Protonic Blue Metallic w/Frozen Gray Accent	Giga Ivory White	$64,977 	
+2018 BMW X5 xDrive40e iPerformance AWD	14,133 miles	Mineral White Metallic	Black	$59,539 	
+2015 BMW i8 Coupe	13,185 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$67,699 	
+2015 BMW i8 Coupe	22,298 miles	White	Black	$66,991 	
+2015 BMW i8 Coupe	23,325 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$66,995 	
+2015 BMW i8 Coupe	27,346 miles	Crystal White Pearl Metallic w/ Frozen Grey Accent	Giga Ivory White	$66,995 	
+2015 BMW i8 Coupe	16,019 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$67,999 	
+2015 BMW i8 Coupe	25,472 miles	Protonic Blue Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice	$69,000 	
+2015 BMW i8 Coupe	30,008 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice Gray	$66,977 	
+2015 BMW i8 Coupe	18,534 miles	Crystal White w/BMW i Blue	Carum Spice Grey Full Leather	$67,939 	
+2015 BMW i8 Coupe	24,635 miles	Unknown	Unknown	$67,994 	
+2015 BMW i8 Coupe	30,076 miles	Sophisto Gray Metallic w BMW i Frozen Blue Accent	Giga Ivory White	$67,125 	
+2014 BMW i8 Coupe	14,100 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice	$67,800 	
+2015 BMW i8 Coupe	33,656 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$66,990 	
+2015 BMW i8 Coupe	23,891 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice Gray	$67,998 	
+2015 BMW i8 Coupe	26,615 miles	PROTONIC BLUE	IMPULSE CARUM SPICE LTHR	$67,800 	
+2015 BMW i8 Coupe	26,721 miles	Protonic Blue Metallic w/Frozen Gray Accent	Tera Exclusive Dalbergia Brown	$67,855 	
+2016 BMW i8 Coupe	27,919 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Giga Ivory White	$68,500 	
+2015 BMW i8 Coupe	25,503 miles	Crystal White Pearl Metallic w	Other	$67,999 	"30
+34
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i8 Coupe	15,694 miles	SOPHISTO GRAY METALLIC W/FROZEN GRAY ACCENT	PURE IMPULSE CARUM SPICE GRAY	$68,999 	
+2015 BMW i8 Coupe	26,735 miles	Unknown	Unknown	$68,199 	
+2015 BMW i8 Coupe	29,993 miles	Crystal White Pearl Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$67,995 	
+2015 BMW i8 Coupe	20,498 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$68,980 	
+2014 BMW i8 Coupe	4,799 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice	$71,556 	
+2016 BMW i8 Coupe	16,154 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Giga Amido	$70,000 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	1,046 miles	MINERAL WHITE	BEIGE/BLACK	$62,490 	
+2015 BMW i8 Coupe	17,828 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$69,995 	
+2014 BMW i8 Coupe	3,204 miles	Crystal White	Brown	$69,919 	
+2015 BMW i8 Coupe	11,702 miles	Black	Unknown	$69,999 	
+2015 BMW i8 Coupe	30,382 miles	White	Beige	$68,500 	
+2015 BMW i8 Coupe	25,309 miles	Crystal White Pearl Metallic w	Pure Impulse Carum Spice	$68,949 	
+2016 BMW i8 Coupe	12,449 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Giga Amido	$70,855 	
+2015 BMW i8 Coupe	19,047 miles	Protonic Blue Metallic w/Frozen Gray Accent	Giga Amido	$70,995 	
+2015 BMW i8 Coupe	14,888 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice	$69,999 	
+2014 BMW i8 Coupe	19,601 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Mega Carum Spice Gray	$68,998 	
+2015 BMW i8 Coupe	28,541 miles	Sophisto Grey Metallic	Giga Amido	$68,995 	
+2016 BMW i8 Coupe	21,019 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	N/A	$70,949 	
+2015 BMW i8 Coupe	27,908 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Mega Carum Spice Gray	$69,970 	
+2016 BMW i8 Coupe	26,871 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Giga Ivory White	$69,999 	
+2015 BMW i8 Coupe	20,382 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice Gray	$69,855 	
+2015 BMW i8 Coupe	18,797 miles	Protonic Blue Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$70,000 	
+2015 BMW i8 Coupe	19,096 miles	Crystal White Pearl Metallic w/ BMW i Frozen Blue Accent	Pure impulse	$69,998 	
+2015 BMW i8 Coupe	7,331 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Amido	$70,990 	
+2016 BMW i8 Coupe	16,526 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Excl Dalbergia Brown	$72,999 	
+2015 BMW i8 Coupe	9,800 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$70,999 	
+2015 BMW i8 Coupe	19,572 miles	Gray	TERA	$70,345 	
+2015 BMW i8 Coupe	13,682 miles	Protonic Blue Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice Gray	$70,999 	
+2015 BMW i8 Coupe	20,165 miles	Protonic Blue Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$71,000 	
+2015 BMW i8 Coupe	3,896 miles	Sophisto Grey w Frozen Grey	Giga Amido	$73,678 	"31
+35
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i8 Coupe	11,000 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$71,990 	
+2014 BMW i8 Coupe	5,778 miles	Sophisto Gray Metallic	Giga Amido	$71,998 	
+2014 BMW i8 Coupe	8,216 miles	Unknown	Unknown	$73,000 	
+2018 BMW X5 xDrive40e iPerformance AWD	4,815 miles	BLACK SAPPHIRE	Mocha	$64,971 	
+2015 BMW i8 Coupe	69,579 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$59,990 	
+2016 BMW i8 Coupe	17,624 miles	Sophisto Gray Metallic w BMW i Frozen Blue Accent	Giga Amido	$72,900 	
+2015 BMW i8 Coupe	75,830 miles	Gray	Black	$59,500 	
+2015 BMW i8 Coupe	10,577 miles	Gray	Black	$73,444 	
+2015 BMW i8 Coupe	7,909 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice Gray	$74,567 	
+2016 BMW i8 Coupe	31,499 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Carum Spice Grey	$73,000 	
+2015 BMW i8 Coupe	7,882 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Tera Exclusive Dalbergia Brown w/Natural Leather/C	$73,989 	
+2016 BMW i8 Coupe	18,635 miles	Sophisto Grey With Frozen Grey	Ivory White	$73,995 	
+2015 BMW i8 Coupe	10,259 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Giga Amido	$73,991 	
+2016 BMW i8 Coupe	15,064 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$74,900 	
+2016 BMW i8 Coupe	2,201 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Tera Exclusive Dalbergia Brown	$76,705 	
+2016 BMW i8 Coupe	23,348 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Amido	$74,575 	
+2014 BMW i8 Coupe	9,163 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue Accent	Giga Ivory White, premium leather	$73,900 	
+2015 BMW i8 Coupe	62,187 miles	Black	White	$62,500 	
+2016 BMW i8 Coupe	12,049 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$76,000 	
+2016 BMW i8 Coupe	13,641 miles	SOPHISTO GRAY	DALBERGIA BRWN	$75,999 	
+2015 BMW i8 Coupe	11,699 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$75,900 	
+2016 BMW i8 Coupe	20,839 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Mega Carum Spice Gray	$75,898 	
+2017 BMW i8 Coupe	24,580 miles	Crystal White Pearl Metallic W/bmw Frozen Blue	Giga Amido	$75,500 	
+2016 BMW i8 Coupe	9,653 miles	Sophisto Grey Metallic w/ Frozen Grey Accent	Mega Carum Spice Grey	$76,881 	
+2016 BMW i8 Coupe	39,831 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Excl Dalbergia Brown	$65,910 	
+2019 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	608 miles	N/A	N/A	$79,900 	
+2015 BMW i8 Coupe	46,597 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Exclusive Dalbergia Brown, leather/cloth	$64,900 	
+2014 BMW i8 Coupe	3,056 miles	White	Giga Ivory White	$76,880 	
+2015 BMW i8 Coupe	48,657 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Giga Ivory White	$65,990 	
+2016 BMW i8 Coupe	36,276 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$67,990 	"32
+36
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i8 Coupe	40,706 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tan	$66,996 	
+2015 BMW i8 Coupe	5,473 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Tera Excl Dalbergia Brown	$78,999 	
+2016 BMW i8 Coupe	6,525 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$80,991 	
+2016 BMW i8 Coupe	17,378 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$78,995 	
+2016 BMW i8 Coupe	14,683 miles	Silver	Unknown	$79,445 	
+2015 BMW i8 Coupe	31,909 miles	Protonic Blue Metallic w/Frozen	Giga Ivory White	$68,800 	
+2015 BMW i8 Coupe	39,588 miles	Protonic Blue Metallic / Frozen Gray Accent	Tera Exclusive Dalbergia Brown	$68,977 	
+2017 BMW i8 Coupe	22,326 miles	Protonic Red	Amido Black Full Leather	$79,995 	
+2015 BMW i8 Coupe	34,919 miles	White	Pure Impulse Carum Spice Gray	$69,969 	
+2015 BMW i8 Coupe	16,681 miles	Silver	Tera Excl Dalbergia Brown	$72,987 	
+2015 BMW i8 Coupe	36,732 miles	Purple	White	$69,950 	
+2015 BMW i8 Coupe	19,879 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice	$71,598 	
+2017 BMW i8 Coupe	12,899 miles	Red	Giga Amido	$81,495 	
+2015 BMW i8 Coupe	26,474 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Giga Amido	$71,995 	
+2015 BMW i8 Coupe	12,653 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice	$74,000 	
+2016 BMW i8 Coupe	21,921 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$72,999 	
+2015 BMW i8 Coupe	15,894 miles	Crystal White Pearl Metal	Pure Impulse Carum Spice Gray w/Full Perforated Le	$72,900 	
+2015 BMW i8 Coupe	19,371 miles	Sophisto Gray Metallic w/Frozen Gray Accent	N/A	$72,991 	
+2016 BMW i8 Coupe	24,965 miles	White	Black	$72,995 	
+2014 BMW i8 Coupe	23,639 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Tera Excl Dalbergia Brown	$71,995 	
+2015 BMW i8 Coupe	10,478 miles	WH	Carum Spice Grey Full Leather	$73,999 	
+2015 BMW i8 Coupe	24,788 miles	Silverstone metallic	Gray	$72,888 	
+2015 BMW i8 Coupe	9,766 miles	Gray	TERA	$74,800 	
+2016 BMW i8 Coupe	19,101 miles	Blue	Mega Carum Spice Gray	$74,595 	
+2015 BMW i8 Coupe	21,441 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$73,500 	
+2014 BMW i8 Coupe	21,467 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Mega Carum Spice Gray	$73,899 	
+2016 BMW i8 Coupe	18,687 miles	Gray	N/A	$75,495 	
+2019 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	4,057 miles	Carbon Black Metallic	Cognac Dakota Leather	$86,913 	
+2015 BMW i8 Coupe	7,683 miles	Sophisto Gray Metallic	Giga Amido	$74,999 	
+2015 BMW i8 Coupe	11,227 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$74,888 	"33
+37
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2015 BMW i8 Coupe	9,286 miles	Blue	Grey	$76,418 	
+2015 BMW i8 Coupe	12,726 miles	SOPHISTO GRAY METALLIC W/BMW I FROZEN BLUE ACCENT	PURE IMPULSE CARUM SPICE GRAY	$74,980 	
+2014 BMW i8 Coupe	16,612 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Black	$73,995 	
+2015 BMW i8 Coupe	25,179 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$74,000 	
+2015 BMW i8 Coupe	8,570 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$76,980 	
+2016 BMW i8 Coupe	24,371 miles	GRAY	BLACK	$74,950 	
+2015 BMW i8 Coupe	6,598 miles	Silver Metallic w/BMW i Frozen Blue Accent	Carum Spice Grey Ful	$75,963 	
+2014 BMW i8 Coupe	11,110 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Gray	$74,899 	
+2016 BMW i8 Coupe	17,361 miles	Crystal White Pearl Metallic w/ BMW i Frozen Blue Accent	BLACK	$75,950 	
+2015 BMW i8 Coupe	22,494 miles	White	White	$74,999 	
+2016 BMW i8 Coupe	26,039 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	SPICE GRAY	$77,788 	
+2015 BMW i8 Coupe	22,079 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Tera Exclusive Dalbergia Brown	$75,593 	
+2015 BMW i8 Coupe	11,477 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Pure Impulse Carum Spice	$76,500 	
+2015 BMW i8 Coupe	17,739 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Pure Impulse Carum Spice	$75,995 	
+2015 BMW i8 Coupe	23,054 miles	Sophisto Gray Metallic w/Frozen Gray Accent	Mega Carum Spice Gray	$76,892 	
+2015 BMW i8 Coupe	15,782 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$76,700 	
+2015 BMW i8 Coupe	17,624 miles	SOPHIST0 GREY	GIGA IVORY WHT	$76,800 	
+2016 BMW i8 Coupe	10,592 miles	Crystal White W/frozen Gray	Amido Black Full Leather	$78,988 	
+2016 BMW i8 Coupe	14,757 miles	Crystal White P	Giga Amido	$77,999 	
+2015 BMW i8 Coupe	10,355 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$78,885 	
+2015 BMW i8 Coupe	12,289 miles	Crystal White w/BMW i Blue	Carum Spice Grey Full Leather	$77,999 	
+2014 BMW i8 Coupe	13,561 miles	Black	White	$77,777 	
+2016 BMW i8 Coupe	11,785 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Excl Dalbergia Brown	$79,888 	
+2019 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	1,000 miles	White	N/A	$90,999 	
+2016 BMW i8 Coupe	19,457 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Ivory White	$80,000 	
+2016 BMW i8 Coupe	14,173 miles	Ionic Silver Metallic w/BMW i Frozen Blue Accent	Tera Excl Dalbergia Brown	$81,850 	
+2015 BMW i8 Coupe	47,440 miles	White	Tan	$74,995 	
+2019 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	2,537 miles	Gray	Black D.L.	$93,495 	
+2015 BMW i8 Coupe	7,111 miles	White	Unknown	$82,495 	
+2016 BMW i8 Coupe	17,237 miles	Crystal White Pearl Metallic w/B	Tera Excl Dalbergia Brown	$79,644 	"1
+38
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2017 BMW i8 Coupe	4,359 miles	Red	Black	$92,995 	
+2015 BMW i8 Coupe	9,784 miles	GRY	Unknown	$82,888 	
+2015 BMW i8 Coupe	11,216 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$79,999 	
+2016 BMW i8 Coupe	5,448 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Tera Excl Dalbergia Brown	$84,900 	
+2015 BMW i8 Coupe	7,768 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$81,985 	
+2015 BMW i8 Coupe	30,752 miles	Blue	CARYM SPICE	$79,888 	
+2017 BMW i8 Coupe	3,385 miles	Sophisto Grey	Unknown	$94,995 	
+2017 BMW i8 Coupe	6,120 miles	Special Orange	Mega Carum Spice Gray	$98,986 	
+2017 BMW i8 Coupe	26,000 miles	Red	Giga Amido	$89,998 	
+2018 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid AWD	6,288 miles	Carbon Black Metallic	Zagora Beige	$89,900 	
+2017 BMW i8 Coupe	3,100 miles	Sophisto Gray Metallic w/BMW i Frozen Blue Accent	Giga Amido	$97,999 	
+2017 BMW i8 Coupe	2,600 miles	Black	Graphite	$99,000 	
+2017 BMW i8 Coupe	1,149 miles	Silver	Unknown	$105,000 	
+2017 BMW 7 Series 740e xDrive iPerformance Plug-In Hybrid	29,745 miles	Magellan Gray Metallic	Mocha	$101,345 	
+2019 BMW i8 Roadster	19 miles	Donington Grey Metallic w/Frozen Gray Accent	Giga Amido Full Perforated Leather	$153,545 	
+2016 BMW i3 60 Ah	18,716 miles	WHITE	BLACK	$15,999 	
+2016 BMW i3 60 Ah with Range Extender	9,695 miles	CAPPARIS WHITE	N/A	$17,199 	
+2016 BMW i3 60 Ah	24,312 miles	Capparis White w/BMW i Frozen Blue Accent	Gray	$16,950 	
+2015 BMW i3 60 Ah with Range Extender	18,267 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$17,878 	
+2015 BMW i3 60 Ah with Range Extender	29,968 miles	SILVER	GRAY	$15,997 	
+2015 BMW i3 60 Ah with Range Extender	24,439 miles	Solar Orange Metallic w/Frozen Gray Accent	MEGA CARUM SPC GREY	$16,750 	
+2016 BMW i3 60 Ah with Range Extender	25,923 miles	SILVER	GREY	$17,495 	
+2016 BMW i3 60 Ah with Range Extender	36,261 miles	Fluid Black w/Highlight BMW i Blue	Deka Gray/Blue Highlight	$16,995 	
+2016 BMW i3 60 Ah with Range Extender	24,094 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$19,492 	
+2017 BMW i3 94 Ah	11,933 miles	Protonic Blue W/frozen Gray	Mega (Sensatec And Cloth)	$21,900 	
+2015 BMW i3 60 Ah with Range Extender	23,648 miles	WHITE	BEIGE	$18,700 	
+2015 BMW i3 60 Ah with Range Extender	14,953 miles	Andesite Silver/BMW i Frozen B	Mega (Sensatec and Cloth)	$20,901 	
+2017 BMW i3 94 Ah	25,618 miles	Mineral Gray Bmw Blue	Mega (Sensatec And Cloth)	$21,900 	
+2017 BMW i3 94 Ah with Range Extender	24,543 miles	FLUID BLACK W/HIGHLIGHT BMW I BLUE	DEKA GRAY/BMW I BLUE HIGHLIGHT	$25,573 	
+2017 BMW i3 94 Ah with Range Extender	19,670 miles	Fluid Black non metallic	Atelier European Dark Cloth	$25,900 	"1
+39
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah	26,192 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$15,479 	
+2015 BMW i3 60 Ah	16,935 miles	SOLAR ORANGE	GREY	$17,980 	
+2017 BMW i3 94 Ah with Range Extender	10,225 miles	Capparis White/bmw Frozen Black	Giga (Leather And Cloth)	$27,900 	
+2015 BMW i3 60 Ah	13,918 miles	Arravani Grey w/ BMW i Frozen Blue Accent	Mega Carum Spice Grey/Carum Spice Grey	$18,991 	
+2015 BMW i3 60 Ah	28,681 miles	Ionic Silver Metallic / BMW i	Giga Cassia / Carum Spice Gray	$17,184 	
+2015 BMW i3 60 Ah with Range Extender	54,265 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$16,000 	
+2014 BMW i3 60 Ah with Range Extender	14,811 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,995 	
+2014 BMW i3 60 Ah with Range Extender	30,597 miles	ANDESIT SILVER	BEIGE	$16,700 	
+2016 BMW i3 60 Ah with Range Extender	5,149 miles	Silver	Deka.	$22,000 	
+2015 BMW i3 60 Ah with Range Extender	27,280 miles	Capparis White w/BMW i Frozen Blue Accent	Unknown	$18,957 	
+2016 BMW i3 60 Ah with Range Extender	26,350 miles	Platinum Silver w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$19,900 	
+2016 BMW i3 60 Ah with Range Extender	27,965 miles	Fluid Black / Highlight BMW i	Tera Dalbergia Brown	$19,991 	
+2016 BMW i3 60 Ah with Range Extender	20,349 miles	Fluid Black w/Highlight BMW i Blue	Giga Cassia/Carum Spice Gray	$20,500 	
+2015 BMW i3 60 Ah	12,921 miles	Ionic Silver w/BMW i Blue	Giga (Leather and Cloth)	$20,401 	
+2016 BMW i3 60 Ah	13,428 miles	Fluid Black non metallic	Giga (Leather and Cloth)	$21,000 	
+2015 BMW i3 60 Ah with Range Extender	6,223 miles	Laurel Grey BMW i Frozen Blue	Mega Carum Spice Gray	$21,478 	
+2015 BMW i3 60 Ah with Range Extender	39,884 miles	Arravani Gray w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$17,550 	
+2016 BMW i3 60 Ah with Range Extender	18,863 miles	Fluid Black w/Highlight BMW i Blue	N/A	$20,850 	
+2015 BMW i3 60 Ah with Range Extender	25,240 miles	Capparis White/BMW i Frozen Bl	Mega (Sensatec and Cloth)	$19,599 	
+2017 BMW 3 Series 330e iPerformance Plug-In Hybrid	20,162 miles	Mineral Gray Metallic	N/A	$29,961 	
+2015 BMW i3 60 Ah with Range Extender	13,691 miles	Andesite Silver Met w/BMW i Frozen Blue Accent	TERA DLBRGIA BRWN	$19,988 	
+2015 BMW i3 60 Ah with Range Extender	20,397 miles	Grey	Unknown	$20,500 	
+2015 BMW i3 60 Ah with Range Extender	27,636 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Spice Gray	$18,950 	
+2015 BMW i3 60 Ah with Range Extender	40,632 miles	Solar Orange/frozen Gray	Tera (Full Leather)	$18,788 	
+2016 BMW i3 60 Ah with Range Extender	10,499 miles	Fluid Black	Tera (Full Leather)	$23,000 	
+2016 BMW i3 60 Ah with Range Extender	26,934 miles	Capparis White w/BMW i Frozen Blue Accent	Mega Carum Spice Gray	$20,943 	
+2015 BMW i3 60 Ah with Range Extender	18,607 miles	Capparis White w/BMW i Frozen Blue Accent	Giga Cassia/Carum Spice Gray	$21,113 	
+2015 BMW i3 60 Ah with Range Extender	38,133 miles	Solar Orange/frozen Gray	Tera (Full Leather)	$19,900 	
+2016 BMW i3 60 Ah with Range Extender	47,730 miles	Mineral Gray Bmw Blue	Tera (Full Leather)	$19,988 	
+2015 BMW i3 60 Ah with Range Extender	9,992 miles	Capparis White/BMW i Frozen Bl	Giga (Leather and Cloth)	$21,850 	"1
+40
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2014 BMW i3 60 Ah with Range Extender	36,686 miles	White	Unknown	$18,000 	
+2014 BMW i3 60 Ah with Range Extender	57,566 miles	Laurel Grey/bmw Frozen Blue	Mega (Sensatec And Cloth)	$15,900 	
+2016 BMW i3 60 Ah with Range Extender	17,173 miles	Fluid Black Non Metallic	Tera (Full Leather)	$23,900 	
+2014 BMW i3 60 Ah with Range Extender	59,946 miles	Solar Orange/Frozen Grey	Giga (Leather and Cloth)	$16,991 	
+2013 BMW 3 Series ActiveHybrid 3 Sedan	67,917 miles	WHI	Unknown	$16,999 	
+2017 BMW i3 94 Ah with Range Extender	23,675 miles	FLUID BLACK	GRAY	$24,700 	
+2017 BMW i3 94 Ah with Range Extender	24,917 miles	Mineral Grey w/ BMW i Blue	Mega (Sensatec and Cloth)	$26,500 	
+2016 BMW i3 60 Ah with Range Extender	19,379 miles	Capparis White w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$22,999 	
+2017 BMW i3 94 Ah with Range Extender	24,465 miles	Capparis White/bmw Frozen Black	Mega (Sensatec And Cloth)	$26,900 	
+2017 BMW i3 94 Ah with Range Extender	43,912 miles	Mineral Grey w/ BMW i Blue	Tera (Full Leather)	$24,500 	
+2015 BMW i3 60 Ah with Range Extender	29,157 miles	Laurel Gray Metallic w/BMW i Frozen Blue Accent	Tera Dalbergia Brown	$22,340 	
+2017 BMW i3 94 Ah	15,960 miles	Protonic Blue w/Frozen Grey	Giga Cassia	$25,991 	
+2016 BMW X5 xDrive40e AWD	45,104 miles	ALPINE WHITE	Unknown	$36,250 	
+2016 BMW X5 xDrive40e AWD	29,139 miles	Black Sapphire Metallic	Black	$42,678 	
+2016 BMW X5 xDrive40e AWD	37,980 miles	Brown	Black	$38,995 	
+2016 BMW X5 xDrive40e AWD	34,164 miles	Space Gray Metallic	N/A	$40,980 	
+2016 BMW X5 xDrive40e AWD	39,233 miles	Glacier Silver Metallic	Lcb8 Terra Dakota Le	$40,000 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	2,906 miles	Alpine White	Black SensaTec	$54,999 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,253 miles	Jet Black	Black Dakota Leather	$54,999 	
+2019 BMW 5 Series 530e iPerformance Plug-In Hybrid RWD	3,237 miles	Alpine White	Black Dakota Leather	$55,999 	
+2016 BMW X5 xDrive40e AWD	25,490 miles	Space Gray Metallic	Black Dakota Leather	$44,850 	
+2019 BMW 5 Series 530e xDrive iPerformance Plug-In Hybrid AWD	990 miles	Dark Graphite Metallic	Black SensaTec	$58,180 	
+2017 BMW X5 xDrive40e iPerformance AWD	22,804 miles	Atlas Cedar Metallic	Canberra Beige	$47,993 	
+2018 BMW i3 94 Ah with Range Extender	4,565 miles	CAPPARIS WHITE	Unknown	$49,830 	
+2018 BMW X5 xDrive40e iPerformance AWD	14,097 miles	Unknown	Unknown	$54,000 	
+2016 BMW X5 xDrive40e AWD	43,205 miles	WHITE	WHITE	$47,774 	
+2018 BMW 5 Series 530e iPerformance Plug-In Hybrid	3,442 miles	Jet Black	Black SensaTec	$52,999 	
+2014 BMW i8 Coupe	20,276 miles	Gray	Tan	$62,998 	
+2016 BMW i8 Coupe	18,284 miles	Sophisto Grey Metallic w/BMW i Frozen Blue Accent	Giga Amido, premium leather	$64,995 	
+2015 BMW i8 Coupe	21,327 miles	Protonic Blue w/Frozen Gray Accent	Giga Amido	$67,478 	"1
+41
+(A)"
+Model	Mileage	Exterior	Interior	Price	Next
+2018 BMW X5 xDrive40e iPerformance AWD	7,241 miles	Alpine White	Black	$58,995 	
+2016 BMW i8 Coupe	29,053 miles	Sophisto	Tera Exclusive Dalbergia Brown	$66,995 	
+2015 BMW i8 Coupe	26,956 miles	Crystal White	Pure Spice	$67,124 	
+2018 BMW X5 xDrive40e iPerformance AWD	5,860 miles	GY	Unknown	$60,888 	
+2015 BMW i8 Coupe	17,118 miles	Sophisto Gray W/frozen Gray	Ivory White Full Leather	$69,900 	
+2016 BMW i8 Coupe	23,990 miles	Sophisto Gray w/Frozen Gray Accent	Giga Ivory White	$69,998 	
+2015 BMW i8 Coupe	17,053 miles	Protonic Blue Metallic w/Frozen Gray Accent	Tera Exclusive Dalbergia Brown	$72,480 	
+2015 BMW i8 Coupe	30,973 miles	Sophisto Gray Metallic W/Frozen Gray Accent	Giga Ivory White	$72,000 	
+2015 BMW i8 Coupe	20,186 miles	GREY	GREY	$72,999 	
+2015 BMW i8 Coupe	21,999 miles	Crystal White Pearl Metallic w/Frozen Gray Accent	Pure Impulse Carum Spice	$72,986 	
+2016 BMW i8 Coupe	9,775 miles	Crystal White Pearl Metallic w/BMW i Frozen Blue	Tera Exclusive Dalbergia Brown	$81,286 	
+2017 BMW i8 Coupe	37,311 miles	Protonic Red	Giga Amido	$84,490 	
+2016 BMW i8 Coupe	3,238 miles	SOPHISTO GREY	Giga Amido	$86,888 	
+2017 BMW i8 Coupe	22,610 miles	PROTONIC RED	Giga Amido	$92,500 	"1
+42
+(SPAN) "
