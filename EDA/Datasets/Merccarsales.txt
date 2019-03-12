@@ -1,0 +1,327 @@
+Input Value Set	Model	Go	BreadCrumb	Month	2015	2016	2017	2018	2019
+Test Set Name (not saved)	 All Models								
+Test Set Name (not saved)	A-Class	Go		January 	9.283 	9.086 	9.139 	10.230 	14.167 
+Test Set Name (not saved)	A-Class	Go		February 	6.912 	9.314 	8.701 	9.361 	(TD) 
+Test Set Name (not saved)	A-Class	Go		March 	13.420 	16.845 	18.568 	17.719 	(TD) 
+Test Set Name (not saved)	A-Class	Go		April 	9.865 	11.469 	12.425 	9.556 	(TD) 
+Test Set Name (not saved)	A-Class	Go		May 	10.073 	12.633 	13.242 	11.629 	(TD) 
+Test Set Name (not saved)	A-Class	Go		June 	11.083 	13.824 	12.931 	11.401 	(TD) 
+Test Set Name (not saved)	A-Class	Go		July 	9.737 	10.357 	10.580 	10.394 	(TD) 
+Test Set Name (not saved)	A-Class	Go		August 	7.403 	7.806 	8.493 	8.844 	(TD) 
+Test Set Name (not saved)	A-Class	Go		September 	12.357 	16.235 	16.501 	17.453 	(TD) 
+Test Set Name (not saved)	A-Class	Go		October 	9.959 	11.433 	11.630 	15.400 	(TD) 
+Test Set Name (not saved)	A-Class	Go		November 	10.211 	11.400 	10.970 	16.508 	(TD) 
+Test Set Name (not saved)	A-Class	Go		December 	9.172 	11.398 	10.370 	15.387 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		January 	49 	199 	112 	335 	346 
+Test Set Name (not saved)	AMG GT	Go		February 	26 	209 	101 	215 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		March 	249 	404 	158 	416 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		April 	268 	370 	163 	468 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		May 	239 	237 	194 	428 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		June 	360 	195 	208 	401 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		July 	361 	153 	311 	203 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		August 	152 	117 	261 	338 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		September 	327 	154 	326 	232 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		October 	208 	75 	218 	179 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		November 	175 	138 	224 	167 	(TD) 
+Test Set Name (not saved)	AMG GT	Go		December 	94 	121 	167 	187 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	January 	6.337 	4.340 	4.511 	3.832 	2.298 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	February 	6.375 	5.633 	4.881 	3.973 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	March 	8.784 	7.584 	8.240 	6.591 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	April 	7.503 	7.206 	6.109 	5.865 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	May 	6.771 	6.524 	6.619 	6.739 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	June 	7.651 	8.112 	6.379 	7.438 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	July 	7.041 	5.106 	4.910 	5.993 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	August 	5.001 	4.652 	4.028 	3.061 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	September 	7.155 	7.333 	5.684 	4.653 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	October 	6.505 	5.474 	4.821 	5.689 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	November 	5.385 	6.297 	4.442 	4.691 	(TD) 
+Test Set Name (not saved)	B-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz B-Class	December 	5.213 	5.507 	4.059 	2.497 	(TD) 
+Test Set Name (not saved)	C-Class	Go		January 	14.312 	12.319 	15.104 	12.868 	13.084 
+Test Set Name (not saved)	C-Class	Go		February 	11.365 	10.823 	10.940 	10.198 	(TD) 
+Test Set Name (not saved)	C-Class	Go		March 	21.039 	18.961 	23.121 	18.055 	(TD) 
+Test Set Name (not saved)	C-Class	Go		April 	12.927 	14.959 	15.147 	13.505 	(TD) 
+Test Set Name (not saved)	C-Class	Go		May 	13.692 	14.456 	16.245 	13.016 	(TD) 
+Test Set Name (not saved)	C-Class	Go		June 	17.388 	16.821 	16.927 	12.854 	(TD) 
+Test Set Name (not saved)	C-Class	Go		July 	15.405 	14.138 	14.854 	11.434 	(TD) 
+Test Set Name (not saved)	C-Class	Go		August 	10.258 	11.180 	11.425 	10.539 	(TD) 
+Test Set Name (not saved)	C-Class	Go		September 	18.736 	21.063 	17.725 	12.864 	(TD) 
+Test Set Name (not saved)	C-Class	Go		October 	12.552 	12.766 	11.951 	12.071 	(TD) 
+Test Set Name (not saved)	C-Class	Go		November 	12.923 	14.868 	12.992 	11.820 	(TD) 
+Test Set Name (not saved)	C-Class	Go		December 	12.414 	13.684 	10.484 	11.771 	(TD) 
+Test Set Name (not saved)	C-Class	Go		"W201 (190E) 1982-1993 
+W202 1993-2000 
+W203 2000-2007 
+W204 2007-2014 "					
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	January 	298 	374 	539 	513 	352 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	February 	244 	345 	493 	495 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	March 	383 	393 	488 	549 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	April 	336 	417 	365 	557 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	May 	399 	429 	466 	725 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	June 	303 	485 	528 	691 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	July 	365 	521 	430 	520 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	August 	319 	452 	457 	616 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	September 	316 	339 	432 	310 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	October 	435 	415 	505 	282 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	November 	468 	264 	411 	426 	(TD) 
+Test Set Name (not saved)	Citan	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Citan Combi 	December 	479 	370 	429 	269 	(TD) 
+Test Set Name (not saved)	CL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CL 						
+Test Set Name (not saved)	CLA	Go		January 	2.800 	4.957 	4.941 	4.980 	4.107 
+Test Set Name (not saved)	CLA	Go		February 	2.606 	4.853 	4.482 	4.536 	(TD) 
+Test Set Name (not saved)	CLA	Go		March 	5.935 	7.085 	7.308 	6.710 	(TD) 
+Test Set Name (not saved)	CLA	Go		April 	4.514 	5.363 	4.892 	4.640 	(TD) 
+Test Set Name (not saved)	CLA	Go		May 	5.000 	4.214 	5.782 	5.532 	(TD) 
+Test Set Name (not saved)	CLA	Go		June 	6.473 	5.107 	6.056 	5.264 	(TD) 
+Test Set Name (not saved)	CLA	Go		July 	6.240 	5.584 	5.284 	4.536 	(TD) 
+Test Set Name (not saved)	CLA	Go		August 	4.783 	5.256 	4.136 	3.448 	(TD) 
+Test Set Name (not saved)	CLA	Go		September 	7.388 	7.466 	5.826 	5.435 	(TD) 
+Test Set Name (not saved)	CLA	Go		October 	5.833 	5.249 	5.569 	4.844 	(TD) 
+Test Set Name (not saved)	CLA	Go		November 	5.174 	5.131 	5.486 	4.617 	(TD) 
+Test Set Name (not saved)	CLA	Go		December 	5.354 	5.545 	4.324 	3.980 	(TD) 
+Test Set Name (not saved)	CLC	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLC 						
+Test Set Name (not saved)	CLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLK 						
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	January 	770 	604 	532 	162 	1.064 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	February 	848 	478 	423 	189 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	March 	1.622 	1.071 	948 	846 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	April 	1.178 	906 	374 	751 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	May 	1.245 	685 	556 	744 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	June 	1.234 	823 	431 	1.035 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	July 	1.084 	548 	313 	874 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	August 	712 	342 	153 	762 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	September 	1.345 	695 	535 	774 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	October 	940 	448 	216 	1.160 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	November 	862 	621 	323 	997 	(TD) 
+Test Set Name (not saved)	CLS	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz CLS 	December 	760 	582 	312 	819 	(TD) 
+Test Set Name (not saved)	E-Class	Go		January 	5.242 	5.599 	8.913 	9.909 	8.120 
+Test Set Name (not saved)	E-Class	Go		February 	5.474 	5.194 	7.539 	8.223 	(TD) 
+Test Set Name (not saved)	E-Class	Go		March 	11.642 	11.079 	15.886 	14.518 	(TD) 
+Test Set Name (not saved)	E-Class	Go		April 	6.514 	9.910 	10.651 	11.340 	(TD) 
+Test Set Name (not saved)	E-Class	Go		May 	7.182 	9.168 	12.672 	10.762 	(TD) 
+Test Set Name (not saved)	E-Class	Go		June 	8.500 	9.233 	12.296 	10.250 	(TD) 
+Test Set Name (not saved)	E-Class	Go		July 	7.042 	7.318 	10.199 	8.968 	(TD) 
+Test Set Name (not saved)	E-Class	Go		August 	4.540 	5.894 	6.711 	7.319 	(TD) 
+Test Set Name (not saved)	E-Class	Go		September 	9.543 	10.890 	13.096 	11.219 	(TD) 
+Test Set Name (not saved)	E-Class	Go		October 	6.755 	8.239 	10.520 	8.606 	(TD) 
+Test Set Name (not saved)	E-Class	Go		November 	6.688 	8.807 	10.909 	8.859 	(TD) 
+Test Set Name (not saved)	E-Class	Go		December 	5.649 	8.163 	8.246 	7.933 	(TD) 
+Test Set Name (not saved)	E-Class	Go		"W124 1984-1995 
+W210 1995-2002 
+W211 2002-2009 
+W212 2009-2016 "					
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	January 	197 	319 	425 	880 	705 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	February 	198 	281 	384 	454 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	March 	286 	326 	488 	687 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	April 	240 	342 	343 	513 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	May 	214 	328 	462 	397 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	June 	322 	468 	391 	304 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	July 	249 	358 	480 	357 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	August 	147 	241 	424 	404 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	September 	174 	372 	498 	395 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	October 	248 	418 	485 	630 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	November 	328 	549 	494 	497 	(TD) 
+Test Set Name (not saved)	G-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz G-Class 	December 	333 	644 	583 	553 	(TD) 
+Test Set Name (not saved)	GL	Go		January 	310 	225 	378 	325 	185 
+Test Set Name (not saved)	GL	Go		February 	279 	154 	392 	242 	(TD) 
+Test Set Name (not saved)	GL	Go		March 	470 	552 	512 	366 	(TD) 
+Test Set Name (not saved)	GL	Go		April 	382 	643 	365 	286 	(TD) 
+Test Set Name (not saved)	GL	Go		May 	307 	492 	373 	336 	(TD) 
+Test Set Name (not saved)	GL	Go		June 	371 	497 	448 	388 	(TD) 
+Test Set Name (not saved)	GL	Go		July 	294 	412 	376 	303 	(TD) 
+Test Set Name (not saved)	GL	Go		August 	216 	576 	245 	300 	(TD) 
+Test Set Name (not saved)	GL	Go		September 	350 	581 	512 	230 	(TD) 
+Test Set Name (not saved)	GL	Go		October 	247 	430 	310 	278 	(TD) 
+Test Set Name (not saved)	GL	Go		November 	283 	403 	359 	270 	(TD) 
+Test Set Name (not saved)	GL	Go		December 	244 	396 	267 	210 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	January 	4.492 	4.535 	4.201 	5.556 	5.790 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	February 	3.537 	4.551 	4.213 	5.042 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	March 	6.053 	7.016 	6.007 	8.275 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	April 	5.057 	5.258 	5.443 	5.084 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	May 	5.210 	5.378 	6.315 	5.563 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	June 	5.722 	6.380 	7.042 	5.442 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	July 	5.818 	4.801 	6.387 	4.834 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	August 	4.268 	4.180 	5.290 	2.997 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	September 	6.733 	7.518 	8.163 	7.346 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	October 	5.627 	5.621 	6.900 	8.849 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	November 	5.473 	5.671 	7.130 	7.453 	(TD) 
+Test Set Name (not saved)	GLA	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLA 	December 	5.435 	6.161 	5.778 	6.357 	(TD) 
+Test Set Name (not saved)	GLC	Go		January 	0 	5.563 	8.865 	10.426 	8.878 
+Test Set Name (not saved)	GLC	Go		February 	0 	4.512 	6.721 	8.074 	(TD) 
+Test Set Name (not saved)	GLC	Go		March 	0 	7.174 	9.846 	13.694 	(TD) 
+Test Set Name (not saved)	GLC	Go		April 	0 	5.401 	6.646 	10.312 	(TD) 
+Test Set Name (not saved)	GLC	Go		May 	0 	5.027 	9.351 	10.822 	(TD) 
+Test Set Name (not saved)	GLC	Go		June 	0 	6.498 	9.759 	12.845 	(TD) 
+Test Set Name (not saved)	GLC	Go		July 	102 	4.116 	8.951 	10.022 	(TD) 
+Test Set Name (not saved)	GLC	Go		August 	539 	4.060 	9.106 	8.575 	(TD) 
+Test Set Name (not saved)	GLC	Go		September 	2.647 	7.764 	12.649 	11.589 	(TD) 
+Test Set Name (not saved)	GLC	Go		October 	3.599 	6.633 	10.008 	9.912 	(TD) 
+Test Set Name (not saved)	GLC	Go		November 	5.727 	7.137 	10.396 	9.948 	(TD) 
+Test Set Name (not saved)	GLC	Go		December 	5.094 	6.464 	8.895 	8.924 	(TD) 
+Test Set Name (not saved)	GLC Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLC Coupe 						
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	January 	0 	2.280 	2.258 	1.987 	964 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	February 	0 	2.178 	1.887 	1.743 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	March 	0 	2.940 	2.948 	3.032 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	April 	0 	2.495 	2.031 	1.945 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	May 	0 	2.276 	2.245 	2.304 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	June 	0 	2.626 	2.475 	2.498 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	July 	0 	2.787 	2.306 	2.356 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	August 	181 	2.149 	1.400 	2.415 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	September 	(TD) 	2.918 	2.775 	1.803 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	October 	2.108 	2.537 	1.979 	1.676 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	November 	2.573 	2.342 	2.300 	1.580 	(TD) 
+Test Set Name (not saved)	GLE	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE 	December 	2.324 	2.395 	1.915 	1.547 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	January 	0 	861 	1.026 	686 	466 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	February 	0 	515 	723 	502 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	March 	0 	1.045 	996 	705 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	April 	62 	937 	744 	498 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	May 	65 	1.055 	841 	660 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	June 	22 	919 	798 	658 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	July 	482 	988 	814 	611 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	August 	464 	781 	446 	562 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	September 	896 	1.342 	711 	196 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	October 	879 	871 	511 	484 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	November 	720 	800 	623 	318 	(TD) 
+Test Set Name (not saved)	GLE Coupe	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz GLE Coupe 	December 	698 	689 	428 	201 	(TD) 
+Test Set Name (not saved)	GLK	Go		January 	1.811 	85 	7 	(TD) 	
+Test Set Name (not saved)	GLK	Go		February 	1.861 	73 	12 	5 	
+Test Set Name (not saved)	GLK	Go		March 	2.890 	72 	1 	4 	
+Test Set Name (not saved)	GLK	Go		April 	2.154 	28 	5 	(TD) 	
+Test Set Name (not saved)	GLK	Go		May 	2.245 	19 	(TD) 	(TD) 	
+Test Set Name (not saved)	GLK	Go		June 	1.166 	23 	1 	(TD) 	
+Test Set Name (not saved)	GLK	Go		July 	557 	18 	(TD) 	(TD) 	
+Test Set Name (not saved)	GLK	Go		August 	280 	36 	(TD) 	(TD) 	
+Test Set Name (not saved)	GLK	Go		September 	350 	27 	6 	(TD) 	
+Test Set Name (not saved)	GLK	Go		October 	194 	14 	(TD) 	(TD) 	
+Test Set Name (not saved)	GLK	Go		November 	164 	25 	1 	(TD) 	
+Test Set Name (not saved)	GLK	Go		December 	144 	13 	(TD) 	(TD) 	
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	January 	1.810 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	February 	1.276 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	March 	2.118 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	April 	1.809 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	May 	1.858 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	June 	1.660 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	July 	1.345 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	August 	993 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	September 	3.312 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	October 	(TD) 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	November 	(TD) 				
+Test Set Name (not saved)	M-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz M-Class 	December 	(TD) 				
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	January 	1 	1 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	February 	2 	2 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	March 	(TD) 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	April 	(TD) 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	May 	(TD) 	3 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	June 	1 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	July 	1 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	August 	1 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	September 	1 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	October 	(TD) 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	November 	1 	(TD) 			
+Test Set Name (not saved)	R-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz R-Class	December 	(TD) 	(TD) 			
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	January 	1.241 	1.086 	927 	1.223 	933 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	February 	1.290 	1.216 	962 	1.028 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	March 	2.077 	1.793 	1.819 	1.781 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	April 	1.665 	1.562 	1.313 	1.278 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	May 	1.530 	1.273 	1.476 	1.367 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	June 	1.306 	1.677 	1.160 	1.490 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	July 	1.380 	1.065 	794 	965 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	August 	1.027 	829 	963 	1.191 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	September 	1.564 	1.480 	1.463 	1.106 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	October 	1.218 	951 	1.242 	1.125 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	November 	1.153 	1.044 	1.372 	960 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	December 	1.132 	991 	1.266 	859 	(TD) 
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	1972-1980 					
+Test Set Name (not saved)	S-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz S-Class	"1980-1991 W126 
+1991-1998 W140/C140 
+1998-2005 W220 
+2005-2013 W221 
+2013-present W222/C217/A217 Mercedes_Benz-S_Class-generations-auto-sales-statistics-Europe "					
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	January 	135 	112 	107 	68 	57 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	February 	102 	55 	119 	64 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	March 	371 	206 	277 	161 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	April 	177 	226 	147 	98 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	May 	225 	144 	149 	105 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	June 	199 	282 	173 	83 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	July 	181 	197 	119 	61 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	August 	94 	121 	65 	49 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	September 	228 	290 	174 	122 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	October 	84 	107 	52 	48 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	November 	90 	83 	54 	46 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	December 	114 	88 	50 	33 	(TD) 
+Test Set Name (not saved)	SL	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SL 	"1954-1963 W198/W121 
+1963-1971 W113 
+1972-1989 R107 
+1989-2001 R129 
+2001-2008 R230 "					
+Test Set Name (not saved)	SLC	Go		January 		14 	460 	413 	271 
+Test Set Name (not saved)	SLC	Go		February 		214 	370 	273 	(TD) 
+Test Set Name (not saved)	SLC	Go		March 		497 	1.605 	929 	(TD) 
+Test Set Name (not saved)	SLC	Go		April 		540 	771 	732 	(TD) 
+Test Set Name (not saved)	SLC	Go		May 		(TD) 	841 	525 	(TD) 
+Test Set Name (not saved)	SLC	Go		June 		935 	830 	459 	(TD) 
+Test Set Name (not saved)	SLC	Go		July 		714 	699 	327 	(TD) 
+Test Set Name (not saved)	SLC	Go		August 		465 	405 	285 	(TD) 
+Test Set Name (not saved)	SLC	Go		September 		1.256 	1.010 	561 	(TD) 
+Test Set Name (not saved)	SLC	Go		October 		544 	290 	239 	(TD) 
+Test Set Name (not saved)	SLC	Go		November 		535 	320 	281 	(TD) 
+Test Set Name (not saved)	SLC	Go		December 		491 	278 	164 	(TD) 
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	January 	672 	639 	67 	32 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	February 	475 	192 	62 	30 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	March 	2.042 	956 	57 	54 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	April 	1.001 	112 	62 	44 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	May 	1.284 	63 	59 	52 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	June 	1.056 	75 	46 	20 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	July 	870 	53 	40 	1 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	August 	352 	15 	59 	7 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	September 	1.154 	37 	46 	6 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	October 	507 	27 	17 	2 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	November 	497 	15 	14 	(TD) 	
+Test Set Name (not saved)	SLK	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLK 	December 	459 	9 	13 	(TD) 	
+Test Set Name (not saved)	SLR McLaren	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLR McLaren 						
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	January 	7 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	February 	2 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	March 	8 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	April 	4 	2 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	May 	5 	2 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	June 	1 	3 	1 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	July 	3 	2 	1 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	August 	14 	1 	1 	3 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	September 	2 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	October 	8 	1 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	November 	(TD) 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	SLS AMG	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz SLS AMG 	December 	2 	(TD) 	(TD) 	(TD) 	
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	January 	451 	614 	456 	609 	668 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	February 	390 	514 	570 	511 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	March 	497 	664 	764 	833 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	April 	478 	612 	584 	752 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	May 	518 	596 	701 	522 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	June 	635 	725 	724 	736 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	July 	647 	545 	712 	661 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	August 	387 	620 	618 	510 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	September 	426 	507 	654 	472 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	October 	533 	479 	553 	497 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	November 	567 	684 	638 	591 	(TD) 
+Test Set Name (not saved)	Sprinter	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Sprinter Combi 	December 	664 	757 	630 	593 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	January 	1.354 	1.965 	2.068 	1.985 	2.014 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	February 	1.161 	2.263 	2.159 	1.969 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	March 	2.038 	2.627 	3.252 	3.052 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	April 	1.861 	2.785 	2.442 	2.413 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	May 	1.958 	2.678 	2.963 	2.731 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	June 	2.546 	3.105 	3.655 	3.319 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	July 	2.700 	2.572 	2.936 	2.291 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	August 	1.196 	1.943 	1.939 	1.706 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	September 	1.337 	2.117 	2.219 	1.573 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	October 	1.804 	1.975 	2.306 	2.790 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	November 	2.221 	2.355 	2.574 	2.589 	(TD) 
+Test Set Name (not saved)	V-Class	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz V-Class 	December 	2.213 	2.555 	2.877 	2.755 	(TD) 
+Test Set Name (not saved)	Vaneo	Go	Home» European Car Sales Data» Mercedes-Benz» Mercedes-Benz Vaneo 						
+Test Set Name (not saved)	Vito/Viano	Go		January 	557 	789 	1.090 	1.165 	1.353 
+Test Set Name (not saved)	Vito/Viano	Go		February 	573 	767 	1.124 	1.189 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		March 	1.107 	1.344 	2.625 	2.420 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		April 	1.003 	1.211 	1.706 	2.100 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		May 	1.093 	1.491 	2.109 	2.130 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		June 	1.512 	2.114 	2.673 	2.707 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		July 	1.470 	1.791 	2.027 	945 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		August 	807 	1.102 	1.458 	979 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		September 	696 	1.314 	1.371 	1.136 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		October 	774 	1.161 	1.434 	2.285 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		November 	826 	1.351 	1.986 	1.704 	(TD) 
+Test Set Name (not saved)	Vito/Viano	Go		December 	1.002 	1.499 	2.198 	1.463 	(TD) 
