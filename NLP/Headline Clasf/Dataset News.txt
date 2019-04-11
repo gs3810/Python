@@ -1,0 +1,380 @@
+Date	Code	headline	Relevance
+4-Apr	FEX	Erdogan humbled	0
+4-Apr	DPA	EXTRA Turkey blasts US State Department following showdown	1
+4-Apr	FTI	Erdogan's power diminished by election setback	1
+4-Apr	NTX	Presidentes de Turquía y de Rusia se reunirán el lunes próximo	0
+4-Apr	GO8	ForMinistry (TR): Visit of Foreign Minister Mevlüt Çavusoglu to the U.S. to attend the NATO Foreign Ministers’ Meeting to	0
+3-Apr	BFW	Pompeo Tells Cavusoglu He’s Concerned About Russia Missile Buy	0
+3-Apr	GO1	State Dept: Secretary Pompeo's Meeting With Turkish Foreign Minister Mevlut Cavusoglu	0
+3-Apr	NTX	Turquía debe elegir entre OTAN o compras de armas a Rusia: Pence	0
+3-Apr	GO1	Rep. Engel: Readout of Meeting with Turkish Foreign Minister	0
+3-Apr	DPA	EXTRA Turkey tells US to choose if to remain allies with Ankara	0
+3-Apr	NYT	Erdogan Opponents Vow Rare Scrutiny of Istanbul’s Books	1
+3-Apr	NYT	Erdogan Opponents Vow Rare Chance to Scrutinize Istanbul’s Books	0
+3-Apr	ANS	ANSA/ Turchia: Imamoglu all'attacco,Erdogan mi riconosca sindaco	0
+3-Apr	APW	Istanbul Mayoral Candidate Asks to Be Confirmed as Winner	1
+3-Apr	ANS	Turchia: riconteggio schede amministrative anche ad Ankara	0
+3-Apr	GO5	Macedonian Info: Opposition candidate in Istanbul demands officials grant him victory	0
+3-Apr	SBN	NATO would not be "able" to defend Turkey's airspace	0
+3-Apr	PTI	Turkey recounts Istanbul votes after Erdogan's party appeals loss	0
+3-Apr	ANS	Turkey: Cavusoglu, Russian missile purchase concluded	0
+3-Apr	HUR	Turkey's annual inflation rate at 19.71 pct in March	1
+4-Apr	BFW	Brazil’s Guedes Leaves Cmte Hearing Amid Confusion	0
+4-Apr	BFW	*BRAZIL FINMIN LEAVES CONGRESS ESCORTED BY POLICE	0
+4-Apr	BFW	Brazil Says Amazon.com Should Share Domain Name Rights: Reuters	0
+3-Apr	BN	Sparks Fly as Brazil Economy Czar, Lawmakers Clash on Reform	1
+3-Apr	BFW	Brazil Cenbank Informs Laia That It is no Longer Part of CCR	0
+3-Apr	NPW	Keanu Reeves visits Brazil for new TV series	0
+3-Apr	BFW	*BRAZIL CENBANK INFORMS LAIA THAT IT IS NO LONGER PART OF CCR	0
+3-Apr	BN	*BRAZIL LAWMAKER SAYS NOR EVEN BOLSONARO SUPPORTS PENSION REFORM	1
+3-Apr	BFW	Brazil Real Retreats After Guedes Meeting Backfires	0
+3-Apr	BFW	U.S. Gets Biggest Share of Brazil Fuel Imports in at Least 7 Yrs	0
+3-Apr	BNA	Brazil Gazettes Consultation Solution Clarifying Social Security Contributions for Revenue From Sale of Auto Parts	0
+3-Apr	BNA	Brazil Gazettes Consultation Solutions Clarifying Industrialized Products Tax Exemption for Foreign Products, Vehicles	0
+3-Apr	BN	*BRAZIL PENSION CAN'T PRIVILEGE LEGISLATORS, JUDGES: MINISTER	1
+3-Apr	BNA	Brazil Gazettes Consultation Solution Clarifying Corporate Income Tax, Net Profit, Net Income, Distribution, Dividends	1
+3-Apr	BFW	Brazil Economy Minister Argues With Lower House Lawmakers	1
+3-Apr	GO7	Ferreira affirmed that Bolsonaro violates Mercosur regulations	0
+3-Apr	GO7	Uruguay Republic: Brazil. Embarrassing situation leaves Bolsonaro in a false position before Arab countries.	0
+3-Apr	BFW	BRL Reverses Gains as Guedes Hearing Turns Acrimonious	1
+3-Apr	BFW	Brazil’s Maia Says He’s Not Opposed to Talking to Bolsonaro	0
+3-Apr	BN	*BRL REVERSES GAINS AS GUEDES DEBATES WITH LAWMAKERS	0
+4-Apr	CTX	Mexican president says closing border will benefit neither	1
+4-Apr	APW	Suspected Car Bomb in Southern Mexico Injures None	0
+4-Apr	GO7	The Ministry of Finance and Public Credit reports on a series of meetings with	1
+3-Apr	BFW	EM Day Ahead: Malaysia Exports, India Rate, Mexico Confidence	1
+3-Apr	GO1	DoJ TX Eastern: Mexican National Indicted for Illegally Reentering the United States	0
+3-Apr	NTX	Senators again reject short lists for the CRE; Executive may	0
+3-Apr	NTX	Disney y Fox proponen auditor para la venta de Fox Sports	0
+3-Apr	GO7	Profile of the Government of Mexico to the livestock sector as a global reference in environmental responsibility and social inclusi	0
+3-Apr	NTX	INE and authorities of Tabasco agree to update electoral roll	0
+3:50	WPT	Columbia University’s Cancellation of Forum on Turkey Draws Criticism	0
+1:33	FTI	Istanbul vote energises Turkey opposition	0
+4-Apr	CTX	Turkey warns U.S. not to meddle in elections	0
+4-Apr	BBO	'Don't Fight the White House' Is Market's Mantra: Robert Burgess	0
+4-Apr	ANS	Nato: Turchia, continueremo nel sostegno contro terrorismo	0
+4-Apr	FTI	FastFT: Erdogan’s AK Party warns opposition on Istanbul race results	1
+4-Apr	CTX	Turkey's Q1 exports hit record 44.5 bln USD	0
+4-Apr	BN	Patience Is Golden as Central Bankers Hit the Pause Button	0
+4-Apr	DPA	Recount of Istanbul votes halfway through as opposition says it leads	0
+4-Apr	FTI	FastFT: Turkey foreign currency reserves rise but concerns linger	0
+4-Apr	BN	Developed Economies 2Q CPI Forecast Steady; Norway Up to 2.4%	0
+4-Apr	ANS	Nato:Stoltenberg, S-400 russi a Turchia non in agenda summit	0
+4-Apr	BN	*TURKEY'S CHP ISTANBUL MAYOR CANDIDATE EKREM IMAMOGLU SPEAKS	0
+4-Apr	GO1	USDA-Foreign Agr: Turkey: Cotton and Products Annual - April 3, 2019	0
+4-Apr	BN	*IMAMOGLU SAYS HE REMAINS AHEAD BY 19,552 VOTES IN ISTANBUL	0
+4-Apr	FTI	Imamoglu’s battle to lead Istanbul energises Turkey’s opposition	0
+4-Apr	BN	U.S.-Turkey Showdown Escalates as Pence Warns on Missiles	0
+4-Apr	BN	*TURKEY'S AKP TO OBJECT TO ANKARA ELECTION RESULTS: AKP SEC-GEN	0
+4-Apr	BN	*TURKISH OFFICIAL SPEAKS TO BLOOMBERG IN ANKARA ON S-400	0
+4-Apr	TCB	Turkish Lira Currency Swap Market	0
+5-Apr	HUR	Turkish Central Bank reserves rise to $75 billion	1
+5-Apr	HUR	Turkey’s hazelnut export revenues hit $1 billion	0
+5-Apr	HUR	Foreign trade deficit shrank 67 percent in March	1
+5-Apr	HUR	Turkey's exports with $44.5 billion hit all-time high in Q1	0
+5-Apr	HUR	Turkey's Central Bank raises swap sale limits	1
+5-Apr	HUR	Germany eyes closer economic ties with Turkey: Official	0
+5-Apr	HUR	Big switch to Istanbul Airport to last 45 hours	0
+5-Apr	HUR	Auto sales declined 36 percent in Turkey in March	0
+5-Apr	HUR	Turkey's annual inflation rate at 19.71 pct in March	0
+5-Apr	HUR	Over 500,000 foreign tourists visit Antalya in first quarter of 2019	0
+5-Apr	HUR	Local firms’ foreign assets stand at $118 billion	0
+5-Apr	HUR	Turkey's Isbank elects first female board chair	0
+5-Apr	HUR	Istanbul retails prices rise 0.75 percent in March	0
+5-Apr	HUR	Sinkholes in central Turkey raise fears among locals	0
+5-Apr	HUR	Recount continues in Istanbul, new appeal for Ankara	0
+5-Apr	HUR	Big switch to Istanbul Airport to last 45 hours	0
+5-Apr	HUR	Euro court rejects appeals against Turkish curfews	0
+5-Apr	HUR	The Battle of Athens is about to start	0
+5-Apr	HUR	Turkish Airlines launches London-Antalya direct flights	0
+5-Apr	HUR	Moody’s warns about Turkey's forex reserves	1
+5-Apr	HUR	Turkey's manufacturing index at highest since July 2018	0
+5-Apr	HUR	Istanbul Airport serves over 400,000 people	0
+5-Apr	HUR	Turkish annual consumer price inflation seen at 19.4 percent in March	0
+5-Apr	HUR	Turkey hits historic LNG import record in Jan	0
+5-Apr	HUR	White House calls for Fed to reverse US rate hikes	0
+5-Apr	HUR	Banking sector net profits hit $1.2B in Jan, Feb	0
+5-Apr	HUR	Turkish Treasury to repay over $7B debt in April-June	1
+5-Apr	HUR	Ziraat Bank secures $1.4 billion syndicated loan	0
+5-Apr	HUR	Over 3.2 million foreigners visit Turkey in two months	0
+5-Apr	HUR	Turkey’s state-run roads, bridges bring in $55 million in two months	0
+0-Jan	ERO	The Government of Bolsonaro rejects that there was a coup d'état in Brazil in a letter sent to the UN	0
+0-Jan	NPW	Bolsonaro seeks to revise how Brazil's schools teach on coup	0
+0-Jan	DPA	REFILE Report: Bolsonaro government writes to UN defending military coup	0
+0-Jan	BFW	Brazil President Says He Didn’t Offer Govt Positions to Parties	0
+4-Apr	BFW	*BOLSONARO SAYS NETANYAHU SUPPORTS BRAZIL'S ENTRY INTO OECD	0
+4-Apr	BFW	Brazil’s Lorenzoni Says Govt to Meet 6 Parties Next Week	0
+4-Apr	BFW	*BOLSONARO SAYS AGRICULTURE MINISTER TO MEET ARAB COMMUNITY	0
+4-Apr	BFW	*BRAZIL PRESIDENT SAYS VISA MEASURE HELPED AIR TRAVEL DEMAND	1
+4-Apr	APW	Brazilian Police Kill 11 Suspects to Stop Bank Robbery	0
+4-Apr	BFW	*BRAZIL PRESIDENT SAYS HE DIDN'T OFFER GOVT POSITIONS TO PARTIES	0
+4-Apr	DPA	Report: Bolsonaro government writes to UN defending military coup	0
+4-Apr	BFW	*BRAZIL'S LORENZONI SAYS GOVT TO MEET 6 PARTIES, NOT 5, NEXT WK	0
+4-Apr	BFW	*BRAZIL GOVT TO MEET W/ 5 MORE PARTIES NEXT WEEK: CHIEF OF STAFF	0
+4-Apr	BLW	Brazilian Court Customs Ruling Sets Precedent for Exporters	1
+4-Apr	BES	TRANSLATION: Veja: PSL Leader in the House acknowledges lack of government strategy in CCJ	1
+4-Apr	BN	Fence-Sitting Lawmakers Cast Doubt Over Brazil’s Flagship Reform	1
+4-Apr	BFW	Brazil’s MDB Party President Says Bolsonaro Open to Dialogue	0
+4-Apr	BES	TRANSLATION: Folha: Bolsonaro government is worse than I imagined because 'I have not seen anything' so far, says FHC	0
+4-Apr	BFW	*BRAZIL'S MDB DOESN'T AGREE W/ RURAL AND BENEFIT ON PENSION BILL	1
+4-Apr	BFW	*BRAZIL'S MDB PARTY PRESIDENT SAYS BOLSONARO OPEN TO DIALOGUE	0
+0-Jan	NTX	Secretaria de Gobernación intercambia puntos de vista con CTM	0
+0-Jan	BFW	Mexico Central Bank Head Says It’s Too Soon to Talk of Recession	1
+0-Jan	GO7	Economy (MX): Press conference of the Director General of the WTO, Roberto Azevêdo, and the Secretary of Economy, Graciela	1
+0-Jan	NTX	The Mexican Association of Stock Exchange Institutions, the Mexican Stock Exchange, and the National Bank of Foreign Trade,	1
+0-Jan	BMV	DESIGNATION OF DFK-GLF, S.C., AS THE OFFICE THAT PROVIDES THE SERVICES OF	0
+0-Jan	GO7	SHCP Mexico: Viernes Recreativo para niñas y niños de 6 a 12 años.	0
+0-Jan	GO7	SIL: 17:16:14El Sen. Marti Batres Guadarrama (MORENA), presidente de la Mesa Directiva de la Cámara de Senadores, destaca los	0
+4-Apr	NTX	Encuentro Sindicatos del Sector Hacendario	0
+4-Apr	NTX	Caravanas migrantes, forma económica y segura de llegar a la frontera	0
+4-Apr	GO1	Rep. Buchanan: Buchanan, Rubio Lead Effort to Protect Florida Farmers	0
+4-Apr	PTI	Thieves steal shipment of money from Mexico airport	0
+4-Apr	PTI	Trump should 'keep migration, trade issues separate': Mexico	0
+8-Apr	GO4	Foreign Affairs: Summary of the Fourteenth Round of the Negotiations for Japan-Turkey Economic Partnership Agreement (EPA)	1
+8-Apr	DPA	Putin, Erdogan to meet as Turkey roils US over Russian arms purchase	0
+7-Apr	WPT	Erdogan’s Party Seeks Full Recount in Istanbul	1
+7-Apr	DPA	2ND LEAD Turkey rejects EU official's criticism of AKP election challenge By Mirjam Schmitt, DPA	0
+7-Apr	APW	Turkish Ruling Party Seeks Total Recount of Istanbul Votes	0
+7-Apr	FTI	Erdogan’s party demands full recount of Istanbul mayoral vote	0
+7-Apr	CTX	Turkish ruling party calls for recount of all votes in Istanbul	0
+7-Apr	DPA	1ST LEAD Turkey rejects EU official's criticism of AKP election challenge By Mirjam Schmitt, DPA	0
+7-Apr	BN	Turkey’s Ruling AKP to Seek Total Recount of Istanbul Votes	0
+7-Apr	BN	Turkey’s Ruling AKP to Seek Total Istanbul Recount (Correct)	0
+7-Apr	CTX	Turkey slams EU's remarks over local elections dispute	0
+7-Apr	CTX	Spotlight: Turkey's Erdogan to visit Russia amid S-400 deal	0
+7-Apr	BN	Turkey’s Ruling AKP to Seek Total Istanbul Recount: Hurriyet	0
+7-Apr	PTI	Erdogan's party to demand total recount of Istanbul ballots	0
+7-Apr	DPA	Turkey rejects EU official's criticism of AKP election challenge	0
+7-Apr	FTI	Turkey’s national carrier completes move to new $11bn Istanbul airport	0
+7-Apr	PTI	Elections over, Turkey's Erdogan eyes economic reforms	1
+7-Apr	BN	Taking Stock of ‘Precarious’ Global Growth: Economy Week Ahead	0
+7-Apr	FTI	Turkey’s national carrier completes move to new $11bn Istanbul airport	0
+6-Apr	CTX	Spotlight: Turkey's election results remain in limbo as ruling	1
+6-Apr	FTI	FastFT: Erdogan’s AK Party may appeal for annulment of Istanbul district vote	1
+6-Apr	PTI	Erdogan's ruling AKP ready to accept election recount results	0
+6-Apr	DPA	1ST LEAD 'Great move' - Turkish Airlines transfers to new home in Istanbul By Anindita Ramaswamy, DPA	0
+6-Apr	APW	Life as An EU Satellite: Swiss, Turks Hold Lessons for UK	0
+6-Apr	BN	One of Europe’s Largest Airlines Is Changing Gates for Erdogan	0
+6-Apr	FTI	Opposition deals blow to Erdogan in Turkish local elections	1
+6-Apr	FTI	Erdogan's prisoners	0
+5-Apr	BLW	Turkish Textile Company Wins EU Appeal in Trademark Case	0
+5-Apr	CTX	Turkish defense minister says U.S. to deliver 4th F-35 jet	0
+5-Apr	BN	Trade Hopes and Jobs Data Lift Riskier Assets: EM Week Review	0
+5-Apr	GO8	Rep of Turkey CB: Bank Loans Tendency Survey - Data - 2019Q1 Apr 5, 2019, 2:30:00 PM	1
+5-Apr	GO8	Rep of Turkey CB: Bank Loans Tendency Survey - Quarterly Developments - 2019Q1 Apr 5, 2019, 2:30:00 PM	0
+5-Apr	WPT	Opinion: Erdogan Should Seize the Chance for Change in Turkey	0
+5-Apr	APW	Turkey's Opposition Worries as Istanbul Recounts Votes	0
+5-Apr	PTI	Erdogan says Russia missile deal to go ahead after US suspension	0
+5-Apr	PTI	Erdogan accuses US, Europe of 'meddling' after Turkey vote	1
+5-Apr	DPA	Erdogan says party could seek vote recount check by top election body	0
+5-Apr	GO8	Rep of Turkey CB: Press Release On the Maximum Interest Rates for Credit Cards in Q2 2019 (2019-14) PDF	1
+5-Apr	GO5	Russia Pres: On April 8, Vladimir Putin will meet with President of Turkey Recep Tayyip Erdogan	0
+5-Apr	CTX	Erdogan to visit Russia to discuss S-400, joint projects	0
+5-Apr	BFW	Turkey Treasury Cash Budget Deficit 15b Liras in March	0
+5-Apr	BN	*TURKEY CASH BUDGET DEFICIT 15.0B LIRAS IN MARCH	1
+5-Apr	APW	Turkey's Erdogan Stands By Russian Air Defense Purchase	0
+5-Apr	ANS	Turchia: Erdogan, alta affluenza lezione democrazia al mondo	0
+5-Apr	CTX	Turkish opposition mayoral candidate leading in Istanbul amid	0
+8-Apr	ERO	Brasil.- Bolsonaro, el presidente de Brasil peor valorado desde el fin de la dictadura	0
+8-Apr	BES	TRANSLATION: Valor: Plan for States to go to Congress in 20 days, says Mansueto	0
+8-Apr	BFW	Brazil 2019 GDP Growth Estimate Cut to 1.5% from 2% by Safra	1
+7-Apr	EPN	Bolsonaro suspende el horario de verano en Brasil	0
+7-Apr	APW	Protest And Celebration in Brazil on Lula Prison Anniversary	0
+7-Apr	GO7	Presidency VE: President Nicolás Maduro asks for the release of Lula Da Silva	0
+7-Apr	BN	Brazil U.S. Roadshow Tough Sale as Bolsonaro Honeymoon Ends	0
+7-Apr	BES	TRANSLATION: Estadão: Bolsonaro says he will decide fate of the Minister of Education on Monday	0
+7-Apr	NTX	Bolsonaro suma alta desaprobación en sus primeros tres meses	0
+7-Apr	BES	TRANSLATION: Globo: After a wave of government, Congress negotiates an amendment	1
+7-Apr	BES	TRANSLATION: UOL Brasil: CCJ president wants to anticipate reform debate for April 15	0
+7-Apr	BES	TRANSLATION: Estadão: Despite crisis in political articulation, support for reform grows in the House	1
+7-Apr	BES	TRANSLATION: Folha: 'I will not waste time to comment on Datafolha's research', says Bolsonaro	0
+7-Apr	BN	Brazil’s Bolsonaro Faces Record-Low Polling as Honeymoon Ends	0
+7-Apr	BES	TRANSLATION: Folha: After 3 months, Bolsonaro has the worst evaluation among first term presidents	0
+7-Apr	BN	Taking Stock of ‘Precarious’ Global Growth: Economy Week Ahead	1
+6-Apr	EPN	Bolsonaro suspende el horario de verano en Brasil	0
+6-Apr	PTI	Brazil's Lula fights for freedom as he marks one year in jail	0
+6-Apr	APW	1,000 Replacements for Cuban Doctors in Brazil Quit Program	0
+5-Apr	DPA	1ST LEAD Brazilian expedition reaches isolated indigenous tribe By Angelika Engler, DPA	0
+5-Apr	BES	TRANSLATION: Agência Brasil: Revenue triggers PF to investigate access to fiscal data of Bolsonaro	0
+5-Apr	BFW	Cesp Says CVM Approved Registration of VTRM Tender Offer	0
+5-Apr	BFW	*CESP SAYS CVM APPROVED REGISTRATION OF VTRM OFFER	0
+5-Apr	BFW	Brazil Confirms There Will Be No Daylight Saving Time This Year	1
+5-Apr	BFW	BNDES Acting to Tackle FX Issue in Infrastructure Projects: CEO	0
+5-Apr	BES	PEC of the tax reform is filed in the Chamber by MDB leader	1
+5-Apr	BFW	*BRAZIL'S BOLSONARO TO VISIT JAPAN IN JUNE: SPOKESPERSON	0
+5-Apr	BFW	*BOLSONARO TO MEET BRAZIL HOUSE SPEAKER WHEN POSSIBLE: SPOKESMAN	0
+5-Apr	BFW	*BRAZIL GOVT CONFIRMS IT WILL END DAYLIGHT SAVING TIME PROGRAM	0
+5-Apr	BN	Trade Hopes and Jobs Data Lift Riskier Assets: EM Week Review	0
+5-Apr	BNA	Brazil Gazettes Consultation Solution Clarifying Income Tax, Social Contributions for Maritime Subcontractors Under Presumed	0
+5-Apr	BFW	Minister Says Brazil to Keep Leasing Port Terminals	0
+5-Apr	BN	*MINISTER SAYS BRAZIL TO KEEP LEASING PORT TERMINALS	0
+5-Apr	BFW	*BRAZIL MULLS FINANCING FOR FARM EQUIPMENT AT MKT RATES: LEVY	0
+5-Apr	BFW	Brazil Cotton Output, Exports Seen Rising to Records: USDA FAS	0
+5-Apr	BFW	Bolsonaro Says He Believes Pension Reform Passes House 1h19	1
+5-Apr	BFW	*BNDES ACTING TO TACKLE FX ISSUE IN INFRASTRUCTURE PROJECTS: CEO	0
+7-Apr	WPT	Kirstjen Nielsen to Leave Position as Secretary of Homeland Security Amid Spike in Migrant Families At U.S.-Mexico Border	0
+7-Apr	PTI	Ex-Mexican President Fox says gunmen tried to storm his home	0
+7-Apr	BN	Taking Stock of ‘Precarious’ Global Growth: Economy Week Ahead	0
+7-Apr	APW	Ex-Mexican President Fox Says Gunmen Tried to Storm His Home	0
+7-Apr	WPT	Trump Administration Nearly Doubles H-2B Guest Visa Program, Which Brings Many Mexican Workers	0
+6-Apr	NPW	Mexico to purge nonworking teachers from payroll	0
+6-Apr	GO7	The Financial Intelligence Unit of the SHCP collaborates with the Attorney General's Office	0
+6-Apr	NYT	Crossing the Border newsletter: For Migrants in Mexico, the Wait ‘Could Be a Week, Two Weeks, a Month’	0
+6-Apr	APW	AP Explains: Trump's Threat to Tax Mexican Auto Imports	0
+6-Apr	APW	AP FACT CHECK: Trump's Mexico Mirage	0
+6-Apr	GO7	Semarnat will fight illegal logging in Ocuilán, State of Mexico	0
+6-Apr	APW	Massive Blackout Hits Mexico's Yucatan Peninsula	0
+5-Apr	APW	AP Explains: Trump's Threat to Tax Mexican Auto Imports	0
+5-Apr	AUB	Fake Tequila auctioned in fire sale could pose risk to consumers, authorities warn	0
+5-Apr	BFW	*TRUMP THANKS MEXICAN PRESIDENT ON HELP WITH BORDER SITUATION	0
+5-Apr	BN	Trade Hopes and Jobs Data Lift Riskier Assets: EM Week Review	0
+5-Apr	GO1	Fed Dallas: Mexico's Output Growth Slows, Outlook Worsens	1
+5-Apr	NTX	Indispensable, legislate social networks of public servants	0
+5-Apr	GO7	Message from the Secretary of Economy, Graciela Márquez, prior to the Magisterial Conference of the Director General	0
+5-Apr	BFW	Banxico to Offer MXN30b of Bonds in Extraordinary Auction	0
+5-Apr	BN	*BANXICO SETS OFFICIAL PESO EXCHANGE RATE AT 19.0805/U.S. DOLLAR	1
+9-Apr	BFW	Turkey High Election Board Rejects Full Recount of Istanbul Vote	1
+9-Apr	BN	*ELECTION BOARD RULES TO RECOUNT OF 51 BALLOT BOXES IN ISTANBUL	1
+9-Apr	BN	*TURKEY HIGH ELECTION BOARD REJECTS ISTANBUL FULL RECOUNT	0
+9-Apr	PAN	Bid to Extradite Prominent Critic of Turkey's President Reaches High Court	0
+8-Apr	CTX	Russia, Turkey agree to boost bilateral investment	0
+8-Apr	CTX	Putin, Erdogan discuss delivery of S-400 missile systems, joint	0
+8-Apr	BI	Financials: Credit Guarantees Fuel Turkey Lending, Bank Results	1
+8-Apr	GO5	Russia Pres: News conference following Russian-Turkish talks	0
+8-Apr	APW	Turkey's Erdogan Defends Demand for Full Recount in Istanbul	1
+8-Apr	BI	Turkey Central Bank Reopens Repo, Policy Rate to Drop	1
+8-Apr	BI	Germany Returning to Trend, Turkey Restarts Repo Auction	0
+8-Apr	DPA	3RD LEAD Turkey not backing away from Russian arms deal despite US pressure By Peter Spinella and Anindita Ramaswamy, DPA	0
+8-Apr	BN	Erdogan Says Russia Defense Deal ‘Done’ as Putin Urges More Ties	0
+8-Apr	ANS	ANSA / Syria: war on Idlib is switched on, Erdogan Mosca da Putin	0
+8-Apr	ANS	Syria: Putin, 'the Idlib Turkmen-Turkic Turkmenistan'	0
+9-Apr	ERO	Bolsonaro says he will consult the Congress in case of military intervention in Venezuela	0
+9-Apr	BFW	Brazil’s Bolsonaro to Visit Arab Countries to ‘Do Business’	0
+9-Apr	BFW	Brazil Ecomin Sees Reform Cut, But Gives No Savings Forecast	1
+8-Apr	BES	Brazil court rules in favor of lessors to repossess Avianca Brasil planes	0
+8-Apr	BN	China Commodities Today: Iron Gains as Brazil’s Exports Plunge	0
+8-Apr	BFW	Brazil Studies 2 Measures to Help States, Municipalities: Govt	0
+8-Apr	BFW	Brazil Ecomin Says He Doesn’t Intend to Be Political Coordinator	0
+8-Apr	BFW	*BRAZIL HOUSE SPEAKER SAYS HE HOPES GOVT CAN BUILD COALITION	0
+8-Apr	BFW	*BRAZIL ECOMIN EXPECTS FUNDS FROM TOR AGREEMENT THIS YEAR	0
+8-Apr	BFW	*BRAZIL ECOMIN SEES REFORM CUT, BUT GIVES NO SAVINGS FORECAST	0
+8-Apr	BFW	*BRAZIL PRESIDENT SAYS HE DIDN'T CHANGE HIS MIND ON ISRAEL EMB.	0
+8-Apr	BFW	*BRAZIL SPEAKER SAYS WEAKER PRESIDENT MAY BE GOOD FOR REFORM	1
+8-Apr	BFW	*BRAZIL ECONMIN SAYS LOW POPULARITY WILL NOT MAKE GOVT GIVE UP	0
+8-Apr	BN	Hedge-Fund Icon Startled by Bolsonaro ‘Threat’ to Reform Agenda	1
+8-Apr	BFW	*BRAZIL HOUSE SPEAKER SAYS GOVT WANTED NEW FORM OF NEGOTIATIONS	1
+8-Apr	BFW	*BRAZIL SPEAKER SAYS HE SUPPORTS REFORM, BUT IS NOT NEGOTIATOR	1
+8-Apr	BES	TRANSLATION: Agência Brasil: PGR defends tabulation of freight in opinion to the Supreme	0
+8-Apr	GO1	Sen. Marco Rubio: Tomorrow: Rubio, Risch, Menendez, Kaine, Udall Meet Brazilian Vice President Hamilton Mourão	0
+8-Apr	BFW	*BRAZIL'S NEW EDUCATION MIN. TO TAKE OFFICE TUESDAY 2PM	1
+8-Apr	BFW	*BOLSONARO SAYS HE WILL REVIEW INDIGENOUS LAND DEMARCATIONS	0
+9-Apr	NTX	Court determines that local congresses can legislate on transparency	0
+9-Apr	CTX	Mexican president reiterates backing for Venezuelan dialogue	0
+9-Apr	GO7	Presidency (MX): The murals of the Secretariat of Public Education. Book open to the art and identity of Mexico	0
+9-Apr	BFW	U.S. Commerce Sec. Ross Is Said to Plan Mexico Visit This Week	0
+8-Apr	NTX	Ministry of Agriculture will invest 1,800 million pesos in health programs	1
+8-Apr	NTX	President of the Court celebrates coincidences on advances in rights	0
+8-Apr	GO7	OLD AGE, AGING AND HUMAN RIGHTS.	0
+8-Apr	NTX	Mexico and Luxembourg will deepen trade and investments	0
+8-Apr	GO7	Lilia Villafuerte Zavala (Without Party) refers that Mexico, according to the OECD and ECLAC, maintain	0
+8-Apr	PRN	Mexican Growers Propose Changes to Agreement Governing Tomato Imports from Mexico	0
+8-Apr	PRN	Dionisio Gutiérrez met in Guatemala with Felipe Calderón, former President of Mexico	0
+8-Apr	NTX	Ministry of Labor signs agreement to offer entertainment for young people	0
+8-Apr	BBO	Blowout Saudi Bond Deal Sends Message to Markets: Robert Burgess	0
+8-Apr	NTX	The Ministry of Health proposes guidelines for the regulation of cannabis	0
+8-Apr	GO7	Secy Salud (MX): 121. Provides Secretariat of Health guidelines for the regulation of cannabis	0
+8-Apr	NTX	Dollar continues to decline, closes for sale at 19.34 pesos in banks	0
+0-Jan	FTI	Turkey vows to galvanise banking sector and boost exports	1
+10-Apr	GO8	ForMinistry (TR): Visit of Foreign Minister Mevlüt Çavusoglu to the Netherlands to attend the Seventh Meeting of the	0
+10-Apr	GO1	Sen. Barrasso: Barrasso Questions Sec. Pompeo on Nord Stream 2 Pipeline, Turkey Buying S-400 Missiles and ISIS	0
+10-Apr	NYT	Turkey’s Plan for Economy Is Seen as Tepid Response to Downturn	1
+10-Apr	CTX	Roundup: Turkey unveils economic reform plan to tackle recession	1
+10-Apr	BDR	The US keeps warning Turkey that buying Russia's S-400 missile system means it can't have the F-35, but Turkey keeps doubling	0
+10-Apr	ANS	Genocidio armeno, Akp di Erdogan contro Parlamento italiano	0
+10-Apr	FTI	Turkey vows to recapitalise state banks and tackle bad debts	1
+10-Apr	GO6	Radio Pakistan: Russian S-400s delivery could be brought forward: Erdogan	0
+10-Apr	BN	Turkey’s Biggest Banking Handout in 18 Years Seen as Not Enough	0
+10-Apr	CTX	Turkey's Erdogan says S-400 deal "national security decision"	0
+10-Apr	GO8	Turkish Stats: As compared with the corresponding month of the preceding year, the overall export unit value index decreased by	0
+10-Apr	ANS	++ Turchia: Erdogan, detenuti 30 mila membri rete Gulen ++	0
+04/10	DPA	Erdogan: Over 30,000 jailed in Turkey over links to coup mastermind	0
+10-Apr	TCB	Turkish Lira Currency Swap Market	1
+10-Apr	GO8	ForMinistry (TR): Diplomacy Academy	0
+10-Apr	DPA	Turkey to boost capital at state banks as part of reform plans	0
+10-Apr	BN	U.S. in New Missile Push as Turkey Hints at More S-400 Purchases	0
+10-Apr	PTI	Erdogan wants Istanbul vote annulled over alleged irregularities	0
+10-Apr	PTI	Erdogan says Russian S-400s delivery could be earlier	0
+10-Apr	HUR	Turkey to focus on structural reforms: Treasury minister	0
+10-Apr	HUR	Turkish economy to recover from recession in 2020: IMF	0
+10-Apr	HUR	Turkey to focus on structural reforms: Treasury minister	0
+10-Apr	HUR	Turkish economy to recover from recession in 2020: IMF	0
+10-Apr	HUR	Turkey set to invest $11 billion in energy efficiency	1
+10-Apr	HUR	Uber to scale down operations in Turkey	0
+10-Apr	HUR	Turkey, Russia create 900 million euro investment fund	0
+10-Apr	HUR	Facebook to levy tax on local ads in Turkey	0
+10-Apr	HUR	Honda to end Turkey production after 2021	0
+10-Apr	HUR	Number of mobile subscribers reaches 80 million in Turkey	0
+10-Apr	HUR	At least 108 workers killed in Turkey in March: Report	0
+10-Apr	HUR	37 percent of Turkish consumers prefer domestic products	0
+10-Apr	HUR	Turkey’s participation banks’ profits jump 33 pct	0
+10-Apr	HUR	Turkish government to unveil economic reforms on April 10	0
+10-Apr	HUR	Turkey to look for alternatives if US doesn't deliver F-35s	0
+10-Apr	HUR	Opposition urges top board to conclude election process	0
+10-Apr	HUR	Erdogan: S-400 deal with Russia in delivery stage	0
+10-Apr	HUR	Erdogan vows to ‘eliminate remnants of FETÖ’ in Turkey’s institutions	0
+10-Apr	HUR	Turkish economy to recover from recession in 2020: IMF	0
+10-Apr	HUR	Turkish Treasury posts $2.7 bln cash deficit in March	0
+10-Apr	HUR	Akkuyu nuclear plant tracks progress one year on	0
+10-Apr	HUR	Turkey's business circle expects economic reforms	0
+10-Apr	HUR	Turkey is key market for Asian investment bank AIIB: Official	0
+10-Apr	HUR	EBRD says ready to increase Turkish bad loan help if asked	0
+10-Apr	HUR	Turkey’s hazelnut export revenues hit $1 billion	0
+10-Apr	HUR	Turkish Central Bank reserves rise to $75 billion	0
+10-Apr	HUR	Foreign trade deficit shrank 67 percent in March	0
+10-Apr	HUR	Turkey's exports with $44.5 billion hit all-time high in Q1	0
+10-Apr	HUR	Turkey's Central Bank raises swap sale limits	0
+10-Apr	HUR	Germany eyes closer economic ties with Turkey: Official	0
+10-Apr	HUR	Big switch to Istanbul Airport to last 45 hours	0
+10-Apr	REU	EMERGING MARKETS-Stocks muted as growth fears weigh; focus on Turkey's lira	1
+0-Jan	CTX	Brazil's Bolsonaro meets with Islamic countries' ambassadors	0
+0-Jan	NTX	Cumple Bolsonaro cien días de gobierno con creciente insatisfacción	0
+0-Jan	GO1	DoJ Nevada: Brazilian Man Sentenced To Eight Years In Prison For Credit And Debit Card Fraud Scheme	0
+0-Jan	BES	TRANSLATION: Globo: Bolsonaro affirms to Islamic ambassadors that Brazil is friend of all the countries, without exception	0
+0-Jan	BES	TRANSLATION: Estadão: Bolsonaro opens agenda for parliamentarians and will release amendments to help mayors	0
+0-Jan	BES	TRANSLATION: UOL Brasil: House extends incentives for builders of My Home, My Life	1
+10-Apr	BFW	Brazil Govt Announces Closure of 6 Dams in Minas Gerais State	0
+10-Apr	BFW	*BRAZIL GOVT ANNOUNCES CLOSURE OF 6 DAMS IN MINAS GERAIS STATE	0
+10-Apr	BFW	Brazil Govt Leader in Senate Says Political Mood Has Improved	1
+10-Apr	SBN	BNDES pagará cobertura de divisas con ventas de acciones	0
+10-Apr	BUS	Amcor and Bemis Transaction Receives Unconditional Antitrust Clearance from Brazil	0
+10-Apr	BES	CNBC Wires: Brazil pension savings of 700 bln reais would not be enough -Treasury Secretary	1
+10-Apr	BFW	Brazil’s Marinho Says Govt Expects No Less Than BRL1t W/ Reform	1
+10-Apr	BFW	*BRAZIL GOVT SENATOR SAYS PENSION BILL TO PASS BY MID-SEPTEMBER	1
+10-Apr	BFW	*BRAZIL GOVT LEADER IN SENATE SAYS POLITICAL MOOD HAS IMPROVED	0
+10-Apr	GO7	President Macri received the chancellor of Brazil	0
+10-Apr	APW	Red-stained Brazil Flags At Burial of Man Shot By Military	0
+10-Apr	BFW	Real Extends Gains as Guedes Hits New York	0
+10-Apr	BFW	Brazil´s Cade Fines Gas Stations Incluiding BR, Ipiranga BRL157m	0
+10-Apr	REU	Brazil's Campos Neto says controlling inflation trumps boosting growth	1
+0-Jan	NTX	Priority for Mexico to address causes of violence: chancellery	0
+0-Jan	CTX	Mexican foreign minister calls U.S. border blockade "bad idea"	0
+0-Jan	NTX	Ministry of Health holds meetings with resident doctors	0
+0-Jan	NTX	Peasants march to the Ministry of the Interior	0
+0-Jan	NTX	Secretary of Health holds meetings with resident doctors	0
+0-Jan	GO7	INE approves modifications to the ballot and documentation of the Extraordinary Election of Puebla	0
+0-Jan	GO7	The initiative of Sen. Antonio García Conejo (PRD) aims to empower the Bank of Mexico to analyze	1
+0-Jan	NTX	Ministry of Health issues preventive travel measures for measles	0
+0-Jan	NTX	INE approves changes to the ballot and documentation of the extraordinary election of Puebla	0
+0-Jan	NTX	Court denies amparo to former governor of Michoacán against journalist	0
+0-Jan	GO7	The Ministry of Health recommends taking preventive measures against measles.	0
+10-Apr	GO7	The Secretariat of Energy participates in the «Seventh Meeting with the Earth	0
+10-Apr	NTX	Budget, main problem to divide mayors, says mayor	0
+10-Apr	GO1	FBI: Indictment: Two Mexican Citizens Sold Heroin, Meth, Guns at KCK Residence	0
+10-Apr	NTX	INE has nothing to say about denunciation against Barbosa	0
+10-Apr	NTX	Leader of bureaucrats demands López Obrador to keep promises to residents	0
+10-Apr	NTX	Migrants send around three million dollars a day of remittances to Zacatecas	0
+10-Apr	NTX	Important that prudent public finance goals are met: Banxico	1
+10-Apr	NTX	Banxico warns commercial risks in the absence of ratification of T-MEC	1
+10-Apr	BFW	Mexico’s 2019-20 Soybean Imports Seen Rising, USDA FAS Says	0
+10-Apr	NGI	Dos Bocas Refinery Almost Certain To ‘Destroy Value’ For Pemex, Think Tank Says	1
+10-Apr	MXD	Cost of violence rose 10% last year to 5 trillion pesos: Mexico Peace Index	1
