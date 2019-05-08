@@ -7,8 +7,6 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import BernoulliNB
-from sklearn import svm
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingClassifier
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 seed = 100
 
@@ -38,13 +36,13 @@ def clean_text(df, nlp):
 #tabnames = inputDF.sheet_names
 #news = inputDF.parse(tabnames[0])
 
-inputDF = pd.ExcelFile('News_dataset.xlsx')
+inputDF = pd.ExcelFile(r"X:\Training & Support\Quants Tech\Machine Learning\Project\NLP\News_Headlines.xlsx")
 tabnames = inputDF.sheet_names
 news = inputDF.parse(tabnames[0])
 
 # choose a column with certian number of words...
 news['num_words'] = news['Headline'].apply(lambda x: len(str(x).split()))
-text = news[news['num_words'] == 2]['Headline'].values
+text = news[news['num_words'] == 14]['Headline'].values
 
 # Word tokenize
 nlp = spacy.load('en_core_web_sm')
@@ -62,36 +60,27 @@ df = pd.DataFrame(
     'is_digit': [w.is_digit for w in doc],
 })
 
-news_df = clean_text(news, nlp)
+news_df = clean_text(news.iloc[0:,:], nlp)
+
+# drop duplicates
+news_df = news_df.drop_duplicates(subset='Headline', keep ='first') 
 
 sns.countplot(news_df['Relevance']) 
 
-tf = TfidfVectorizer(analyzer='word',ngram_range=(1,3),max_features=60) # NB Bern takes only few features
+tf = TfidfVectorizer(analyzer='word',ngram_range=(1,3),max_features=50)
 X = tf.fit_transform(news_df['Headline'])
 
 y = news_df['Relevance']
 X_train, X_valid, y_train, y_valid = train_test_split(X,y, test_size=0.3, random_state=seed)
 
-# NB Bern
 nb = BernoulliNB()
 nb.fit(X_train,y_train)
-y_predNB = nb.predict(X_valid)
-
-# GBRT
-gbr = GradientBoostingClassifier(n_estimators=100, max_depth=20, max_features=30, random_state=None)
-gbr.fit(X_train, y_train.values.ravel())
-y_predGBRT = gbr.predict(X_valid)
-
-# SVM
-svmc = svm.SVC(kernel='rbf', C=100, gamma=0.25)
-svmc.fit(X_train, y_train.values.ravel())
-y_predSVM = svmc.predict(X_valid)
+pred = nb.predict(X_valid)
 
 y_valid = y_valid.values
 
-print('Confusion matrix\n',confusion_matrix(y_valid, y_predNB))
-print('Classification_report\n',classification_report(y_valid, y_predNB))
-
+print('Confusion matrix\n',confusion_matrix(y_valid,pred))
+print('Classification_report\n',classification_report(y_valid,pred))
 
 
 
