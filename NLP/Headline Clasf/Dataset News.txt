@@ -48,8 +48,8 @@ Date	Code	Headline	Relevance
 3-Apr	NTX	Disney y Fox proponen auditor para la venta de Fox Sports	0
 3-Apr	GO7	Profile of the Government of Mexico to the livestock sector as a global reference in environmental responsibility and social inclusi	0
 3-Apr	NTX	INE and authorities of Tabasco agree to update electoral roll	0
-3:50	WPT	Columbia University’s Cancellation of Forum on Turkey Draws Criticism	0
-1:33	FTI	Istanbul vote energises Turkey opposition	0
+0-Jan	WPT	Columbia University’s Cancellation of Forum on Turkey Draws Criticism	0
+0-Jan	FTI	Istanbul vote energises Turkey opposition	0
 4-Apr	CTX	Turkey warns U.S. not to meddle in elections	0
 4-Apr	BBO	'Don't Fight the White House' Is Market's Mantra: Robert Burgess	0
 4-Apr	ANS	Nato: Turchia, continueremo nel sostegno contro terrorismo	0
@@ -123,7 +123,7 @@ Date	Code	Headline	Relevance
 0-Jan	GO7	Economy (MX): Press conference of the Director General of the WTO, Roberto Azevêdo, and the Secretary of Economy, Graciela	1
 0-Jan	NTX	The Mexican Association of Stock Exchange Institutions, the Mexican Stock Exchange, and the National Bank of Foreign Trade,	1
 0-Jan	BMV	DESIGNATION OF DFK-GLF, S.C., AS THE OFFICE THAT PROVIDES THE SERVICES OF	0
-0-Jan	GO7	SHCP Mexico: Viernes Recreativo para niñas y niños de 6 a 12 años.	0
+0-Jan	GO7	Viernes Recreativo para niñas y niños de 6 a 12 años.	0
 0-Jan	GO7	SIL: 17:16:14El Sen. Marti Batres Guadarrama (MORENA), presidente de la Mesa Directiva de la Cámara de Senadores, destaca los	0
 4-Apr	NTX	Encuentro Sindicatos del Sector Hacendario	0
 4-Apr	NTX	Caravanas migrantes, forma económica y segura de llegar a la frontera	0
@@ -521,14 +521,14 @@ Date	Code	Headline	Relevance
 14-Apr	BES	People's Daily: Mexican Migration Authorities Return 204 Migrants to Honduras	0
 14-Apr	NTX	Deputy asks to be watched tariff of cellular telephone providers	0
 14-Apr	APW	Migrants Dropped Off in New Mexico; City Asks for Donations	0
-14-Apr	GO7	SHCP Mexico: Communiqué No. 039 The SHCP reports on the follow-up to the permanent process of Indigenous Consultation in the Isthmus of	0
+14-Apr	GO7	Communiqué No. 039 The SHCP reports on the follow-up to the permanent process of Indigenous Consultation in the Isthmus of	0
 14-Apr	NTX	Migrants thank the Mexican government for transiting facilities	0
 14-Apr	BES	AmericaEconmia: Mexican Secretary of the Treasury says it does not expect rating agencies to lower more Pemex	1
 14-Apr	NTX	We will not tolerate bad practices in Young People Building the Future: STPS	0
 13-Apr	GO7	SEMARNAT: Comprehensive attention will be given to the waste problem in Sumidero Canyon: Semarnat	0
 13-Apr	BN	Mexico Seeks to Shield 'Reputation' With Sound Budget Surplus	1
-13-Apr	GO7	SHCP Mexico: Communiqué No. 038 XIX Meeting of Finance Ministers of the Pacific Alliance	0
-13-Apr	GO7	SHCP Mexico: Statement No. 037 The Secretary of the Treasury and Public Credit participates in the IMF Spring Meetings and	0
+13-Apr	GO7	Communiqué No. 038 XIX Meeting of Finance Ministers of the Pacific Alliance	0
+13-Apr	GO7	Statement No. 037 The Secretary of the Treasury and Public Credit participates in the IMF Spring Meetings and	0
 13-Apr	BN	* MEXICO'S URZUA BELIEVES PEMEX WILL NOT SUFFER RATING DOWNGRADE	1
 13-Apr	BN	* MEXICO WILL NOT CHANGE PRIMARY SURPLUS TARGET OF 1% / GDP: URZUA	1
 13-Apr	BN	* MEXICO FINANCE MINISTER URZUA SPEAKS TO REPORTERS IN WASHINGTON	0
@@ -790,7 +790,7 @@ Date	Code	Headline	Relevance
 01:49:00	APW	Mexico President Sets Aside Education Reform	0
 17-Apr	NTX	Senators ready to approve labor reform, complies with T-MEC	1
 01:15:00	NTX	Environment Secretariat invites you to connect with nature	0
-00:52:00	GO7	SHCP Mexico: PROGRAM PRIVATE PUBLIC ASSOCIATION OF MULTIANNUAL CONSERVATION OF THE FEDERAL ROAD NETWORK ARRIAGA-TAPACHULA	0
+00:52:00	GO7	PROGRAM PRIVATE PUBLIC ASSOCIATION OF MULTIANNUAL CONSERVATION OF THE FEDERAL ROAD NETWORK ARRIAGA-TAPACHULA	0
 17-Apr	NTX	Employment in OECD achieves maximum in the fourth quarter; it stays in Mexico	1
 00:27:00	NTX	Mexican authorities prepare to receive three thousand 200 migrants	0
 16-Apr	NTX	Despotic and unilateral, Memorandum of López Obrador: PAN Senators	0
@@ -948,7 +948,7 @@ Date	Code	Headline	Relevance
 22-Apr	BFW	Brazil Govt Is Paid BRL108m in Sapinhoa ??Oil Field Settlement	0
 22-Apr	FTI	Rainforest warriors groom to fight Bolsonaro	0
 22-Apr	BN	Sugar King's CEO Sees Brazil Infrastructure as New Hot Commodity	0
-21-Apr	BES	Value: Week will be decisive for deadlock between government and truckers	0
+21-Apr	BES	Week will be decisive for deadlock between government and truckers	0
 21-Apr	BES	Folha: Defense has more personnel spending in the decade, and military investment falls	0
 21-Apr	BES	Estadão: Fleet of vehicles in the country is older	0
 21-Apr	BES	Estadão: Congress imposes its own agenda on Bolsonaro	0
@@ -956,8 +956,8 @@ Date	Code	Headline	Relevance
 20-Apr	BES	Globe: For Guedes, Petrobras has to the 'Oil Copom'	0
 20-Apr	BES	Balloon: Anac will participate in group that will change the Boeing 737 Max	0
 20-Apr	BES	Estadão: 'Brazil needs to accelerate the pace of reforms,' says Carlos Langoni	1
-20-Apr	BES	Value: With reform, those who earn less will pay less, says Bolsonaro	1
-20-Apr	BES	Value: Government to cajole states with compensation to expand support for reform	0
+20-Apr	BES	With reform, those who earn less will pay less, says Bolsonaro	1
+20-Apr	BES	Government to cajole states with compensation to expand support for reform	0
 20-Apr	WAM	Al Tayer, Brazilian Ambassador discuss cooperation	0
 20-Apr	GO8	Gov of Dubai: MD & CEO of DEWA receives Ambassador of Brazil to the UAE	0
 20-Apr	NPW	Passion Play in Brazil shantytown a voice against injustice	0
@@ -1239,7 +1239,7 @@ Date	Code	Headline	Relevance
 25-Apr	BFW	* BRAZIL'S BNDES DISBURSEMENTS GREW 30% IN 1Q19	0
 25-Apr	BES	UOL Brazil: Ramos predicts that reform will be approved by the collegiate still in the first half	0
 25-Apr	BFW	Bolsonaro Says He'll Decide on Electoral Court Nominee Quickly	0
-25-Apr	BES	Value: Moreira will work to approve reform in the first half	0
+25-Apr	BES	Moreira will work to approve reform in the first half	0
 03:55:00	NTX	Explain cell phone rates, ask Ifetel and Profeco	0
 02:14:00	GO7	IFAI: Ministry of Health must present studies on childhood pregnancy	0
 02:12:00	PTI	Mexican lawmaker proposes warm beers to cool desire for a drink	0
@@ -1256,7 +1256,7 @@ Date	Code	Headline	Relevance
 25-Apr	SCN	Actinver appoints Muriel as a proprietary counselor, replaces	0
 25-Apr	NTX	Mexican government asked to ignore new Venezuelan ambassador	0
 25-Apr	PTI	Mexico says ready to apologize to US over border incident	0
-25-Apr	GO7	SHCP Mexico: Communiqué No. 040 Signing of the Framework Agreement for Coordination, Exchange of Information and Training, between the	0
+25-Apr	GO7	Communiqué No. 040 Signing of the Framework Agreement for Coordination, Exchange of Information and Training, between the	0
 27-Apr	DPA	US calls on Turkey to solve case of US employee in 'fair manner'	0
 26-Apr	BN	Bulls Recede as Sentiment Turns Amid Dollar Strength: EM Review	0
 26-Apr	BN	Turkish Banks Are Said Planning to Boost Deposit Rates Next Week	1
@@ -1283,7 +1283,7 @@ Date	Code	Headline	Relevance
 28-Apr	BN	Bulls Recede After Dollar Strength Dents Currencies: EM Review	0
 28-Apr	GO8	ForMinistry (TR): Visit of Foreign Minister Mevlüt Çavuşoğlu to Iraq, 28-29 April 2019	0
 27-Apr	BES	UOL Brazil: Maia attacks children of Bolsonaro: "one is to intern, the other dazzled"	0
-27-Apr	BES	Value: Maia tells the site that government is far from the votes to approve reform	0
+27-Apr	BES	Maia tells the site that government is far from the votes to approve reform	0
 27-Apr	BES	UOL Brazil: STF denies request to suspend pension reform	1
 26-Apr	APW	Brazil Bank Ad Featuring Blacks, Transgender Taken Off Air	0
 26-Apr	BN	Bulls Recede as Sentiment Turns Amid Dollar Strength: EM Review	0
@@ -1300,7 +1300,7 @@ Date	Code	Headline	Relevance
 26-Apr	BI	Bloomberg Intelligence FICC Weekly Strategy Briefing: April 26	1
 26-Apr	BFW	Brazil Will Support Argentina Stabilization Efforts, Guedes Says	1
 26-Apr	BFW	Brazil Rolls Over All 5,350 FX Swaps Offered	1
-28-Apr	BES	Value: "Dating" with Maia is "100%", says Bolsonaro	0
+28-Apr	BES	"Dating" with Maia is "100%", says Bolsonaro	0
 27-Apr	NTX	Bolsonaro justifies advertising veto for "line change"	0
 27-Apr	BES	Balloon: Anac already prepares redistribution of Avianca flight schedules	0
 27-Apr	BES	Balloon: Bolsonaro says pension reform can not be 'dehydrated'	0
@@ -1318,7 +1318,7 @@ Date	Code	Headline	Relevance
 28-Apr	BES	Folha: Government prepares to end Petrobras' monopoly on gas to reduce price	1
 28-Apr	BES	Painel: Leaders of the centão say that reform will not be done within the term of the government, but 'in what is	0
 28-Apr	NYT	Decisions by Brazil's Top Court Have Public Questioning Its Credibility	0
-27-Apr	GO7	SHCP Mexico: Communiqué No. 041 The SHCP, through the Oficialía Mayor, and the National Chamber of the Arts Industry	0
+27-Apr	GO7	Communiqué No. 041 The SHCP, through the Oficialía Mayor, and the National Chamber of the Arts Industry	0
 27-Apr	NTX	PRELIMINARY STENOGRAPHIC VERSION OF THE SECOND EXTRAORDINARY SESSION OF THE GENERAL COUNCIL OF THE NATIONAL ELECTORAL INSTITUTE,	0
 27-Apr	NTX	PRELIMINARY STENOGRAPHIC VERSION OF THE EXTRAORDINARY SESSION OF THE GENERAL COUNCIL OF THE ELECTORAL NATIONAL INSTITUTE, CARRIED OUT	0
 27-Apr	NTX	Deputies ask SEP report on restitution of dismissed teachers	0
@@ -1328,7 +1328,7 @@ Date	Code	Headline	Relevance
 27-Apr	BFW	Mexico Requests Meeting on Concern About U.S. Border Delays	0
 27-Apr	GO7	INE: Meet INE General Council results of the Children and Youth Consultation 2018	0
 27-Apr	NTX	Meet INE General Council results of the Children and Youth Consultation 2018	0
-27-Apr	GO7	SHCP Mexico: Survey on Public Procurement	0
+27-Apr	GO7	Survey on Public Procurement	0
 26-Apr	GO7	SRE: The Government of Mexico expresses concern about the delays in some points of the border with the United States	0
 26-Apr	GO7	Banrobas: Government of Mexico and UNOPS initiate process of alienation of the 72 susceptible aircrafts	0
 26-Apr	GO7	SEMARNAT: Waste management and recycling, priority issues of cooperation with the European Union: Semarnat	0
@@ -1449,7 +1449,7 @@ Date	Code	Headline	Relevance
 30-Apr	BNA	Brazil Tax Agency Updates Digital Tax Bookkeeping System	0
 30-Apr	BN	'We Will Never Forget': A New CEO Has Mining's Toughest Job (2)	0
 1-May	NTX	Opposition in Senate "gives reverse" to Educational Reform of López Obrador	1
-1-May	GO7	SHCP Mexico: Financial Statements of the Federal Executive Branch of First Quarter 2019	0
+1-May	GO7	Financial Statements of the Federal Executive Branch of First Quarter 2019	0
 1-May	NTX	They urge to end child marriage, discrimination and bullying	0
 1-May	NTX	Unit of Latin America and the Caribbean, poses as chancellor of Mexico	0
 1-May	BMV	OMA announces the publication of its Annual Report and Form 20-F of the	0
@@ -1457,7 +1457,7 @@ Date	Code	Headline	Relevance
 1-May	NTX	Infants Draw on Equality and Exhibit in Court	0
 1-May	BN	* MEXICO REPORTS 24.5 BLN WEIGHT BUDGET DEFICIT THROUGH MARCH	1
 1-May	NTX	Public Safety of Chihuahua must publish records and databases	0
-1-May	GO7	SHCP Mexico: Communiqué No. 042 Reports on the Economic Situation, Public Finances and Public Debt at the First	1
+1-May	GO7	Communiqué No. 042 Reports on the Economic Situation, Public Finances and Public Debt at the First	1
 1-May	BFW	Maduro Has not Asked Mexico for Asylum: Deputy Foreign Minister	0
 30-Apr	NTX	Despite vote against the PAN, Senate throws down educational reform	1
 30-Apr	BN	* MADURO HAS NOT ASKED MEXICO FOR ASYLUM: DEPUTY FOREIGN MINISTER	0
@@ -1465,4 +1465,210 @@ Date	Code	Headline	Relevance
 30-Apr	CFL	Bachoco: Annual 12/31/2018	0
 30-Apr	NTX	PAN Senators Announce Voting Against Educational Reform	0
 30-Apr	NTX	They dismiss demand of impeachment against Murillo Karam	0
-30-Apr	GO7	SVS Chile: LARRAÍN VIAL INVESTMENT FUND MEXICO MEZZANINE - 04/30/2019 17:42:42	0
+30-Apr	GO7	SVS Chile: LARRAIN VIAL INVESTMENT FUND MEXICO MEZZANINE - 04/30/2019 17:42:42	0
+1-May	CTX	Turkey, U.S. work on Trump's possible visit: sources	0
+1-May	BFW	EM Day Ahead: S. Korea and Indonesia CPI; Turkey and Mexico PMI	0
+1-May	CTX	Spotlight: Turkish FM's visit to Iraq aims to boost economic	1
+1-May	BFW	Trump's Syria Envoy Discusses Syria With Turkey: Presidency	0
+1-May	GO8	ForMinistry (TR): Visit of Foreign Minister Mevlüt Çavuşoğlu to Qatar to attend the 16th Foreign Ministers Meeting of the	0
+1-May	APW	The Latest: May Day Protesters Detained in Istanbul	0
+1-May	BN	Turkey Adds Taxes After Pre-Vote Splurge Hit Government Finances	1
+1-May	BN	Eastern Europe 1Q GDP Forecast Declines; Hungary Seen at 4.3%	1
+1-May	BN	* TURKEY WITHHOLDING TAX ON INFLATION-INDEXED DEPOSIT> 1-YR AT O%	1
+2-May	BN	Changes Needed to Pass Brazil Pension Bill, Deputy Says (1)	1
+2-May	BN	Changes Vital to Pass Brazil Pension Bill, Deputy Says (Correct)	0
+2-May	NTX	Central Union calls to prevent the emergence of a Uruguayan "Bolsonaro"	0
+2-May	NTX	Bolsonaro fears effects of Venezuelan crisis on fuel prices	1
+2-May	BFW	Brazil's Bolsonaro Says Authorities Can not Control Price Setting	1
+2-May	BES	Estadão: When rebuffing Paulinho, Maia says he will work for savings of R $ 1 tri with reform	1
+2-May	NTX	Brazilian opposition leaders ask to fight against Bolsonaro reforms	0
+2-May	AXS	Pension reform spooks governments all over the world	0
+1-May	BES	Estadão: Centrão discusses reform 'that does not guarantee the re-election of Bolsonaro', says Paulinho da	0
+1-May	BNA	Brazil Gazettes Consultation Solution Clarifying Tax Treatment of Transactions Between Companies of Same Group	0
+1-May	BNA	Brazil Tax Agency Updated Guide on Electronic Bookkeeping Platform	0
+1-May	NTX	Bolsonaro fears oil crisis due to situation in Venezuela	0
+1-May	BES	Estadão: Maia says he does not want conflict with Bolsonaro: 'We need to be together for Social Security'	0
+1-May	APW	The Latest: Brazil Leader Praises Venezuela's Guaidó	0
+1-May	BN	Huawei Resumes Phone Sales in Brazil, Blunting Trump Effort	0
+1-May	BES	Estadão: 'There is no defeat', says Bolsonaro on the mobilization of Guaido in Venezuela	0
+1-May	ANS	Venezuela: Brasile, partito di Lula appoggia Maduro	0
+1-May	BN	BRICS 2Q CPI Forecast Steady in Past Week; Brazil Up to 3.7%	1
+2-May	NTX	Labor reform, a watershed in the economic life of the country, ensures STPS	0
+2-May	NTX	A new labor model is born, says STPS before union leaders	0
+2-May	GO7	SRE: Mexico congratulates Japan for Emperor Naruhito's ascension to the imperial throne	0
+1-May	GO1	Rep. Cuellar: Rep. Cuellar Leads Congressional Delegation to Mexico City	0
+1-May	APW	Bill to Overturn Education Reform Fails in Mexico's Senate	0
+1-May	BFW	EM Day Ahead: S. Korea and Indonesia CPI; Turkey and Mexico PMI	1
+1-May	NTX	OECD Secretary General visits Mexico for two days on official mission	0
+1-May	BN	Bloomberg Consensus Global Rate Forecasts as of May 1 (Table)	1
+1-May	BFW	Mexican Peso, Offshore Chinese Yuan Reach Daily Highs After FOMC	1
+1-May	NTX	US Secretary of Defense cancels trip to NATO for Venezuela	0
+1-May	BFW	* MEXICO PRESIDENT LOPEZ OBRADOR ENDS DAILY PRESSER	0
+1-May	BFW	Lopez Obrador Says Mexico to Unveil Development Plan	1
+1-May	GO7	Diario de la Fed: AGREEMENT by which they are delegated to various public servants of the Ministry of Labor and	0
+1-May	BES	Milenio (MX): Commercial banking financing grows 1.2%	1
+1-May	BES	Milenio (MX): 1.2% commercial banking financing grows	0
+1-May	GO7	Politically Exposed Charges	0
+1-May	GO7	Mechanisms of Citizen Participation of SHCP - Legal Framework	0
+1-May	GO7	Public Consultation Record of the Pago en Especie collection, artistic heritage of the Nation	0
+1-May	GO7	Effectiveness of non-fiscal guarantees in favor of the Federal Treasury	1
+3-May	SPA	NBA: NBA fires Turkish company that left Kanter off to tweet	0
+2-May	BFW	EM Day Ahead: Malaysia Trade, Turkey CPI, Brazil Production	0
+2-May	BN	Inflation Going the Wrong Way for Turkey's Dreams of Rate Cuts	1
+2-May	ANS	Bosnia-Turchia: economy to center colloqui Dodik-Erdogan	0
+2-May	BNA	Turkey Gazettes Decision Amending VAT, Special Consumption Tax Rates	1
+2-May	CFL	Yapi Kredi: Quarterly 03/31/2018	0
+2-May	CFL	Yapi Kredi: Quarterly Consolidated 03/31/2019	0
+2-May	FTI	Turkish prosecutors open criminal probes into Istanbul election	1
+2-May	BN	Developed Economies 2Q CPI Forecast Steady; Turkey Up to 18%	1
+2-May	BN	Turkey Central Bank to Start Gold-Lira Swaps to Bolster Reserves	1
+2-May	ANS	Turchia: Erdogan, economy verso trend di crescita	1
+2-May	BFW	Turkey Central Bank to Borrow Gold From Banks Under New Swaps	0
+2-May	ANS	Turchia: Ankara, Trump forse in visit ufficiale to luglio	0
+2-May	BN	* CBRT TO BORROW GOLD FROM BANKS, LEND LIRAS IN NEW SWAP MARKET	0
+2-May	BFW	* TURKISH CENTRAL BANK TO LAUNCH LIRA / GOLD SWAP MARKET	1
+2-May	ANS	Syria: opposizioni, domani to Ginevra incontro with Pedersen	0
+2-May	BFW	Trump Mulling Turkey Visit in Summer, Cavusoglu Says	0
+2-May	BFW	Erdogan: Bent to Bring Lira, Inflation, Rates Close to Targets	1
+2-May	APW	Prosecutors Probe Alleged Fraud in Istanbul Local Elections	0
+3-May	CTX	Brazil trade surplus exceeds 6 bln USD in April	1
+3-May	BN	Brazil Iron Ore Exports Plunge in April as Vale's Mine Woes Bite	1
+3-May	BFW	Via Varejo Management Proposes Elimination of Poison Pills	0
+3-May	BFW	Brazil More Worried W / Argentina Elections Than Venezuela: Govt	0
+3-May	BFW	* VIA VAREJO MANAGEMENT PROPOSES ELIMINATION OF POISON PILLS	0
+3-May	BFW	* BRAZIL MORE WORRIED W / ARGENTINA ELECTIONS THAN VENEZUELA: GOVT	0
+3-May	BN	Payments War Takes Toll on Itau Unibanco, Brazil's Biggest Bank	1
+2-May	BN	Big Banks Stay On as Sponsors of Bolsonaro Gala Shunned by Delta	0
+2-May	BFW	Brazil President Says Coaf Council Should Stay in Justice Min.	0
+2-May	BFW	* BRAZIL PRESIDENT SAYS COAF COUNCIL SHOULD STAY IN JUSTICE MIN.	0
+2-May	BFW	* ITAU EXPECTS LOWER GROWTH OF NON-INTEREST EXPENSES	1
+2-May	BFW	* ITAU CUTS GUIDANCE FOR SERVICES REVENUE, NII CLIENTS	1
+2-May	ANS	Usa: sponsor americani if ​​ritirano gives prizes Bolsonaro	0
+2-May	BFW	EM Day Ahead: Malaysia Trade, Turkey CPI, Brazil Production	1
+2-May	BFW	* BRAZIL CENBANK AUCTIONS UP TO 5,050 FX SWAP CONTRACTS MAY3	1
+2-May	ANS	Venezuela: Bolsonaro esclude di 'passare a vie di fatto'	0
+2-May	BN	Odebrecht Rebrands After Massive Latin America Graft Scandal (1)	0
+2-May	BES	CNBC Wires: Brazil's Vale asks court for inspection firm documents on burst dam	0
+2-May	BES	Folha Blogs: 'Let's go to the Itamaraty limit', says Bolsonaro on Venezuela	0
+2-May	SBN	Odebrecht renews its brand after massive corruption scandal	0
+3-May	NTX	Advisor aspiring to leadership possible cupular election in the PRI	0
+3-May	NTX	PRI needs a reliable and definitive standard for INE to make an election	0
+3-May	GO7	Economy (MX): Meeting of the Secretary of Economy, Dr. Graciela Márquez, with representatives of institutes and organizations of	0
+3-May	NTX	Parral will decide not to suspend cutting children's rooms	0
+3-May	NTX	PRELIMINARY STENOGRAPHIC VERSION OF THE EXTRAORDINARY SESSION OF THE GENERAL COUNCIL OF THE ELECTORAL NATIONAL INSTITUTE, CARRIED OUT	0
+3-May	NTX	Court resolves on personal data in Guerrero	0
+3-May	GO1	DoJ PA Eastern: Mexican Citizen Indicted for Illegal Reentry after Five Previous Deportations	0
+3-May	GO7	Consult the Economic Gazette of the SHCP	0
+2-May	GO7	Statement No. 044 Towards the approval of the National Development Plan	1
+2-May	APW	Mexico President Vows Justice in Slain Journalist Case	0
+2-May	BMV	BANCO SANTANDER MEXICO REPORTS THAT MARCOS MARTÍNEZ GAVICA, PRESIDENT OF THE CON	1
+2-May	NTX	OECD lowers economic growth projection for Mexico	1
+2-May	NTX	They go for sustainable fishing in Laguna de Yuriria	0
+2-May	NTX	Senate endorses the disappearance of the Presidential General Staff	0
+2-May	APW	Man Pleads Guilty in Rape of Connecticut College Student	0
+2-May	GO7	Annual Program of Acquisitions, Leases and Services (PAAAS) initial, April 2019	0
+2-May	GO7	SEGARPA: Establishes Sader seasons and closed areas for capture in Yuriria Lagoon	0
+2-May	NTX	Peña Nieto announces his official divorce with Angelica Rivera	0
+2-May	GO7	Communiqué No. 043 The Secretary of the SHCP, together with the Secretary General of the OECD, presented the Study today	0
+2-May	GO1	USDA APHIS: APHIS Seeks Comment on the Pest Risk Analysis for Fresh Soursop Fruit Imports from Mexico Into the Continental	0
+6-May	BI	GULF INSIGHT: Oil Fiscal Breakevens Are Misleading - Here's Why	0
+6-May	BN	Why Russian Missiles (Again) Divide Turkey and U.S .: QuickTake	0
+5-May	DPA	1ST LEAD Report: Bus bombing kills two in Turkey's restive south-east By Mirjam Schmitt, DPA	0
+5-May	APW	Turkey: Election Fraud Suspects Accused of Extremist Ties	1
+5-May	BN	Turkey Finds 43 Istanbul Election Officials Linked to Gulen: AA	0
+5-May	BFW	* TURKEY FINDS 43 ISTANBUL ELECTION OFFICIALS LINKED TO GULEN: AA	0
+5-May	BN	NATO Chief Says Turkish Talks for U.S. Patriots Welcome Step	0
+5-May	GO8	ForMinistry (TR): Message by H.E. Mr. Mevlüt Çavuşoğlu, Minister of Foreign Affairs of the Republic of Turkey, on the	0
+5-May	DPA	UPDATE Turkey calls for action by global community on Israel-Gaza tensions	0
+5-May	BN	* NATO CHIEF STOLTENBERG ON TURKEY'S S-400 PURCHASE PLAN VIA AA	0
+5-May	BN	* NATO SAYS IT WELCOMES TURKEY MISSILE TALKS W / U.S., EU ALLIES	0
+5-May	DPA	Turkey calls for action by global community on Israel-Gaza tensions	0
+5-May	PTI	Erdogan condemns Israeli Gaza bombing of Turkish news agency offices	0
+4-May	BN	Turkey Begins Offensive on Kurdish Militias After Attacks (1)	0
+4-May	BN	* TURKEY CONDEMNS ISRAEL'S ATTACK ON ANADOLU AGENCY'S GAZA OFFICE	0
+4-May	BFW	Turkish Anadolu Says Israel Hit Gaza Building Housing Its Office	0
+4-May	BN	* ANADOLU AGENCY SAYS BUILDING HOUSING ITS GAZA OFFICE WAS HIT	0
+4-May	BN	* ISRAEL ARMY HITS BUILDING HOUSING TURKEY STATE NEWS AGENCY: AA	0
+4-May	DPA	Erdogan renews accusation of 'irregularities' in Istanbul elections	0
+4-May	PTI	Erdogan calls for Istanbul vote to be re-run	1
+4-May	BN	Erdogan Cries Foul in Istanbul Vote as Decision on Rerun Nears	0
+4-May	BN	Turkish Soldier Killed in Clashes With Syrian Kurdish Militants	0
+4-May	BN	* ERDOGAN REPEATS CALL FOR FRESH ELECTIONS IN ISTANBUL	0
+4-May	BN	* TURKISH SOLDIER KILLED IN CLASHES IN SYRIA'S NORTH: NTV	0
+4-May	CTX	Spotlight: Turkey's struggling agriculture expects lifeline	0
+4-May	GO8	Rep of Turkey CB: Turkey Balance of Payments Current Account Balance	1
+3-May	BN	U.S. Jobs Data Provides Shot in the Arm to Stocks, FX: EM Review	0
+3-May	BN	Fitch Keeps Turkey in Junk Status Citing Weak External Finances	0
+3-May	NTX	The Turkish Exporters' Assembly (TIM) announces its great event: the Innovation and Entrepreneurship Week in	0
+3-May	PRN	The Turkish Exporters' Assembly (TIM) announces its great event	0
+3-May	GO5	MDF: Turchia: visit ufficiale of Minister Elisabetta Trenta	0
+3-May	PTI	Turkey doctors get prison terms for criticizing Syria offensive	0
+3-May	ANS	> ANSA-BOX / Un'altra strage di piccoli migranti nell'Egeo	0
+3-May	ANS	Migranti: Erdogan, is Ue lives in pace e 'grazie alla Turchia	0
+3-May	BI	April 8: Turkey Central Bank Reopens Repo, Policy Rate to Drop	1
+3-May	GO8	ForMinistry (TR): Visit of Foreign Minister Mevlüt Çavuşoğlu to Hungary, 3 May 2019	0
+3-May	ANS	Erdogan, attacchi a chiese e moschee frutto stessa ideologia	0
+3-May	BFW	Turkey's April Trade Deficit $ 2.83b, Erdogan Says	1
+3-May	ANS	Migranti: trovati 6 corpi assiderati to the Turchia-Iran border (2)	0
+3-May	BN	* ERDOGAN: TURKEY APRIL EXPORTS $ 15.3B, IMPORTS $ 18.1B	1
+3-May	BFW	Turkey Condemns Invitation of Cypriot Official to NATO Event	0
+3-May	BN	* TURKEY CONDEMNS INVITATION OF CYPRIOT OFFICIAL TO NATO EVENT	0
+3-May	DPA	Turkey top court rejects freedom plea from two prominent journalists	0
+3-May	HNW	UPDATE - Szijjarto: Europe's security begins in Turkey (adds details)	0
+5-May	BES	On Twitter, Bolsonaro says media will not have regulation	0
+5-May	BES	Bolsonaro to Sign Taurus Decree to Break Monopoly	0
+5-May	BES	Bolsonaro says China authorized purchase of pork fat from Brazil	0
+5-May	BES	Estadão: Bolsonaro decree will require transparency for the lobby	0
+5-May	BN	U.S.-China Trade Deal Talks Enter Endgame: Global Economy Week	1
+5-May	BES	Estadão: Maia defends Bolsonaro after critic of mayor of New York	0
+4-May	BES	Globe: Military is named new president of Apex	0
+4-May	BES	Balloon: Burger King pin censors BB propaganda and becomes target of boycott by supporters of Bolsonaro	0
+4-May	BES	Courage: On Twitter, Bolsonaro replies Burger King on BB advertisement	0
+4-May	BES	Globe: Government plans to raise R $ 1 tri in 30 years with four pre-salt blocks	1
+4-May	BES	Globe: Government works to prevent Eletrobras from being sold to a single company, says minister	1
+4-May	BES	Status: State rescue plan aims to release R $ 40bn in four years	1
+4-May	NYT	Bolsonaro to Skip New York Gala Amid Swelling Controversy	0
+4-May	NYT	Brazil Leader Will Skip Trip To New York After Protest	0
+4-May	NTX	Bolsonaro cancels trip to USA, where he would receive tribute	0
+4-May	NYT	Bolsonaro to Skip New York Gala Amid Swelling Controversy	0
+4-May	ANS	Bolsonaro cancella viaggio to New York per ricevere award	0
+4-May	APW	Bolsonaro Cancels New York Trip Amid Backlash	0
+3-May	BN	Bolsonaro Cancels Visit to New York After Activists Campaign	0
+3-May	BFW	Brazil President Cancels NY Trip Scheduled for May: Presidency	0
+3-May	BFW	* PETROBRAS RAISES DIESEL PRICE TO BRL0.0577 AS OF MAY 4	1
+3-May	PTI	New York gala for Brazil's Bolsonaro loses some sponsors	0
+3-May	BFW	* BRAZIL PRESIDENT CANCELS NY TRIP SCHEDULED FOR MAY: PRESIDENCY	0
+3-May	BES	UOL Brazil: Government studies repeat Tear measure and reopen withdrawals from PIS / Pasep fund	0
+3-May	BES	Globe: Dodge returns to request suspension of investigation that investigates threats to the Federal Supreme Court	0
+3-May	BFW	Brazil Oil Output in March + 2.8% m / m, to 3.26 Boe / d: ANP	1
+3-May	GO1	Rep. Haaland: Amidst Violent Invasions of Indigenous Communities in Brazil, Haaland, Johnson Call on State Department to Take	0
+3-May	BN	U.S. Jobs Data Provides Shot in the Arm to Stocks, FX: EM Review	0
+3-May	BES	MP files suit against Vale demanding $ 2bn for moral damages	0
+3-May	BFW	Brazil Aims Embraer KC-390 Sale in Trip to Hungary: Official	0
+3-May	BN	BRAZIL MINISTER WILL MEET ENEL CEO IN ITALY: OFFICIAL	0
+3-May	BFW	DEFENSE TOP SUBJECT IN BRAZIL'S MINISTER HUNGARY TRIP: OFFICIAL	0
+3-May	BFW	BRAZIL AIMS EMBRAER KC-390 SALE IN TRIP TO HUNGARY: OFFICIAL	0
+5-May	NTX	PRI will analyze the response of the INE at the request of organizing the internal process	0
+5-May	EPN	Labor informality and inequality hold back Mexico's economy, according to the OECD	0
+5-May	GO7	SEMAR: The Secretary of the Navy reports on aggression against Elements of the Navy of Mexico, in the course of the Tuxpan pipeline	0
+4-May	NTX	Mexican electoral authorities will observe elections in Panama	0
+4-May	NTX	PRD asks to correct public policies on economic and security issues	0
+4-May	NTX	The Welfare Policy of the Government of Mexico will not resort to the gift to buy wills: María Luisa Albores	0
+4-May	EPN	Labor informality and inequality hold back Mexico's economy, according to the OECD	1
+4-May	NTX	BanBajío, ready to test digital collection in Mexico	0
+4-May	NTX	Electoral Tribunal fixes fine to Margarita Zavala in almost 24 thousand pesos	0
+4-May	GO7	INE: INE Complaints Commission orders replace PT promotional in Durango	0
+4-May	NTX	Complaint Committee of the INE orders substitute promotional PT in Durango	0
+4-May	BES	Milenio (MX): Treasury announces new austerity measures to 'rescue' Pemex	0
+4-May	BES	Millennium (MX): Treasury announces new austerity measures to 'rescue' Pemex	1
+4-May	GO7	SRE: Secretary Marcelo Ebrard receives the Minister of Foreign Affairs of the Netherlands	0
+4-May	NTX	Hacienda announces more cuts; savings will go to Pemex	0
+4-May	NTX	Without a free press there can be no democracy, says president of the Court	0
+4-May	GO7	Secy Salud (MX): The Ministry of Health presents a manual to prevent and monitor infections associated with health care	0
+3-May	NTX	Market prioritizes US monetary policy and peso earns the minimum	1
+3-May	BN	U.S. Jobs Data Provides Shot in the Arm to Stocks, FX: EM Review	0
+3-May	BFW	Fed's Kaplan: Mexico Border Issues Impeding Commercial Traffic	0
+3-May	NTX	Dollar closes week with decline, sold at 19.31 pesos in banks	1
+3-May	GO7	Supreme Court: SCJN GUARANTEES ADEQUATE DEFENSE IN ITS MATERIAL ASPECT FOR PROCESSED IN THE DEFENSE OF THE OMBUDSMAN	0
+3-May	NTX	There is corruption in the Judiciary, but it is fought, says Minister	0
+3-May	BN	BANXICO SETS OFFICIAL PESO EXCHANGE RATE AT 19.0012 / U.S. DOLLAR	1
