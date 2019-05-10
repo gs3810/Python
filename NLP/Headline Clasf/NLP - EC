@@ -1,0 +1,63 @@
+"""https://www.kaggle.com/sudhirnl7/news-Headline-eda-spacy/notebook"""
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import spacy
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.naive_bayes import BernoulliNB
+from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
+seed = 100
+
+def clean_text(df, nlp):
+    """
+    Tokenize, make lower case, remove Stop words, punctuation, digit, lemmatize
+    """
+    for i in range(df.shape[0]):
+        doc = nlp(df['Text'][i])
+        # Word Tokenize
+        #token = [w.text for w in doc]
+        
+        # Make Lower case
+        # Remove Stop word, punctuation, digit and lemmatize
+        text = [w.lemma_.lower().strip() for w in doc 
+               if not (w.is_stop |
+                    w.is_punct |
+                    w.is_digit)
+               ]
+        text = " ".join(text)
+        
+        df['Text'][i] = text
+    return df
+
+inputDF = pd.ExcelFile("Earnings_call.xlsx")
+tabnames = inputDF.sheet_names
+news = inputDF.parse(tabnames[0])
+
+# choose a column with certian number of words...
+news['num_words'] = news['Text'].apply(lambda x: len(str(x).split()))
+text = news[news['num_words'] == 25]['Text'].values
+
+# ....word tokenize for specific word
+nlp = spacy.load('en_core_web_sm')
+doc = nlp(text[0])                 
+
+### 1. ITERATIVELY EXTRACT EVERY LINE 
+### 2. FILTER ONLY RELEVANT WORDS e.g. 'growth, expansion etc'
+
+df = pd.DataFrame(
+{
+    'token': [w.text for w in doc],
+    'lemma':[w.lemma_ for w in doc],
+    'POS': [w.pos_ for w in doc],
+    'TAG': [w.tag_ for w in doc],
+    'DEP': [w.dep_ for w in doc],
+    'is_stopword': [w.is_stop for w in doc],
+    'is_punctuation': [w.is_punct for w in doc],
+    'is_digit': [w.is_digit for w in doc],
+})
+
+# processed text    
+text_df = clean_text(news.iloc[0:,:], nlp)
+
