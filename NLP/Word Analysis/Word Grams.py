@@ -75,14 +75,3 @@ print(top2_df)
 sns.set(rc={'figure.figsize':(13,8)})
 g = sns.barplot(x="Bi-gram", y="Freq", data=top2_df)
 g.set_xticklabels(g.get_xticklabels(), rotation=30)
-
-
-
-
-
-
-
-
-
-
-
