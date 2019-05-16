@@ -6,6 +6,8 @@ import seaborn as sns
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 import re
+import warnings
+warnings.filterwarnings("ignore")
 
 def clean_text(df, nlp):
     for i in range(df.shape[0]):
@@ -41,26 +43,26 @@ def string_firstion(string1,string2):
 inputDF = pd.ExcelFile("News_dataset.xlsx")
 tabnames = inputDF.sheet_names
 news = inputDF.parse(tabnames[0])
-
-# choose a column with certian number of words...
-text = news['Headline'].values
+#
+## choose a column with certian number of words...
+#text = news['Headline'].values
 
 # Word tokenize
 nlp = spacy.load('en_core_web_sm')
-doc = nlp(text[0])                                          # select first element
-
-df = pd.DataFrame(
-{
-    'token': [w.text for w in doc],
-    'lemma':[w.lemma_ for w in doc],
-    'POS': [w.pos_ for w in doc],
-    'TAG': [w.tag_ for w in doc],
-    'DEP': [w.dep_ for w in doc],
-    'is_stopword': [w.is_stop for w in doc],
-    'is_punctuation': [w.is_punct for w in doc],
-    'is_digit': [w.is_digit for w in doc],
-})
-
+#doc = nlp(text[0])                                          # select first element
+#
+#df = pd.DataFrame(
+#{
+#    'token': [w.text for w in doc],
+#    'lemma':[w.lemma_ for w in doc],
+#    'POS': [w.pos_ for w in doc],
+#    'TAG': [w.tag_ for w in doc],
+#    'DEP': [w.dep_ for w in doc],
+#    'is_stopword': [w.is_stop for w in doc],
+#    'is_punctuation': [w.is_punct for w in doc],
+#    'is_digit': [w.is_digit for w in doc],
+#})
+    
 news_df = clean_text(news.iloc[0:400,:], nlp)
 corpus = news_df['Headline']
 
@@ -70,15 +72,10 @@ stop_words = ["say","is", "to", "result", "large", "also", "iv", "one", "two", "
 cv = CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
 X = cv.fit_transform(corpus)
 
-top_words = get_top_n2_words(corpus, n_w=5, n=40)
+top_words = get_top_n2_words(corpus, n_w=5, n=100)
 top_df = pd.DataFrame(top_words)
 top_df.columns=["Bi-gram", "Freq"]
 top_df['Bi-gram'] = top_df['Bi-gram'].str.title()
-print(top_df)
-
-sns.set(rc={'figure.figsize':(17,8)})
-g = sns.barplot(x="Bi-gram", y="Freq", data=top_df)
-g.set_xticklabels(g.get_xticklabels(), rotation=80)
 
 # build a similarity index
 sim_df = pd.DataFrame([0])
@@ -90,24 +87,39 @@ sim_df.columns = ['Seq. Similarity']
 top_df = pd.concat([top_df, sim_df], axis=1)
 
 # perform string union...
-string_df = pd.DataFrame([top_df['Bi-gram'][0]])
+string_df = pd.DataFrame([[top_df['Bi-gram'][0],top_df['Freq'][0]]])
 string_first = ""
+threshold = 0.9
 
 for i in range(1,top_df.shape[0]-1):
   
-    if top_df['Seq. Similarity'][i] >= 0.9:             # check for sequential similarity
+    if top_df['Seq. Similarity'][i] >= threshold:             # check for sequential similarity
 
-        if string_first=="":                            # initialize the memory string
+        if string_first=="":                                  # initialize the memory string
             string_first=top_df['Bi-gram'][i-1]
         string_first = string_firstion(string_first, top_df['Bi-gram'][i])
 
-        if top_df['Seq. Similarity'][i+1] < 0.9:        # store to string df
-            string_df = string_df.append([string_first])
+        if top_df['Seq. Similarity'][i+1] < threshold:        # store to string df
+            string_df = string_df.append(pd.DataFrame([[string_first,top_df['Freq'][i]]]))
             string_first = ""
+string_df = string_df.reset_index(drop=True)
+string_df.columns = ['Theme','Freq']
 
+# simliarty heatmap
+str_sim_df = pd.DataFrame([0])
+new_df = pd.DataFrame() 
+for i in range(0,string_df.shape[0]):
+    for j in range(0,string_df.shape[0]):
+        str_sim_df = str_sim_df.append([nlp(string_df['Theme'][i]).similarity(nlp(string_df['Theme'][j]))])
+    str_sim_df = str_sim_df.reset_index(drop=True)
+    new_df = pd.concat([new_df,str_sim_df], axis=1)    
+    str_sim_df = pd.DataFrame([0])
 
+new_df = new_df.iloc[1:,:] 
+new_df.columns = [string_df['Theme']]         
+new_df.index = [string_df['Theme']]
 
-
-
-    
-    
+# graph of themes
+sns.set(rc={'figure.figsize':(14,6)})
+g = sns.barplot(x="Theme", y="Freq", data=string_df)
+g.set_xticklabels(g.get_xticklabels(), rotation=80)
