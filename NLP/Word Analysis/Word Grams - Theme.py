@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
-import re
 import warnings
+import xlwings as xw
 warnings.filterwarnings("ignore")
 
 def clean_text(df, nlp):
@@ -43,26 +43,9 @@ def string_firstion(string1,string2):
 inputDF = pd.ExcelFile("News_dataset.xlsx")
 tabnames = inputDF.sheet_names
 news = inputDF.parse(tabnames[0])
-#
-## choose a column with certian number of words...
-#text = news['Headline'].values
 
 # Word tokenize
 nlp = spacy.load('en_core_web_sm')
-#doc = nlp(text[0])                                          # select first element
-#
-#df = pd.DataFrame(
-#{
-#    'token': [w.text for w in doc],
-#    'lemma':[w.lemma_ for w in doc],
-#    'POS': [w.pos_ for w in doc],
-#    'TAG': [w.tag_ for w in doc],
-#    'DEP': [w.dep_ for w in doc],
-#    'is_stopword': [w.is_stop for w in doc],
-#    'is_punctuation': [w.is_punct for w in doc],
-#    'is_digit': [w.is_digit for w in doc],
-#})
-    
 news_df = clean_text(news.iloc[0:400,:], nlp)
 corpus = news_df['Headline']
 
@@ -107,19 +90,46 @@ string_df.columns = ['Theme','Freq']
 
 # simliarty heatmap
 str_sim_df = pd.DataFrame([0])
-new_df = pd.DataFrame() 
+freq_cnt_df = pd.DataFrame([0])
+
+sim_map_df = pd.DataFrame()
+freq_map_df = pd.DataFrame()
+ 
 for i in range(0,string_df.shape[0]):
     for j in range(0,string_df.shape[0]):
         str_sim_df = str_sim_df.append([nlp(string_df['Theme'][i]).similarity(nlp(string_df['Theme'][j]))])
-    str_sim_df = str_sim_df.reset_index(drop=True)
-    new_df = pd.concat([new_df,str_sim_df], axis=1)    
-    str_sim_df = pd.DataFrame([0])
+        freq_cnt_df = freq_cnt_df.append([string_df['Freq'][i]+string_df['Freq'][j]])
 
-new_df = new_df.iloc[1:,:] 
-new_df.columns = [string_df['Theme']]         
-new_df.index = [string_df['Theme']]
+    str_sim_df = str_sim_df.reset_index(drop=True)
+    freq_cnt_df = freq_cnt_df.reset_index(drop=True)
+    
+    sim_map_df = pd.concat([sim_map_df,str_sim_df], axis=1)    
+    freq_map_df = pd.concat([freq_map_df,freq_cnt_df], axis=1)
+    
+    str_sim_df = pd.DataFrame([0])
+    freq_cnt_df = pd.DataFrame([0])
+
+sim_map_df = sim_map_df.iloc[1:,:] 
+sim_map_df.columns = [string_df['Theme']]         
+sim_map_df.index = [string_df['Theme']]
+
+freq_map_df = freq_map_df.iloc[1:,:] 
+freq_map_df.columns = [string_df['Theme']]         
+freq_map_df.index = [string_df['Theme']]
 
 # graph of themes
 sns.set(rc={'figure.figsize':(14,6)})
 g = sns.barplot(x="Theme", y="Freq", data=string_df)
 g.set_xticklabels(g.get_xticklabels(), rotation=80)
+
+# open output excel
+wb = xw.Book('Output.xlsx')
+sht = wb.sheets[0]
+sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
+sht.range('A1').value = sim_map_df
+
+sht = wb.sheets[1]
+sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
+sht.range('A1').value = freq_map_df
+
+   
