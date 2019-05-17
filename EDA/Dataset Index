@@ -1,327 +1,327 @@
 Company	Start Date	End Date	Year Number	Metric	Group Number	Value	Index	Change	Metric	Group Number	Value	Index	Change	Metric	Group Number	Value	Index	Change	Metric	Group Number	Value	Index	Change
-Comp1	2/3/2013	2/9/2013	2013	Average Ticket	1	61.6644	1.0000		Spending Index	1	1.0000	1.0000		Transactions per Shopper	1	1.1956	1.0000		Unique Shopper Index	1	1.0000	1.0000	
-Comp1	2/10/2013	2/16/2013	2013	Average Ticket	2	64.5050	1.0461		Spending Index	2	1.2066	1.2066		Transactions per Shopper	2	1.2048	1.0077		Unique Shopper Index	2	1.1446	1.1446	
-Comp1	2/17/2013	2/23/2013	2013	Average Ticket	3	63.1169	1.0236		Spending Index	3	1.0342	1.0342		Transactions per Shopper	3	1.2194	1.0199		Unique Shopper Index	3	0.9908	0.9908	
-Comp1	2/24/2013	3/2/2013	2013	Average Ticket	4	66.3522	1.0760		Spending Index	4	0.9846	0.9846		Transactions per Shopper	4	1.2024	1.0056		Unique Shopper Index	4	0.9100	0.9100	
-Comp1	3/3/2013	3/9/2013	2013	Average Ticket	5	68.5612	1.1118		Spending Index	5	1.0278	1.0278		Transactions per Shopper	5	1.2090	1.0112		Unique Shopper Index	5	0.9142	0.9142	
-Comp1	3/10/2013	3/16/2013	2013	Average Ticket	6	68.9173	1.1176		Spending Index	6	1.0502	1.0502		Transactions per Shopper	6	1.1871	0.9928		Unique Shopper Index	6	0.9461	0.9461	
-Comp1	3/17/2013	3/23/2013	2013	Average Ticket	7	73.6998	1.1952		Spending Index	7	0.9311	0.9311		Transactions per Shopper	7	1.1658	0.9751		Unique Shopper Index	7	0.7987	0.7987	
-Comp1	3/24/2013	3/30/2013	2013	Average Ticket	8	68.7208	1.1144		Spending Index	8	1.3887	1.3887		Transactions per Shopper	8	1.1883	0.9939		Unique Shopper Index	8	1.2537	1.2537	
-Comp1	3/31/2013	4/6/2013	2013	Average Ticket	9	68.8520	1.1166		Spending Index	9	1.1345	1.1345		Transactions per Shopper	9	1.2023	1.0055		Unique Shopper Index	9	1.0106	1.0106	
-Comp1	4/7/2013	4/13/2013	2013	Average Ticket	10	70.2594	1.1394		Spending Index	10	1.0520	1.0520		Transactions per Shopper	10	1.1903	0.9955		Unique Shopper Index	10	0.9277	0.9277	
-Comp1	4/14/2013	4/20/2013	2013	Average Ticket	11	72.8868	1.1820		Spending Index	11	1.1279	1.1279		Transactions per Shopper	11	1.1646	0.9741		Unique Shopper Index	11	0.9794	0.9794	
-Comp1	4/21/2013	4/27/2013	2013	Average Ticket	12	68.4909	1.1107		Spending Index	12	0.9738	0.9738		Transactions per Shopper	12	1.1767	0.9842		Unique Shopper Index	12	0.8909	0.8909	
-Comp1	4/28/2013	5/4/2013	2013	Average Ticket	13	70.2406	1.1391		Spending Index	13	1.1175	1.1175		Transactions per Shopper	13	1.1926	0.9974		Unique Shopper Index	13	0.9837	0.9837	
-Comp1	5/5/2013	5/11/2013	2013	Average Ticket	14	71.8892	1.1658		Spending Index	14	1.2521	1.2521		Transactions per Shopper	14	1.1780	0.9853		Unique Shopper Index	14	1.0900	1.0900	
-Comp1	5/12/2013	5/18/2013	2013	Average Ticket	15	69.8338	1.1325		Spending Index	15	1.1649	1.1649		Transactions per Shopper	15	1.1797	0.9866		Unique Shopper Index	15	1.0425	1.0425	
-Comp1	5/19/2013	5/25/2013	2013	Average Ticket	16	67.7449	1.0986		Spending Index	16	1.0597	1.0597		Transactions per Shopper	16	1.1905	0.9957		Unique Shopper Index	16	0.9688	0.9688	
-Comp1	5/26/2013	6/1/2013	2013	Average Ticket	17	65.8437	1.0678		Spending Index	17	1.1031	1.1031		Transactions per Shopper	17	1.2141	1.0154		Unique Shopper Index	17	1.0170	1.0170	
-Comp1	6/2/2013	6/8/2013	2013	Average Ticket	18	67.5468	1.0954		Spending Index	18	1.0063	1.0063		Transactions per Shopper	18	1.1864	0.9923		Unique Shopper Index	18	0.9256	0.9256	
-Comp1	6/9/2013	6/15/2013	2013	Average Ticket	19	68.9711	1.1185		Spending Index	19	1.1492	1.1492		Transactions per Shopper	19	1.1893	0.9947		Unique Shopper Index	19	1.0326	1.0326	
-Comp1	6/16/2013	6/22/2013	2013	Average Ticket	20	67.4377	1.0936		Spending Index	20	1.0381	1.0381		Transactions per Shopper	20	1.1740	0.9819		Unique Shopper Index	20	0.9667	0.9667	
-Comp1	6/23/2013	6/29/2013	2013	Average Ticket	21	66.5546	1.0793		Spending Index	21	0.9198	0.9198		Transactions per Shopper	21	1.1920	0.9970		Unique Shopper Index	21	0.8547	0.8547	
-Comp1	6/30/2013	7/6/2013	2013	Average Ticket	22	62.3699	1.0114		Spending Index	22	1.0128	1.0128		Transactions per Shopper	22	1.2034	1.0065		Unique Shopper Index	22	0.9950	0.9950	
-Comp1	7/7/2013	7/13/2013	2013	Average Ticket	23	65.3177	1.0592		Spending Index	23	0.8643	0.8643		Transactions per Shopper	23	1.1938	0.9985		Unique Shopper Index	23	0.8172	0.8172	
-Comp1	7/14/2013	7/20/2013	2013	Average Ticket	24	64.5770	1.0472		Spending Index	24	0.9339	0.9339		Transactions per Shopper	24	1.1879	0.9935		Unique Shopper Index	24	0.8972	0.8972	
-Comp1	7/21/2013	7/27/2013	2013	Average Ticket	25	62.1553	1.0080		Spending Index	25	0.8714	0.8714		Transactions per Shopper	25	1.2001	1.0037		Unique Shopper Index	25	0.8611	0.8611	
-Comp1	7/28/2013	8/3/2013	2013	Average Ticket	26	65.1848	1.0571		Spending Index	26	0.9708	0.9708		Transactions per Shopper	26	1.1920	0.9970		Unique Shopper Index	26	0.9213	0.9213	
-Comp1	8/4/2013	8/10/2013	2013	Average Ticket	27	64.7009	1.0492		Spending Index	27	1.1831	1.1831		Transactions per Shopper	27	1.2099	1.0120		Unique Shopper Index	27	1.1141	1.1141	
-Comp1	8/11/2013	8/17/2013	2013	Average Ticket	28	61.3579	0.9950		Spending Index	28	1.0154	1.0154		Transactions per Shopper	28	1.2038	1.0068		Unique Shopper Index	28	1.0135	1.0135	
-Comp1	8/18/2013	8/24/2013	2013	Average Ticket	29	62.4544	1.0128		Spending Index	29	0.9587	0.9587		Transactions per Shopper	29	1.2088	1.0110		Unique Shopper Index	29	0.9362	0.9362	
-Comp1	8/25/2013	8/31/2013	2013	Average Ticket	30	63.3031	1.0266		Spending Index	30	0.9280	0.9280		Transactions per Shopper	30	1.2263	1.0256		Unique Shopper Index	30	0.8809	0.8809	
-Comp1	9/1/2013	9/7/2013	2013	Average Ticket	31	60.9227	0.9880		Spending Index	31	1.0038	1.0038		Transactions per Shopper	31	1.2212	1.0214		Unique Shopper Index	31	0.9943	0.9943	
-Comp1	9/8/2013	9/14/2013	2013	Average Ticket	32	67.8604	1.1005		Spending Index	32	0.8239	0.8239		Transactions per Shopper	32	1.1827	0.9892		Unique Shopper Index	32	0.7569	0.7569	
-Comp1	9/15/2013	9/21/2013	2013	Average Ticket	33	68.5171	1.1111		Spending Index	33	0.8614	0.8614		Transactions per Shopper	33	1.1685	0.9773		Unique Shopper Index	33	0.7931	0.7931	
-Comp1	9/22/2013	9/28/2013	2013	Average Ticket	34	64.8725	1.0520		Spending Index	34	0.8459	0.8459		Transactions per Shopper	34	1.1759	0.9835		Unique Shopper Index	34	0.8172	0.8172	
-Comp1	9/29/2013	10/5/2013	2013	Average Ticket	35	68.0130	1.1030		Spending Index	35	0.8559	0.8559		Transactions per Shopper	35	1.1651	0.9745		Unique Shopper Index	35	0.7966	0.7966	
-Comp1	10/6/2013	10/12/2013	2013	Average Ticket	36	69.4306	1.1259		Spending Index	36	0.9242	0.9242		Transactions per Shopper	36	1.1668	0.9759		Unique Shopper Index	36	0.8412	0.8412	
-Comp1	10/13/2013	10/19/2013	2013	Average Ticket	37	70.2556	1.1393		Spending Index	37	1.1839	1.1839		Transactions per Shopper	37	1.1983	1.0023		Unique Shopper Index	37	1.0369	1.0369	
-Comp1	10/20/2013	10/26/2013	2013	Average Ticket	38	68.9621	1.1183		Spending Index	38	1.0261	1.0261		Transactions per Shopper	38	1.1692	0.9779		Unique Shopper Index	38	0.9383	0.9383	
-Comp1	10/27/2013	11/2/2013	2013	Average Ticket	39	70.6777	1.1462		Spending Index	39	0.9340	0.9340		Transactions per Shopper	39	1.1927	0.9975		Unique Shopper Index	39	0.8172	0.8172	
-Comp1	11/3/2013	11/9/2013	2013	Average Ticket	40	72.3585	1.1734		Spending Index	40	1.1313	1.1313		Transactions per Shopper	40	1.2097	1.0117		Unique Shopper Index	40	0.9525	0.9525	
-Comp1	11/10/2013	11/16/2013	2013	Average Ticket	41	68.4920	1.1107		Spending Index	41	1.2400	1.2400		Transactions per Shopper	41	1.2508	1.0462		Unique Shopper Index	41	1.0673	1.0673	
-Comp1	11/17/2013	11/23/2013	2013	Average Ticket	42	69.6930	1.1302		Spending Index	42	1.1134	1.1134		Transactions per Shopper	42	1.2068	1.0093		Unique Shopper Index	42	0.9759	0.9759	
-Comp1	11/24/2013	11/30/2013	2013	Average Ticket	43	69.8431	1.1326		Spending Index	43	2.6344	2.6344		Transactions per Shopper	43	1.2600	1.0538		Unique Shopper Index	43	2.2069	2.2069	
-Comp1	12/1/2013	12/7/2013	2013	Average Ticket	44	64.7671	1.0503		Spending Index	44	1.5445	1.5445		Transactions per Shopper	44	1.2292	1.0281		Unique Shopper Index	44	1.4302	1.4302	
-Comp1	12/8/2013	12/14/2013	2013	Average Ticket	45	66.4028	1.0768		Spending Index	45	1.8867	1.8867		Transactions per Shopper	45	1.2509	1.0462		Unique Shopper Index	45	1.6747	1.6747	
-Comp1	12/15/2013	12/21/2013	2013	Average Ticket	46	66.5258	1.0788		Spending Index	46	2.5368	2.5368		Transactions per Shopper	46	1.2485	1.0443		Unique Shopper Index	46	2.2516	2.2516	
-Comp1	12/22/2013	12/28/2013	2013	Average Ticket	47	66.0750	1.0715		Spending Index	47	2.8268	2.8268		Transactions per Shopper	47	1.2475	1.0434		Unique Shopper Index	47	2.5280	2.5280	
-Comp1	12/29/2013	1/4/2014	2013	Average Ticket	48	61.4401	0.9964		Spending Index	48	1.2068	1.2068		Transactions per Shopper	48	1.1864	0.9923		Unique Shopper Index	48	1.2204	1.2204	
-Comp1	1/5/2014	1/11/2014	2013	Average Ticket	49	65.5323	1.0627		Spending Index	49	0.7861	0.7861		Transactions per Shopper	49	1.1657	0.9750		Unique Shopper Index	49	0.7583	0.7583	
-Comp1	1/12/2014	1/18/2014	2013	Average Ticket	50	65.5396	1.0628		Spending Index	50	0.8144	0.8144		Transactions per Shopper	50	1.1891	0.9946		Unique Shopper Index	50	0.7704	0.7704	
-Comp1	1/19/2014	1/25/2014	2013	Average Ticket	51	62.6976	1.0168		Spending Index	51	0.8926	0.8926		Transactions per Shopper	51	1.2215	1.0216		Unique Shopper Index	51	0.8590	0.8590	
-Comp1	1/26/2014	2/1/2014	2013	Average Ticket	52	63.8143	1.0349		Spending Index	52	0.7600	0.7600		Transactions per Shopper	52	1.2121	1.0138		Unique Shopper Index	52	0.7243	0.7243	
-Comp1	2/2/2014	2/8/2014	2014	Average Ticket	1	63.7556	1.0339	3.4%	Spending Index	1	1.0188	1.0188	1.9%	Transactions per Shopper	1	1.2175	1.0183	1.8%	Unique Shopper Index	1	0.9674	0.9674	-3.3%
-Comp1	2/9/2014	2/15/2014	2014	Average Ticket	2	68.0564	1.1037	5.5%	Spending Index	2	1.2110	1.2110	0.4%	Transactions per Shopper	2	1.2097	1.0118	0.4%	Unique Shopper Index	2	1.0843	1.0843	-5.3%
-Comp1	2/16/2014	2/22/2014	2014	Average Ticket	3	66.1277	1.0724	4.8%	Spending Index	3	1.2890	1.2890	24.6%	Transactions per Shopper	3	1.2287	1.0277	0.8%	Unique Shopper Index	3	1.1694	1.1694	18.0%
-Comp1	2/23/2014	3/1/2014	2014	Average Ticket	4	66.7319	1.0822	0.6%	Spending Index	4	1.0667	1.0667	8.3%	Transactions per Shopper	4	1.2270	1.0263	2.1%	Unique Shopper Index	4	0.9603	0.9603	5.5%
-Comp1	3/2/2014	3/8/2014	2014	Average Ticket	5	68.3102	1.1078	-0.4%	Spending Index	5	1.0619	1.0619	3.3%	Transactions per Shopper	5	1.2101	1.0121	0.1%	Unique Shopper Index	5	0.9468	0.9468	3.6%
-Comp1	3/9/2014	3/15/2014	2014	Average Ticket	6	69.1376	1.1212	0.3%	Spending Index	6	1.0931	1.0931	4.1%	Transactions per Shopper	6	1.1944	0.9990	0.6%	Unique Shopper Index	6	0.9759	0.9759	3.1%
-Comp1	3/16/2014	3/22/2014	2014	Average Ticket	7	70.4133	1.1419	-4.5%	Spending Index	7	1.0320	1.0320	10.8%	Transactions per Shopper	7	1.1712	0.9796	0.5%	Unique Shopper Index	7	0.9227	0.9227	15.5%
-Comp1	3/23/2014	3/29/2014	2014	Average Ticket	8	73.3845	1.1901	6.8%	Spending Index	8	1.0188	1.0188	-26.6%	Transactions per Shopper	8	1.1692	0.9779	-1.6%	Unique Shopper Index	8	0.8753	0.8753	-30.2%
-Comp1	3/30/2014	4/5/2014	2014	Average Ticket	9	73.6926	1.1951	7.0%	Spending Index	9	1.2818	1.2818	13.0%	Transactions per Shopper	9	1.2068	1.0094	0.4%	Unique Shopper Index	9	1.0624	1.0624	5.1%
-Comp1	4/6/2014	4/12/2014	2014	Average Ticket	10	68.6174	1.1128	-2.3%	Spending Index	10	1.0680	1.0680	1.5%	Transactions per Shopper	10	1.2083	1.0106	1.5%	Unique Shopper Index	10	0.9497	0.9497	2.4%
-Comp1	4/13/2014	4/19/2014	2014	Average Ticket	11	69.6088	1.1288	-4.5%	Spending Index	11	1.3442	1.3442	19.2%	Transactions per Shopper	11	1.1916	0.9967	2.3%	Unique Shopper Index	11	1.1949	1.1949	22.0%
-Comp1	4/20/2014	4/26/2014	2014	Average Ticket	12	68.9633	1.1184	0.7%	Spending Index	12	1.1128	1.1128	14.3%	Transactions per Shopper	12	1.1780	0.9853	0.1%	Unique Shopper Index	12	1.0099	1.0099	13.4%
-Comp1	4/27/2014	5/3/2014	2014	Average Ticket	13	69.6994	1.1303	-0.8%	Spending Index	13	1.0958	1.0958	-1.9%	Transactions per Shopper	13	1.2020	1.0053	0.8%	Unique Shopper Index	13	0.9646	0.9646	-1.9%
-Comp1	5/4/2014	5/10/2014	2014	Average Ticket	14	71.3337	1.1568	-0.8%	Spending Index	14	1.3785	1.3785	10.1%	Transactions per Shopper	14	1.1959	1.0003	1.5%	Unique Shopper Index	14	1.1914	1.1914	9.3%
-Comp1	5/11/2014	5/17/2014	2014	Average Ticket	15	71.4760	1.1591	2.4%	Spending Index	15	1.2230	1.2230	5.0%	Transactions per Shopper	15	1.1792	0.9863	0.0%	Unique Shopper Index	15	1.0695	1.0695	2.6%
-Comp1	5/18/2014	5/24/2014	2014	Average Ticket	16	68.9802	1.1186	1.8%	Spending Index	16	1.1298	1.1298	6.6%	Transactions per Shopper	16	1.1720	0.9803	-1.6%	Unique Shopper Index	16	1.0305	1.0305	6.4%
-Comp1	5/25/2014	5/31/2014	2014	Average Ticket	17	67.0712	1.0877	1.9%	Spending Index	17	1.1798	1.1798	7.0%	Transactions per Shopper	17	1.2138	1.0152	0.0%	Unique Shopper Index	17	1.0680	1.0680	5.0%
-Comp1	6/1/2014	6/7/2014	2014	Average Ticket	18	69.3458	1.1246	2.7%	Spending Index	18	1.0905	1.0905	8.4%	Transactions per Shopper	18	1.1958	1.0001	0.8%	Unique Shopper Index	18	0.9695	0.9695	4.7%
-Comp1	6/8/2014	6/14/2014	2014	Average Ticket	19	72.1848	1.1706	4.7%	Spending Index	19	1.3372	1.3372	16.4%	Transactions per Shopper	19	1.2049	1.0078	1.3%	Unique Shopper Index	19	1.1332	1.1332	9.7%
-Comp1	6/15/2014	6/21/2014	2014	Average Ticket	20	69.4035	1.1255	2.9%	Spending Index	20	1.1605	1.1605	11.8%	Transactions per Shopper	20	1.1940	0.9986	1.7%	Unique Shopper Index	20	1.0326	1.0326	6.8%
-Comp1	6/22/2014	6/28/2014	2014	Average Ticket	21	66.2843	1.0749	-0.4%	Spending Index	21	0.9864	0.9864	7.2%	Transactions per Shopper	21	1.1886	0.9941	-0.3%	Unique Shopper Index	21	0.9227	0.9227	8.0%
-Comp1	6/29/2014	7/5/2014	2014	Average Ticket	22	64.5671	1.0471	3.5%	Spending Index	22	0.9624	0.9624	-5.0%	Transactions per Shopper	22	1.2152	1.0163	1.0%	Unique Shopper Index	22	0.9043	0.9043	-9.1%
-Comp1	7/6/2014	7/12/2014	2014	Average Ticket	23	63.2002	1.0249	-3.2%	Spending Index	23	1.0039	1.0039	16.2%	Transactions per Shopper	23	1.1996	1.0033	0.5%	Unique Shopper Index	23	0.9759	0.9759	19.4%
-Comp1	7/13/2014	7/19/2014	2014	Average Ticket	24	61.5786	0.9986	-4.6%	Spending Index	24	0.9034	0.9034	-3.3%	Transactions per Shopper	24	1.1975	1.0015	0.8%	Unique Shopper Index	24	0.9029	0.9029	0.6%
-Comp1	7/20/2014	7/26/2014	2014	Average Ticket	25	66.1041	1.0720	6.4%	Spending Index	25	0.9818	0.9818	12.7%	Transactions per Shopper	25	1.1819	0.9886	-1.5%	Unique Shopper Index	25	0.9263	0.9263	7.6%
-Comp1	7/27/2014	8/2/2014	2014	Average Ticket	26	66.7625	1.0827	2.4%	Spending Index	26	1.0438	1.0438	7.5%	Transactions per Shopper	26	1.1985	1.0024	0.5%	Unique Shopper Index	26	0.9617	0.9617	4.4%
-Comp1	8/3/2014	8/9/2014	2014	Average Ticket	27	67.7786	1.0992	4.8%	Spending Index	27	1.3099	1.3099	10.7%	Transactions per Shopper	27	1.2051	1.0079	-0.4%	Unique Shopper Index	27	1.1821	1.1821	6.1%
-Comp1	8/10/2014	8/16/2014	2014	Average Ticket	28	61.7798	1.0019	0.7%	Spending Index	28	1.0459	1.0459	3.0%	Transactions per Shopper	28	1.1995	1.0033	-0.4%	Unique Shopper Index	28	1.0404	1.0404	2.7%
-Comp1	8/17/2014	8/23/2014	2014	Average Ticket	29	64.5977	1.0476	3.4%	Spending Index	29	1.0447	1.0447	9.0%	Transactions per Shopper	29	1.2135	1.0149	0.4%	Unique Shopper Index	29	0.9823	0.9823	4.9%
-Comp1	8/24/2014	8/30/2014	2014	Average Ticket	30	62.2019	1.0087	-1.7%	Spending Index	30	1.0346	1.0346	11.5%	Transactions per Shopper	30	1.2470	1.0430	1.7%	Unique Shopper Index	30	0.9830	0.9830	11.6%
-Comp1	8/31/2014	9/6/2014	2014	Average Ticket	31	63.1446	1.0240	3.6%	Spending Index	31	1.0796	1.0796	7.6%	Transactions per Shopper	31	1.2293	1.0282	0.7%	Unique Shopper Index	31	1.0255	1.0255	3.1%
-Comp1	9/7/2014	9/13/2014	2014	Average Ticket	32	66.7185	1.0820	-1.7%	Spending Index	32	0.8339	0.8339	1.2%	Transactions per Shopper	32	1.2032	1.0063	1.7%	Unique Shopper Index	32	0.7661	0.7661	1.2%
-Comp1	9/14/2014	9/20/2014	2014	Average Ticket	33	67.5198	1.0950	-1.5%	Spending Index	33	0.9507	0.9507	10.4%	Transactions per Shopper	33	1.1645	0.9740	-0.3%	Unique Shopper Index	33	0.8916	0.8916	12.4%
-Comp1	9/21/2014	9/27/2014	2014	Average Ticket	34	67.7165	1.0981	4.4%	Spending Index	34	0.9088	0.9088	7.4%	Transactions per Shopper	34	1.2031	1.0062	2.3%	Unique Shopper Index	34	0.8221	0.8221	0.6%
-Comp1	9/28/2014	10/4/2014	2014	Average Ticket	35	67.3393	1.0920	-1.0%	Spending Index	35	0.9121	0.9121	6.6%	Transactions per Shopper	35	1.1988	1.0027	2.9%	Unique Shopper Index	35	0.8327	0.8327	4.5%
-Comp1	10/5/2014	10/11/2014	2014	Average Ticket	36	71.7166	1.1630	3.3%	Spending Index	36	0.9945	0.9945	7.6%	Transactions per Shopper	36	1.1775	0.9849	0.9%	Unique Shopper Index	36	0.8682	0.8682	3.2%
-Comp1	10/12/2014	10/18/2014	2014	Average Ticket	37	71.8539	1.1652	2.3%	Spending Index	37	1.1905	1.1905	0.6%	Transactions per Shopper	37	1.2112	1.0131	1.1%	Unique Shopper Index	37	1.0085	1.0085	-2.7%
-Comp1	10/19/2014	10/25/2014	2014	Average Ticket	38	69.8648	1.1330	1.3%	Spending Index	38	1.0827	1.0827	5.5%	Transactions per Shopper	38	1.1985	1.0024	2.5%	Unique Shopper Index	38	0.9532	0.9532	1.6%
-Comp1	10/26/2014	11/1/2014	2014	Average Ticket	39	68.3525	1.1085	-3.3%	Spending Index	39	0.9451	0.9451	1.2%	Transactions per Shopper	39	1.1827	0.9892	-0.8%	Unique Shopper Index	39	0.8618	0.8618	5.5%
-Comp1	11/2/2014	11/8/2014	2014	Average Ticket	40	74.9520	1.2155	3.6%	Spending Index	40	1.2439	1.2439	10.0%	Transactions per Shopper	40	1.2169	1.0178	0.6%	Unique Shopper Index	40	1.0057	1.0057	5.6%
-Comp1	11/9/2014	11/15/2014	2014	Average Ticket	41	73.4247	1.1907	7.2%	Spending Index	41	1.4907	1.4907	20.2%	Transactions per Shopper	41	1.2480	1.0438	-0.2%	Unique Shopper Index	41	1.1991	1.1991	12.4%
-Comp1	11/16/2014	11/22/2014	2014	Average Ticket	42	71.1654	1.1541	2.1%	Spending Index	42	1.2997	1.2997	16.7%	Transactions per Shopper	42	1.2232	1.0231	1.4%	Unique Shopper Index	42	1.1006	1.1006	12.8%
-Comp1	11/23/2014	11/29/2014	2014	Average Ticket	43	67.8794	1.1008	-2.8%	Spending Index	43	2.6415	2.6415	0.3%	Transactions per Shopper	43	1.2881	1.0774	2.2%	Unique Shopper Index	43	2.2275	2.2275	0.9%
-Comp1	11/30/2014	12/6/2014	2014	Average Ticket	44	65.7181	1.0657	1.5%	Spending Index	44	1.7760	1.7760	15.0%	Transactions per Shopper	44	1.2735	1.0652	3.6%	Unique Shopper Index	44	1.5641	1.5641	9.4%
-Comp1	12/7/2014	12/13/2014	2014	Average Ticket	45	67.1069	1.0883	1.1%	Spending Index	45	1.8425	1.8425	-2.3%	Transactions per Shopper	45	1.2390	1.0363	-0.9%	Unique Shopper Index	45	1.6336	1.6336	-2.5%
-Comp1	12/14/2014	12/20/2014	2014	Average Ticket	46	68.4238	1.1096	2.9%	Spending Index	46	2.4928	2.4928	-1.7%	Transactions per Shopper	46	1.2519	1.0471	0.3%	Unique Shopper Index	46	2.1453	2.1453	-4.7%
-Comp1	12/21/2014	12/27/2014	2014	Average Ticket	47	67.1499	1.0890	1.6%	Spending Index	47	3.1622	3.1622	11.9%	Transactions per Shopper	47	1.2694	1.0617	1.8%	Unique Shopper Index	47	2.7349	2.7349	8.2%
-Comp1	12/28/2014	1/3/2015	2014	Average Ticket	48	63.3219	1.0269	3.1%	Spending Index	48	1.3766	1.3766	14.1%	Transactions per Shopper	48	1.2141	1.0155	2.3%	Unique Shopper Index	48	1.3203	1.3203	8.2%
-Comp1	1/4/2015	1/10/2015	2014	Average Ticket	49	67.3137	1.0916	2.7%	Spending Index	49	0.8889	0.8889	13.1%	Transactions per Shopper	49	1.1775	0.9848	1.0%	Unique Shopper Index	49	0.8271	0.8271	9.1%
-Comp1	1/11/2015	1/17/2015	2014	Average Ticket	50	63.7859	1.0344	-2.7%	Spending Index	50	0.8237	0.8237	1.1%	Transactions per Shopper	50	1.2012	1.0047	1.0%	Unique Shopper Index	50	0.7923	0.7923	2.9%
-Comp1	1/18/2015	1/24/2015	2014	Average Ticket	51	66.4275	1.0772	5.9%	Spending Index	51	0.8961	0.8961	0.4%	Transactions per Shopper	51	1.1780	0.9853	-3.6%	Unique Shopper Index	51	0.8441	0.8441	-1.7%
-Comp1	1/25/2015	1/31/2015	2014	Average Ticket	52	63.8969	1.0362	0.1%	Spending Index	52	0.8460	0.8460	11.3%	Transactions per Shopper	52	1.1937	0.9984	-1.5%	Unique Shopper Index	52	0.8179	0.8179	12.9%
-Comp1	2/1/2015	2/7/2015	2015	Average Ticket	1	64.6194	1.0479	1.4%	Spending Index	1	1.0484	1.0484	2.9%	Transactions per Shopper	1	1.2063	1.0089	-0.9%	Unique Shopper Index	1	0.9915	0.9915	2.5%
-Comp1	2/8/2015	2/14/2015	2015	Average Ticket	2	69.3794	1.1251	1.9%	Spending Index	2	1.3420	1.3420	10.8%	Transactions per Shopper	2	1.2029	1.0061	-0.6%	Unique Shopper Index	2	1.1857	1.1857	9.3%
-Comp1	2/15/2015	2/21/2015	2015	Average Ticket	3	65.8356	1.0676	-0.4%	Spending Index	3	1.1627	1.1627	-9.8%	Transactions per Shopper	3	1.2166	1.0175	-1.0%	Unique Shopper Index	3	1.0702	1.0702	-8.5%
-Comp1	2/22/2015	2/28/2015	2015	Average Ticket	4	62.6566	1.0161	-6.1%	Spending Index	4	0.9461	0.9461	-11.3%	Transactions per Shopper	4	1.2176	1.0184	-0.8%	Unique Shopper Index	4	0.9142	0.9142	-4.8%
-Comp1	3/1/2015	3/7/2015	2015	Average Ticket	5	69.1241	1.1210	1.2%	Spending Index	5	1.1461	1.1461	7.9%	Transactions per Shopper	5	1.2272	1.0264	1.4%	Unique Shopper Index	5	0.9957	0.9957	5.2%
-Comp1	3/8/2015	3/14/2015	2015	Average Ticket	6	69.6126	1.1289	0.7%	Spending Index	6	1.1460	1.1460	4.8%	Transactions per Shopper	6	1.2069	1.0094	1.0%	Unique Shopper Index	6	1.0057	1.0057	3.1%
-Comp1	3/15/2015	3/21/2015	2015	Average Ticket	7	70.9739	1.1510	0.8%	Spending Index	7	1.1756	1.1756	13.9%	Transactions per Shopper	7	1.1960	1.0003	2.1%	Unique Shopper Index	7	1.0213	1.0213	10.7%
-Comp1	3/22/2015	3/28/2015	2015	Average Ticket	8	70.3666	1.1411	-4.1%	Spending Index	8	1.1534	1.1534	13.2%	Transactions per Shopper	8	1.1949	0.9994	2.2%	Unique Shopper Index	8	1.0113	1.0113	15.5%
-Comp1	3/29/2015	4/4/2015	2015	Average Ticket	9	72.6043	1.1774	-1.5%	Spending Index	9	1.5665	1.5665	22.2%	Transactions per Shopper	9	1.2142	1.0155	0.6%	Unique Shopper Index	9	1.3097	1.3097	23.3%
-Comp1	4/5/2015	4/11/2015	2015	Average Ticket	10	71.0498	1.1522	3.5%	Spending Index	10	1.1814	1.1814	10.6%	Transactions per Shopper	10	1.2014	1.0049	-0.6%	Unique Shopper Index	10	1.0206	1.0206	7.5%
-Comp1	4/12/2015	4/18/2015	2015	Average Ticket	11	72.3685	1.1736	4.0%	Spending Index	11	1.1983	1.1983	-10.9%	Transactions per Shopper	11	1.2066	1.0092	1.3%	Unique Shopper Index	11	1.0113	1.0113	-15.4%
-Comp1	4/19/2015	4/25/2015	2015	Average Ticket	12	70.7084	1.1467	2.5%	Spending Index	12	1.1491	1.1491	3.3%	Transactions per Shopper	12	1.1989	1.0027	1.8%	Unique Shopper Index	12	0.9993	0.9993	-1.1%
-Comp1	4/26/2015	5/2/2015	2015	Average Ticket	13	72.4280	1.1746	3.9%	Spending Index	13	1.1395	1.1395	4.0%	Transactions per Shopper	13	1.2044	1.0073	0.2%	Unique Shopper Index	13	0.9631	0.9631	-0.1%
-Comp1	5/3/2015	5/9/2015	2015	Average Ticket	14	74.6802	1.2111	4.7%	Spending Index	14	1.5394	1.5394	11.7%	Transactions per Shopper	14	1.2150	1.0162	1.6%	Unique Shopper Index	14	1.2509	1.2509	5.0%
-Comp1	5/10/2015	5/16/2015	2015	Average Ticket	15	71.1227	1.1534	-0.5%	Spending Index	15	1.2820	1.2820	4.8%	Transactions per Shopper	15	1.2089	1.0111	2.5%	Unique Shopper Index	15	1.0992	1.0992	2.8%
-Comp1	5/17/2015	5/23/2015	2015	Average Ticket	16	69.0393	1.1196	0.1%	Spending Index	16	1.2197	1.2197	8.0%	Transactions per Shopper	16	1.2132	1.0147	3.5%	Unique Shopper Index	16	1.0737	1.0737	4.2%
-Comp1	5/24/2015	5/30/2015	2015	Average Ticket	17	68.0622	1.1038	1.5%	Spending Index	17	1.2252	1.2252	3.9%	Transactions per Shopper	17	1.2364	1.0341	1.9%	Unique Shopper Index	17	1.0737	1.0737	0.5%
-Comp1	5/31/2015	6/6/2015	2015	Average Ticket	18	68.2186	1.1063	-1.6%	Spending Index	18	1.1615	1.1615	6.5%	Transactions per Shopper	18	1.2129	1.0145	1.4%	Unique Shopper Index	18	1.0347	1.0347	6.7%
-Comp1	6/7/2015	6/13/2015	2015	Average Ticket	19	69.5038	1.1271	-3.7%	Spending Index	19	1.1273	1.1273	-15.7%	Transactions per Shopper	19	1.2154	1.0165	0.9%	Unique Shopper Index	19	0.9837	0.9837	-13.2%
-Comp1	6/14/2015	6/20/2015	2015	Average Ticket	20	70.7295	1.1470	1.9%	Spending Index	20	1.2593	1.2593	8.5%	Transactions per Shopper	20	1.2024	1.0057	0.7%	Unique Shopper Index	20	1.0914	1.0914	5.7%
-Comp1	6/21/2015	6/27/2015	2015	Average Ticket	21	64.4141	1.0446	-2.8%	Spending Index	21	1.0813	1.0813	9.6%	Transactions per Shopper	21	1.2304	1.0291	3.5%	Unique Shopper Index	21	1.0057	1.0057	9.0%
-Comp1	6/28/2015	7/4/2015	2015	Average Ticket	22	60.5158	0.9814	-6.3%	Spending Index	22	1.0166	1.0166	5.6%	Transactions per Shopper	22	1.2258	1.0252	0.9%	Unique Shopper Index	22	1.0106	1.0106	11.8%
-Comp1	7/5/2015	7/11/2015	2015	Average Ticket	23	65.3852	1.0603	3.5%	Spending Index	23	0.9137	0.9137	-9.0%	Transactions per Shopper	23	1.1894	0.9948	-0.9%	Unique Shopper Index	23	0.8661	0.8661	-11.3%
-Comp1	7/12/2015	7/18/2015	2015	Average Ticket	24	65.8173	1.0673	6.9%	Spending Index	24	0.9740	0.9740	7.8%	Transactions per Shopper	24	1.1995	1.0032	0.2%	Unique Shopper Index	24	0.9093	0.9093	0.7%
-Comp1	7/19/2015	7/25/2015	2015	Average Ticket	25	66.1386	1.0726	0.1%	Spending Index	25	0.9627	0.9627	-1.9%	Transactions per Shopper	25	1.2041	1.0071	1.9%	Unique Shopper Index	25	0.8909	0.8909	-3.8%
-Comp1	7/26/2015	8/1/2015	2015	Average Ticket	26	63.7505	1.0338	-4.5%	Spending Index	26	0.9840	0.9840	-5.7%	Transactions per Shopper	26	1.2025	1.0058	0.3%	Unique Shopper Index	26	0.9461	0.9461	-1.6%
-Comp1	8/2/2015	8/8/2015	2015	Average Ticket	27	67.2686	1.0909	-0.8%	Spending Index	27	1.2672	1.2672	-3.3%	Transactions per Shopper	27	1.2210	1.0212	1.3%	Unique Shopper Index	27	1.1375	1.1375	-3.8%
-Comp1	8/9/2015	8/15/2015	2015	Average Ticket	28	64.7242	1.0496	4.8%	Spending Index	28	1.2074	1.2074	15.4%	Transactions per Shopper	28	1.2226	1.0226	1.9%	Unique Shopper Index	28	1.1247	1.1247	8.1%
-Comp1	8/16/2015	8/22/2015	2015	Average Ticket	29	64.9229	1.0528	0.5%	Spending Index	29	1.0423	1.0423	-0.2%	Transactions per Shopper	29	1.2055	1.0082	-0.7%	Unique Shopper Index	29	0.9816	0.9816	-0.1%
-Comp1	8/23/2015	8/29/2015	2015	Average Ticket	30	64.5573	1.0469	3.8%	Spending Index	30	0.9103	0.9103	-12.0%	Transactions per Shopper	30	1.1943	0.9989	-4.2%	Unique Shopper Index	30	0.8703	0.8703	-11.5%
-Comp1	8/30/2015	9/5/2015	2015	Average Ticket	31	67.3631	1.0924	6.7%	Spending Index	31	0.9478	0.9478	-12.2%	Transactions per Shopper	31	1.1895	0.9949	-3.2%	Unique Shopper Index	31	0.8717	0.8717	-15.0%
-Comp1	9/6/2015	9/12/2015	2015	Average Ticket	32	68.6039	1.1125	2.8%	Spending Index	32	1.0678	1.0678	28.0%	Transactions per Shopper	32	1.2087	1.0109	0.5%	Unique Shopper Index	32	0.9497	0.9497	24.0%
-Comp1	9/13/2015	9/19/2015	2015	Average Ticket	33	67.1858	1.0895	-0.5%	Spending Index	33	0.9637	0.9637	1.4%	Transactions per Shopper	33	1.2035	1.0066	3.3%	Unique Shopper Index	33	0.8788	0.8788	-1.4%
-Comp1	9/20/2015	9/26/2015	2015	Average Ticket	34	70.0673	1.1363	3.5%	Spending Index	34	1.0164	1.0164	11.8%	Transactions per Shopper	34	1.1932	0.9980	-0.8%	Unique Shopper Index	34	0.8965	0.8965	9.1%
-Comp1	9/27/2015	10/3/2015	2015	Average Ticket	35	71.9105	1.1662	6.8%	Spending Index	35	0.9816	0.9816	7.6%	Transactions per Shopper	35	1.1834	0.9898	-1.3%	Unique Shopper Index	35	0.8505	0.8505	2.1%
-Comp1	10/4/2015	10/10/2015	2015	Average Ticket	36	71.7589	1.1637	0.1%	Spending Index	36	0.9973	0.9973	0.3%	Transactions per Shopper	36	1.1498	0.9617	-2.4%	Unique Shopper Index	36	0.8909	0.8909	2.6%
-Comp1	10/11/2015	10/17/2015	2015	Average Ticket	37	75.1851	1.2193	4.6%	Spending Index	37	1.2650	1.2650	6.3%	Transactions per Shopper	37	1.1961	1.0004	-1.3%	Unique Shopper Index	37	1.0369	1.0369	2.8%
-Comp1	10/18/2015	10/24/2015	2015	Average Ticket	38	69.6173	1.1290	-0.4%	Spending Index	38	1.0842	1.0842	0.1%	Transactions per Shopper	38	1.1997	1.0034	0.1%	Unique Shopper Index	38	0.9568	0.9568	0.4%
-Comp1	10/25/2015	10/31/2015	2015	Average Ticket	39	70.0814	1.1365	2.5%	Spending Index	39	0.9197	0.9197	-2.7%	Transactions per Shopper	39	1.1702	0.9788	-1.1%	Unique Shopper Index	39	0.8264	0.8264	-4.1%
-Comp1	11/1/2015	11/7/2015	2015	Average Ticket	40	73.6754	1.1948	-1.7%	Spending Index	40	1.1065	1.1065	-11.0%	Transactions per Shopper	40	1.2050	1.0078	-1.0%	Unique Shopper Index	40	0.9192	0.9192	-8.6%
-Comp1	11/8/2015	11/14/2015	2015	Average Ticket	41	70.3623	1.1411	-4.2%	Spending Index	41	1.3494	1.3494	-9.5%	Transactions per Shopper	41	1.2548	1.0495	0.5%	Unique Shopper Index	41	1.1269	1.1269	-6.0%
-Comp1	11/15/2015	11/21/2015	2015	Average Ticket	42	71.2319	1.1552	0.1%	Spending Index	42	1.1216	1.1216	-13.7%	Transactions per Shopper	42	1.2192	1.0197	-0.3%	Unique Shopper Index	42	0.9518	0.9518	-13.5%
-Comp1	11/22/2015	11/28/2015	2015	Average Ticket	43	68.3066	1.1077	0.6%	Spending Index	43	2.3954	2.3954	-9.3%	Transactions per Shopper	43	1.2821	1.0723	-0.5%	Unique Shopper Index	43	2.0163	2.0163	-9.5%
-Comp1	11/29/2015	12/5/2015	2015	Average Ticket	44	63.8377	1.0352	-2.9%	Spending Index	44	1.6637	1.6637	-6.3%	Transactions per Shopper	44	1.2728	1.0646	-0.1%	Unique Shopper Index	44	1.5096	1.5096	-3.5%
-Comp1	12/6/2015	12/12/2015	2015	Average Ticket	45	65.9911	1.0702	-1.7%	Spending Index	45	1.9259	1.9259	4.5%	Transactions per Shopper	45	1.2757	1.0670	3.0%	Unique Shopper Index	45	1.6867	1.6867	3.3%
-Comp1	12/13/2015	12/19/2015	2015	Average Ticket	46	65.1941	1.0572	-4.7%	Spending Index	46	2.3044	2.3044	-7.6%	Transactions per Shopper	46	1.2823	1.0725	2.4%	Unique Shopper Index	46	2.0319	2.0319	-5.3%
-Comp1	12/20/2015	12/26/2015	2015	Average Ticket	47	69.8219	1.1323	4.0%	Spending Index	47	3.2095	3.2095	1.5%	Transactions per Shopper	47	1.2717	1.0636	0.2%	Unique Shopper Index	47	2.6648	2.6648	-2.6%
-Comp1	12/27/2015	1/2/2016	2015	Average Ticket	48	63.4870	1.0296	0.3%	Spending Index	48	1.3715	1.3715	-0.4%	Transactions per Shopper	48	1.2031	1.0062	-0.9%	Unique Shopper Index	48	1.3239	1.3239	0.3%
-Comp1	1/3/2016	1/9/2016	2015	Average Ticket	49	68.4801	1.1105	1.7%	Spending Index	49	1.0398	1.0398	17.0%	Transactions per Shopper	49	1.1769	0.9843	-0.1%	Unique Shopper Index	49	0.9511	0.9511	15.0%
-Comp1	1/10/2016	1/16/2016	2015	Average Ticket	50	66.0286	1.0708	3.5%	Spending Index	50	0.7933	0.7933	-3.7%	Transactions per Shopper	50	1.1839	0.9902	-1.4%	Unique Shopper Index	50	0.7484	0.7484	-5.5%
-Comp1	1/17/2016	1/23/2016	2015	Average Ticket	51	65.1769	1.0570	-1.9%	Spending Index	51	0.8181	0.8181	-8.7%	Transactions per Shopper	51	1.1840	0.9903	0.5%	Unique Shopper Index	51	0.7817	0.7817	-7.4%
-Comp1	1/24/2016	1/30/2016	2015	Average Ticket	52	66.3338	1.0757	3.8%	Spending Index	52	0.8293	0.8293	-2.0%	Transactions per Shopper	52	1.1935	0.9982	0.0%	Unique Shopper Index	52	0.7725	0.7725	-5.5%
-Comp1	1/31/2016	2/6/2016	2016	Average Ticket	1	64.5224	1.0463	-0.2%	Spending Index	1	1.0335	1.0335	-1.4%	Transactions per Shopper	1	1.1939	0.9986	-1.0%	Unique Shopper Index	1	0.9894	0.9894	-0.2%
-Comp1	2/7/2016	2/13/2016	2016	Average Ticket	2	64.6713	1.0488	-6.8%	Spending Index	2	1.1481	1.1481	-14.5%	Transactions per Shopper	2	1.2307	1.0293	2.3%	Unique Shopper Index	2	1.0631	1.0631	-10.3%
-Comp1	2/14/2016	2/20/2016	2016	Average Ticket	3	66.6738	1.0812	1.3%	Spending Index	3	1.2859	1.2859	10.6%	Transactions per Shopper	3	1.2333	1.0315	1.4%	Unique Shopper Index	3	1.1531	1.1531	7.7%
-Comp1	2/21/2016	2/27/2016	2016	Average Ticket	4	69.0319	1.1195	10.2%	Spending Index	4	1.0141	1.0141	7.2%	Transactions per Shopper	4	1.2270	1.0263	0.8%	Unique Shopper Index	4	0.8824	0.8824	-3.5%
-Comp1	2/28/2016	3/5/2016	2016	Average Ticket	5	70.4568	1.1426	1.9%	Spending Index	5	1.1083	1.1083	-3.3%	Transactions per Shopper	5	1.2033	1.0065	-1.9%	Unique Shopper Index	5	0.9639	0.9639	-3.2%
-Comp1	3/6/2016	3/12/2016	2016	Average Ticket	6	73.0922	1.1853	5.0%	Spending Index	6	1.2082	1.2082	5.4%	Transactions per Shopper	6	1.2065	1.0091	0.0%	Unique Shopper Index	6	1.0099	1.0099	0.4%
-Comp1	3/13/2016	3/19/2016	2016	Average Ticket	7	71.0448	1.1521	0.1%	Spending Index	7	1.2743	1.2743	8.4%	Transactions per Shopper	7	1.2135	1.0150	1.5%	Unique Shopper Index	7	1.0893	1.0893	6.7%
-Comp1	3/20/2016	3/26/2016	2016	Average Ticket	8	74.9875	1.2161	6.6%	Spending Index	8	1.5521	1.5521	34.6%	Transactions per Shopper	8	1.2230	1.0229	2.3%	Unique Shopper Index	8	1.2473	1.2473	23.3%
-Comp1	3/27/2016	4/2/2016	2016	Average Ticket	9	71.7130	1.1630	-1.2%	Spending Index	9	1.1920	1.1920	-23.9%	Transactions per Shopper	9	1.1985	1.0024	-1.3%	Unique Shopper Index	9	1.0227	1.0227	-21.9%
-Comp1	4/3/2016	4/9/2016	2016	Average Ticket	10	71.6937	1.1626	0.9%	Spending Index	10	1.0646	1.0646	-9.9%	Transactions per Shopper	10	1.2121	1.0137	0.9%	Unique Shopper Index	10	0.9029	0.9029	-11.5%
-Comp1	4/10/2016	4/16/2016	2016	Average Ticket	11	73.9766	1.1997	2.2%	Spending Index	11	1.1851	1.1851	-1.1%	Transactions per Shopper	11	1.2147	1.0160	0.7%	Unique Shopper Index	11	0.9724	0.9724	-3.9%
-Comp1	4/17/2016	4/23/2016	2016	Average Ticket	12	70.9680	1.1509	0.4%	Spending Index	12	1.1857	1.1857	3.2%	Transactions per Shopper	12	1.2263	1.0257	2.3%	Unique Shopper Index	12	1.0043	1.0043	0.5%
-Comp1	4/24/2016	4/30/2016	2016	Average Ticket	13	72.0479	1.1684	-0.5%	Spending Index	13	1.1811	1.1811	3.6%	Transactions per Shopper	13	1.2150	1.0162	0.9%	Unique Shopper Index	13	0.9943	0.9943	3.2%
-Comp1	5/1/2016	5/7/2016	2016	Average Ticket	14	74.6464	1.2105	0.0%	Spending Index	14	1.6800	1.6800	9.1%	Transactions per Shopper	14	1.2698	1.0621	4.5%	Unique Shopper Index	14	1.3069	1.3069	4.5%
-Comp1	5/8/2016	5/14/2016	2016	Average Ticket	15	67.2451	1.0905	-5.5%	Spending Index	15	1.3009	1.3009	1.5%	Transactions per Shopper	15	1.2299	1.0287	1.7%	Unique Shopper Index	15	1.1595	1.1595	5.5%
-Comp1	5/15/2016	5/21/2016	2016	Average Ticket	16	69.4333	1.1260	0.6%	Spending Index	16	1.1843	1.1843	-2.9%	Transactions per Shopper	16	1.2103	1.0122	-0.2%	Unique Shopper Index	16	1.0390	1.0390	-3.2%
-Comp1	5/22/2016	5/28/2016	2016	Average Ticket	17	69.7328	1.1308	2.5%	Spending Index	17	1.2122	1.2122	-1.1%	Transactions per Shopper	17	1.2265	1.0258	-0.8%	Unique Shopper Index	17	1.0446	1.0446	-2.7%
-Comp1	5/29/2016	6/4/2016	2016	Average Ticket	18	69.9728	1.1347	2.6%	Spending Index	18	1.3776	1.3776	18.6%	Transactions per Shopper	18	1.2750	1.0664	5.1%	Unique Shopper Index	18	1.1382	1.1382	10.0%
-Comp1	6/5/2016	6/11/2016	2016	Average Ticket	19	70.3397	1.1407	1.2%	Spending Index	19	1.1994	1.1994	6.4%	Transactions per Shopper	19	1.2179	1.0186	0.2%	Unique Shopper Index	19	1.0319	1.0319	4.9%
-Comp1	6/12/2016	6/18/2016	2016	Average Ticket	20	68.9229	1.1177	-2.6%	Spending Index	20	1.2668	1.2668	0.6%	Transactions per Shopper	20	1.2315	1.0300	2.4%	Unique Shopper Index	20	1.0999	1.0999	0.8%
-Comp1	6/19/2016	6/25/2016	2016	Average Ticket	21	69.0454	1.1197	7.2%	Spending Index	21	1.1512	1.1512	6.5%	Transactions per Shopper	21	1.2335	1.0317	0.2%	Unique Shopper Index	21	0.9965	0.9965	-0.9%
-Comp1	6/26/2016	7/2/2016	2016	Average Ticket	22	63.2976	1.0265	4.6%	Spending Index	22	1.0154	1.0154	-0.1%	Transactions per Shopper	22	1.2198	1.0202	-0.5%	Unique Shopper Index	22	0.9695	0.9695	-4.1%
-Comp1	7/3/2016	7/9/2016	2016	Average Ticket	23	66.1691	1.0731	1.2%	Spending Index	23	1.1631	1.1631	27.3%	Transactions per Shopper	23	1.2574	1.0516	5.7%	Unique Shopper Index	23	1.0305	1.0305	19.0%
-Comp1	7/10/2016	7/16/2016	2016	Average Ticket	24	67.5850	1.0960	2.7%	Spending Index	24	1.0601	1.0601	8.8%	Transactions per Shopper	24	1.2297	1.0285	2.5%	Unique Shopper Index	24	0.9405	0.9405	3.4%
-Comp1	7/17/2016	7/23/2016	2016	Average Ticket	25	65.8698	1.0682	-0.4%	Spending Index	25	1.0407	1.0407	8.1%	Transactions per Shopper	25	1.2211	1.0213	1.4%	Unique Shopper Index	25	0.9539	0.9539	7.1%
-Comp1	7/24/2016	7/30/2016	2016	Average Ticket	26	69.7883	1.1317	9.5%	Spending Index	26	1.1001	1.1001	11.8%	Transactions per Shopper	26	1.2231	1.0230	1.7%	Unique Shopper Index	26	0.9504	0.9504	0.4%
-Comp1	7/31/2016	8/6/2016	2016	Average Ticket	27	68.6397	1.1131	2.0%	Spending Index	27	1.3469	1.3469	6.3%	Transactions per Shopper	27	1.2206	1.0209	0.0%	Unique Shopper Index	27	1.1850	1.1850	4.2%
-Comp1	8/7/2016	8/13/2016	2016	Average Ticket	28	64.8506	1.0517	0.2%	Spending Index	28	1.1404	1.1404	-5.6%	Transactions per Shopper	28	1.2087	1.0110	-1.1%	Unique Shopper Index	28	1.0723	1.0723	-4.7%
-Comp1	8/14/2016	8/20/2016	2016	Average Ticket	29	66.7387	1.0823	2.8%	Spending Index	29	1.0881	1.0881	4.4%	Transactions per Shopper	29	1.2098	1.0119	0.4%	Unique Shopper Index	29	0.9936	0.9936	1.2%
-Comp1	8/21/2016	8/27/2016	2016	Average Ticket	30	64.7664	1.0503	0.3%	Spending Index	30	0.9426	0.9426	3.5%	Transactions per Shopper	30	1.2107	1.0126	1.4%	Unique Shopper Index	30	0.8866	0.8866	1.9%
-Comp1	8/28/2016	9/3/2016	2016	Average Ticket	31	66.5609	1.0794	-1.2%	Spending Index	31	0.9440	0.9440	-0.4%	Transactions per Shopper	31	1.2057	1.0085	1.4%	Unique Shopper Index	31	0.8675	0.8675	-0.5%
-Comp1	9/4/2016	9/10/2016	2016	Average Ticket	32	65.2933	1.0588	-4.8%	Spending Index	32	1.0423	1.0423	-2.4%	Transactions per Shopper	32	1.2086	1.0108	0.0%	Unique Shopper Index	32	0.9738	0.9738	2.5%
-Comp1	9/11/2016	9/17/2016	2016	Average Ticket	33	67.7760	1.0991	0.9%	Spending Index	33	0.9452	0.9452	-1.9%	Transactions per Shopper	33	1.1945	0.9991	-0.7%	Unique Shopper Index	33	0.8604	0.8604	-2.1%
-Comp1	9/18/2016	9/24/2016	2016	Average Ticket	34	69.2796	1.1235	-1.1%	Spending Index	34	0.9989	0.9989	-1.7%	Transactions per Shopper	34	1.2097	1.0118	1.4%	Unique Shopper Index	34	0.8788	0.8788	-2.0%
-Comp1	9/25/2016	10/1/2016	2016	Average Ticket	35	69.1936	1.1221	-3.8%	Spending Index	35	0.9801	0.9801	-0.2%	Transactions per Shopper	35	1.2114	1.0132	2.4%	Unique Shopper Index	35	0.8618	0.8618	1.3%
-Comp1	10/2/2016	10/8/2016	2016	Average Ticket	36	71.1165	1.1533	-0.9%	Spending Index	36	0.9723	0.9723	-2.5%	Transactions per Shopper	36	1.1990	1.0028	4.3%	Unique Shopper Index	36	0.8405	0.8405	-5.6%
-Comp1	10/9/2016	10/15/2016	2016	Average Ticket	37	71.8391	1.1650	-4.5%	Spending Index	37	1.1642	1.1642	-8.0%	Transactions per Shopper	37	1.2232	1.0231	2.3%	Unique Shopper Index	37	0.9766	0.9766	-5.8%
-Comp1	10/16/2016	10/22/2016	2016	Average Ticket	38	71.4100	1.1580	2.6%	Spending Index	38	1.1311	1.1311	4.3%	Transactions per Shopper	38	1.2363	1.0340	3.0%	Unique Shopper Index	38	0.9447	0.9447	-1.3%
-Comp1	10/23/2016	10/29/2016	2016	Average Ticket	39	70.3251	1.1405	0.3%	Spending Index	39	0.9928	0.9928	7.9%	Transactions per Shopper	39	1.2062	1.0089	3.1%	Unique Shopper Index	39	0.8625	0.8625	4.4%
-Comp1	10/30/2016	11/5/2016	2016	Average Ticket	40	73.0502	1.1846	-0.8%	Spending Index	40	0.9792	0.9792	-11.5%	Transactions per Shopper	40	1.2090	1.0112	0.3%	Unique Shopper Index	40	0.8172	0.8172	-11.1%
-Comp1	11/6/2016	11/12/2016	2016	Average Ticket	41	75.1863	1.2193	6.9%	Spending Index	41	1.2390	1.2390	-8.2%	Transactions per Shopper	41	1.2420	1.0388	-1.0%	Unique Shopper Index	41	0.9780	0.9780	-13.2%
-Comp1	11/13/2016	11/19/2016	2016	Average Ticket	42	71.5103	1.1597	0.4%	Spending Index	42	1.3717	1.3717	22.3%	Transactions per Shopper	42	1.2315	1.0300	1.0%	Unique Shopper Index	42	1.1481	1.1481	20.6%
-Comp1	11/20/2016	11/26/2016	2016	Average Ticket	43	70.6874	1.1463	3.5%	Spending Index	43	2.7974	2.7974	16.8%	Transactions per Shopper	43	1.2854	1.0751	0.3%	Unique Shopper Index	43	2.2700	2.2700	12.6%
-Comp1	11/27/2016	12/3/2016	2016	Average Ticket	44	65.7905	1.0669	3.1%	Spending Index	44	1.7897	1.7897	7.6%	Transactions per Shopper	44	1.2994	1.0868	2.1%	Unique Shopper Index	44	1.5436	1.5436	2.3%
-Comp1	12/4/2016	12/10/2016	2016	Average Ticket	45	63.1881	1.0247	-4.2%	Spending Index	45	1.9431	1.9431	0.9%	Transactions per Shopper	45	1.2991	1.0866	1.8%	Unique Shopper Index	45	1.7449	1.7449	3.4%
-Comp1	12/11/2016	12/17/2016	2016	Average Ticket	46	66.3680	1.0763	1.8%	Spending Index	46	2.3097	2.3097	0.2%	Transactions per Shopper	46	1.2793	1.0700	-0.2%	Unique Shopper Index	46	2.0057	2.0057	-1.3%
-Comp1	12/18/2016	12/24/2016	2016	Average Ticket	47	68.8611	1.1167	-1.4%	Spending Index	47	3.1768	3.1768	-1.0%	Transactions per Shopper	47	1.2686	1.0611	-0.2%	Unique Shopper Index	47	2.6811	2.6811	0.6%
-Comp1	12/25/2016	12/31/2016	2016	Average Ticket	48	63.4280	1.0286	-0.1%	Spending Index	48	1.6022	1.6022	16.8%	Transactions per Shopper	48	1.2159	1.0169	1.1%	Unique Shopper Index	48	1.5315	1.5315	15.7%
-Comp1	1/1/2017	1/7/2017	2016	Average Ticket	49	65.3859	1.0604	-4.5%	Spending Index	49	0.9075	0.9075	-12.7%	Transactions per Shopper	49	1.1814	0.9881	0.4%	Unique Shopper Index	49	0.8661	0.8661	-8.9%
-Comp1	1/8/2017	1/14/2017	2016	Average Ticket	50	62.9812	1.0214	-4.6%	Spending Index	50	0.7306	0.7306	-7.9%	Transactions per Shopper	50	1.1867	0.9926	0.2%	Unique Shopper Index	50	0.7208	0.7208	-3.7%
-Comp1	1/15/2017	1/21/2017	2016	Average Ticket	51	64.2226	1.0415	-1.5%	Spending Index	51	0.8116	0.8116	-0.8%	Transactions per Shopper	51	1.1982	1.0022	1.2%	Unique Shopper Index	51	0.7775	0.7775	-0.5%
-Comp1	1/22/2017	1/28/2017	2016	Average Ticket	52	64.5959	1.0475	-2.6%	Spending Index	52	0.7383	0.7383	-11.0%	Transactions per Shopper	52	1.1984	1.0023	0.4%	Unique Shopper Index	52	0.7030	0.7030	-9.0%
-Comp1	1/29/2017	2/4/2017	2017	Average Ticket	1	67.5283	1.0951	4.7%	Spending Index	1	0.9321	0.9321	-9.8%	Transactions per Shopper	1	1.1983	1.0022	0.4%	Unique Shopper Index	1	0.8490	0.8490	-14.2%
-Comp1	2/5/2017	2/11/2017	2017	Average Ticket	2	64.9832	1.0538	0.5%	Spending Index	2	0.9651	0.9651	-15.9%	Transactions per Shopper	2	1.2056	1.0084	-2.0%	Unique Shopper Index	2	0.9079	0.9079	-14.6%
-Comp1	2/12/2017	2/18/2017	2017	Average Ticket	3	68.1225	1.1047	2.2%	Spending Index	3	1.0925	1.0925	-15.0%	Transactions per Shopper	3	1.2150	1.0162	-1.5%	Unique Shopper Index	3	0.9731	0.9731	-15.6%
-Comp1	2/19/2017	2/25/2017	2017	Average Ticket	4	69.3180	1.1241	0.4%	Spending Index	4	1.0602	1.0602	4.6%	Transactions per Shopper	4	1.2068	1.0094	-1.6%	Unique Shopper Index	4	0.9341	0.9341	5.9%
-Comp1	2/26/2017	3/4/2017	2017	Average Ticket	5	72.2419	1.1715	2.5%	Spending Index	5	1.1105	1.1105	0.2%	Transactions per Shopper	5	1.2227	1.0227	1.6%	Unique Shopper Index	5	0.9270	0.9270	-3.8%
-Comp1	3/5/2017	3/11/2017	2017	Average Ticket	6	72.7239	1.1794	-0.5%	Spending Index	6	1.1246	1.1246	-6.9%	Transactions per Shopper	6	1.2235	1.0233	1.4%	Unique Shopper Index	6	0.9320	0.9320	-7.7%
-Comp1	3/12/2017	3/18/2017	2017	Average Ticket	7	73.0190	1.1841	2.8%	Spending Index	7	1.1320	1.1320	-11.2%	Transactions per Shopper	7	1.2136	1.0151	0.0%	Unique Shopper Index	7	0.9419	0.9419	-13.5%
-Comp1	3/19/2017	3/25/2017	2017	Average Ticket	8	71.2487	1.1554	-5.0%	Spending Index	8	1.1027	1.1027	-29.0%	Transactions per Shopper	8	1.2253	1.0248	0.2%	Unique Shopper Index	8	0.9313	0.9313	-25.3%
-Comp1	3/26/2017	4/1/2017	2017	Average Ticket	9	74.1016	1.2017	3.3%	Spending Index	9	1.2862	1.2862	7.9%	Transactions per Shopper	9	1.2251	1.0247	2.2%	Unique Shopper Index	9	1.0446	1.0446	2.1%
-Comp1	4/2/2017	4/8/2017	2017	Average Ticket	10	75.3745	1.2223	5.1%	Spending Index	10	1.3437	1.3437	26.2%	Transactions per Shopper	10	1.2303	1.0290	1.5%	Unique Shopper Index	10	1.0680	1.0680	18.3%
-Comp1	4/9/2017	4/15/2017	2017	Average Ticket	11	77.3490	1.2544	4.6%	Spending Index	11	1.4944	1.4944	26.1%	Transactions per Shopper	11	1.2033	1.0064	-0.9%	Unique Shopper Index	11	1.1836	1.1836	21.7%
-Comp1	4/16/2017	4/22/2017	2017	Average Ticket	12	73.4017	1.1903	3.4%	Spending Index	12	1.2321	1.2321	3.9%	Transactions per Shopper	12	1.2094	1.0115	-1.4%	Unique Shopper Index	12	1.0234	1.0234	1.9%
-Comp1	4/23/2017	4/29/2017	2017	Average Ticket	13	74.9165	1.2149	4.0%	Spending Index	13	1.1632	1.1632	-1.5%	Transactions per Shopper	13	1.2162	1.0172	0.1%	Unique Shopper Index	13	0.9412	0.9412	-5.3%
-Comp1	4/30/2017	5/6/2017	2017	Average Ticket	14	74.0871	1.2015	-0.7%	Spending Index	14	1.3421	1.3421	-20.1%	Transactions per Shopper	14	1.2549	1.0496	-1.2%	Unique Shopper Index	14	1.0645	1.0645	-18.5%
-Comp1	5/7/2017	5/13/2017	2017	Average Ticket	15	72.5989	1.1773	8.0%	Spending Index	15	1.3051	1.3051	0.3%	Transactions per Shopper	15	1.1919	0.9969	-3.1%	Unique Shopper Index	15	1.1120	1.1120	-4.1%
-Comp1	5/14/2017	5/20/2017	2017	Average Ticket	16	71.6716	1.1623	3.2%	Spending Index	16	1.3572	1.3572	14.6%	Transactions per Shopper	16	1.2116	1.0134	0.1%	Unique Shopper Index	16	1.1524	1.1524	10.9%
-Comp1	5/21/2017	5/27/2017	2017	Average Ticket	17	71.0010	1.1514	1.8%	Spending Index	17	1.1296	1.1296	-6.8%	Transactions per Shopper	17	1.2254	1.0249	-0.1%	Unique Shopper Index	17	0.9575	0.9575	-8.3%
-Comp1	5/28/2017	6/3/2017	2017	Average Ticket	18	72.1702	1.1704	3.1%	Spending Index	18	1.1727	1.1727	-14.9%	Transactions per Shopper	18	1.2205	1.0208	-4.3%	Unique Shopper Index	18	0.9816	0.9816	-13.8%
-Comp1	6/4/2017	6/10/2017	2017	Average Ticket	19	70.7643	1.1476	0.6%	Spending Index	19	1.1050	1.1050	-7.9%	Transactions per Shopper	19	1.2081	1.0105	-0.8%	Unique Shopper Index	19	0.9532	0.9532	-7.6%
-Comp1	6/11/2017	6/17/2017	2017	Average Ticket	20	72.0656	1.1687	4.6%	Spending Index	20	1.1604	1.1604	-8.4%	Transactions per Shopper	20	1.2204	1.0207	-0.9%	Unique Shopper Index	20	0.9724	0.9724	-11.6%
-Comp1	6/18/2017	6/24/2017	2017	Average Ticket	21	73.5618	1.1929	6.5%	Spending Index	21	1.1297	1.1297	-1.9%	Transactions per Shopper	21	1.2223	1.0223	-0.9%	Unique Shopper Index	21	0.9263	0.9263	-7.0%
-Comp1	6/25/2017	7/1/2017	2017	Average Ticket	22	69.9550	1.1344	10.5%	Spending Index	22	0.9759	0.9759	-3.9%	Transactions per Shopper	22	1.2147	1.0159	-0.4%	Unique Shopper Index	22	0.8469	0.8469	-12.6%
-Comp1	7/2/2017	7/8/2017	2017	Average Ticket	23	67.9256	1.1015	2.7%	Spending Index	23	1.0674	1.0674	-8.2%	Transactions per Shopper	23	1.2164	1.0174	-3.3%	Unique Shopper Index	23	0.9525	0.9525	-7.6%
-Comp1	7/9/2017	7/15/2017	2017	Average Ticket	24	70.2994	1.1400	4.0%	Spending Index	24	1.0246	1.0246	-3.3%	Transactions per Shopper	24	1.2297	1.0285	0.0%	Unique Shopper Index	24	0.8738	0.8738	-7.1%
-Comp1	7/16/2017	7/22/2017	2017	Average Ticket	25	72.1595	1.1702	9.5%	Spending Index	25	1.0615	1.0615	2.0%	Transactions per Shopper	25	1.2265	1.0258	0.4%	Unique Shopper Index	25	0.8845	0.8845	-7.3%
-Comp1	7/23/2017	7/29/2017	2017	Average Ticket	26	72.9946	1.1837	4.6%	Spending Index	26	1.0418	1.0418	-5.3%	Transactions per Shopper	26	1.2051	1.0079	-1.5%	Unique Shopper Index	26	0.8731	0.8731	-8.1%
-Comp1	7/30/2017	8/5/2017	2017	Average Ticket	27	70.0196	1.1355	2.0%	Spending Index	27	1.3402	1.3402	-0.5%	Transactions per Shopper	27	1.2342	1.0323	1.1%	Unique Shopper Index	27	1.1432	1.1432	-3.5%
-Comp1	8/6/2017	8/12/2017	2017	Average Ticket	28	69.8971	1.1335	7.8%	Spending Index	28	1.1315	1.1315	-0.8%	Transactions per Shopper	28	1.2296	1.0285	1.7%	Unique Shopper Index	28	0.9702	0.9702	-9.5%
-Comp1	8/13/2017	8/19/2017	2017	Average Ticket	29	67.4981	1.0946	1.1%	Spending Index	29	1.0020	1.0020	-7.9%	Transactions per Shopper	29	1.2141	1.0154	0.4%	Unique Shopper Index	29	0.9015	0.9015	-9.3%
-Comp1	8/20/2017	8/26/2017	2017	Average Ticket	30	67.1813	1.0895	3.7%	Spending Index	30	0.9126	0.9126	-3.2%	Transactions per Shopper	30	1.2089	1.0111	-0.1%	Unique Shopper Index	30	0.8285	0.8285	-6.6%
-Comp1	8/27/2017	9/2/2017	2017	Average Ticket	31	71.3772	1.1575	7.2%	Spending Index	31	0.9316	0.9316	-1.3%	Transactions per Shopper	31	1.1821	0.9887	-2.0%	Unique Shopper Index	31	0.8143	0.8143	-6.1%
-Comp1	9/3/2017	9/9/2017	2017	Average Ticket	32	68.5756	1.1121	5.0%	Spending Index	32	0.9368	0.9368	-10.1%	Transactions per Shopper	32	1.1960	1.0003	-1.0%	Unique Shopper Index	32	0.8420	0.8420	-13.5%
-Comp1	9/10/2017	9/16/2017	2017	Average Ticket	33	69.2988	1.1238	2.2%	Spending Index	33	0.8612	0.8612	-8.9%	Transactions per Shopper	33	1.2334	1.0316	3.3%	Unique Shopper Index	33	0.7427	0.7427	-13.7%
-Comp1	9/17/2017	9/23/2017	2017	Average Ticket	34	69.1607	1.1216	-0.2%	Spending Index	34	0.9096	0.9096	-8.9%	Transactions per Shopper	34	1.2056	1.0084	-0.3%	Unique Shopper Index	34	0.8044	0.8044	-8.5%
-Comp1	9/24/2017	9/30/2017	2017	Average Ticket	35	68.4189	1.1095	-1.1%	Spending Index	35	0.8878	0.8878	-9.4%	Transactions per Shopper	35	1.2011	1.0046	-0.9%	Unique Shopper Index	35	0.7966	0.7966	-7.6%
-Comp1	10/1/2017	10/7/2017	2017	Average Ticket	36	70.9521	1.1506	-0.2%	Spending Index	36	1.0135	1.0135	4.2%	Transactions per Shopper	36	1.2155	1.0166	1.4%	Unique Shopper Index	36	0.8661	0.8661	3.0%
-Comp1	10/8/2017	10/14/2017	2017	Average Ticket	37	74.1639	1.2027	3.2%	Spending Index	37	1.1455	1.1455	-1.6%	Transactions per Shopper	37	1.2067	1.0093	-1.4%	Unique Shopper Index	37	0.9433	0.9433	-3.4%
-Comp1	10/15/2017	10/21/2017	2017	Average Ticket	38	74.0091	1.2002	3.6%	Spending Index	38	1.1571	1.1571	2.3%	Transactions per Shopper	38	1.2321	1.0305	-0.3%	Unique Shopper Index	38	0.9355	0.9355	-1.0%
-Comp1	10/22/2017	10/28/2017	2017	Average Ticket	39	72.3364	1.1731	2.9%	Spending Index	39	0.9870	0.9870	-0.6%	Transactions per Shopper	39	1.1993	1.0030	-0.6%	Unique Shopper Index	39	0.8391	0.8391	-2.7%
-Comp1	10/29/2017	11/4/2017	2017	Average Ticket	40	74.5884	1.2096	2.1%	Spending Index	40	1.1158	1.1158	14.0%	Transactions per Shopper	40	1.2533	1.0483	3.7%	Unique Shopper Index	40	0.8802	0.8802	7.7%
-Comp1	11/5/2017	11/11/2017	2017	Average Ticket	41	75.7991	1.2292	0.8%	Spending Index	41	1.4935	1.4935	20.5%	Transactions per Shopper	41	1.2692	1.0616	2.2%	Unique Shopper Index	41	1.1446	1.1446	17.0%
-Comp1	11/12/2017	11/18/2017	2017	Average Ticket	42	72.9916	1.1837	2.1%	Spending Index	42	1.2831	1.2831	-6.5%	Transactions per Shopper	42	1.2338	1.0319	0.2%	Unique Shopper Index	42	1.0503	1.0503	-8.5%
-Comp1	11/19/2017	11/25/2017	2017	Average Ticket	43	72.3959	1.1740	2.4%	Spending Index	43	2.5967	2.5967	-7.2%	Transactions per Shopper	43	1.2926	1.0811	0.6%	Unique Shopper Index	43	2.0454	2.0454	-9.9%
-Comp1	11/26/2017	12/2/2017	2017	Average Ticket	44	65.8518	1.0679	0.1%	Spending Index	44	1.6170	1.6170	-9.6%	Transactions per Shopper	44	1.3164	1.1010	1.3%	Unique Shopper Index	44	1.3749	1.3749	-10.9%
-Comp1	12/3/2017	12/9/2017	2017	Average Ticket	45	64.3440	1.0435	1.8%	Spending Index	45	1.6649	1.6649	-14.3%	Transactions per Shopper	45	1.2844	1.0743	-1.1%	Unique Shopper Index	45	1.4848	1.4848	-14.9%
-Comp1	12/10/2017	12/16/2017	2017	Average Ticket	46	66.2507	1.0744	-0.2%	Spending Index	46	2.1536	2.1536	-6.8%	Transactions per Shopper	46	1.2825	1.0726	0.2%	Unique Shopper Index	46	1.8689	1.8689	-6.8%
-Comp1	12/17/2017	12/23/2017	2017	Average Ticket	47	70.8539	1.1490	2.9%	Spending Index	47	3.0267	3.0267	-4.7%	Transactions per Shopper	47	1.2626	1.0560	-0.5%	Unique Shopper Index	47	2.4940	2.4940	-7.0%
-Comp1	12/24/2017	12/30/2017	2017	Average Ticket	48	68.0532	1.1036	7.3%	Spending Index	48	2.0955	2.0955	30.8%	Transactions per Shopper	48	1.2497	1.0452	2.8%	Unique Shopper Index	48	1.8164	1.8164	18.6%
-Comp1	12/31/2017	1/6/2018	2017	Average Ticket	49	65.5343	1.0628	0.2%	Spending Index	49	1.0955	1.0955	20.7%	Transactions per Shopper	49	1.2175	1.0183	3.1%	Unique Shopper Index	49	1.0120	1.0120	16.9%
-Comp1	1/7/2018	1/13/2018	2017	Average Ticket	50	64.8978	1.0524	3.0%	Spending Index	50	0.8414	0.8414	15.2%	Transactions per Shopper	50	1.2056	1.0083	1.6%	Unique Shopper Index	50	0.7931	0.7931	10.0%
-Comp1	1/14/2018	1/20/2018	2017	Average Ticket	51	67.4519	1.0939	5.0%	Spending Index	51	0.7973	0.7973	-1.8%	Transactions per Shopper	51	1.1921	0.9970	-0.5%	Unique Shopper Index	51	0.7307	0.7307	-6.0%
-Comp1	1/21/2018	1/27/2018	2017	Average Ticket	52	73.6107	1.1937	14.0%	Spending Index	52	0.7807	0.7807	5.8%	Transactions per Shopper	52	1.2340	1.0321	3.0%	Unique Shopper Index	52	0.6336	0.6336	-9.9%
-Comp1	1/28/2018	2/3/2018	2018	Average Ticket	1	67.4963	1.0946	0.0%	Spending Index	1	0.7636	0.7636	-18.1%	Transactions per Shopper	1	1.2106	1.0125	1.0%	Unique Shopper Index	1	0.6889	0.6889	-18.9%
-Comp1	2/4/2018	2/10/2018	2018	Average Ticket	2	67.3524	1.0922	3.6%	Spending Index	2	0.9843	0.9843	2.0%	Transactions per Shopper	2	1.2365	1.0342	2.6%	Unique Shopper Index	2	0.8710	0.8710	-4.1%
-Comp1	2/11/2018	2/17/2018	2018	Average Ticket	3	69.0106	1.1191	1.3%	Spending Index	3	0.9842	0.9842	-9.9%	Transactions per Shopper	3	1.2361	1.0339	1.7%	Unique Shopper Index	3	0.8505	0.8505	-12.6%
-Comp1	2/18/2018	2/24/2018	2018	Average Ticket	4	70.3721	1.1412	1.5%	Spending Index	4	0.9717	0.9717	-8.4%	Transactions per Shopper	4	1.2118	1.0135	0.4%	Unique Shopper Index	4	0.8398	0.8398	-10.1%
-Comp1	2/25/2018	3/3/2018	2018	Average Ticket	5	73.0691	1.1849	1.1%	Spending Index	5	0.9815	0.9815	-11.6%	Transactions per Shopper	5	1.2075	1.0099	-1.2%	Unique Shopper Index	5	0.8200	0.8200	-11.5%
-Comp1	3/4/2018	3/10/2018	2018	Average Ticket	6	73.0535	1.1847	0.5%	Spending Index	6	1.1134	1.1134	-1.0%	Transactions per Shopper	6	1.2508	1.0461	2.2%	Unique Shopper Index	6	0.8979	0.8979	-3.7%
-Comp1	3/11/2018	3/17/2018	2018	Average Ticket	7	72.9130	1.1824	-0.1%	Spending Index	7	1.0861	1.0861	-4.1%	Transactions per Shopper	7	1.2130	1.0146	0.0%	Unique Shopper Index	7	0.9050	0.9050	-3.9%
-Comp1	3/18/2018	3/24/2018	2018	Average Ticket	8	73.4066	1.1904	3.0%	Spending Index	8	1.0518	1.0518	-4.6%	Transactions per Shopper	8	1.2123	1.0139	-1.1%	Unique Shopper Index	8	0.8710	0.8710	-6.5%
-Comp1	3/25/2018	3/31/2018	2018	Average Ticket	9	75.9504	1.2317	2.5%	Spending Index	9	1.4756	1.4756	14.7%	Transactions per Shopper	9	1.2202	1.0206	-0.4%	Unique Shopper Index	9	1.1736	1.1736	12.3%
-Comp1	4/1/2018	4/7/2018	2018	Average Ticket	10	74.1477	1.2024	-1.6%	Spending Index	10	1.2758	1.2758	-5.1%	Transactions per Shopper	10	1.2314	1.0299	0.1%	Unique Shopper Index	10	1.0305	1.0305	-3.5%
-Comp1	4/8/2018	4/14/2018	2018	Average Ticket	11	72.1532	1.1701	-6.7%	Spending Index	11	1.0662	1.0662	-28.7%	Transactions per Shopper	11	1.2166	1.0175	1.1%	Unique Shopper Index	11	0.8958	0.8958	-24.3%
-Comp1	4/15/2018	4/21/2018	2018	Average Ticket	12	73.0102	1.1840	-0.5%	Spending Index	12	1.1832	1.1832	-4.0%	Transactions per Shopper	12	1.2396	1.0368	2.5%	Unique Shopper Index	12	0.9639	0.9639	-5.8%
-Comp1	4/22/2018	4/28/2018	2018	Average Ticket	13	72.4923	1.1756	-3.2%	Spending Index	13	1.1422	1.1422	-1.8%	Transactions per Shopper	13	1.2387	1.0360	1.8%	Unique Shopper Index	13	0.9376	0.9376	-0.4%
-Comp1	4/29/2018	5/5/2018	2018	Average Ticket	14	72.4655	1.1752	-2.2%	Spending Index	14	1.1482	1.1482	-14.4%	Transactions per Shopper	14	1.2302	1.0290	-2.0%	Unique Shopper Index	14	0.9497	0.9497	-10.8%
-Comp1	5/6/2018	5/12/2018	2018	Average Ticket	15	75.3677	1.2222	3.8%	Spending Index	15	1.5911	1.5911	21.9%	Transactions per Shopper	15	1.2535	1.0484	5.2%	Unique Shopper Index	15	1.2417	1.2417	11.7%
-Comp1	5/13/2018	5/19/2018	2018	Average Ticket	16	69.9789	1.1348	-2.4%	Spending Index	16	1.2822	1.2822	-5.5%	Transactions per Shopper	16	1.2266	1.0259	1.2%	Unique Shopper Index	16	1.1013	1.1013	-4.4%
-Comp1	5/20/2018	5/26/2018	2018	Average Ticket	17	70.4101	1.1418	-0.8%	Spending Index	17	1.2066	1.2066	6.8%	Transactions per Shopper	17	1.2279	1.0270	0.2%	Unique Shopper Index	17	1.0291	1.0291	7.5%
-Comp1	5/27/2018	6/2/2018	2018	Average Ticket	18	73.2644	1.1881	1.5%	Spending Index	18	1.3149	1.3149	12.1%	Transactions per Shopper	18	1.3020	1.0890	6.7%	Unique Shopper Index	18	1.0163	1.0163	3.5%
-Comp1	6/3/2018	6/9/2018	2018	Average Ticket	19	71.1308	1.1535	0.5%	Spending Index	19	1.0897	1.0897	-1.4%	Transactions per Shopper	19	1.2088	1.0111	0.1%	Unique Shopper Index	19	0.9341	0.9341	-2.0%
-Comp1	6/10/2018	6/16/2018	2018	Average Ticket	20	75.1077	1.2180	4.2%	Spending Index	20	1.1847	1.1847	2.1%	Transactions per Shopper	20	1.2305	1.0292	0.8%	Unique Shopper Index	20	0.9447	0.9447	-2.8%
-Comp1	6/17/2018	6/23/2018	2018	Average Ticket	21	70.3573	1.1410	-4.4%	Spending Index	21	1.0561	1.0561	-6.5%	Transactions per Shopper	21	1.2065	1.0091	-1.3%	Unique Shopper Index	21	0.9171	0.9171	-1.0%
-Comp1	6/24/2018	6/30/2018	2018	Average Ticket	22	68.0179	1.1030	-2.8%	Spending Index	22	0.9685	0.9685	-0.8%	Transactions per Shopper	22	1.2123	1.0139	-0.2%	Unique Shopper Index	22	0.8661	0.8661	2.3%
-Comp1	7/1/2018	7/7/2018	2018	Average Ticket	23	71.1683	1.1541	4.8%	Spending Index	23	1.1030	1.1030	3.3%	Transactions per Shopper	23	1.2232	1.0231	0.6%	Unique Shopper Index	23	0.9341	0.9341	-1.9%
-Comp1	7/8/2018	7/14/2018	2018	Average Ticket	24	67.5515	1.0955	-3.9%	Spending Index	24	0.9517	0.9517	-7.1%	Transactions per Shopper	24	1.2026	1.0059	-2.2%	Unique Shopper Index	24	0.8639	0.8639	-1.1%
-Comp1	7/15/2018	7/21/2018	2018	Average Ticket	25	69.2029	1.1223	-4.1%	Spending Index	25	0.9651	0.9651	-9.1%	Transactions per Shopper	25	1.2236	1.0234	-0.2%	Unique Shopper Index	25	0.8398	0.8398	-5.0%
-Comp1	7/22/2018	7/28/2018	2018	Average Ticket	26	71.4946	1.1594	-2.1%	Spending Index	26	0.9843	0.9843	-5.5%	Transactions per Shopper	26	1.2239	1.0237	1.6%	Unique Shopper Index	26	0.8292	0.8292	-5.0%
-Comp1	7/29/2018	8/4/2018	2018	Average Ticket	27	70.2104	1.1386	0.3%	Spending Index	27	1.0787	1.0787	-19.5%	Transactions per Shopper	27	1.2301	1.0288	-0.3%	Unique Shopper Index	27	0.9206	0.9206	-19.5%
-Comp1	8/5/2018	8/11/2018	2018	Average Ticket	28	70.2288	1.1389	0.5%	Spending Index	28	1.1597	1.1597	2.5%	Transactions per Shopper	28	1.2187	1.0193	-0.9%	Unique Shopper Index	28	0.9993	0.9993	3.0%
-Comp1	8/12/2018	8/18/2018	2018	Average Ticket	29	66.8937	1.0848	-0.9%	Spending Index	29	0.9797	0.9797	-2.2%	Transactions per Shopper	29	1.1951	0.9996	-1.6%	Unique Shopper Index	29	0.9036	0.9036	0.2%
-Comp1	8/19/2018	8/25/2018	2018	Average Ticket	30	69.6141	1.1289	3.6%	Spending Index	30	0.9154	0.9154	0.3%	Transactions per Shopper	30	1.2087	1.0109	0.0%	Unique Shopper Index	30	0.8023	0.8023	-3.2%
-Comp1	8/26/2018	9/1/2018	2018	Average Ticket	31	69.7436	1.1310	-2.3%	Spending Index	31	0.9352	0.9352	0.4%	Transactions per Shopper	31	1.2123	1.0139	2.6%	Unique Shopper Index	31	0.8157	0.8157	0.2%
-Comp1	9/2/2018	9/8/2018	2018	Average Ticket	32	66.4542	1.0777	-3.1%	Spending Index	32	1.0072	1.0072	7.5%	Transactions per Shopper	32	1.2395	1.0367	3.6%	Unique Shopper Index	32	0.9015	0.9015	7.1%
-Comp1	9/9/2018	9/15/2018	2018	Average Ticket	33	70.2395	1.1391	1.4%	Spending Index	33	0.8415	0.8415	-2.3%	Transactions per Shopper	33	1.2142	1.0155	-1.6%	Unique Shopper Index	33	0.7271	0.7271	-2.1%
-Comp1	9/16/2018	9/22/2018	2018	Average Ticket	34	71.6793	1.1624	3.6%	Spending Index	34	0.8148	0.8148	-10.4%	Transactions per Shopper	34	1.1883	0.9938	-1.4%	Unique Shopper Index	34	0.7052	0.7052	-12.3%
-Comp1	9/23/2018	9/29/2018	2018	Average Ticket	35	69.3613	1.1248	1.4%	Spending Index	35	0.9212	0.9212	3.8%	Transactions per Shopper	35	1.2039	1.0069	0.2%	Unique Shopper Index	35	0.8129	0.8129	2.0%
-Comp1	9/30/2018	10/6/2018	2018	Average Ticket	36	70.8563	1.1491	-0.1%	Spending Index	36	0.9399	0.9399	-7.3%	Transactions per Shopper	36	1.2204	1.0207	0.4%	Unique Shopper Index	36	0.8016	0.8016	-7.4%
-Comp1	10/7/2018	10/13/2018	2018	Average Ticket	37	67.8980	1.1011	-8.4%	Spending Index	37	0.9318	0.9318	-18.7%	Transactions per Shopper	37	1.2151	1.0163	0.7%	Unique Shopper Index	37	0.8327	0.8327	-11.7%
-Comp1	10/14/2018	10/20/2018	2018	Average Ticket	38	73.8563	1.1977	-0.2%	Spending Index	38	1.1757	1.1757	1.6%	Transactions per Shopper	38	1.2355	1.0333	0.3%	Unique Shopper Index	38	0.9497	0.9497	1.5%
-Comp1	10/21/2018	10/27/2018	2018	Average Ticket	39	72.6311	1.1778	0.4%	Spending Index	39	1.1094	1.1094	12.4%	Transactions per Shopper	39	1.2279	1.0270	2.4%	Unique Shopper Index	39	0.9171	0.9171	9.3%
-Comp1	10/28/2018	11/3/2018	2018	Average Ticket	40	72.0150	1.1679	-3.5%	Spending Index	40	0.9606	0.9606	-13.9%	Transactions per Shopper	40	1.2244	1.0241	-2.3%	Unique Shopper Index	40	0.8030	0.8030	-8.8%
-Comp1	11/4/2018	11/10/2018	2018	Average Ticket	41	70.9379	1.1504	-6.4%	Spending Index	41	1.1853	1.1853	-20.6%	Transactions per Shopper	41	1.2640	1.0572	-0.4%	Unique Shopper Index	41	0.9745	0.9745	-14.9%
-Comp1	11/11/2018	11/17/2018	2018	Average Ticket	42	72.0179	1.1679	-1.3%	Spending Index	42	1.2988	1.2988	1.2%	Transactions per Shopper	42	1.2566	1.0510	1.9%	Unique Shopper Index	42	1.0581	1.0581	0.7%
-Comp1	11/18/2018	11/24/2018	2018	Average Ticket	43	72.8420	1.1813	0.6%	Spending Index	43	2.7169	2.7169	4.6%	Transactions per Shopper	43	1.3118	1.0972	1.5%	Unique Shopper Index	43	2.0964	2.0964	2.5%
-Comp1	11/25/2018	12/1/2018	2018	Average Ticket	44	63.6638	1.0324	-3.3%	Spending Index	44	1.5736	1.5736	-2.7%	Transactions per Shopper	44	1.3199	1.1039	0.3%	Unique Shopper Index	44	1.3806	1.3806	0.4%
-Comp1	12/2/2018	12/8/2018	2018	Average Ticket	45	68.0389	1.1034	5.7%	Spending Index	45	1.7219	1.7219	3.4%	Transactions per Shopper	45	1.2721	1.0640	-1.0%	Unique Shopper Index	45	1.4663	1.4663	-1.2%
-Comp1	12/9/2018	12/15/2018	2018	Average Ticket	46	68.0070	1.1029	2.7%	Spending Index	46	1.9071	1.9071	-11.4%	Transactions per Shopper	46	1.2725	1.0643	-0.8%	Unique Shopper Index	46	1.6244	1.6244	-13.1%
-Comp1	12/16/2018	12/22/2018	2018	Average Ticket	47	71.6412	1.1618	1.1%	Spending Index	47	2.7724	2.7724	-8.4%	Transactions per Shopper	47	1.2606	1.0543	-0.2%	Unique Shopper Index	47	2.2629	2.2629	-9.3%
-Comp1	12/23/2018	12/29/2018	2018	Average Ticket	48	68.0276	1.1032	0.0%	Spending Index	48	2.2430	2.2430	7.0%	Transactions per Shopper	48	1.2631	1.0564	1.1%	Unique Shopper Index	48	1.9242	1.9242	5.9%
-Comp1	12/30/2018	1/5/2019	2018	Average Ticket	49	63.4969	1.0297	-3.1%	Spending Index	49	1.1682	1.1682	6.6%	Transactions per Shopper	49	1.2366	1.0342	1.6%	Unique Shopper Index	49	1.0971	1.0971	8.4%
-Comp1	1/6/2019	1/12/2019	2018	Average Ticket	50	64.9236	1.0529	0.0%	Spending Index	50	0.7876	0.7876	-6.4%	Transactions per Shopper	50	1.2163	1.0173	0.9%	Unique Shopper Index	50	0.7349	0.7349	-7.3%
-Comp1	1/13/2019	1/19/2019	2018	Average Ticket	51	64.7922	1.0507	-3.9%	Spending Index	51	0.7954	0.7954	-0.2%	Transactions per Shopper	51	1.2258	1.0252	2.8%	Unique Shopper Index	51	0.7385	0.7385	1.1%
-Comp1	1/20/2019	1/26/2019	2018	Average Ticket	52	67.3032	1.0914	-8.6%	Spending Index	52	0.8334	0.8334	6.7%	Transactions per Shopper	52	1.2201	1.0204	-1.1%	Unique Shopper Index	52	0.7484	0.7484	18.1%
-Comp1	1/27/2019	2/2/2019	2019	Average Ticket	1	65.7808	1.0668	-2.5%	Spending Index	1	0.7630	0.7630	-0.1%	Transactions per Shopper	1	1.2051	1.0080	-0.5%	Unique Shopper Index	1	0.7094	0.7094	3.0%
-Comp1	2/3/2019	2/9/2019	2019	Average Ticket	2	66.6327	1.0806	-1.1%	Spending Index	2	0.9698	0.9698	-1.5%	Transactions per Shopper	2	1.2445	1.0409	0.7%	Unique Shopper Index	2	0.8618	0.8618	-1.1%
-Comp1	2/10/2019	2/16/2019	2019	Average Ticket	3	66.4865	1.0782	-3.7%	Spending Index	3	0.9831	0.9831	-0.1%	Transactions per Shopper	3	1.2080	1.0103	-2.3%	Unique Shopper Index	3	0.9022	0.9022	6.1%
-Comp1	2/17/2019	2/23/2019	2019	Average Ticket	4	69.9651	1.1346	-0.6%	Spending Index	4	0.9388	0.9388	-3.4%	Transactions per Shopper	4	1.2181	1.0188	0.5%	Unique Shopper Index	4	0.8122	0.8122	-3.3%
-Comp1	2/24/2019	3/2/2019	2019	Average Ticket	5	70.7110	1.1467	-3.2%	Spending Index	5	0.9628	0.9628	-1.9%	Transactions per Shopper	5	1.2322	1.0306	2.0%	Unique Shopper Index	5	0.8143	0.8143	-0.7%
-Comp1	3/3/2019	3/9/2019	2019	Average Ticket	6	73.2905	1.1885	0.3%	Spending Index	6	1.1544	1.1544	3.7%	Transactions per Shopper	6	1.2435	1.0401	-0.6%	Unique Shopper Index	6	0.9341	0.9341	4.0%
-Comp1	3/10/2019	3/16/2019	2019	Average Ticket	7	77.6741	1.2596	6.5%	Spending Index	7	1.1774	1.1774	8.4%	Transactions per Shopper	7	1.2159	1.0170	0.2%	Unique Shopper Index	7	0.9192	0.9192	1.6%
-Comp1	3/17/2019	3/23/2019	2019	Average Ticket	8	75.3533	1.2220	2.7%	Spending Index	8	1.0602	1.0602	0.8%	Transactions per Shopper	8	1.2024	1.0057	-0.8%	Unique Shopper Index	8	0.8625	0.8625	-1.0%
-Comp1	3/24/2019	3/30/2019	2019	Average Ticket	9	74.9445	1.2154	-1.3%	Spending Index	9	1.0496	1.0496	-28.9%	Transactions per Shopper	9	1.2247	1.0243	0.4%	Unique Shopper Index	9	0.8427	0.8427	-28.2%
-Comp1	3/31/2019	4/6/2019	2019	Average Ticket	10	72.9870	1.1836	-1.6%	Spending Index	10	1.1820	1.1820	-7.3%	Transactions per Shopper	10	1.2246	1.0242	-0.5%	Unique Shopper Index	10	0.9752	0.9752	-5.4%
-Comp1	4/7/2019	4/13/2019	2019	Average Ticket	11	75.7599	1.2286	5.0%	Spending Index	11	1.2445	1.2445	16.7%	Transactions per Shopper	11	1.2246	1.0242	0.7%	Unique Shopper Index	11	0.9887	0.9887	10.4%
-Comp1	4/14/2019	4/20/2019	2019	Average Ticket	12	77.3646	1.2546	6.0%	Spending Index	12	1.4316	1.4316	21.0%	Transactions per Shopper	12	1.2079	1.0103	-2.6%	Unique Shopper Index	12	1.1297	1.1297	17.2%
-Comp1	4/21/2019	4/27/2019	2019	Average Ticket	13	72.9153	1.1825	0.6%	Spending Index	13	1.1091	1.1091	-2.9%	Transactions per Shopper	13	1.2283	1.0273	-0.8%	Unique Shopper Index	13	0.9128	0.9128	-2.6%
-Comp1	4/28/2019	5/4/2019	2019	Average Ticket	14	73.6632	1.1946	1.7%	Spending Index	14	1.1277	1.1277	-1.8%	Transactions per Shopper	14	1.2050	1.0078	-2.1%	Unique Shopper Index	14	0.9369	0.9369	-1.3%
+Comp	2/3/2013	2/9/2013	2013	Average Ticket	1	103.6116	1.0000		Spending Index	1	1.0000	1.0000		Transactions per Shopper	1	1.3051	1.0000		Unique Shopper Index	1	1.0000	1.0000	
+Comp	2/10/2013	2/16/2013	2013	Average Ticket	2	110.4358	1.0659		Spending Index	2	1.2749	1.2749		Transactions per Shopper	2	1.2945	0.9919		Unique Shopper Index	2	1.2057	1.2057	
+Comp	2/17/2013	2/23/2013	2013	Average Ticket	3	108.2410	1.0447		Spending Index	3	1.2377	1.2377		Transactions per Shopper	3	1.2931	0.9908		Unique Shopper Index	3	1.1957	1.1957	
+Comp	2/24/2013	3/2/2013	2013	Average Ticket	4	109.0342	1.0523		Spending Index	4	1.1700	1.1700		Transactions per Shopper	4	1.3026	0.9981		Unique Shopper Index	4	1.1139	1.1139	
+Comp	3/3/2013	3/9/2013	2013	Average Ticket	5	106.2714	1.0257		Spending Index	5	1.1598	1.1598		Transactions per Shopper	5	1.3033	0.9986		Unique Shopper Index	5	1.1322	1.1322	
+Comp	3/10/2013	3/16/2013	2013	Average Ticket	6	111.8945	1.0799		Spending Index	6	1.2886	1.2886		Transactions per Shopper	6	1.3002	0.9963		Unique Shopper Index	6	1.1975	1.1975	
+Comp	3/17/2013	3/23/2013	2013	Average Ticket	7	115.8730	1.1183		Spending Index	7	1.2740	1.2740		Transactions per Shopper	7	1.2888	0.9875		Unique Shopper Index	7	1.1535	1.1535	
+Comp	3/24/2013	3/30/2013	2013	Average Ticket	8	127.7406	1.2329		Spending Index	8	1.6345	1.6345		Transactions per Shopper	8	1.3118	1.0052		Unique Shopper Index	8	1.3188	1.3188	
+Comp	3/31/2013	4/6/2013	2013	Average Ticket	9	107.9713	1.0421		Spending Index	9	1.1050	1.1050		Transactions per Shopper	9	1.2881	0.9870		Unique Shopper Index	9	1.0744	1.0744	
+Comp	4/7/2013	4/13/2013	2013	Average Ticket	10	114.7775	1.1078		Spending Index	10	1.2841	1.2841		Transactions per Shopper	10	1.2991	0.9954		Unique Shopper Index	10	1.1645	1.1645	
+Comp	4/14/2013	4/20/2013	2013	Average Ticket	11	112.4574	1.0854		Spending Index	11	1.3364	1.3364		Transactions per Shopper	11	1.3032	0.9986		Unique Shopper Index	11	1.2330	1.2330	
+Comp	4/21/2013	4/27/2013	2013	Average Ticket	12	112.1041	1.0820		Spending Index	12	1.3066	1.3066		Transactions per Shopper	12	1.2826	0.9828		Unique Shopper Index	12	1.2287	1.2287	
+Comp	4/28/2013	5/4/2013	2013	Average Ticket	13	110.9902	1.0712		Spending Index	13	1.3161	1.3161		Transactions per Shopper	13	1.2983	0.9948		Unique Shopper Index	13	1.2349	1.2349	
+Comp	5/5/2013	5/11/2013	2013	Average Ticket	14	110.0402	1.0620		Spending Index	14	1.3688	1.3688		Transactions per Shopper	14	1.2998	0.9960		Unique Shopper Index	14	1.2939	1.2939	
+Comp	5/12/2013	5/18/2013	2013	Average Ticket	15	109.3304	1.0552		Spending Index	15	1.3392	1.3392		Transactions per Shopper	15	1.3010	0.9969		Unique Shopper Index	15	1.2730	1.2730	
+Comp	5/19/2013	5/25/2013	2013	Average Ticket	16	106.5744	1.0286		Spending Index	16	1.4748	1.4748		Transactions per Shopper	16	1.3502	1.0346		Unique Shopper Index	16	1.3857	1.3857	
+Comp	5/26/2013	6/1/2013	2013	Average Ticket	17	111.5172	1.0763		Spending Index	17	1.5601	1.5601		Transactions per Shopper	17	1.3419	1.0282		Unique Shopper Index	17	1.4096	1.4096	
+Comp	6/2/2013	6/8/2013	2013	Average Ticket	18	103.0615	0.9947		Spending Index	18	1.2692	1.2692		Transactions per Shopper	18	1.3191	1.0108		Unique Shopper Index	18	1.2622	1.2622	
+Comp	6/9/2013	6/15/2013	2013	Average Ticket	19	109.8335	1.0601		Spending Index	19	1.3791	1.3791		Transactions per Shopper	19	1.3099	1.0037		Unique Shopper Index	19	1.2962	1.2962	
+Comp	6/16/2013	6/22/2013	2013	Average Ticket	20	112.0471	1.0814		Spending Index	20	1.3750	1.3750		Transactions per Shopper	20	1.3116	1.0050		Unique Shopper Index	20	1.2651	1.2651	
+Comp	6/23/2013	6/29/2013	2013	Average Ticket	21	104.7905	1.0114		Spending Index	21	1.2103	1.2103		Transactions per Shopper	21	1.2919	0.9899		Unique Shopper Index	21	1.2088	1.2088	
+Comp	6/30/2013	7/6/2013	2013	Average Ticket	22	98.4839	0.9505		Spending Index	22	1.0745	1.0745		Transactions per Shopper	22	1.2773	0.9787		Unique Shopper Index	22	1.1549	1.1549	
+Comp	7/7/2013	7/13/2013	2013	Average Ticket	23	101.5087	0.9797		Spending Index	23	1.0353	1.0353		Transactions per Shopper	23	1.2819	0.9823		Unique Shopper Index	23	1.0758	1.0758	
+Comp	7/14/2013	7/20/2013	2013	Average Ticket	24	131.7676	1.2717		Spending Index	24	1.7190	1.7190		Transactions per Shopper	24	1.3547	1.0380		Unique Shopper Index	24	1.3020	1.3020	
+Comp	7/21/2013	7/27/2013	2013	Average Ticket	25	117.8664	1.1376		Spending Index	25	1.7861	1.7861		Transactions per Shopper	25	1.4168	1.0856		Unique Shopper Index	25	1.4461	1.4461	
+Comp	7/28/2013	8/3/2013	2013	Average Ticket	26	112.8390	1.0891		Spending Index	26	1.5335	1.5335		Transactions per Shopper	26	1.3728	1.0519		Unique Shopper Index	26	1.3385	1.3385	
+Comp	8/4/2013	8/10/2013	2013	Average Ticket	27	108.4402	1.0466		Spending Index	27	1.3700	1.3700		Transactions per Shopper	27	1.3628	1.0442		Unique Shopper Index	27	1.2535	1.2535	
+Comp	8/11/2013	8/17/2013	2013	Average Ticket	28	105.3752	1.0170		Spending Index	28	1.1575	1.1575		Transactions per Shopper	28	1.2813	0.9818		Unique Shopper Index	28	1.1592	1.1592	
+Comp	8/18/2013	8/24/2013	2013	Average Ticket	29	108.5647	1.0478		Spending Index	29	1.1960	1.1960		Transactions per Shopper	29	1.2874	0.9865		Unique Shopper Index	29	1.1570	1.1570	
+Comp	8/25/2013	8/31/2013	2013	Average Ticket	30	112.8519	1.0892		Spending Index	30	1.2182	1.2182		Transactions per Shopper	30	1.2816	0.9821		Unique Shopper Index	30	1.1389	1.1389	
+Comp	9/1/2013	9/7/2013	2013	Average Ticket	31	105.5257	1.0185		Spending Index	31	1.2158	1.2158		Transactions per Shopper	31	1.2826	0.9828		Unique Shopper Index	31	1.2145	1.2145	
+Comp	9/8/2013	9/14/2013	2013	Average Ticket	32	110.1566	1.0632		Spending Index	32	1.1700	1.1700		Transactions per Shopper	32	1.2930	0.9908		Unique Shopper Index	32	1.1107	1.1107	
+Comp	9/15/2013	9/21/2013	2013	Average Ticket	33	114.2656	1.1028		Spending Index	33	1.2759	1.2759		Transactions per Shopper	33	1.2875	0.9866		Unique Shopper Index	33	1.1726	1.1726	
+Comp	9/22/2013	9/28/2013	2013	Average Ticket	34	124.8474	1.2050		Spending Index	34	1.4381	1.4381		Transactions per Shopper	34	1.2911	0.9893		Unique Shopper Index	34	1.2063	1.2063	
+Comp	9/29/2013	10/5/2013	2013	Average Ticket	35	111.2188	1.0734		Spending Index	35	1.1963	1.1963		Transactions per Shopper	35	1.2848	0.9845		Unique Shopper Index	35	1.1319	1.1319	
+Comp	10/6/2013	10/12/2013	2013	Average Ticket	36	114.2689	1.1029		Spending Index	36	1.2644	1.2644		Transactions per Shopper	36	1.2807	0.9813		Unique Shopper Index	36	1.1683	1.1683	
+Comp	10/13/2013	10/19/2013	2013	Average Ticket	37	116.0466	1.1200		Spending Index	37	1.3712	1.3712		Transactions per Shopper	37	1.2831	0.9832		Unique Shopper Index	37	1.2451	1.2451	
+Comp	10/20/2013	10/26/2013	2013	Average Ticket	38	118.6936	1.1456		Spending Index	38	1.3789	1.3789		Transactions per Shopper	38	1.2876	0.9866		Unique Shopper Index	38	1.2200	1.2200	
+Comp	10/27/2013	11/2/2013	2013	Average Ticket	39	118.0939	1.1398		Spending Index	39	1.2651	1.2651		Transactions per Shopper	39	1.2752	0.9771		Unique Shopper Index	39	1.1358	1.1358	
+Comp	11/3/2013	11/9/2013	2013	Average Ticket	40	114.5636	1.1057		Spending Index	40	1.4804	1.4804		Transactions per Shopper	40	1.3208	1.0120		Unique Shopper Index	40	1.3229	1.3229	
+Comp	11/10/2013	11/16/2013	2013	Average Ticket	41	117.0185	1.1294		Spending Index	41	1.6883	1.6883		Transactions per Shopper	41	1.3353	1.0232		Unique Shopper Index	41	1.4609	1.4609	
+Comp	11/17/2013	11/23/2013	2013	Average Ticket	42	118.0505	1.1394		Spending Index	42	1.5387	1.5387		Transactions per Shopper	42	1.3200	1.0115		Unique Shopper Index	42	1.3352	1.3352	
+Comp	11/24/2013	11/30/2013	2013	Average Ticket	43	118.6390	1.1450		Spending Index	43	1.5957	1.5957		Transactions per Shopper	43	1.2951	0.9924		Unique Shopper Index	43	1.4042	1.4042	
+Comp	12/1/2013	12/7/2013	2013	Average Ticket	44	114.5501	1.1056		Spending Index	44	1.6619	1.6619		Transactions per Shopper	44	1.3303	1.0193		Unique Shopper Index	44	1.4746	1.4746	
+Comp	12/8/2013	12/14/2013	2013	Average Ticket	45	120.4130	1.1622		Spending Index	45	2.0371	2.0371		Transactions per Shopper	45	1.3453	1.0308		Unique Shopper Index	45	1.7003	1.7003	
+Comp	12/15/2013	12/21/2013	2013	Average Ticket	46	118.0084	1.1389		Spending Index	46	2.5707	2.5707		Transactions per Shopper	46	1.3580	1.0406		Unique Shopper Index	46	2.1688	2.1688	
+Comp	12/22/2013	12/28/2013	2013	Average Ticket	47	120.8353	1.1662		Spending Index	47	2.4630	2.4630		Transactions per Shopper	47	1.3371	1.0246		Unique Shopper Index	47	2.0612	2.0612	
+Comp	12/29/2013	1/4/2014	2013	Average Ticket	48	110.9823	1.0711		Spending Index	48	1.4737	1.4737		Transactions per Shopper	48	1.2820	0.9823		Unique Shopper Index	48	1.4006	1.4006	
+Comp	1/5/2014	1/11/2014	2013	Average Ticket	49	110.7185	1.0686		Spending Index	49	1.1783	1.1783		Transactions per Shopper	49	1.2896	0.9882		Unique Shopper Index	49	1.1159	1.1159	
+Comp	1/12/2014	1/18/2014	2013	Average Ticket	50	107.7630	1.0401		Spending Index	50	1.0982	1.0982		Transactions per Shopper	50	1.2980	0.9946		Unique Shopper Index	50	1.0615	1.0615	
+Comp	1/19/2014	1/25/2014	2013	Average Ticket	51	116.8717	1.1280		Spending Index	51	1.1231	1.1231		Transactions per Shopper	51	1.2974	0.9942		Unique Shopper Index	51	1.0015	1.0015	
+Comp	1/26/2014	2/1/2014	2013	Average Ticket	52	110.5481	1.0669		Spending Index	52	1.0666	1.0666		Transactions per Shopper	52	1.2975	0.9942		Unique Shopper Index	52	1.0055	1.0055	
+Comp	2/2/2014	2/8/2014	2014	Average Ticket	1	106.9463	1.0322	3.2%	Spending Index	1	1.0243	1.0243	2.4%	Transactions per Shopper	1	1.2831	0.9832	-1.7%	Unique Shopper Index	1	1.0092	1.0092	0.9%
+Comp	2/9/2014	2/15/2014	2014	Average Ticket	2	117.8339	1.1373	6.7%	Spending Index	2	1.3227	1.3227	3.8%	Transactions per Shopper	2	1.2908	0.9891	-0.3%	Unique Shopper Index	2	1.1758	1.1758	-2.5%
+Comp	2/16/2014	2/22/2014	2014	Average Ticket	3	107.9553	1.0419	-0.3%	Spending Index	3	1.3299	1.3299	7.4%	Transactions per Shopper	3	1.2825	0.9827	-0.8%	Unique Shopper Index	3	1.2987	1.2987	8.6%
+Comp	2/23/2014	3/1/2014	2014	Average Ticket	4	115.0741	1.1106	5.5%	Spending Index	4	1.2728	1.2728	8.8%	Transactions per Shopper	4	1.2935	0.9911	-0.7%	Unique Shopper Index	4	1.1563	1.1563	3.8%
+Comp	3/2/2014	3/8/2014	2014	Average Ticket	5	108.1656	1.0440	1.8%	Spending Index	5	1.1723	1.1723	1.1%	Transactions per Shopper	5	1.2917	0.9898	-0.9%	Unique Shopper Index	5	1.1345	1.1345	0.2%
+Comp	3/9/2014	3/15/2014	2014	Average Ticket	6	112.7050	1.0878	0.7%	Spending Index	6	1.2685	1.2685	-1.6%	Transactions per Shopper	6	1.2810	0.9816	-1.5%	Unique Shopper Index	6	1.1880	1.1880	-0.8%
+Comp	3/16/2014	3/22/2014	2014	Average Ticket	7	113.1390	1.0920	-2.4%	Spending Index	7	1.2838	1.2838	0.8%	Transactions per Shopper	7	1.2936	0.9912	0.4%	Unique Shopper Index	7	1.1862	1.1862	2.8%
+Comp	3/23/2014	3/29/2014	2014	Average Ticket	8	119.7828	1.1561	-6.2%	Spending Index	8	1.5794	1.5794	-3.4%	Transactions per Shopper	8	1.3163	1.0086	0.3%	Unique Shopper Index	8	1.3544	1.3544	2.7%
+Comp	3/30/2014	4/5/2014	2014	Average Ticket	9	111.7675	1.0787	3.5%	Spending Index	9	1.3108	1.3108	18.6%	Transactions per Shopper	9	1.2950	0.9923	0.5%	Unique Shopper Index	9	1.2245	1.2245	14.0%
+Comp	4/6/2014	4/12/2014	2014	Average Ticket	10	115.1887	1.1117	0.4%	Spending Index	10	1.3359	1.3359	4.0%	Transactions per Shopper	10	1.2819	0.9823	-1.3%	Unique Shopper Index	10	1.2232	1.2232	5.0%
+Comp	4/13/2014	4/19/2014	2014	Average Ticket	11	111.0793	1.0721	-1.2%	Spending Index	11	1.4462	1.4462	8.2%	Transactions per Shopper	11	1.3125	1.0057	0.7%	Unique Shopper Index	11	1.3412	1.3412	8.8%
+Comp	4/20/2014	4/26/2014	2014	Average Ticket	12	118.4335	1.1431	5.6%	Spending Index	12	1.4247	1.4247	9.0%	Transactions per Shopper	12	1.2893	0.9879	0.5%	Unique Shopper Index	12	1.2615	1.2615	2.7%
+Comp	4/27/2014	5/3/2014	2014	Average Ticket	13	115.5670	1.1154	4.1%	Spending Index	13	1.3913	1.3913	5.7%	Transactions per Shopper	13	1.2954	0.9926	-0.2%	Unique Shopper Index	13	1.2566	1.2566	1.8%
+Comp	5/4/2014	5/10/2014	2014	Average Ticket	14	113.8205	1.0985	3.4%	Spending Index	14	1.4636	1.4636	6.9%	Transactions per Shopper	14	1.2823	0.9825	-1.4%	Unique Shopper Index	14	1.3558	1.3558	4.8%
+Comp	5/11/2014	5/17/2014	2014	Average Ticket	15	117.5971	1.1350	7.6%	Spending Index	15	1.5356	1.5356	14.7%	Transactions per Shopper	15	1.2812	0.9817	-1.5%	Unique Shopper Index	15	1.3782	1.3782	8.3%
+Comp	5/18/2014	5/24/2014	2014	Average Ticket	16	113.1680	1.0922	6.2%	Spending Index	16	1.4596	1.4596	-1.0%	Transactions per Shopper	16	1.3015	0.9973	-3.6%	Unique Shopper Index	16	1.3399	1.3399	-3.3%
+Comp	5/25/2014	5/31/2014	2014	Average Ticket	17	115.5222	1.1150	3.6%	Spending Index	17	1.5559	1.5559	-0.3%	Transactions per Shopper	17	1.3051	1.0000	-2.7%	Unique Shopper Index	17	1.3954	1.3954	-1.0%
+Comp	6/1/2014	6/7/2014	2014	Average Ticket	18	105.7564	1.0207	2.6%	Spending Index	18	1.4097	1.4097	11.1%	Transactions per Shopper	18	1.3160	1.0084	-0.2%	Unique Shopper Index	18	1.3695	1.3695	8.5%
+Comp	6/8/2014	6/14/2014	2014	Average Ticket	19	111.7711	1.0788	1.8%	Spending Index	19	1.4218	1.4218	3.1%	Transactions per Shopper	19	1.2929	0.9907	-1.3%	Unique Shopper Index	19	1.3304	1.3304	2.6%
+Comp	6/15/2014	6/21/2014	2014	Average Ticket	20	117.0392	1.1296	4.5%	Spending Index	20	1.5339	1.5339	11.6%	Transactions per Shopper	20	1.2996	0.9959	-0.9%	Unique Shopper Index	20	1.3635	1.3635	7.8%
+Comp	6/22/2014	6/28/2014	2014	Average Ticket	21	111.8285	1.0793	6.7%	Spending Index	21	1.3311	1.3311	10.0%	Transactions per Shopper	21	1.2808	0.9814	-0.9%	Unique Shopper Index	21	1.2565	1.2565	3.9%
+Comp	6/29/2014	7/5/2014	2014	Average Ticket	22	101.3105	0.9778	2.9%	Spending Index	22	1.0150	1.0150	-5.5%	Transactions per Shopper	22	1.2631	0.9678	-1.1%	Unique Shopper Index	22	1.0725	1.0725	-7.1%
+Comp	7/6/2014	7/12/2014	2014	Average Ticket	23	106.4542	1.0274	4.9%	Spending Index	23	1.1868	1.1868	14.6%	Transactions per Shopper	23	1.2724	0.9750	-0.7%	Unique Shopper Index	23	1.1848	1.1848	10.1%
+Comp	7/13/2014	7/19/2014	2014	Average Ticket	24	139.4389	1.3458	5.8%	Spending Index	24	1.7267	1.7267	0.5%	Transactions per Shopper	24	1.3136	1.0066	-3.0%	Unique Shopper Index	24	1.2746	1.2746	-2.1%
+Comp	7/20/2014	7/26/2014	2014	Average Ticket	25	125.5826	1.2121	6.5%	Spending Index	25	1.9965	1.9965	11.8%	Transactions per Shopper	25	1.4009	1.0735	-1.1%	Unique Shopper Index	25	1.5343	1.5343	6.1%
+Comp	7/27/2014	8/2/2014	2014	Average Ticket	26	112.9315	1.0900	0.1%	Spending Index	26	1.5738	1.5738	2.6%	Transactions per Shopper	26	1.3643	1.0454	-0.6%	Unique Shopper Index	26	1.3811	1.3811	3.2%
+Comp	8/3/2014	8/9/2014	2014	Average Ticket	27	112.0477	1.0814	3.3%	Spending Index	27	1.4923	1.4923	8.9%	Transactions per Shopper	27	1.3492	1.0338	-1.0%	Unique Shopper Index	27	1.3347	1.3347	6.5%
+Comp	8/10/2014	8/16/2014	2014	Average Ticket	28	111.0695	1.0720	5.4%	Spending Index	28	1.2275	1.2275	6.0%	Transactions per Shopper	28	1.2599	0.9654	-1.7%	Unique Shopper Index	28	1.1860	1.1860	2.3%
+Comp	8/17/2014	8/23/2014	2014	Average Ticket	29	112.2624	1.0835	3.4%	Spending Index	29	1.2960	1.2960	8.4%	Transactions per Shopper	29	1.2679	0.9715	-1.5%	Unique Shopper Index	29	1.2312	1.2312	6.4%
+Comp	8/24/2014	8/30/2014	2014	Average Ticket	30	117.7724	1.1367	4.4%	Spending Index	30	1.3631	1.3631	11.9%	Transactions per Shopper	30	1.2803	0.9810	-0.1%	Unique Shopper Index	30	1.2222	1.2222	7.3%
+Comp	8/31/2014	9/6/2014	2014	Average Ticket	31	106.3425	1.0264	0.8%	Spending Index	31	1.3135	1.3135	8.0%	Transactions per Shopper	31	1.2896	0.9881	0.5%	Unique Shopper Index	31	1.2950	1.2950	6.6%
+Comp	9/7/2014	9/13/2014	2014	Average Ticket	32	119.9481	1.1577	8.9%	Spending Index	32	1.3302	1.3302	13.7%	Transactions per Shopper	32	1.2815	0.9820	-0.9%	Unique Shopper Index	32	1.1701	1.1701	5.3%
+Comp	9/14/2014	9/20/2014	2014	Average Ticket	33	118.3317	1.1421	3.6%	Spending Index	33	1.3768	1.3768	7.9%	Transactions per Shopper	33	1.2735	0.9758	-1.1%	Unique Shopper Index	33	1.2354	1.2354	5.4%
+Comp	9/21/2014	9/27/2014	2014	Average Ticket	34	126.9806	1.2255	1.7%	Spending Index	34	1.5191	1.5191	5.6%	Transactions per Shopper	34	1.2937	0.9913	0.2%	Unique Shopper Index	34	1.2503	1.2503	3.6%
+Comp	9/28/2014	10/4/2014	2014	Average Ticket	35	117.5380	1.1344	5.7%	Spending Index	35	1.3086	1.3086	9.4%	Transactions per Shopper	35	1.2880	0.9870	0.3%	Unique Shopper Index	35	1.1687	1.1687	3.2%
+Comp	10/5/2014	10/11/2014	2014	Average Ticket	36	121.2659	1.1704	6.1%	Spending Index	36	1.4807	1.4807	17.1%	Transactions per Shopper	36	1.2965	0.9935	1.2%	Unique Shopper Index	36	1.2734	1.2734	9.0%
+Comp	10/12/2014	10/18/2014	2014	Average Ticket	37	121.0030	1.1679	4.3%	Spending Index	37	1.3909	1.3909	1.4%	Transactions per Shopper	37	1.2700	0.9731	-1.0%	Unique Shopper Index	37	1.2238	1.2238	-1.7%
+Comp	10/19/2014	10/25/2014	2014	Average Ticket	38	124.5002	1.2016	4.9%	Spending Index	38	1.4915	1.4915	8.2%	Transactions per Shopper	38	1.2650	0.9693	-1.8%	Unique Shopper Index	38	1.2805	1.2805	5.0%
+Comp	10/26/2014	11/1/2014	2014	Average Ticket	39	121.8451	1.1760	3.2%	Spending Index	39	1.3941	1.3941	10.2%	Transactions per Shopper	39	1.2788	0.9799	0.3%	Unique Shopper Index	39	1.2098	1.2098	6.5%
+Comp	11/2/2014	11/8/2014	2014	Average Ticket	40	119.5234	1.1536	4.3%	Spending Index	40	1.4938	1.4938	0.9%	Transactions per Shopper	40	1.2861	0.9854	-2.6%	Unique Shopper Index	40	1.3140	1.3140	-0.7%
+Comp	11/9/2014	11/15/2014	2014	Average Ticket	41	123.2586	1.1896	5.3%	Spending Index	41	1.8750	1.8750	11.1%	Transactions per Shopper	41	1.3124	1.0057	-1.7%	Unique Shopper Index	41	1.5672	1.5672	7.3%
+Comp	11/16/2014	11/22/2014	2014	Average Ticket	42	118.2641	1.1414	0.2%	Spending Index	42	1.6144	1.6144	4.9%	Transactions per Shopper	42	1.2954	0.9926	-1.9%	Unique Shopper Index	42	1.4249	1.4249	6.7%
+Comp	11/23/2014	11/29/2014	2014	Average Ticket	43	120.1612	1.1597	1.3%	Spending Index	43	1.6170	1.6170	1.3%	Transactions per Shopper	43	1.2757	0.9775	-1.5%	Unique Shopper Index	43	1.4263	1.4263	1.6%
+Comp	11/30/2014	12/6/2014	2014	Average Ticket	44	115.5215	1.1149	0.8%	Spending Index	44	1.7771	1.7771	6.9%	Transactions per Shopper	44	1.3159	1.0083	-1.1%	Unique Shopper Index	44	1.5807	1.5807	7.2%
+Comp	12/7/2014	12/13/2014	2014	Average Ticket	45	127.1300	1.2270	5.6%	Spending Index	45	2.2995	2.2995	12.9%	Transactions per Shopper	45	1.3517	1.0357	0.5%	Unique Shopper Index	45	1.8092	1.8092	6.4%
+Comp	12/14/2014	12/20/2014	2014	Average Ticket	46	120.8222	1.1661	2.4%	Spending Index	46	2.5411	2.5411	-1.1%	Transactions per Shopper	46	1.3498	1.0343	-0.6%	Unique Shopper Index	46	2.1068	2.1068	-2.9%
+Comp	12/21/2014	12/27/2014	2014	Average Ticket	47	119.4697	1.1531	-1.1%	Spending Index	47	2.8146	2.8146	14.3%	Transactions per Shopper	47	1.3476	1.0326	0.8%	Unique Shopper Index	47	2.3638	2.3638	14.7%
+Comp	12/28/2014	1/3/2015	2014	Average Ticket	48	112.1846	1.0827	1.1%	Spending Index	48	1.8131	1.8131	23.0%	Transactions per Shopper	48	1.2946	0.9920	1.0%	Unique Shopper Index	48	1.6881	1.6881	20.5%
+Comp	1/4/2015	1/10/2015	2014	Average Ticket	49	110.5614	1.0671	-0.1%	Spending Index	49	1.3529	1.3529	14.8%	Transactions per Shopper	49	1.2813	0.9818	-0.6%	Unique Shopper Index	49	1.2913	1.2913	15.7%
+Comp	1/11/2015	1/17/2015	2014	Average Ticket	50	114.0333	1.1006	5.8%	Spending Index	50	1.2392	1.2392	12.8%	Transactions per Shopper	50	1.2773	0.9787	-1.6%	Unique Shopper Index	50	1.1504	1.1504	8.4%
+Comp	1/18/2015	1/24/2015	2014	Average Ticket	51	114.9466	1.1094	-1.6%	Spending Index	51	1.2759	1.2759	13.6%	Transactions per Shopper	51	1.2638	0.9684	-2.6%	Unique Shopper Index	51	1.1876	1.1876	18.6%
+Comp	1/25/2015	1/31/2015	2014	Average Ticket	52	120.2987	1.1611	8.8%	Spending Index	52	1.2207	1.2207	14.4%	Transactions per Shopper	52	1.2629	0.9677	-2.7%	Unique Shopper Index	52	1.0864	1.0864	8.0%
+Comp	2/1/2015	2/7/2015	2015	Average Ticket	1	106.8268	1.0310	-0.1%	Spending Index	1	1.0803	1.0803	5.5%	Transactions per Shopper	1	1.2654	0.9696	-1.4%	Unique Shopper Index	1	1.0805	1.0805	7.1%
+Comp	2/8/2015	2/14/2015	2015	Average Ticket	2	116.9596	1.1288	-0.7%	Spending Index	2	1.4080	1.4080	6.4%	Transactions per Shopper	2	1.2854	0.9849	-0.4%	Unique Shopper Index	2	1.2664	1.2664	7.7%
+Comp	2/15/2015	2/21/2015	2015	Average Ticket	3	114.5983	1.1060	6.2%	Spending Index	3	1.4783	1.4783	11.2%	Transactions per Shopper	3	1.2862	0.9855	0.3%	Unique Shopper Index	3	1.3561	1.3561	4.4%
+Comp	2/22/2015	2/28/2015	2015	Average Ticket	4	120.3813	1.1619	4.6%	Spending Index	4	1.3671	1.3671	7.4%	Transactions per Shopper	4	1.2805	0.9812	-1.0%	Unique Shopper Index	4	1.1992	1.1992	3.7%
+Comp	3/1/2015	3/7/2015	2015	Average Ticket	5	112.6250	1.0870	4.1%	Spending Index	5	1.2512	1.2512	6.7%	Transactions per Shopper	5	1.2814	0.9819	-0.8%	Unique Shopper Index	5	1.1723	1.1723	3.3%
+Comp	3/8/2015	3/14/2015	2015	Average Ticket	6	114.8918	1.1089	1.9%	Spending Index	6	1.3621	1.3621	7.4%	Transactions per Shopper	6	1.2739	0.9762	-0.6%	Unique Shopper Index	6	1.2583	1.2583	5.9%
+Comp	3/15/2015	3/21/2015	2015	Average Ticket	7	116.2179	1.1217	2.7%	Spending Index	7	1.4389	1.4389	12.1%	Transactions per Shopper	7	1.2743	0.9764	-1.5%	Unique Shopper Index	7	1.3136	1.3136	10.7%
+Comp	3/22/2015	3/28/2015	2015	Average Ticket	8	129.3721	1.2486	8.0%	Spending Index	8	1.7351	1.7351	9.9%	Transactions per Shopper	8	1.2919	0.9899	-1.9%	Unique Shopper Index	8	1.4038	1.4038	3.6%
+Comp	3/29/2015	4/4/2015	2015	Average Ticket	9	116.6382	1.1257	4.4%	Spending Index	9	1.5538	1.5538	18.5%	Transactions per Shopper	9	1.2991	0.9955	0.3%	Unique Shopper Index	9	1.3864	1.3864	13.2%
+Comp	4/5/2015	4/11/2015	2015	Average Ticket	10	118.3168	1.1419	2.7%	Spending Index	10	1.3884	1.3884	3.9%	Transactions per Shopper	10	1.2754	0.9772	-0.5%	Unique Shopper Index	10	1.2440	1.2440	1.7%
+Comp	4/12/2015	4/18/2015	2015	Average Ticket	11	117.6442	1.1354	5.9%	Spending Index	11	1.4471	1.4471	0.1%	Transactions per Shopper	11	1.2798	0.9806	-2.5%	Unique Shopper Index	11	1.2995	1.2995	-3.1%
+Comp	4/19/2015	4/25/2015	2015	Average Ticket	12	120.5593	1.1636	1.8%	Spending Index	12	1.6637	1.6637	16.8%	Transactions per Shopper	12	1.2903	0.9887	0.1%	Unique Shopper Index	12	1.4460	1.4460	14.6%
+Comp	4/26/2015	5/2/2015	2015	Average Ticket	13	116.5958	1.1253	0.9%	Spending Index	13	1.4975	1.4975	7.6%	Transactions per Shopper	13	1.2908	0.9891	-0.4%	Unique Shopper Index	13	1.3454	1.3454	7.1%
+Comp	5/3/2015	5/9/2015	2015	Average Ticket	14	116.6943	1.1263	2.5%	Spending Index	14	1.5260	1.5260	4.3%	Transactions per Shopper	14	1.2774	0.9788	-0.4%	Unique Shopper Index	14	1.3842	1.3842	2.1%
+Comp	5/10/2015	5/16/2015	2015	Average Ticket	15	122.6221	1.1835	4.3%	Spending Index	15	1.7600	1.7600	14.6%	Transactions per Shopper	15	1.2993	0.9956	1.4%	Unique Shopper Index	15	1.4938	1.4938	8.4%
+Comp	5/17/2015	5/23/2015	2015	Average Ticket	16	120.4103	1.1621	6.4%	Spending Index	16	1.7684	1.7684	21.2%	Transactions per Shopper	16	1.3259	1.0160	1.9%	Unique Shopper Index	16	1.4977	1.4977	11.8%
+Comp	5/24/2015	5/30/2015	2015	Average Ticket	17	119.5580	1.1539	3.5%	Spending Index	17	1.8471	1.8471	18.7%	Transactions per Shopper	17	1.3452	1.0308	3.1%	Unique Shopper Index	17	1.5529	1.5529	11.3%
+Comp	5/31/2015	6/6/2015	2015	Average Ticket	18	113.5249	1.0957	7.3%	Spending Index	18	1.5054	1.5054	6.8%	Transactions per Shopper	18	1.3128	1.0059	-0.2%	Unique Shopper Index	18	1.3658	1.3658	-0.3%
+Comp	6/7/2015	6/13/2015	2015	Average Ticket	19	114.3889	1.1040	2.3%	Spending Index	19	1.4473	1.4473	1.8%	Transactions per Shopper	19	1.2993	0.9956	0.5%	Unique Shopper Index	19	1.3167	1.3167	-1.0%
+Comp	6/14/2015	6/20/2015	2015	Average Ticket	20	114.5504	1.1056	-2.1%	Spending Index	20	1.5216	1.5216	-0.8%	Transactions per Shopper	20	1.2853	0.9849	-1.1%	Unique Shopper Index	20	1.3973	1.3973	2.5%
+Comp	6/21/2015	6/27/2015	2015	Average Ticket	21	109.6396	1.0582	-2.0%	Spending Index	21	1.4941	1.4941	12.2%	Transactions per Shopper	21	1.2947	0.9921	1.1%	Unique Shopper Index	21	1.4231	1.4231	13.3%
+Comp	6/28/2015	7/4/2015	2015	Average Ticket	22	109.4277	1.0561	8.0%	Spending Index	22	1.2719	1.2719	25.3%	Transactions per Shopper	22	1.2902	0.9887	2.2%	Unique Shopper Index	22	1.2180	1.2180	13.6%
+Comp	7/5/2015	7/11/2015	2015	Average Ticket	23	113.0864	1.0914	6.2%	Spending Index	23	1.2026	1.2026	1.3%	Transactions per Shopper	23	1.2680	0.9716	-0.3%	Unique Shopper Index	23	1.1340	1.1340	-4.3%
+Comp	7/12/2015	7/18/2015	2015	Average Ticket	24	136.8775	1.3211	-1.8%	Spending Index	24	1.8667	1.8667	8.1%	Transactions per Shopper	24	1.3364	1.0240	1.7%	Unique Shopper Index	24	1.3799	1.3799	8.3%
+Comp	7/19/2015	7/25/2015	2015	Average Ticket	25	126.4577	1.2205	0.7%	Spending Index	25	2.1501	2.1501	7.7%	Transactions per Shopper	25	1.4116	1.0816	0.8%	Unique Shopper Index	25	1.6287	1.6287	6.1%
+Comp	7/26/2015	8/1/2015	2015	Average Ticket	26	114.9709	1.1096	1.8%	Spending Index	26	1.7438	1.7438	10.8%	Transactions per Shopper	26	1.3957	1.0695	2.3%	Unique Shopper Index	26	1.4693	1.4693	6.4%
+Comp	8/2/2015	8/8/2015	2015	Average Ticket	27	111.0114	1.0714	-0.9%	Spending Index	27	1.5763	1.5763	5.6%	Transactions per Shopper	27	1.3619	1.0436	0.9%	Unique Shopper Index	27	1.4096	1.4096	5.6%
+Comp	8/9/2015	8/15/2015	2015	Average Ticket	28	115.1150	1.1110	3.6%	Spending Index	28	1.3885	1.3885	13.1%	Transactions per Shopper	28	1.2748	0.9769	1.2%	Unique Shopper Index	28	1.2792	1.2792	7.9%
+Comp	8/16/2015	8/22/2015	2015	Average Ticket	29	111.5265	1.0764	-0.7%	Spending Index	29	1.3622	1.3622	5.1%	Transactions per Shopper	29	1.2809	0.9815	1.0%	Unique Shopper Index	29	1.2892	1.2892	4.7%
+Comp	8/23/2015	8/29/2015	2015	Average Ticket	30	125.4530	1.2108	6.5%	Spending Index	30	1.5027	1.5027	10.2%	Transactions per Shopper	30	1.2725	0.9750	-0.6%	Unique Shopper Index	30	1.2728	1.2728	4.1%
+Comp	8/30/2015	9/5/2015	2015	Average Ticket	31	114.4098	1.1042	7.6%	Spending Index	31	1.3711	1.3711	4.4%	Transactions per Shopper	31	1.2901	0.9885	0.0%	Unique Shopper Index	31	1.2560	1.2560	-3.0%
+Comp	9/6/2015	9/12/2015	2015	Average Ticket	32	118.7968	1.1466	-1.0%	Spending Index	32	1.5096	1.5096	13.5%	Transactions per Shopper	32	1.2971	0.9939	1.2%	Unique Shopper Index	32	1.3247	1.3247	13.2%
+Comp	9/13/2015	9/19/2015	2015	Average Ticket	33	114.7862	1.1079	-3.0%	Spending Index	33	1.3579	1.3579	-1.4%	Transactions per Shopper	33	1.2897	0.9882	1.3%	Unique Shopper Index	33	1.2403	1.2403	0.4%
+Comp	9/20/2015	9/26/2015	2015	Average Ticket	34	128.5967	1.2411	1.3%	Spending Index	34	1.5938	1.5938	4.9%	Transactions per Shopper	34	1.2742	0.9763	-1.5%	Unique Shopper Index	34	1.3152	1.3152	5.2%
+Comp	9/27/2015	10/3/2015	2015	Average Ticket	35	123.9323	1.1961	5.4%	Spending Index	35	1.4514	1.4514	10.9%	Transactions per Shopper	35	1.2693	0.9726	-1.5%	Unique Shopper Index	35	1.2475	1.2475	6.7%
+Comp	10/4/2015	10/10/2015	2015	Average Ticket	36	121.2184	1.1699	0.0%	Spending Index	36	1.5265	1.5265	3.1%	Transactions per Shopper	36	1.2731	0.9755	-1.8%	Unique Shopper Index	36	1.3374	1.3374	5.0%
+Comp	10/11/2015	10/17/2015	2015	Average Ticket	37	123.7173	1.1940	2.2%	Spending Index	37	1.5032	1.5032	8.1%	Transactions per Shopper	37	1.2694	0.9727	0.0%	Unique Shopper Index	37	1.2942	1.2942	5.8%
+Comp	10/18/2015	10/24/2015	2015	Average Ticket	38	124.5118	1.2017	0.0%	Spending Index	38	1.6137	1.6137	8.2%	Transactions per Shopper	38	1.2976	0.9943	2.6%	Unique Shopper Index	38	1.3504	1.3504	5.5%
+Comp	10/25/2015	10/31/2015	2015	Average Ticket	39	128.6979	1.2421	5.6%	Spending Index	39	1.5210	1.5210	9.1%	Transactions per Shopper	39	1.2662	0.9702	-1.0%	Unique Shopper Index	39	1.2619	1.2619	4.3%
+Comp	11/1/2015	11/7/2015	2015	Average Ticket	40	120.3396	1.1614	0.7%	Spending Index	40	1.4919	1.4919	-0.1%	Transactions per Shopper	40	1.2841	0.9840	-0.2%	Unique Shopper Index	40	1.3054	1.3054	-0.7%
+Comp	11/8/2015	11/14/2015	2015	Average Ticket	41	121.0490	1.1683	-1.8%	Spending Index	41	1.7715	1.7715	-5.5%	Transactions per Shopper	41	1.3107	1.0043	-0.1%	Unique Shopper Index	41	1.5097	1.5097	-3.7%
+Comp	11/15/2015	11/21/2015	2015	Average Ticket	42	124.0914	1.1977	4.9%	Spending Index	42	1.7146	1.7146	6.2%	Transactions per Shopper	42	1.3024	0.9980	0.5%	Unique Shopper Index	42	1.4344	1.4344	0.7%
+Comp	11/22/2015	11/28/2015	2015	Average Ticket	43	126.1600	1.2176	5.0%	Spending Index	43	1.8460	1.8460	14.2%	Transactions per Shopper	43	1.2830	0.9831	0.6%	Unique Shopper Index	43	1.5420	1.5420	8.1%
+Comp	11/29/2015	12/5/2015	2015	Average Ticket	44	113.5245	1.0957	-1.7%	Spending Index	44	1.9964	1.9964	12.3%	Transactions per Shopper	44	1.3801	1.0575	4.9%	Unique Shopper Index	44	1.7229	1.7229	9.0%
+Comp	12/6/2015	12/12/2015	2015	Average Ticket	45	121.4490	1.1722	-4.5%	Spending Index	45	2.1968	2.1968	-4.5%	Transactions per Shopper	45	1.3622	1.0438	0.8%	Unique Shopper Index	45	1.7954	1.7954	-0.8%
+Comp	12/13/2015	12/19/2015	2015	Average Ticket	46	117.6113	1.1351	-2.7%	Spending Index	46	2.3958	2.3958	-5.7%	Transactions per Shopper	46	1.3498	1.0343	0.0%	Unique Shopper Index	46	2.0405	2.0405	-3.1%
+Comp	12/20/2015	12/26/2015	2015	Average Ticket	47	120.9372	1.1672	1.2%	Spending Index	47	2.8456	2.8456	1.1%	Transactions per Shopper	47	1.3484	1.0332	0.1%	Unique Shopper Index	47	2.3593	2.3593	-0.2%
+Comp	12/27/2015	1/2/2016	2015	Average Ticket	48	114.4062	1.1042	2.0%	Spending Index	48	1.9302	1.9302	6.5%	Transactions per Shopper	48	1.3097	1.0036	1.2%	Unique Shopper Index	48	1.7417	1.7417	3.2%
+Comp	1/3/2016	1/9/2016	2015	Average Ticket	49	113.4293	1.0948	2.6%	Spending Index	49	1.5733	1.5733	16.3%	Transactions per Shopper	49	1.3099	1.0037	2.2%	Unique Shopper Index	49	1.4317	1.4317	10.9%
+Comp	1/10/2016	1/16/2016	2015	Average Ticket	50	115.5617	1.1153	1.3%	Spending Index	50	1.3199	1.3199	6.5%	Transactions per Shopper	50	1.2912	0.9893	1.1%	Unique Shopper Index	50	1.1961	1.1961	4.0%
+Comp	1/17/2016	1/23/2016	2015	Average Ticket	51	118.1731	1.1405	2.8%	Spending Index	51	1.3716	1.3716	7.5%	Transactions per Shopper	51	1.2584	0.9643	-0.4%	Unique Shopper Index	51	1.2471	1.2471	5.0%
+Comp	1/24/2016	1/30/2016	2015	Average Ticket	52	127.0030	1.2258	5.6%	Spending Index	52	1.3460	1.3460	10.3%	Transactions per Shopper	52	1.2726	0.9752	0.8%	Unique Shopper Index	52	1.1261	1.1261	3.7%
+Comp	1/31/2016	2/6/2016	2016	Average Ticket	1	111.8331	1.0793	4.7%	Spending Index	1	1.1915	1.1915	10.3%	Transactions per Shopper	1	1.2801	0.9808	1.2%	Unique Shopper Index	1	1.1254	1.1254	4.2%
+Comp	2/7/2016	2/13/2016	2016	Average Ticket	2	122.3128	1.1805	4.6%	Spending Index	2	1.4203	1.4203	0.9%	Transactions per Shopper	2	1.2880	0.9869	0.2%	Unique Shopper Index	2	1.2190	1.2190	-3.7%
+Comp	2/14/2016	2/20/2016	2016	Average Ticket	3	122.0509	1.1780	6.5%	Spending Index	3	1.5871	1.5871	7.4%	Transactions per Shopper	3	1.2940	0.9916	0.6%	Unique Shopper Index	3	1.3586	1.3586	0.2%
+Comp	2/21/2016	2/27/2016	2016	Average Ticket	4	120.8634	1.1665	0.4%	Spending Index	4	1.4523	1.4523	6.2%	Transactions per Shopper	4	1.3007	0.9967	1.6%	Unique Shopper Index	4	1.2492	1.2492	4.2%
+Comp	2/28/2016	3/5/2016	2016	Average Ticket	5	119.9215	1.1574	6.5%	Spending Index	5	1.3640	1.3640	9.0%	Transactions per Shopper	5	1.2873	0.9864	0.5%	Unique Shopper Index	5	1.1947	1.1947	1.9%
+Comp	3/6/2016	3/12/2016	2016	Average Ticket	6	121.5867	1.1735	5.8%	Spending Index	6	1.4868	1.4868	9.2%	Transactions per Shopper	6	1.2944	0.9919	1.6%	Unique Shopper Index	6	1.2773	1.2773	1.5%
+Comp	3/13/2016	3/19/2016	2016	Average Ticket	7	119.2289	1.1507	2.6%	Spending Index	7	1.4768	1.4768	2.6%	Transactions per Shopper	7	1.2783	0.9795	0.3%	Unique Shopper Index	7	1.3101	1.3101	-0.3%
+Comp	3/20/2016	3/26/2016	2016	Average Ticket	8	121.6247	1.1739	-6.0%	Spending Index	8	1.5887	1.5887	-8.4%	Transactions per Shopper	8	1.2739	0.9761	-1.4%	Unique Shopper Index	8	1.3864	1.3864	-1.2%
+Comp	3/27/2016	4/2/2016	2016	Average Ticket	9	129.3517	1.2484	10.9%	Spending Index	9	1.5160	1.5160	-2.4%	Transactions per Shopper	9	1.2855	0.9850	-1.0%	Unique Shopper Index	9	1.2327	1.2327	-11.1%
+Comp	4/3/2016	4/9/2016	2016	Average Ticket	10	119.2358	1.1508	0.8%	Spending Index	10	1.4618	1.4618	5.3%	Transactions per Shopper	10	1.2986	0.9951	1.8%	Unique Shopper Index	10	1.2765	1.2765	2.6%
+Comp	4/10/2016	4/16/2016	2016	Average Ticket	11	124.4986	1.2016	5.8%	Spending Index	11	1.5048	1.5048	4.0%	Transactions per Shopper	11	1.2849	0.9846	0.4%	Unique Shopper Index	11	1.2718	1.2718	-2.1%
+Comp	4/17/2016	4/23/2016	2016	Average Ticket	12	116.7226	1.1265	-3.2%	Spending Index	12	1.5487	1.5487	-6.9%	Transactions per Shopper	12	1.2954	0.9926	0.4%	Unique Shopper Index	12	1.3849	1.3849	-4.2%
+Comp	4/24/2016	4/30/2016	2016	Average Ticket	13	128.1180	1.2365	9.9%	Spending Index	13	1.7035	1.7035	13.8%	Transactions per Shopper	13	1.2835	0.9835	-0.6%	Unique Shopper Index	13	1.4007	1.4007	4.1%
+Comp	5/1/2016	5/7/2016	2016	Average Ticket	14	117.7118	1.1361	0.9%	Spending Index	14	1.5658	1.5658	2.6%	Transactions per Shopper	14	1.2933	0.9910	1.2%	Unique Shopper Index	14	1.3908	1.3908	0.5%
+Comp	5/8/2016	5/14/2016	2016	Average Ticket	15	125.5937	1.2122	2.4%	Spending Index	15	1.7509	1.7509	-0.5%	Transactions per Shopper	15	1.2910	0.9892	-0.6%	Unique Shopper Index	15	1.4601	1.4601	-2.3%
+Comp	5/15/2016	5/21/2016	2016	Average Ticket	16	118.7464	1.1461	-1.4%	Spending Index	16	1.5619	1.5619	-11.7%	Transactions per Shopper	16	1.2824	0.9827	-3.3%	Unique Shopper Index	16	1.3869	1.3869	-7.4%
+Comp	5/22/2016	5/28/2016	2016	Average Ticket	17	127.5826	1.2314	6.7%	Spending Index	17	1.8530	1.8530	0.3%	Transactions per Shopper	17	1.3110	1.0046	-2.5%	Unique Shopper Index	17	1.4980	1.4980	-3.5%
+Comp	5/29/2016	6/4/2016	2016	Average Ticket	18	113.7886	1.0982	0.2%	Spending Index	18	1.6963	1.6963	12.7%	Transactions per Shopper	18	1.3376	1.0249	1.9%	Unique Shopper Index	18	1.5069	1.5069	10.3%
+Comp	6/5/2016	6/11/2016	2016	Average Ticket	19	117.8204	1.1371	3.0%	Spending Index	19	1.6053	1.6053	10.9%	Transactions per Shopper	19	1.3300	1.0192	2.4%	Unique Shopper Index	19	1.3852	1.3852	5.2%
+Comp	6/12/2016	6/18/2016	2016	Average Ticket	20	114.6681	1.1067	0.1%	Spending Index	20	1.5008	1.5008	-1.4%	Transactions per Shopper	20	1.3120	1.0053	2.1%	Unique Shopper Index	20	1.3488	1.3488	-3.5%
+Comp	6/19/2016	6/25/2016	2016	Average Ticket	21	118.1466	1.1403	7.8%	Spending Index	21	1.5824	1.5824	5.9%	Transactions per Shopper	21	1.2903	0.9887	-0.3%	Unique Shopper Index	21	1.4035	1.4035	-1.4%
+Comp	6/26/2016	7/2/2016	2016	Average Ticket	22	116.4603	1.1240	6.4%	Spending Index	22	1.3263	1.3263	4.3%	Transactions per Shopper	22	1.2872	0.9863	-0.2%	Unique Shopper Index	22	1.1962	1.1962	-1.8%
+Comp	7/3/2016	7/9/2016	2016	Average Ticket	23	110.0603	1.0622	-2.7%	Spending Index	23	1.1995	1.1995	-0.3%	Transactions per Shopper	23	1.2723	0.9749	0.3%	Unique Shopper Index	23	1.1582	1.1582	2.1%
+Comp	7/10/2016	7/16/2016	2016	Average Ticket	24	114.3512	1.1037	-16.5%	Spending Index	24	1.2489	1.2489	-33.1%	Transactions per Shopper	24	1.2788	0.9799	-4.3%	Unique Shopper Index	24	1.1549	1.1549	-16.3%
+Comp	7/17/2016	7/23/2016	2016	Average Ticket	25	139.4904	1.3463	10.3%	Spending Index	25	2.1687	2.1687	0.9%	Transactions per Shopper	25	1.3806	1.0579	-2.2%	Unique Shopper Index	25	1.5227	1.5227	-6.5%
+Comp	7/24/2016	7/30/2016	2016	Average Ticket	26	125.9721	1.2158	9.6%	Spending Index	26	2.3482	2.3482	34.7%	Transactions per Shopper	26	1.4541	1.1142	4.2%	Unique Shopper Index	26	1.7333	1.7333	18.0%
+Comp	7/31/2016	8/6/2016	2016	Average Ticket	27	107.5114	1.0376	-3.2%	Spending Index	27	1.8666	1.8666	18.4%	Transactions per Shopper	27	1.4328	1.0979	5.2%	Unique Shopper Index	27	1.6384	1.6384	16.2%
+Comp	8/7/2016	8/13/2016	2016	Average Ticket	28	109.9960	1.0616	-4.4%	Spending Index	28	1.6140	1.6140	16.2%	Transactions per Shopper	28	1.3789	1.0566	8.2%	Unique Shopper Index	28	1.4389	1.4389	12.5%
+Comp	8/14/2016	8/20/2016	2016	Average Ticket	29	110.2946	1.0645	-1.1%	Spending Index	29	1.3748	1.3748	0.9%	Transactions per Shopper	29	1.2970	0.9939	1.3%	Unique Shopper Index	29	1.2995	1.2995	0.8%
+Comp	8/21/2016	8/27/2016	2016	Average Ticket	30	125.7666	1.2138	0.3%	Spending Index	30	1.5278	1.5278	1.7%	Transactions per Shopper	30	1.2571	0.9633	-1.2%	Unique Shopper Index	30	1.3066	1.3066	2.7%
+Comp	8/28/2016	9/3/2016	2016	Average Ticket	31	116.3579	1.1230	1.7%	Spending Index	31	1.3544	1.3544	-1.2%	Transactions per Shopper	31	1.2918	0.9898	0.1%	Unique Shopper Index	31	1.2183	1.2183	-3.0%
+Comp	9/4/2016	9/10/2016	2016	Average Ticket	32	116.9858	1.1291	-1.5%	Spending Index	32	1.5293	1.5293	1.3%	Transactions per Shopper	32	1.3036	0.9989	0.5%	Unique Shopper Index	32	1.3560	1.3560	2.4%
+Comp	9/11/2016	9/17/2016	2016	Average Ticket	33	126.6385	1.2222	10.3%	Spending Index	33	1.4842	1.4842	9.3%	Transactions per Shopper	33	1.2945	0.9919	0.4%	Unique Shopper Index	33	1.2242	1.2242	-1.3%
+Comp	9/18/2016	9/24/2016	2016	Average Ticket	34	120.4531	1.1625	-6.3%	Spending Index	34	1.4407	1.4407	-9.6%	Transactions per Shopper	34	1.2769	0.9784	0.2%	Unique Shopper Index	34	1.2665	1.2665	-3.7%
+Comp	9/25/2016	10/1/2016	2016	Average Ticket	35	137.1526	1.3237	10.7%	Spending Index	35	1.6884	1.6884	16.3%	Transactions per Shopper	35	1.2922	0.9902	1.8%	Unique Shopper Index	35	1.2881	1.2881	3.2%
+Comp	10/2/2016	10/8/2016	2016	Average Ticket	36	121.9692	1.1772	0.6%	Spending Index	36	1.5084	1.5084	-1.2%	Transactions per Shopper	36	1.2948	0.9921	1.7%	Unique Shopper Index	36	1.2914	1.2914	-3.4%
+Comp	10/9/2016	10/15/2016	2016	Average Ticket	37	127.5335	1.2309	3.1%	Spending Index	37	1.6644	1.6644	10.7%	Transactions per Shopper	37	1.2802	0.9809	0.8%	Unique Shopper Index	37	1.3785	1.3785	6.5%
+Comp	10/16/2016	10/22/2016	2016	Average Ticket	38	122.6517	1.1838	-1.5%	Spending Index	38	1.4961	1.4961	-7.3%	Transactions per Shopper	38	1.2852	0.9848	-1.0%	Unique Shopper Index	38	1.2833	1.2833	-5.0%
+Comp	10/23/2016	10/29/2016	2016	Average Ticket	39	130.3399	1.2580	1.3%	Spending Index	39	1.6323	1.6323	7.3%	Transactions per Shopper	39	1.2735	0.9758	0.6%	Unique Shopper Index	39	1.3296	1.3296	5.4%
+Comp	10/30/2016	11/5/2016	2016	Average Ticket	40	122.5897	1.1832	1.9%	Spending Index	40	1.4773	1.4773	-1.0%	Transactions per Shopper	40	1.2986	0.9951	1.1%	Unique Shopper Index	40	1.2546	1.2546	-3.9%
+Comp	11/6/2016	11/12/2016	2016	Average Ticket	41	128.2539	1.2378	6.0%	Spending Index	41	1.6463	1.6463	-7.1%	Transactions per Shopper	41	1.2994	0.9956	-0.9%	Unique Shopper Index	41	1.3357	1.3357	-11.5%
+Comp	11/13/2016	11/19/2016	2016	Average Ticket	42	118.8693	1.1473	-4.2%	Spending Index	42	1.6418	1.6418	-4.2%	Transactions per Shopper	42	1.3246	1.0149	1.7%	Unique Shopper Index	42	1.4099	1.4099	-1.7%
+Comp	11/20/2016	11/26/2016	2016	Average Ticket	43	127.4381	1.2300	1.0%	Spending Index	43	2.0371	2.0371	10.4%	Transactions per Shopper	43	1.3199	1.0113	2.9%	Unique Shopper Index	43	1.6376	1.6376	6.2%
+Comp	11/27/2016	12/3/2016	2016	Average Ticket	44	119.7632	1.1559	5.5%	Spending Index	44	2.1174	2.1174	6.1%	Transactions per Shopper	44	1.3897	1.0649	0.7%	Unique Shopper Index	44	1.7202	1.7202	-0.2%
+Comp	12/4/2016	12/10/2016	2016	Average Ticket	45	125.0674	1.2071	3.0%	Spending Index	45	2.1408	2.1408	-2.6%	Transactions per Shopper	45	1.3547	1.0381	-0.5%	Unique Shopper Index	45	1.7083	1.7083	-4.8%
+Comp	12/11/2016	12/17/2016	2016	Average Ticket	46	124.7106	1.2036	6.0%	Spending Index	46	2.4523	2.4523	2.4%	Transactions per Shopper	46	1.3693	1.0492	1.4%	Unique Shopper Index	46	1.9417	1.9417	-4.8%
+Comp	12/18/2016	12/24/2016	2016	Average Ticket	47	118.6629	1.1453	-1.9%	Spending Index	47	2.9611	2.9611	4.1%	Transactions per Shopper	47	1.3729	1.0520	1.8%	Unique Shopper Index	47	2.4576	2.4576	4.2%
+Comp	12/25/2016	12/31/2016	2016	Average Ticket	48	125.0018	1.2064	9.3%	Spending Index	48	2.3067	2.3067	19.5%	Transactions per Shopper	48	1.3243	1.0148	1.1%	Unique Shopper Index	48	1.8840	1.8840	8.2%
+Comp	1/1/2017	1/7/2017	2016	Average Ticket	49	108.9679	1.0517	-3.9%	Spending Index	49	1.4704	1.4704	-6.5%	Transactions per Shopper	49	1.3019	0.9976	-0.6%	Unique Shopper Index	49	1.4014	1.4014	-2.1%
+Comp	1/8/2017	1/14/2017	2016	Average Ticket	50	117.9969	1.1388	2.1%	Spending Index	50	1.3175	1.3175	-0.2%	Transactions per Shopper	50	1.2909	0.9891	0.0%	Unique Shopper Index	50	1.1695	1.1695	-2.2%
+Comp	1/15/2017	1/21/2017	2016	Average Ticket	51	116.3515	1.1230	-1.5%	Spending Index	51	1.3751	1.3751	0.3%	Transactions per Shopper	51	1.2832	0.9832	2.0%	Unique Shopper Index	51	1.2453	1.2453	-0.1%
+Comp	1/22/2017	1/28/2017	2016	Average Ticket	52	135.3032	1.3059	6.5%	Spending Index	52	1.4769	1.4769	9.7%	Transactions per Shopper	52	1.2702	0.9733	-0.2%	Unique Shopper Index	52	1.1620	1.1620	3.2%
+Comp	1/29/2017	2/4/2017	2017	Average Ticket	1	111.1535	1.0728	-0.6%	Spending Index	1	1.1284	1.1284	-5.3%	Transactions per Shopper	1	1.2854	0.9849	0.4%	Unique Shopper Index	1	1.0679	1.0679	-5.1%
+Comp	2/5/2017	2/11/2017	2017	Average Ticket	2	121.8916	1.1764	-0.3%	Spending Index	2	1.3586	1.3586	-4.3%	Transactions per Shopper	2	1.2966	0.9935	0.7%	Unique Shopper Index	2	1.1624	1.1624	-4.6%
+Comp	2/12/2017	2/18/2017	2017	Average Ticket	3	115.8436	1.1181	-5.1%	Spending Index	3	1.3617	1.3617	-14.2%	Transactions per Shopper	3	1.2787	0.9798	-1.2%	Unique Shopper Index	3	1.2430	1.2430	-8.5%
+Comp	2/19/2017	2/25/2017	2017	Average Ticket	4	119.2694	1.1511	-1.3%	Spending Index	4	1.5597	1.5597	7.4%	Transactions per Shopper	4	1.2805	0.9812	-1.6%	Unique Shopper Index	4	1.3809	1.3809	10.5%
+Comp	2/26/2017	3/4/2017	2017	Average Ticket	5	123.2913	1.1899	2.8%	Spending Index	5	1.4359	1.4359	5.3%	Transactions per Shopper	5	1.3110	1.0045	1.8%	Unique Shopper Index	5	1.2013	1.2013	0.5%
+Comp	3/5/2017	3/11/2017	2017	Average Ticket	6	122.5309	1.1826	0.8%	Spending Index	6	1.4660	1.4660	-1.4%	Transactions per Shopper	6	1.2902	0.9886	-0.3%	Unique Shopper Index	6	1.2538	1.2538	-1.8%
+Comp	3/12/2017	3/18/2017	2017	Average Ticket	7	117.6828	1.1358	-1.3%	Spending Index	7	1.3827	1.3827	-6.4%	Transactions per Shopper	7	1.2994	0.9957	1.6%	Unique Shopper Index	7	1.2226	1.2226	-6.7%
+Comp	3/19/2017	3/25/2017	2017	Average Ticket	8	120.7335	1.1653	-0.7%	Spending Index	8	1.6459	1.6459	3.6%	Transactions per Shopper	8	1.3015	0.9973	2.2%	Unique Shopper Index	8	1.4162	1.4162	2.1%
+Comp	3/26/2017	4/1/2017	2017	Average Ticket	9	129.1869	1.2468	-0.1%	Spending Index	9	1.6422	1.6422	8.3%	Transactions per Shopper	9	1.3163	1.0086	2.4%	Unique Shopper Index	9	1.3058	1.3058	5.9%
+Comp	4/2/2017	4/8/2017	2017	Average Ticket	10	117.5483	1.1345	-1.4%	Spending Index	10	1.4483	1.4483	-0.9%	Transactions per Shopper	10	1.3059	1.0006	0.6%	Unique Shopper Index	10	1.2758	1.2758	-0.1%
+Comp	4/9/2017	4/15/2017	2017	Average Ticket	11	121.4844	1.1725	-2.4%	Spending Index	11	1.6001	1.6001	6.3%	Transactions per Shopper	11	1.2914	0.9896	0.5%	Unique Shopper Index	11	1.3790	1.3790	8.4%
+Comp	4/16/2017	4/22/2017	2017	Average Ticket	12	119.1740	1.1502	2.1%	Spending Index	12	1.4595	1.4595	-5.8%	Transactions per Shopper	12	1.2803	0.9811	-1.2%	Unique Shopper Index	12	1.2934	1.2934	-6.6%
+Comp	4/23/2017	4/29/2017	2017	Average Ticket	13	131.8190	1.2722	2.9%	Spending Index	13	1.7647	1.7647	3.6%	Transactions per Shopper	13	1.2888	0.9875	0.4%	Unique Shopper Index	13	1.4046	1.4046	0.3%
+Comp	4/30/2017	5/6/2017	2017	Average Ticket	14	115.7961	1.1176	-1.6%	Spending Index	14	1.5175	1.5175	-3.1%	Transactions per Shopper	14	1.3087	1.0028	1.2%	Unique Shopper Index	14	1.3540	1.3540	-2.6%
+Comp	5/7/2017	5/13/2017	2017	Average Ticket	15	130.2047	1.2567	3.7%	Spending Index	15	1.8106	1.8106	3.4%	Transactions per Shopper	15	1.3047	0.9997	1.1%	Unique Shopper Index	15	1.4411	1.4411	-1.3%
+Comp	5/14/2017	5/20/2017	2017	Average Ticket	16	117.5881	1.1349	-1.0%	Spending Index	16	1.5967	1.5967	2.2%	Transactions per Shopper	16	1.2886	0.9874	0.5%	Unique Shopper Index	16	1.4247	1.4247	2.7%
+Comp	5/21/2017	5/27/2017	2017	Average Ticket	17	126.2098	1.2181	-1.1%	Spending Index	17	1.8718	1.8718	1.0%	Transactions per Shopper	17	1.3176	1.0096	0.5%	Unique Shopper Index	17	1.5219	1.5219	1.6%
+Comp	5/28/2017	6/3/2017	2017	Average Ticket	18	120.4763	1.1628	5.9%	Spending Index	18	1.6671	1.6671	-1.7%	Transactions per Shopper	18	1.3284	1.0179	-0.7%	Unique Shopper Index	18	1.4085	1.4085	-6.5%
+Comp	6/4/2017	6/10/2017	2017	Average Ticket	19	115.4792	1.1145	-2.0%	Spending Index	19	1.5668	1.5668	-2.4%	Transactions per Shopper	19	1.3293	1.0186	-0.1%	Unique Shopper Index	19	1.3802	1.3802	-0.4%
+Comp	6/11/2017	6/17/2017	2017	Average Ticket	20	115.1641	1.1115	0.4%	Spending Index	20	1.5414	1.5414	2.7%	Transactions per Shopper	20	1.3035	0.9988	-0.6%	Unique Shopper Index	20	1.3884	1.3884	2.9%
+Comp	6/18/2017	6/24/2017	2017	Average Ticket	21	112.7790	1.0885	-4.5%	Spending Index	21	1.4823	1.4823	-6.3%	Transactions per Shopper	21	1.2797	0.9806	-0.8%	Unique Shopper Index	21	1.3887	1.3887	-1.1%
+Comp	6/25/2017	7/1/2017	2017	Average Ticket	22	121.5760	1.1734	4.4%	Spending Index	22	1.4387	1.4387	8.5%	Transactions per Shopper	22	1.2794	0.9803	-0.6%	Unique Shopper Index	22	1.2507	1.2507	4.6%
+Comp	7/2/2017	7/8/2017	2017	Average Ticket	23	107.3048	1.0356	-2.5%	Spending Index	23	1.1471	1.1471	-4.4%	Transactions per Shopper	23	1.2618	0.9668	-0.8%	Unique Shopper Index	23	1.1456	1.1456	-1.1%
+Comp	7/9/2017	7/15/2017	2017	Average Ticket	24	120.4317	1.1623	5.3%	Spending Index	24	1.3352	1.3352	6.9%	Transactions per Shopper	24	1.2823	0.9826	0.3%	Unique Shopper Index	24	1.1691	1.1691	1.2%
+Comp	7/16/2017	7/22/2017	2017	Average Ticket	25	136.5981	1.3184	-2.1%	Spending Index	25	1.9822	1.9822	-8.6%	Transactions per Shopper	25	1.3788	1.0565	-0.1%	Unique Shopper Index	25	1.4231	1.4231	-6.5%
+Comp	7/23/2017	7/29/2017	2017	Average Ticket	26	129.0625	1.2456	2.5%	Spending Index	26	2.5030	2.5030	6.6%	Transactions per Shopper	26	1.4884	1.1405	2.4%	Unique Shopper Index	26	1.7618	1.7618	1.6%
+Comp	7/30/2017	8/5/2017	2017	Average Ticket	27	114.8405	1.1084	6.8%	Spending Index	27	1.9525	1.9525	4.6%	Transactions per Shopper	27	1.4464	1.1083	0.9%	Unique Shopper Index	27	1.5894	1.5894	-3.0%
+Comp	8/6/2017	8/12/2017	2017	Average Ticket	28	113.3938	1.0944	3.1%	Spending Index	28	1.6192	1.6192	0.3%	Transactions per Shopper	28	1.3752	1.0537	-0.3%	Unique Shopper Index	28	1.4041	1.4041	-2.4%
+Comp	8/13/2017	8/19/2017	2017	Average Ticket	29	109.9646	1.0613	-0.3%	Spending Index	29	1.2387	1.2387	-9.9%	Transactions per Shopper	29	1.2648	0.9692	-2.5%	Unique Shopper Index	29	1.2042	1.2042	-7.3%
+Comp	8/20/2017	8/26/2017	2017	Average Ticket	30	123.2898	1.1899	-2.0%	Spending Index	30	1.4848	1.4848	-2.8%	Transactions per Shopper	30	1.2647	0.9691	0.6%	Unique Shopper Index	30	1.2875	1.2875	-1.5%
+Comp	8/27/2017	9/2/2017	2017	Average Ticket	31	124.5165	1.2018	7.0%	Spending Index	31	1.4360	1.4360	6.0%	Transactions per Shopper	31	1.2942	0.9917	0.2%	Unique Shopper Index	31	1.2049	1.2049	-1.1%
+Comp	9/3/2017	9/9/2017	2017	Average Ticket	32	120.1503	1.1596	2.7%	Spending Index	32	1.4980	1.4980	-2.0%	Transactions per Shopper	32	1.3081	1.0023	0.3%	Unique Shopper Index	32	1.2887	1.2887	-5.0%
+Comp	9/10/2017	9/16/2017	2017	Average Ticket	33	129.9828	1.2545	2.6%	Spending Index	33	1.4986	1.4986	1.0%	Transactions per Shopper	33	1.2920	0.9900	-0.2%	Unique Shopper Index	33	1.2066	1.2066	-1.4%
+Comp	9/17/2017	9/23/2017	2017	Average Ticket	34	118.5841	1.1445	-1.6%	Spending Index	34	1.4551	1.4551	1.0%	Transactions per Shopper	34	1.2925	0.9904	1.2%	Unique Shopper Index	34	1.2837	1.2837	1.4%
+Comp	9/24/2017	9/30/2017	2017	Average Ticket	35	132.9851	1.2835	-3.0%	Spending Index	35	1.6222	1.6222	-3.9%	Transactions per Shopper	35	1.2913	0.9895	-0.1%	Unique Shopper Index	35	1.2773	1.2773	-0.8%
+Comp	10/1/2017	10/7/2017	2017	Average Ticket	36	120.2290	1.1604	-1.4%	Spending Index	36	1.3955	1.3955	-7.5%	Transactions per Shopper	36	1.2906	0.9889	-0.3%	Unique Shopper Index	36	1.2161	1.2161	-5.8%
+Comp	10/8/2017	10/14/2017	2017	Average Ticket	37	121.9824	1.1773	-4.4%	Spending Index	37	1.5105	1.5105	-9.2%	Transactions per Shopper	37	1.2834	0.9834	0.3%	Unique Shopper Index	37	1.3045	1.3045	-5.4%
+Comp	10/15/2017	10/21/2017	2017	Average Ticket	38	124.0139	1.1969	1.1%	Spending Index	38	1.5056	1.5056	0.6%	Transactions per Shopper	38	1.2849	0.9846	0.0%	Unique Shopper Index	38	1.2776	1.2776	-0.4%
+Comp	10/22/2017	10/28/2017	2017	Average Ticket	39	136.3032	1.3155	4.6%	Spending Index	39	1.6902	1.6902	3.5%	Transactions per Shopper	39	1.2834	0.9834	0.8%	Unique Shopper Index	39	1.3064	1.3064	-1.7%
+Comp	10/29/2017	11/4/2017	2017	Average Ticket	40	123.4339	1.1913	0.7%	Spending Index	40	1.4502	1.4502	-1.8%	Transactions per Shopper	40	1.2952	0.9924	-0.3%	Unique Shopper Index	40	1.2266	1.2266	-2.2%
+Comp	11/5/2017	11/11/2017	2017	Average Ticket	41	125.2253	1.2086	-2.4%	Spending Index	41	1.8098	1.8098	9.9%	Transactions per Shopper	41	1.3085	1.0026	0.7%	Unique Shopper Index	41	1.4934	1.4934	11.8%
+Comp	11/12/2017	11/18/2017	2017	Average Ticket	42	121.5897	1.1735	2.3%	Spending Index	42	1.6937	1.6937	3.2%	Transactions per Shopper	42	1.3217	1.0127	-0.2%	Unique Shopper Index	42	1.4250	1.4250	1.1%
+Comp	11/19/2017	11/25/2017	2017	Average Ticket	43	126.5616	1.2215	-0.7%	Spending Index	43	2.0285	2.0285	-0.4%	Transactions per Shopper	43	1.3142	1.0070	-0.4%	Unique Shopper Index	43	1.6491	1.6491	0.7%
+Comp	11/26/2017	12/2/2017	2017	Average Ticket	44	117.0238	1.1294	-2.3%	Spending Index	44	2.0338	2.0338	-3.9%	Transactions per Shopper	44	1.4070	1.0781	1.2%	Unique Shopper Index	44	1.6702	1.6702	-2.9%
+Comp	12/3/2017	12/9/2017	2017	Average Ticket	45	120.0204	1.1584	-4.0%	Spending Index	45	1.8800	1.8800	-12.2%	Transactions per Shopper	45	1.3353	1.0232	-1.4%	Unique Shopper Index	45	1.5862	1.5862	-7.2%
+Comp	12/10/2017	12/16/2017	2017	Average Ticket	46	125.1605	1.2080	0.4%	Spending Index	46	2.3032	2.3032	-6.1%	Transactions per Shopper	46	1.3490	1.0336	-1.5%	Unique Shopper Index	46	1.8446	1.8446	-5.0%
+Comp	12/17/2017	12/23/2017	2017	Average Ticket	47	119.7156	1.1554	0.9%	Spending Index	47	2.7331	2.7331	-7.7%	Transactions per Shopper	47	1.3520	1.0360	-1.5%	Unique Shopper Index	47	2.2832	2.2832	-7.1%
+Comp	12/24/2017	12/30/2017	2017	Average Ticket	48	125.6214	1.2124	0.5%	Spending Index	48	2.2169	2.2169	-3.9%	Transactions per Shopper	48	1.3082	1.0024	-1.2%	Unique Shopper Index	48	1.8240	1.8240	-3.2%
+Comp	12/31/2017	1/6/2018	2017	Average Ticket	49	109.4276	1.0561	0.4%	Spending Index	49	1.4722	1.4722	0.1%	Transactions per Shopper	49	1.3199	1.0114	1.4%	Unique Shopper Index	49	1.3782	1.3782	-1.7%
+Comp	1/7/2018	1/13/2018	2017	Average Ticket	50	118.7819	1.1464	0.7%	Spending Index	50	1.3713	1.3713	4.1%	Transactions per Shopper	50	1.3048	0.9998	1.1%	Unique Shopper Index	50	1.1964	1.1964	2.3%
+Comp	1/14/2018	1/20/2018	2017	Average Ticket	51	115.3846	1.1136	-0.8%	Spending Index	51	1.2945	1.2945	-5.9%	Transactions per Shopper	51	1.2910	0.9893	0.6%	Unique Shopper Index	51	1.1750	1.1750	-5.6%
+Comp	1/21/2018	1/27/2018	2017	Average Ticket	52	135.1539	1.3044	-0.1%	Spending Index	52	1.5267	1.5267	3.4%	Transactions per Shopper	52	1.2691	0.9724	-0.1%	Unique Shopper Index	52	1.2035	1.2035	3.6%
+Comp	1/28/2018	2/3/2018	2018	Average Ticket	1	120.7023	1.1649	8.6%	Spending Index	1	1.2230	1.2230	8.4%	Transactions per Shopper	1	1.2793	0.9803	-0.5%	Unique Shopper Index	1	1.0710	1.0710	0.3%
+Comp	2/4/2018	2/10/2018	2018	Average Ticket	2	119.3372	1.1518	-2.1%	Spending Index	2	1.2590	1.2590	-7.3%	Transactions per Shopper	2	1.2822	0.9825	-1.1%	Unique Shopper Index	2	1.1125	1.1125	-4.3%
+Comp	2/11/2018	2/17/2018	2018	Average Ticket	3	122.6657	1.1839	5.9%	Spending Index	3	1.4112	1.4112	3.6%	Transactions per Shopper	3	1.2815	0.9819	0.2%	Unique Shopper Index	3	1.2138	1.2138	-2.3%
+Comp	2/18/2018	2/24/2018	2018	Average Ticket	4	115.0946	1.1108	-3.5%	Spending Index	4	1.4630	1.4630	-6.2%	Transactions per Shopper	4	1.2794	0.9804	-0.1%	Unique Shopper Index	4	1.3434	1.3434	-2.7%
+Comp	2/25/2018	3/3/2018	2018	Average Ticket	5	128.9881	1.2449	4.6%	Spending Index	5	1.5264	1.5264	6.3%	Transactions per Shopper	5	1.2923	0.9902	-1.4%	Unique Shopper Index	5	1.2382	1.2382	3.1%
+Comp	3/4/2018	3/10/2018	2018	Average Ticket	6	118.5148	1.1438	-3.3%	Spending Index	6	1.3967	1.3967	-4.7%	Transactions per Shopper	6	1.2868	0.9860	-0.3%	Unique Shopper Index	6	1.2383	1.2383	-1.2%
+Comp	3/11/2018	3/17/2018	2018	Average Ticket	7	122.3032	1.1804	3.9%	Spending Index	7	1.4816	1.4816	7.2%	Transactions per Shopper	7	1.2862	0.9856	-1.0%	Unique Shopper Index	7	1.2735	1.2735	4.2%
+Comp	3/18/2018	3/24/2018	2018	Average Ticket	8	120.8137	1.1660	0.1%	Spending Index	8	1.5352	1.5352	-6.7%	Transactions per Shopper	8	1.2858	0.9853	-1.2%	Unique Shopper Index	8	1.3363	1.3363	-5.6%
+Comp	3/25/2018	3/31/2018	2018	Average Ticket	9	127.3073	1.2287	-1.5%	Spending Index	9	1.7200	1.7200	4.7%	Transactions per Shopper	9	1.3040	0.9992	-0.9%	Unique Shopper Index	9	1.4010	1.4010	7.3%
+Comp	4/1/2018	4/7/2018	2018	Average Ticket	10	117.8420	1.1373	0.2%	Spending Index	10	1.3347	1.3347	-7.8%	Transactions per Shopper	10	1.2864	0.9857	-1.5%	Unique Shopper Index	10	1.1905	1.1905	-6.7%
+Comp	4/8/2018	4/14/2018	2018	Average Ticket	11	124.4586	1.2012	2.4%	Spending Index	11	1.5508	1.5508	-3.1%	Transactions per Shopper	11	1.2841	0.9840	-0.6%	Unique Shopper Index	11	1.3119	1.3119	-4.9%
+Comp	4/15/2018	4/21/2018	2018	Average Ticket	12	122.1311	1.1787	2.5%	Spending Index	12	1.5379	1.5379	5.4%	Transactions per Shopper	12	1.2806	0.9812	0.0%	Unique Shopper Index	12	1.3296	1.3296	2.8%
+Comp	4/22/2018	4/28/2018	2018	Average Ticket	13	133.2346	1.2859	1.1%	Spending Index	13	1.7205	1.7205	-2.5%	Transactions per Shopper	13	1.2681	0.9717	-1.6%	Unique Shopper Index	13	1.3768	1.3768	-2.0%
+Comp	4/29/2018	5/5/2018	2018	Average Ticket	14	119.9675	1.1579	3.6%	Spending Index	14	1.5031	1.5031	-0.9%	Transactions per Shopper	14	1.2884	0.9873	-1.5%	Unique Shopper Index	14	1.3149	1.3149	-2.9%
+Comp	5/6/2018	5/12/2018	2018	Average Ticket	15	126.5873	1.2217	-2.8%	Spending Index	15	1.7899	1.7899	-1.1%	Transactions per Shopper	15	1.3025	0.9981	-0.2%	Unique Shopper Index	15	1.4678	1.4678	1.9%
+Comp	5/13/2018	5/19/2018	2018	Average Ticket	16	122.0096	1.1776	3.8%	Spending Index	16	1.6248	1.6248	1.8%	Transactions per Shopper	16	1.2861	0.9854	-0.2%	Unique Shopper Index	16	1.4001	1.4001	-1.7%
+Comp	5/20/2018	5/26/2018	2018	Average Ticket	17	125.8724	1.2148	-0.3%	Spending Index	17	1.8534	1.8534	-1.0%	Transactions per Shopper	17	1.3135	1.0065	-0.3%	Unique Shopper Index	17	1.5157	1.5157	-0.4%
+Comp	5/27/2018	6/2/2018	2018	Average Ticket	18	122.7233	1.1845	1.9%	Spending Index	18	1.9024	1.9024	14.1%	Transactions per Shopper	18	1.4403	1.1037	8.4%	Unique Shopper Index	18	1.4552	1.4552	3.3%
+Comp	6/3/2018	6/9/2018	2018	Average Ticket	19	118.2835	1.1416	2.4%	Spending Index	19	1.5814	1.5814	0.9%	Transactions per Shopper	19	1.3339	1.0221	0.3%	Unique Shopper Index	19	1.3553	1.3553	-1.8%
+Comp	6/10/2018	6/16/2018	2018	Average Ticket	20	119.4767	1.1531	3.7%	Spending Index	20	1.5489	1.5489	0.5%	Transactions per Shopper	20	1.2886	0.9874	-1.1%	Unique Shopper Index	20	1.3603	1.3603	-2.0%
+Comp	6/17/2018	6/23/2018	2018	Average Ticket	21	116.6036	1.1254	3.4%	Spending Index	21	1.4977	1.4977	1.0%	Transactions per Shopper	21	1.2748	0.9768	-0.4%	Unique Shopper Index	21	1.3623	1.3623	-1.9%
+Comp	6/24/2018	6/30/2018	2018	Average Ticket	22	125.5877	1.2121	3.3%	Spending Index	22	1.4747	1.4747	2.5%	Transactions per Shopper	22	1.2607	0.9660	-1.5%	Unique Shopper Index	22	1.2594	1.2594	0.7%
+Comp	7/1/2018	7/7/2018	2018	Average Ticket	23	109.1389	1.0533	1.7%	Spending Index	23	1.2048	1.2048	5.0%	Transactions per Shopper	23	1.2705	0.9735	0.7%	Unique Shopper Index	23	1.1748	1.1748	2.5%
+Comp	7/8/2018	7/14/2018	2018	Average Ticket	24	127.7132	1.2326	6.0%	Spending Index	24	1.4683	1.4683	10.0%	Transactions per Shopper	24	1.3314	1.0202	3.8%	Unique Shopper Index	24	1.1676	1.1676	-0.1%
+Comp	7/15/2018	7/21/2018	2018	Average Ticket	25	143.1386	1.3815	4.8%	Spending Index	25	2.1516	2.1516	8.5%	Transactions per Shopper	25	1.4115	1.0816	2.4%	Unique Shopper Index	25	1.4398	1.4398	1.2%
+Comp	7/22/2018	7/28/2018	2018	Average Ticket	26	128.4996	1.2402	-0.4%	Spending Index	26	2.3529	2.3529	-6.0%	Transactions per Shopper	26	1.4457	1.1077	-2.9%	Unique Shopper Index	26	1.7125	1.7125	-2.8%
+Comp	7/29/2018	8/4/2018	2018	Average Ticket	27	114.4975	1.1051	-0.3%	Spending Index	27	1.7972	1.7972	-8.0%	Transactions per Shopper	27	1.4043	1.0761	-2.9%	Unique Shopper Index	27	1.5113	1.5113	-4.9%
+Comp	8/5/2018	8/11/2018	2018	Average Ticket	28	116.9441	1.1287	3.1%	Spending Index	28	1.6552	1.6552	2.2%	Transactions per Shopper	28	1.3580	1.0406	-1.2%	Unique Shopper Index	28	1.4092	1.4092	0.4%
+Comp	8/12/2018	8/18/2018	2018	Average Ticket	29	113.8254	1.0986	3.5%	Spending Index	29	1.3532	1.3532	9.2%	Transactions per Shopper	29	1.2652	0.9694	0.0%	Unique Shopper Index	29	1.2706	1.2706	5.5%
+Comp	8/19/2018	8/25/2018	2018	Average Ticket	30	132.8867	1.2825	7.8%	Spending Index	30	1.5723	1.5723	5.9%	Transactions per Shopper	30	1.2438	0.9530	-1.7%	Unique Shopper Index	30	1.2862	1.2862	-0.1%
+Comp	8/26/2018	9/1/2018	2018	Average Ticket	31	129.8393	1.2531	4.3%	Spending Index	31	1.5027	1.5027	4.6%	Transactions per Shopper	31	1.2794	0.9803	-1.1%	Unique Shopper Index	31	1.2232	1.2232	1.5%
+Comp	9/2/2018	9/8/2018	2018	Average Ticket	32	115.8605	1.1182	-3.6%	Spending Index	32	1.4238	1.4238	-5.0%	Transactions per Shopper	32	1.2815	0.9819	-2.0%	Unique Shopper Index	32	1.2966	1.2966	0.6%
+Comp	9/9/2018	9/15/2018	2018	Average Ticket	33	133.1109	1.2847	2.4%	Spending Index	33	1.5579	1.5579	4.0%	Transactions per Shopper	33	1.2845	0.9843	-0.6%	Unique Shopper Index	33	1.2320	1.2320	2.1%
+Comp	9/16/2018	9/22/2018	2018	Average Ticket	34	122.7674	1.1849	3.5%	Spending Index	34	1.3771	1.3771	-5.4%	Transactions per Shopper	34	1.2881	0.9870	-0.3%	Unique Shopper Index	34	1.1775	1.1775	-8.3%
+Comp	9/23/2018	9/29/2018	2018	Average Ticket	35	142.6417	1.3767	7.3%	Spending Index	35	1.7485	1.7485	7.8%	Transactions per Shopper	35	1.2715	0.9743	-1.5%	Unique Shopper Index	35	1.3034	1.3034	2.0%
+Comp	9/30/2018	10/6/2018	2018	Average Ticket	36	128.3632	1.2389	6.8%	Spending Index	36	1.4492	1.4492	3.8%	Transactions per Shopper	36	1.2801	0.9809	-0.8%	Unique Shopper Index	36	1.1925	1.1925	-1.9%
+Comp	10/7/2018	10/13/2018	2018	Average Ticket	37	128.9728	1.2448	5.7%	Spending Index	37	1.5344	1.5344	1.6%	Transactions per Shopper	37	1.2739	0.9761	-0.7%	Unique Shopper Index	37	1.2628	1.2628	-3.2%
+Comp	10/14/2018	10/20/2018	2018	Average Ticket	38	131.8230	1.2723	6.3%	Spending Index	38	1.5708	1.5708	4.3%	Transactions per Shopper	38	1.2739	0.9761	-0.9%	Unique Shopper Index	38	1.2647	1.2647	-1.0%
+Comp	10/21/2018	10/27/2018	2018	Average Ticket	39	141.6225	1.3669	3.9%	Spending Index	39	1.7440	1.7440	3.2%	Transactions per Shopper	39	1.2588	0.9646	-1.9%	Unique Shopper Index	39	1.3227	1.3227	1.3%
+Comp	10/28/2018	11/3/2018	2018	Average Ticket	40	132.2831	1.2767	7.2%	Spending Index	40	1.4193	1.4193	-2.1%	Transactions per Shopper	40	1.2662	0.9702	-2.2%	Unique Shopper Index	40	1.1458	1.1458	-6.6%
+Comp	11/4/2018	11/10/2018	2018	Average Ticket	41	128.5474	1.2407	2.7%	Spending Index	41	1.5878	1.5878	-12.3%	Transactions per Shopper	41	1.2805	0.9812	-2.1%	Unique Shopper Index	41	1.3043	1.3043	-12.7%
+Comp	11/11/2018	11/17/2018	2018	Average Ticket	42	130.4302	1.2588	7.3%	Spending Index	42	1.8111	1.8111	6.9%	Transactions per Shopper	42	1.2940	0.9915	-2.1%	Unique Shopper Index	42	1.4509	1.4509	1.8%
+Comp	11/18/2018	11/24/2018	2018	Average Ticket	43	125.2538	1.2089	-1.0%	Spending Index	43	2.0020	2.0020	-1.3%	Transactions per Shopper	43	1.3185	1.0103	0.3%	Unique Shopper Index	43	1.6391	1.6391	-0.6%
+Comp	11/25/2018	12/1/2018	2018	Average Ticket	44	128.0260	1.2356	9.4%	Spending Index	44	2.1912	2.1912	7.7%	Transactions per Shopper	44	1.3785	1.0563	-2.0%	Unique Shopper Index	44	1.6787	1.6787	0.5%
+Comp	12/2/2018	12/8/2018	2018	Average Ticket	45	123.4003	1.1910	2.8%	Spending Index	45	1.9216	1.9216	2.2%	Transactions per Shopper	45	1.3441	1.0299	0.7%	Unique Shopper Index	45	1.5665	1.5665	-1.2%
+Comp	12/9/2018	12/15/2018	2018	Average Ticket	46	125.5181	1.2114	0.3%	Spending Index	46	2.1917	2.1917	-4.8%	Transactions per Shopper	46	1.3396	1.0264	-0.7%	Unique Shopper Index	46	1.7625	1.7625	-4.4%
+Comp	12/16/2018	12/22/2018	2018	Average Ticket	47	120.4558	1.1626	0.6%	Spending Index	47	2.4999	2.4999	-8.5%	Transactions per Shopper	47	1.3436	1.0295	-0.6%	Unique Shopper Index	47	2.0886	2.0886	-8.5%
+Comp	12/23/2018	12/29/2018	2018	Average Ticket	48	132.4345	1.2782	5.4%	Spending Index	48	2.4104	2.4104	8.7%	Transactions per Shopper	48	1.3099	1.0038	0.1%	Unique Shopper Index	48	1.8787	1.8787	3.0%
+Comp	12/30/2018	1/5/2019	2018	Average Ticket	49	112.4904	1.0857	2.8%	Spending Index	49	1.4824	1.4824	0.7%	Transactions per Shopper	49	1.2924	0.9903	-2.1%	Unique Shopper Index	49	1.3786	1.3786	0.0%
+Comp	1/6/2019	1/12/2019	2018	Average Ticket	50	124.8752	1.2052	5.1%	Spending Index	50	1.3650	1.3650	-0.5%	Transactions per Shopper	50	1.2762	0.9779	-2.2%	Unique Shopper Index	50	1.1581	1.1581	-3.2%
+Comp	1/13/2019	1/19/2019	2018	Average Ticket	51	119.0068	1.1486	3.1%	Spending Index	51	1.2610	1.2610	-2.6%	Transactions per Shopper	51	1.2758	0.9775	-1.2%	Unique Shopper Index	51	1.1230	1.1230	-4.4%
+Comp	1/20/2019	1/26/2019	2018	Average Ticket	52	130.3307	1.2579	-3.6%	Spending Index	52	1.4457	1.4457	-5.3%	Transactions per Shopper	52	1.2582	0.9641	-0.9%	Unique Shopper Index	52	1.1920	1.1920	-1.0%
+Comp	1/27/2019	2/2/2019	2019	Average Ticket	1	128.1075	1.2364	6.1%	Spending Index	1	1.2323	1.2323	0.8%	Transactions per Shopper	1	1.2525	0.9597	-2.1%	Unique Shopper Index	1	1.0384	1.0384	-3.0%
+Comp	2/3/2019	2/9/2019	2019	Average Ticket	2	123.1952	1.1890	3.2%	Spending Index	2	1.2120	1.2120	-3.7%	Transactions per Shopper	2	1.2597	0.9653	-1.8%	Unique Shopper Index	2	1.0559	1.0559	-5.1%
+Comp	2/10/2019	2/16/2019	2019	Average Ticket	3	122.5395	1.1827	-0.1%	Spending Index	3	1.3307	1.3307	-5.7%	Transactions per Shopper	3	1.2672	0.9710	-1.1%	Unique Shopper Index	3	1.1588	1.1588	-4.5%
+Comp	2/17/2019	2/23/2019	2019	Average Ticket	4	117.2986	1.1321	1.9%	Spending Index	4	1.3346	1.3346	-8.8%	Transactions per Shopper	4	1.2684	0.9719	-0.9%	Unique Shopper Index	4	1.2129	1.2129	-9.7%
+Comp	2/24/2019	3/2/2019	2019	Average Ticket	5	132.7224	1.2810	2.9%	Spending Index	5	1.4456	1.4456	-5.3%	Transactions per Shopper	5	1.2645	0.9689	-2.1%	Unique Shopper Index	5	1.1646	1.1646	-5.9%
+Comp	3/3/2019	3/9/2019	2019	Average Ticket	6	123.2450	1.1895	4.0%	Spending Index	6	1.3303	1.3303	-4.8%	Transactions per Shopper	6	1.2803	0.9810	-0.5%	Unique Shopper Index	6	1.1399	1.1399	-7.9%
+Comp	3/10/2019	3/16/2019	2019	Average Ticket	7	120.1964	1.1601	-1.7%	Spending Index	7	1.3779	1.3779	-7.0%	Transactions per Shopper	7	1.2923	0.9902	0.5%	Unique Shopper Index	7	1.1994	1.1994	-5.8%
+Comp	3/17/2019	3/23/2019	2019	Average Ticket	8	124.6208	1.2028	3.2%	Spending Index	8	1.4553	1.4553	-5.2%	Transactions per Shopper	8	1.2730	0.9755	-1.0%	Unique Shopper Index	8	1.2404	1.2404	-7.2%
+Comp	3/24/2019	3/30/2019	2019	Average Ticket	9	132.4308	1.2781	4.0%	Spending Index	9	1.5520	1.5520	-9.8%	Transactions per Shopper	9	1.2632	0.9679	-3.1%	Unique Shopper Index	9	1.2544	1.2544	-10.5%
+Comp	3/31/2019	4/6/2019	2019	Average Ticket	10	121.3744	1.1714	3.0%	Spending Index	10	1.3418	1.3418	0.5%	Transactions per Shopper	10	1.2807	0.9813	-0.4%	Unique Shopper Index	10	1.1672	1.1672	-2.0%
+Comp	4/7/2019	4/13/2019	2019	Average Ticket	11	126.0566	1.2166	1.3%	Spending Index	11	1.4914	1.4914	-3.8%	Transactions per Shopper	11	1.2820	0.9823	-0.2%	Unique Shopper Index	11	1.2479	1.2479	-4.9%
+Comp	4/14/2019	4/20/2019	2019	Average Ticket	12	122.0732	1.1782	0.0%	Spending Index	12	1.4737	1.4737	-4.2%	Transactions per Shopper	12	1.2978	0.9945	1.3%	Unique Shopper Index	12	1.2577	1.2577	-5.4%
+Comp	4/21/2019	4/27/2019	2019	Average Ticket	13	131.8241	1.2723	-1.1%	Spending Index	13	1.5176	1.5176	-11.8%	Transactions per Shopper	13	1.2589	0.9647	-0.7%	Unique Shopper Index	13	1.2365	1.2365	-10.2%
+Comp	4/28/2019	5/4/2019	2019	Average Ticket	14	134.7451	1.3005	12.3%	Spending Index	14	1.5337	1.5337	2.0%	Transactions per Shopper	14	1.2570	0.9632	-2.4%	Unique Shopper Index	14	1.2243	1.2243	-6.9%
