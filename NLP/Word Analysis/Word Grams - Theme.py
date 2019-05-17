@@ -117,6 +117,12 @@ freq_map_df = freq_map_df.iloc[1:,:]
 freq_map_df.columns = [string_df['Theme']]         
 freq_map_df.index = [string_df['Theme']]
 
+# remove co-variance
+sim_map = sim_map_df.values
+sim_map[np.where(sim_map==np.max(sim_map))] = 0
+sim_map= np.array(sim_map)
+sim_map_df = pd.DataFrame(sim_map, columns=sim_map_df.columns, index=sim_map_df.index)
+
 # graph of themes
 sns.set(rc={'figure.figsize':(14,6)})
 g = sns.barplot(x="Theme", y="Freq", data=string_df)
@@ -132,4 +138,16 @@ sht = wb.sheets[1]
 sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
 sht.range('A1').value = freq_map_df
 
-   
+# build max relvance engine
+sim_map_df = sim_map_df.reset_index()
+cols = list(sim_map_df.columns)
+indx = int(sim_map_df[[cols[2]]].idxmax().values)
+theme = sim_map_df['Theme'].iloc[indx:indx+1,:]
+print (theme)
+
+
+
+
+
+
+
