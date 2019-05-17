@@ -44,14 +44,14 @@ inputDF = pd.ExcelFile("News_dataset.xlsx")
 tabnames = inputDF.sheet_names
 news = inputDF.parse(tabnames[0])
 
-# Word tokenize
-nlp = spacy.load('en_core_web_sm')
+# word tokenize
+nlp = spacy.load('en_core_web_lg')
 news_df = clean_text(news.iloc[0:400,:], nlp)
 corpus = news_df['Headline']
 
 stop_words = ["say","is", "to", "result", "large", "also", "iv", "one", "two", "new", "previously", "shown"]
 
-# Vectorize the words 
+# vectorize the words 
 cv = CountVectorizer(max_df=0.8,stop_words=stop_words, max_features=10000, ngram_range=(1,3))
 X = cv.fit_transform(corpus)
 
@@ -129,31 +129,37 @@ sns.set(rc={'figure.figsize':(14,6)})
 g = sns.barplot(x="Theme", y="Freq", data=string_df)
 g.set_xticklabels(g.get_xticklabels(), rotation=80)
 
-# open output excel
-wb = xw.Book('Output.xlsx')
-sht = wb.sheets[0]
-sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
-sht.range('A1').value = sim_map_df
+## open output excel
+#wb = xw.Book('Output.xlsx')
+#sht = wb.sheets[0]
+#sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
+#sht.range('A1').value = sim_map_df
+#
+#sht = wb.sheets[1]
+#sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
+#sht.range('A1').value = freq_map_df
+"""Send below to output"""
 
-sht = wb.sheets[1]
-sht.range('A1').value = pd.DataFrame(index=np.full(1000, np.nan), columns=np.full(30, np.nan))
-sht.range('A1').value = freq_map_df
-
-# build max relvance engine
+# build max relevance engine
 sim_map_df = sim_map_df.reset_index()
+freq_map_df = freq_map_df.reset_index()
 key_thm_df = pd.DataFrame()
+key_freq_df = pd.DataFrame()
 cols = list(sim_map_df.columns)
 
-#for it in range(1,sim_map_df.shape[1]):
-#    indx = int(sim_map_df[[cols[it]]].idxmax().values)
-#    key_thm_df = key_thm_df.append([sim_map_df['Theme'].iloc[indx:indx+1,:]])
-#
-#indx = sim_map_df.nlargest(3,[cols[3]])['Theme']
-
+n = 3
 for it in range(1,sim_map_df.shape[1]):
-    themes = sim_map_df.nlargest(3,[cols[it]])['Theme']
-    key_thm_df = key_thm_df.append([themes.T])
+    themes = sim_map_df.nlargest(3,[cols[it]])['Theme'].reset_index(drop=True)
+    freq = string_df.set_index('Theme').loc[themes,['Freq']].T
+    key_thm_df = key_thm_df.append([themes])
+    freq.columns = [0,1,2]
+    key_freq_df = key_freq_df.append([freq], ignore_index = True)
+    
+key_thm_df.index = sim_map_df['Theme']
+key_thm_df = key_thm_df.reset_index()
 
+key_freq_df.index = string_df['Freq']
+key_freq_df = key_freq_df.reset_index()
 
 
 
