@@ -1,0 +1,75 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+import plotly.plotly as py
+import plotly 
+from plotly.offline import plot, iplot, init_notebook_mode
+import plotly.graph_objs as go
+from datetime import datetime
+import plotly.tools as tls
+
+#load the data
+data=pd.read_excel(r"X:\Training & Support\Quants Tech\Machine Learning\Project\NLP\Word Relevance\Lira News\Lira_Relevance.xlsx",sheet_name='Relevance')
+exchange=pd.read_excel(r"X:\Training & Support\Quants Tech\Machine Learning\Project\NLP\Word Relevance\Lira News\Lira_Relevance.xlsx",sheet_name='TRYUSD')
+
+#the cutoff for relevance
+cutoff=data[data['Lira']>0.5]
+
+#puts the common headlines by data       
+grouped=(cutoff.groupby('Date')['Theme'].apply('<br />'.join).reset_index())
+
+#merging the grouped and the exchange rate data into one dataframe
+merged=pd.merge(exchange,grouped,on='Date')
+
+merged=merged.rename(columns={'USD/TRY':'Rate'})
+
+#putting the text together
+for col in merged.columns:
+    merged[col] = merged[col].astype(str)
+
+merged['text'] = 'USD/TRY ' + merged['Rate'] + '<br>'+merged['Theme']
+
+#plotly plot
+init_notebook_mode(connected=True)
+
+trace = go.Scatter(
+    x = merged.Date,
+    y = merged.Rate,
+    text = merged.text ,
+    mode = 'lines+markers',
+    hoverinfo='text',
+    line = dict(
+        color = ('rgb(0, 0, 0)'),
+        width = 2)
+   
+)
+
+layout = go.Layout(
+        title='News Flow Relevance',
+        xaxis=dict(
+            title='Date',
+            titlefont=dict(
+                family='Arial',
+                size=18,
+                color='#000000'
+            )
+        ),
+        yaxis=dict(
+            title='Rate USD/TRY',
+            titlefont=dict(
+                family='Arial',
+                size=18,
+                color='#000000'
+                
+    )
+               
+                
+            )
+        )
+    
+
+data = [trace]
+
+fig = go.Figure(data=data,layout=layout)
+
+plot=plotly.offline.iplot(fig, filename='News_Flow.html')
