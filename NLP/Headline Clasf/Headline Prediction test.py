@@ -6,7 +6,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import BernoulliNB
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
-#from imblearn.under_sampling import RandomUnderSampler
 import warnings
 import xlwings as xw
 
@@ -14,15 +13,11 @@ warnings.filterwarnings("ignore")
 seed = 100
 
 def clean_text(df, nlp):
-    """
-    Tokenize, make lower case, remove Stop words, punctuation, digit, lemmatize
-    """
+    
     for i in range(df.shape[0]):
         doc = nlp(df['Headline'][i])
         #token = [w.text for w in doc]
         
-        # Make Lower case
-        # Remove Stop word, punctuation, digit and lemmatize
         text = [w.lemma_.lower().strip() for w in doc 
                if not (w.is_punct | w.is_digit) # w.is_stop
                ]
@@ -46,9 +41,17 @@ news = inputDF.parse(tabnames[0])
 
 ## Word tokenize
 nlp = spacy.load('en_core_web_lg')
-
-news_df = clean_text(news.iloc[0:1000,:], nlp)
+news_df = clean_text(news.iloc[0:,:], nlp)
 news_df = news_df.drop_duplicates(subset='Headline', keep ='first').reset_index(drop=True)   # drop duplicates
+
+# perform random undersampling
+df_relv_0 = news_df[news_df['Relevance'] == 0]
+df_relv_1 = news_df[news_df['Relevance'] == 1]
+df_relv_0_undsamp = df_relv_0.sample(int(df_relv_1.shape[0]*1.5),random_state=1)
+
+news_df = pd.concat([df_relv_0_undsamp,df_relv_1], axis=0, ignore_index=True)
+
+# create similarity
 string_df = pd.DataFrame(news_df['Headline'])
 string_df.columns = ['Theme']
 
@@ -61,7 +64,7 @@ for i in range(1,len(theme_words)):
 
 sns.countplot(news_df['Relevance']) 
 
-tf = TfidfVectorizer(analyzer='word',ngram_range=(1,3),max_features=50)
+tf = TfidfVectorizer(analyzer='word',ngram_range=(1,3),max_features=100)
 X = tf.fit_transform(news_df['Headline'])
 
 # convert to array
