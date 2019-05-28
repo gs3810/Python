@@ -4,8 +4,9 @@ import seaborn as sns
 import spacy
 from sklearn.feature_extraction.text import CountVectorizer
 from PyPDF2 import PdfFileReader
-import warnings
 import xlwings as xw
+import os  
+import warnings
 warnings.filterwarnings("ignore")
 
 def clean_text(df, nlp):
@@ -89,10 +90,15 @@ sht = wb.sheets[0]
 theme_headers = sht.range('A2:A4').value
 theme_words = sht.range('B2:B4').value
 theme_thresh = sht.range('C2:C4').value
+path = sht.range('B9').value
 start_pg = int(sht.range('B10').value)
+end_pg = int(sht.range('B11').value)
 
-path = 'JPMorgan on Tesla 2010.pdf'
-full_txt = text_extractor(path, start_pg=start_pg)
+full_txt = text_extractor(path+'.pdf', start_pg=start_pg)
+
+# remove spaces/new line
+full_txt_list = [w.strip('\n') for w in full_txt]
+full_txt = ''.join(full_txt_list)
 
 # word tokenize
 nlp = spacy.load('en_core_web_lg')
@@ -105,7 +111,7 @@ sentences = clean_sentences(doc_sen)
 sentences_line = list()
 for word in sentences:
     data_list = [w.strip('\n') for w in word]
-    sentences_line .append(''.join(data_list))
+    sentences_line.append(''.join(data_list))
 orig_sentdf = pd.DataFrame(sentences_line, columns=['Theme'])
 
 # cleaning sentence
@@ -127,4 +133,6 @@ for th in range (len(theme_headers)):
     out_df = relv_df[['Sentence',theme_headers[th]]]
     sht.range('A1').value = out_df.loc[out_df[theme_headers[th]]>theme_thresh[th]]
 
-
+wb.save('Summary.xlsx')
+wb.close()
+os.rename('Summary.xlsx',path+'.xlsx') 
