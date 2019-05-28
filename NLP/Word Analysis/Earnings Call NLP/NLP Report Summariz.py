@@ -1,11 +1,9 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import spacy
-from sklearn.feature_extraction.text import CountVectorizer
 from PyPDF2 import PdfFileReader
 import xlwings as xw
-import os  
+import shutil
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -87,9 +85,9 @@ def sortby_intrelv(sort_df, col_no, thresh=0.6):
 # open control excel
 wb = xw.Book('Control.xlsx')
 sht = wb.sheets[0]
-theme_headers = sht.range('A2:A4').value
-theme_words = sht.range('B2:B4').value
-theme_thresh = sht.range('C2:C4').value
+theme_headers = list(filter(None.__ne__,sht.range('A2:A7').value))   # remove nonteypes
+theme_words = list(filter(None.__ne__,sht.range('B2:B7').value)) 
+theme_thresh = list(filter(None.__ne__,sht.range('C2:C7').value))
 path = sht.range('B9').value
 start_pg = int(sht.range('B10').value)
 end_pg = int(sht.range('B11').value)
@@ -125,14 +123,14 @@ for i in range(1,len(theme_words)):
 orig_sentdf.columns = ['Sentence']
 relv_df = pd.concat([orig_sentdf,relv_df], axis=1).drop(['Theme'], axis=1)  
 
-# open output excel
-wb = xw.Book('Summary.xlsx')
+# open template output excel
+wb = xw.Book('Template/Summary.xlsx')
 for th in range (len(theme_headers)):
     sht = wb.sheets[th]
     sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(20, np.nan))
     out_df = relv_df[['Sentence',theme_headers[th]]]
     sht.range('A1').value = out_df.loc[out_df[theme_headers[th]]>theme_thresh[th]]
 
-wb.save('Summary.xlsx')
+wb.save('Template/Summary.xlsx')
 wb.close()
-os.rename('Summary.xlsx',path+'.xlsx') 
+shutil.copy('Template/Summary.xlsx', path+'.xlsx')
