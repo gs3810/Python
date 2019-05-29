@@ -124,13 +124,36 @@ orig_sentdf.columns = ['Sentence']
 relv_df = pd.concat([orig_sentdf,relv_df], axis=1).drop(['Theme'], axis=1)  
 
 # open template output excel
-wb = xw.Book('Template/Summary.xlsx')
+wb = xw.Book('Template/Summary.xlsm')
 for th in range (len(theme_headers)):
     sht = wb.sheets[th]
-    sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(20, np.nan))
+    sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(3, np.nan))
     out_df = relv_df[['Sentence',theme_headers[th]]]
     sht.range('A1').value = out_df.loc[out_df[theme_headers[th]]>theme_thresh[th]]
 
-wb.save('Template/Summary.xlsx')
+wb.save('Template/Summary.xlsm')
 wb.close()
-shutil.copy('Template/Summary.xlsx', path+'.xlsx')
+shutil.copy('Template/Summary.xlsm', path+'.xlsm')
+
+"""
+# Proximity search
+prox_df = out_df[out_df[theme_headers[3]]>0.8]  # retrieve the index
+
+thres = 0.8
+num_list = list()
+for i in range(1,10):
+    
+    if out_df[out_df[theme_headers[3]]>thres].index[i] != out_df[out_df[theme_headers[3]]>thres].index[i-1]+1:
+        num_list.append(out_df[out_df[theme_headers[3]]>thres].index[i]-1)
+    
+    num_list.append(out_df[out_df[theme_headers[3]]>thres].index[i])
+
+"""
+
+
+
+
+
+
+
+
