@@ -38,6 +38,26 @@ def text_extractor(path, start_pg=1):
             text = text +''+ page.extractText()
         return text
 
+def proximity_search(out_df, thres, theme_headers):
+    prox_df_orig = out_df[out_df[theme_headers]>thres]  # retrieve the index
+    num_list = list()
+    for i in range(0,prox_df_orig.shape[0]):
+        
+        try:
+            if out_df[out_df[theme_headers]>thres].index[i] != out_df[out_df[theme_headers]>thres].index[i-1]+1:
+                num_list.append(out_df[out_df[theme_headers]>thres].index[i]-1)
+        except:
+            pass
+                
+        num_list.append(out_df[out_df[theme_headers]>thres].index[i])
+    
+        try:
+            if out_df[out_df[theme_headers]>thres].index[i+1] != out_df[out_df[theme_headers]>thres].index[i]+1:
+                num_list.append(out_df[out_df[theme_headers]>thres].index[i]+1)
+        except:
+            pass
+            
+    return out_df.iloc[num_list,:]
 
 def clean_sentences(doc_sen):
     sentences = list()
@@ -135,25 +155,6 @@ wb.save('Template/Summary.xlsm')
 wb.close()
 shutil.copy('Template/Summary.xlsm', path+'.xlsm')
 
-"""
-# Proximity search
-prox_df = out_df[out_df[theme_headers[3]]>0.8]  # retrieve the index
-
-thres = 0.8
-num_list = list()
-for i in range(1,10):
-    
-    if out_df[out_df[theme_headers[3]]>thres].index[i] != out_df[out_df[theme_headers[3]]>thres].index[i-1]+1:
-        num_list.append(out_df[out_df[theme_headers[3]]>thres].index[i]-1)
-    
-    num_list.append(out_df[out_df[theme_headers[3]]>thres].index[i])
-
-"""
-
-
-
-
-
-
-
+# proximity search
+proxy_df = proximity_search(relv_df[['Sentence',theme_headers[2]]], 0.6, theme_headers[2])
 
