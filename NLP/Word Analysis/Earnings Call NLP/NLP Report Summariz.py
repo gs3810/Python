@@ -111,6 +111,7 @@ theme_thresh = list(filter(None.__ne__,sht.range('C2:C7').value))
 path = sht.range('B9').value
 start_pg = int(sht.range('B10').value)
 end_pg = int(sht.range('B11').value)
+proxi_sear = sht.range('B13').value
 
 full_txt = text_extractor(path+'.pdf', start_pg=start_pg)
 
@@ -143,18 +144,27 @@ for i in range(1,len(theme_words)):
 orig_sentdf.columns = ['Sentence']
 relv_df = pd.concat([orig_sentdf,relv_df], axis=1).drop(['Theme'], axis=1)  
 
-# open template output excel
-wb = xw.Book('Template/Summary.xlsm')
-for th in range (len(theme_headers)):
-    sht = wb.sheets[th]
-    sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(3, np.nan))
-    out_df = relv_df[['Sentence',theme_headers[th]]]
-    sht.range('A1').value = out_df.loc[out_df[theme_headers[th]]>theme_thresh[th]]
+if proxi_sear =='Enabled':
+    wb = xw.Book('Template/Summary.xlsm')
+    for th in range (len(theme_headers)):
+        sht = wb.sheets[th]
+        sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(3, np.nan))
+        sht.range('A1').value = proximity_search(relv_df[['Sentence',theme_headers[th]]], 0.6, theme_headers[th])
+    
+    wb.save('Template/Summary.xlsm')
+    wb.close()
+    shutil.copy('Template/Summary.xlsm', path+'.xlsm')    
 
-wb.save('Template/Summary.xlsm')
-wb.close()
-shutil.copy('Template/Summary.xlsm', path+'.xlsm')
+else: 
+    wb = xw.Book('Template/Summary.xlsm')
+    for th in range (len(theme_headers)):
+        sht = wb.sheets[th]
+        sht.range('A1').value = pd.DataFrame(index=np.full(2000, np.nan), columns=np.full(3, np.nan))
+        out_df = relv_df[['Sentence',theme_headers[th]]]
+        sht.range('A1').value = out_df.loc[out_df[theme_headers[th]]>theme_thresh[th]]
+    
+    wb.save('Template/Summary.xlsm')
+    wb.close()
+    shutil.copy('Template/Summary.xlsm', path+'.xlsm')
 
-# proximity search
-proxy_df = proximity_search(relv_df[['Sentence',theme_headers[2]]], 0.6, theme_headers[2])
 
