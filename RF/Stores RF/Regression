@@ -1,0 +1,96 @@
+import pandas as pd
+import numpy as np
+import scipy as sp
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import Ridge,LinearRegression
+from sklearn.preprocessing import MinMaxScaler, scale
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestRegressor,GradientBoostingRegressor
+from sklearn.datasets import make_regression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
+import matplotlib.pyplot as plt
+
+inputDF = pd.ExcelFile("Kohls_Data.xlsx")
+tabnames = inputDF.sheet_names
+data = inputDF.parse(tabnames[1])
+lag=52
+rev_grwth = data['Rev_grwth']
+trsc_grwth = data['Transactions'].pct_change(lag)        # 52 week growth
+spend_grwth = data['Spending'].pct_change(lag)
+tckt_grwth = data['Ticket'].pct_change(lag)
+uniq_grwth = data['Unique'].pct_change(lag)
+uniq_grwth_roll=uniq_grwth.rolling(10).mean()
+
+data = data.dropna()
+
+plt.plot(rev_grwth)
+#plt.plot(spend_grwth)
+#plt.plot(trsc_grwth)
+plt.plot(uniq_grwth_roll)
+plt.show()
+
+## normalize if necessary 
+#scaler = MinMaxScaler(feature_range=(0, 1))
+#scaled = scaler.fit_transform(data)
+#scaled_df = pd.DataFrame(scaled, columns=data.columns)
+
+# apply n_lag
+week_lag = 4 
+rev_grwth_lag = rev_grwth.shift(-week_lag)
+
+data_df = pd.concat([rev_grwth_lag, rev_grwth, uniq_grwth_roll, spend_grwth, trsc_grwth, tckt_grwth], axis=1).dropna()
+y = data_df.iloc[:,0:2]
+
+# Split the data into training and testing sets
+X_train, X_test, y_train_full, y_test_full = train_test_split(data_df.iloc[:,2:], y, test_size = 0.35, shuffle=False)
+
+y_train, y_test = y_train_full.iloc[:,0:1], y_test_full.iloc[:,0:1]
+y_train_actual, y_test_actual  = y_train_full.iloc[:,1:2], y_test_full.iloc[:,1:2]
+
+# train model
+rf = GradientBoostingRegressor(n_estimators=200,max_features=2)
+rf.fit(X_train, y_train)
+
+lr =LinearRegression()
+lr.fit(X_train, y_train)
+y_pred_lr = lr.predict(X_test)
+#get the R2 score for the model
+#print('R^2 Training Score: {:.2f} \nOOB Score: {:.2f} \nR^2 Validation Score: {:.2f}'.format(rf.score(X_train, y_train), rf.oob_score_,rf.score(X_test, y_test)))
+print('Score:',lr.score(X_test,y_test))
+
+# predict plots
+fig = plt.figure()
+y_pred = rf.predict(X_test)
+plt.plot(y_pred_lr)
+plt.plot(y_test_actual.values)
+plt.show()
+
+# train plots
+y_pred_train = rf.predict(X_train)
+plt.plot(y_pred_train)
+plt.plot(y_train.values)
+plt.show()
+
+
+"""
+
+# Calculate the absolute errors
+errors = abs(predictions - test_labels)
+# Print out the mean absolute error (mae)
+print('Mean Absolute Error:', round(np.mean(errors), 2))
+
+print('Score:',rf.score(test_features,test_labels))
+
+print('R^2 Training Score: {:.2f} \nOOB Score: {:.2f} \nR^2 Validation Score: {:.2f}'.format(rf.score(train_features, train_labels), rf.oob_score_,rf.score(test_features, test_labels)))
+
+## Get numerical feature importances
+importances = list(rf.feature_importances_)
+## List of tuples with variable and importance
+feature_importances = [(feature, round(importance, 2)) for feature, importance in zip(feature_list, importances)]
+## Sort the feature importances by most important first
+feature_importances = sorted(feature_importances, key = lambda x: x[1], reverse = True)
+## Print out the feature and importances 
+[print('Variable: {:20} Importance: {}'.format(*pair)) for pair in feature_importances]
+
+"""
