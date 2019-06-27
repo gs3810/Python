@@ -4,7 +4,6 @@ Date	Code	Headline	Relevance
 3-Apr	GO1	Rep. Engel: Readout of Meeting with Turkish Foreign Minister	0
 3-Apr	DPA	EXTRA Turkey tells US to choose if to remain allies with Ankara	0
 3-Apr	NYT	Erdogan Opponents Vow Rare Scrutiny of Istanbul’s Books	1
-3-Apr	NYT	Erdogan Opponents Vow Rare Chance to Scrutinize Istanbul’s Books	0
 3-Apr	ANS	ANSA/ Turchia: Imamoglu all'attacco,Erdogan mi riconosca sindaco	0
 3-Apr	APW	Istanbul Mayoral Candidate Asks to Be Confirmed as Winner	1
 3-Apr	ANS	Turchia: riconteggio schede amministrative anche ad Ankara	0
@@ -349,7 +348,6 @@ Date	Code	Headline	Relevance
 10-Apr	BES	CNBC Wires: Brazil pension savings of 700 bln reais would not be enough -Treasury Secretary	1
 10-Apr	BFW	Brazil’s Marinho Says Govt Expects No Less Than BRL1t W/ Reform	1
 10-Apr	BFW	*BRAZIL GOVT SENATOR SAYS PENSION BILL TO PASS BY MID-SEPTEMBER	1
-10-Apr	BFW	*BRAZIL GOVT LEADER IN SENATE SAYS POLITICAL MOOD HAS IMPROVED	0
 10-Apr	GO7	President Macri received the chancellor of Brazil	0
 10-Apr	APW	Red-stained Brazil Flags At Burial of Man Shot By Military	0
 10-Apr	BFW	Real Extends Gains as Guedes Hits New York	0
@@ -430,7 +428,6 @@ Date	Code	Headline	Relevance
 11-Apr	BMV	Issuance of Certificados Bursátiles	0
 11-Apr	PRN	Banco Santander Mexico Will Report 1Q19 Results Before Market Open On April 30th, 2019	1
 11-Apr	BFW	Mexican Lower House Passes Labor Overhaul Bill in General Terms	1
-11-Apr	GO7	SIL: 15: 57: 37 The secretariat read the Sen reserves. Jorge Carlos Ramírez Marín (PRI) to articles 6, 10 and 11	0
 11-Apr	NTX	Mexico-Toluca train, example of corruption and poor planning: Urzúa	0
 14-Apr	GO6	Radio Pakistan: Russia lauds Turkish position in response to US pressure: Kremlin	0
 14-Apr	NYT	Istanbul Dispatch: Arab Exiles Sound Off Freely in Istanbul Even as Turkey Muffles Its Own Critics	0
@@ -575,7 +572,6 @@ Date	Code	Headline	Relevance
 15-Apr	ERO	Economy / Labor.- The unemployment shoots to 14,7% in Turkey and marks maximums of a decade	1
 15-Apr	HUR	Turkish budget posts $ 6.5 billion deficit in first quarter	1
 15-Apr	HUR	Head of Turkey-US Business Council: It is time to talk business	0
-15-Apr	HUR	Turkish budget posts $ 6.5 billion deficit in first quarter	0
 15-Apr	HUR	Head of Turkey-US Business Council: It is time to talk business	0
 15-Apr	HUR	Turkey's trade with Middle East surpasses $ 40 billion	1
 15-Apr	HUR	Turkey's finance minister holds talks with international investors in US	0
@@ -1916,7 +1912,6 @@ Date	Code	Headline	Relevance
 17-May	BN	Turkey Protests U.S. After Trump Ends Key Trade Preferences	1
 17-May	NYT	Risk to Turkey’s Economy Deepens With New Istanbul Election	1
 17-May	BN	Turkey Economy Bill Doesn't Allow Treasury to Tap Reserves	1
-17-May	BN	*NEW TURKEY BILL DOESN'T ALLOW CENBANK RESERVE BOOST TO TREASURY	0
 17-May	BN	*TURKEY RULING PARTY AKP SENDS ECONOMY BILL TO PARLIAMENT	0
 17-May	BFW	*NEW TURKEY BILL DOESN'T ALLOW CENBANK RESERVE BOOST TO TREASURY	0
 17-May	BFW	Aselsan Gets 450m Liras Order From Turkish Govt	0
@@ -1937,7 +1932,6 @@ Date	Code	Headline	Relevance
 17-May	BFW	*BRAZIL SPEAKER: WE MUST PASS SANITATION BILL	0
 17-May	BFW	Brazil's Guedes Says He's Not Worried About GDP Estimates Cut	1
 17-May	BN	*BRAZIL HOUSE SPEAKER SEES PENSION BILL VOTE IN JUNE, EARLY JULY	1
-17-May	BN	On ‘Joesley Day,’ JBS Is Stronger But Brazil Still Hurts (1)	0
 17-May	BN	*BRAZIL'S GUEDES SAYS HE'S NOT CONCERNED ABOUT '19 GDP EST. CUT	0
 17-May	BNA	Brazil Tax Agency Updates Digital Accounting Bookkeeping Program	0
 17-May	BN	*BRAZIL'S GUEDES: PENSION REFORM TO SOLVE FISCAL, GROWTH ISSUES	1
@@ -1952,7 +1946,6 @@ Date	Code	Headline	Relevance
 18-May	FTI	Big Apple sours for Brazil's leader in need of investment friends	0
 18-May	BN	Globalia Plans New Airline in Brazil: Infrastructure Minister	0
 18-May	BN	Brazil’s Bolsonaro Seeks to Nix Petrobras Contract With McLaren	0
-18-May	BN	Brazil Fixer-in-Chief Heads to China to Mend Partnership (1)	0
 18-May	BN	Brazil Fixer-in-Chief Heads to China to Mend Relations (Correct)	0
 18-May	BES	Congress takes charge of reform proposals	1
 18-May	BES	Core articulates to reduce executive powers	0
