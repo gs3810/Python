@@ -2020,3 +2020,142 @@ Date	Code	Headline	Relevance
 20-May	BFW	*BRAZIL PENSION RAPPORTEUR SAYS HE BASES WORK ON GOVT'S PROPOSAL	0
 21-May	NTX	Bolsonaro dice que sin reforma a jubilaciones faltarán salarios en 2024	1
 21-May	BN	*PETROBRAS SAYS HASN'T RECEIVED GOVT ORDER TO REVISE FUEL POLICY	1
+22-May	BFW	*OFFICIAL: TURKEY STOPPED IRAN OIL IMPORTS AFTER END OF WAIVERS	1
+22-May	BFW	*TURKEY HAS HALTED ALL IMPORTS OF IRANIAN OIL: TURKISH OFFICIAL	0
+22-May	CTX	Turkey sends military personnel to Russia for S-400 training	0
+22-May	BN	U.S. Missile Offer Still in Play as Turkey Stands by Russia (1)	0
+22-May	BGT	House Foreign Affairs Committee hearing Searching for Solutions in Syria: The Trump Administration's Strategy, 2nd Add	0
+22-May	BFW	Turkey Election Board Publishes Details of Its Istanbul Ruling	1
+22-May	BN	*TURKEY ELECTION BOARD PUBLISHES DETAILS OF ITS ISTANBUL RULING	0
+22-May	ANS	ANSA/ Ultimatum Usa, verso sanzioni alla Turchia per i missili	1
+22-May	ILS	Banche: per Eba ok quadro supervisione Turchia e Nuova Zelanda	1
+22-May	APW	Cyprus Editor Hails Acquittal Over Turkey Insult Charge	1
+22-May	BFW	Turkey's CHP Asks If Govt Demanded Banks to Buy Debt in Auctions	1
+22-May	DPA	UPDATE PKK leader Ocalan allowed to meet lawyers after Turkey lifts ban	0
+22-May	DPA	PKK leader Ocalan allowed to meet lawyers after Turkey lifts ban	0
+22-May	BN	*TURKEY'S OPPOSITION CHP SUBMITS QUESTIONS TO TREASURY MINISTRY	0
+22-May	BN	*CHP ASKS WHETHER GOVT REQUESTED BANKS TO BUY BONDS IN AUCTIONS	0
+22-May	CTX	Turkey's main opposition launches campaign for new Istanbul	1
+22-May	BN	Turkey's Net Foreign Exchange Reserves Fell To October Lows (1)	1
+23-May	CTX	Brazil slashes 2019 GDP growth forecast to 1.6 pct	1
+23-May	CTX	Brazilian gov't issues new decree to restrict rifle use	0
+23-May	BES	TRANSLATION: UOL Brazil: Board approves reduction of ministries, but draws Coaf de Moro	0
+23-May	NTX	Gobierno brasileño descongela parte del presupuesto para Educación	1
+22-May	BFW	Brazil House Approves Govt. Administrative Reform Base Text	0
+22-May	ERO	Economía.- Brasil autoriza a Air Europa a operar vuelos domésticos en el país	0
+22-May	BFW	Brazil Senate Approves Measure on Airline Foreign Capital	0
+22-May	BFW	*BRAZIL HOUSE APPROVES GOVT. ADMINISTRATIVE REFORM BASE TEXT	0
+22-May	BFW	*BRAZIL SENATE APPROVES PROV. MEASURE ON AIRLINE FOREIGN CAPITAL	0
+22-May	BFW	Brazil's Anac Approves Air Europa Concession	0
+22-May	FEX	Will the Brazilian Grand Prix move to Rio from 2021 after	0
+22-May	BN	*VIASAT, TELEBRAS PACT APPROVED BY BRAZILIAN FEDERAL COURT	0
+22-May	PRN	Viasat and Telebras Announce Contract Approval by the Brazilian Federal Court of Accounts	0
+22-May	BFW	Brazil Govt in Talks W/Congress for ToR Payment: Secretary	1
+22-May	BFW	Brazil to Announce Initiative on Credit, Capital Markets June 3	0
+22-May	BFW	*BRAZIL GOVT IN TALKS W/CONGRESS FOR PETROBRAS TOR PAY: SEC.	0
+22-May	BFW	Brazil Lower House Committee Approves Tax Reform Proposal	1
+22-May	BFW	Brazil Mulls Tax Base Change in Bid to Boost Collection: Cintra	1
+22-May	BLW	Brazil Clarifies Social Tax Rules for Rewards to Employees	0
+22-May	BFW	*BRAZIL GOVT WORKING ON PLAN TO BOOST TAX COLLECTION: CINTRA	0
+23-May	GO1	Sen. Shaheen: Shaheen, Tillis, Lankford & Van Hollen Announce Bipartisan Effort to Prohibit Transfer of F-35 Aircraft to Turkey	0
+23-May	BFW	IMF Urges Turkey to Take Steps to `Secure Economic Stability’	1
+23-May	ANS	Fmi:monitoriamo Turchia, nessuna indicazione richiesta aiuto	1
+23-May	BN	*IMF URGES TURKEY TO TAKE STEPS TO `SECURE ECONOMIC STABILITY’	0
+23-May	BFW	Pentagon Would Be Cleared to Buy 94 F-35s Under Senate NDAA Bill	0
+23-May	BFW	*NEW ISTANBUL AIRPORT OWNERS SAID TO HIRE LAZARD FOR STAKE SALE	0
+23-May	BN	Developed Economies 2Q CPI Forecast Steady; Sweden Up to 2.2%	0
+23-May	ANS	Iran: Turchia blocca import petrolio per rispetto sanzioni	1
+23-May	BN	Top Turkish Electoral Judges Split Over Istanbul Vote Rerun Call	1
+23-May	BN	Foreigners Sold $208 Million Turkish Securities Last Week	1
+23-May	BN	Turkey Gross Foreign Exchange Reserves Fell to $71.7 Billion	1
+23-May	BN	Turkish Residents’ FX Deposits Rose $1.0 Billion Last Week	1
+23-May	BN	*TURKEY CENBANK GROSS FX RESERVES $71.7B IN WEEK TO MAY 17	0
+23-May	BFW	Turkish State Lenders Sold USD/TRY at Around 6.15 (1)	1
+23-May	GO6	Radio Pakistan: Turkish Govt established int’l standard educational institutions in AJK: Masood	0
+23-May	BFW	Turkish State-Run Banks to Lend 30b Liras With New Package	1
+23-May	BFW	Turkish State Lenders Seen Selling USD/TRY at Around 6.15	0
+23-May	ANS	Turchia: 'offese Erdogan',leader opposizione rischia 17 anni	0
+23-May	HUR	Government announces $4.9 billion financing for strategic sector	1
+23-May	BN	*BOLSONARO: WE SCRAPPED THAT 3.6% FREEZE OF EDUCATION BUDGET	0
+23-May	BN	*BRAZIL PRESIDENT JAIR BOLSONARO SPEAKS ON FACEBOOK LIVE	0
+23-May	BN	*BOLSONARO: I ASK MY PARTY'S LEADERS TO APPROVE BILL PASSED Y/D	1
+23-May	BN	*BOLSONARO: CONGRESS HAS RIGHT TO CHANGE BILLS	1
+23-May	BFW	Sao Paulo Govt Expects Solution For Ford Plant By June: Doria	0
+23-May	BFW	Brazil Central Bank New Rule on Reserve Has no Impact: Novus	1
+23-May	BFW	*SAO PAULO GOVT EXPECTS SOLUTION FOR FORD PLANT BY JUNE: DORIA	0
+23-May	BFW	*SAO PAULO GOVT FAVORS PORT OF SANTOS PRIVATIZATION: DORIA	1
+23-May	BFW	BCB Frees Up to BRL8.2b With Changes on Reserve Requirements	1
+23-May	WPT	Brazil’s Highest Court Makes It a Crime to Attack a Person Based on Sexual Orientation, Gender Identity	0
+23-May	BN	*BCB FREES UP TO BRL8.2B WITH CHANGES ON RESERVE REQUIREMENTS	0
+23-May	BN	*BCB CHANGES RESERVE REQUIREMENT RULES ON TERM DEPOSITS	0
+23-May	BFW	Brazil Real Gets Late Lift After Guedes Headlines	1
+23-May	BN	U.S. Delivers on Trump Promise to Bolsonaro on Brazil OECD Bid	1
+23-May	BFW	Brazil's Pension Bill Should Be Approved in 60-90 Days: Guedes	1
+23-May	BFW	IMF Urges Turkey to Take Steps to `Secure Economic Stability’	1
+23-May	ANS	Fmi:monitoriamo Turchia, nessuna indicazione richiesta aiuto	0
+23-May	BN	*IMF URGES TURKEY TO TAKE STEPS TO `SECURE ECONOMIC STABILITY’	0
+23-May	BFW	Pentagon Would Be Cleared to Buy 94 F-35s Under Senate NDAA Bill	0
+23-May	BFW	*NEW ISTANBUL AIRPORT OWNERS SAID TO HIRE LAZARD FOR STAKE SALE	0
+23-May	BN	Developed Economies 2Q CPI Forecast Steady; Sweden Up to 2.2%	0
+23-May	ANS	Iran: Turchia blocca import petrolio per rispetto sanzioni	1
+23-May	BN	Top Turkish Electoral Judges Split Over Istanbul Vote Rerun Call	1
+23-May	BN	Foreigners Sold $2.01 Billion Turkish Securities This Year	1
+23-May	BN	Turkey Gross Foreign Exchange Reserves Fell to $71.7 Billion	1
+23-May	BN	Turkish Residents’ FX Deposits Rose $1.0 Billion Last Week	1
+23-May	BFW	Turkish State Lenders Sold USD/TRY at Around 6.15	1
+23-May	GO6	Radio Pakistan: Turkish Govt established int’l standard educational institutions in AJK: Masood	0
+24-May	BN	Stock Rout Deepens as Markets Reprice Trade Deal Odds: EM Review	0
+24-May	GO5	For Affairs (IT): Turkey: 'Fare cinema' in Ankara, Istanbul and Smyrne	0
+24-May	CTX	Kazakhstan, Turkey to increase trade turnover to 5 bln U.S.	1
+24-May	ANS	Turchia: stop leva obbligatoria a pagamento sara' permanente	0
+24-May	BN	*TURKEY CENBANK LENDS 12.0BLN LIRAS IN 1W REPO, BIDS 34.6BLN	1
+24-May	BFW	Default Swaps at Eight-Month High as Risks Mount: Inside Turkey	1
+24-May	TCB	Foreign Exchange Deposits	0
+24-May	GO6	Radio Pakistan: Muslim world is in desperate need of peace, tranquility & serenity: Erdogan	0
+24-May	BFW	Turkish Press Digest: Economy and Political News, Columnists	0
+24-May	BFW	Turkey Politics and Economy Agenda for May 24, 2019	0
+25-May	CTX	(Recast) Spotlight: Turkey to find way out of S-400 deal to	0
+25-May	DPA	Turkey rejects media reports criticizing its economic policy	1
+25-May	CTX	Spotlight: Turkey to find way out of S-400 deal to avoid	0
+26-May	APW	The Latest: First Turkish Cypriot Elected to EU Parliament	1
+26-May	DPA	SIDEBAR Turkish Cypriot elected to European Parliament for the first time	0
+26-May	BN	EM Review: Stocks Extended Rout on Repricing of Trade Deal Odds	0
+26-May	DPA	2ND LEAD Kurdish hunger strikes end in Turkey on request of jailed PKK leader By Ergin Hava, DPA	1
+26-May	GO5	Georgia Rep Govt: Prime Minister Hosts Turkey’s Defense Minister	0
+26-May	PTI	Kurdish rebel leader calls end to jail hunger strikes in Turkey	0
+26-May	GO5	Macedonian Info: Pendarovski: I expect Turkey’s confirms support by ratifying our NATO membership	0
+26-May	FTI	CNN Turkey under fire for bias in Istanbul rerun	1
+27-May	CTX	Turkey denies U.S. ultimatum on S-400 deal with Russia	0
+27-May	GO8	ForMinistry (TR): Article by H.E. Mr. Mevlüt Çavuşoğlu published in Politico Europe titled “Let’s put Turkey’s EU	0
+27-May	BFW	Turkish Regulator Sets New Rules For Pension Fund Investments	1
+27-May	CTX	Somalia, Turkey Strengthen Diplomatic Ties	1
+27-May	BN	*TURKEY CENBANK LENDS 15.0BLN LIRAS IN 1W REPO, BIDS 33.0BLN	1
+27-May	ANS	Turchia: Erdogan, isola golpisti sara' memoriale democrazia	0
+27-May	BFW	World Bank Approves EU500m Financing for Turkish Cities	1
+27-May	ANS	Migranti: 329 mila rifugiati tornati in Siria dalla Turchia	0
+27-May	BN	*TURKEY CENTRAL BANK OFFERS 15BLN LIRAS IN 1W REPO	0
+27-May	BN	*WORLD BANK APPROVES EU500M FINANCING FOR TURKISH CITIES	0
+27-May	BFW	Lira Extends Gains as Central Bank Raises Reserve Requiremements	1
+27-May	TCB	Foreign Exchange Deposits	1
+27-May	BN	Turkey Central Bank Raises Foreign-Currency Reserve Requirements	0
+27-May	BN	Turkey Central Bank Raises Reserve Requirements on FX Deposits	0
+27-May	BFW	Turkey Cenbank Raises Reserve Reqs on FX Deposits by 200bps	0
+27-May	BN	*TURKEY CENBANK EXPECTS ABOUT $4.2B LIQUIDITY MOPPED OFF MARKET	1
+27-May	BFW	*TURKEY CENBANK RAISES RESERVE REQS ON FX DEPOSITS	0
+27-May	BFW	Turkish Press Digest: Economy and Political News, Columnists	0
+27-May	BFW	BNDES Cancels Brazil Lotex Auction Due to Lack of Proposals (1)	0
+27-May	BFW	Bolsonaro Prefers no Change in Brazil Adm.Reform Bill: Spokesman	0
+27-May	BFW	BNDES Cancels Brazil’s Instant Lottery Lotex Auction	0
+27-May	BN	*BNDES CANCELS BRAZIL'S INSTANT LOTTERY LOTEX AUCTION	0
+27-May	BN	*BRAZIL GOVT KEEPS WORKING TO IMPROVE ROADS TRANSPORT: SPOKESMAN	1
+27-May	BFW	Brazil Electricity Regulator to Open Talks on Spot Energy Prices	1
+27-May	BFW	Brazil’s Olimpio Says Coaf Return to Justice Min. Has 30 Votes	0
+27-May	BN	*BRAZIL PSL PARTY LEADER IN SENATE OLIMPIO SPEAKS IN BRASILIA	0
+27-May	BN	*BRAZIL'S OLIMPIO SAYS HE'LL DEFEND COAF IN JUSTICE MINISTRY	0
+27-May	BFW	Brazil's Sunday Rallies Fail to Shift Dial for Real	0
+27-May	BFW	Brazil Planning IPO of Caixa, Banco do Brasil Card Units (1)	1
+27-May	BFW	Brazil Exports 22.59M Tons of Iron Ore in First 4 Weeks of May	1
+28-May	GO6	Radio Pakistan: Turkey denies US ultimatum against Russia arms deal	0
+28-May	CTX	Investors' trust in Brazilian gov't dives: poll	0
+28-May	NYT	Prison Fighting Leaves at Least 55 Dead in Northern Brazil	0
+28-May	CTX	FIFA upholds life ban on Brazil's Del Nero	0
