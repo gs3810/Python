@@ -1,0 +1,23 @@
+Please find below observation for keras-retinanet
+
+Created python virtual environment for python3.6
+# conda create –n yolo_env python=3.6
+
+Python Libraries Installation
+1.	Install Microsoft visual C++ 14 (Done by IT Team)
+2.	Numpy
+3.	Pandas
+4.	Tensorflow
+5.	Keras
+6.	cmake
+
+Keras-retinaet Installation
+7.	git clone https://github.com/fizyr/keras-retinanet.git
+8.	downloaded VOC2007 dataset from http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
+9.	created missing test.txt file under VOC2007\ImageSets\Main
+10.	python setup.py build
+11.	python setup.py install
+12.	retinanet-train pascal </path/to/VOCdevkit/VOC2007>
+13.	Followed the given instruction over github readme.rst
+
+Please let me know if any question
