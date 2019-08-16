@@ -1,0 +1,65 @@
+import pandas as pd
+import numpy as np
+
+#Function to get a list of file names
+def get_file_name(common_name,no_of_files):
+    file_name =[common_name,'','txt']
+    file_name_list = list([])
+    for i in range(1,no_of_files+1):
+        file_name[1] =str( i)
+        file_name_txt = '.'.join(file_name)
+        file_name_list.append(file_name_txt)
+    
+    return file_name_list
+
+
+#calling the get_file_name function to get list of file names
+file_name_list=get_file_name('Dataset/Dataset/Columbus_EO_Run01_s2_301_15_00_31.99319028-Oct-2007_11-00-31.993_Frame_1.0',12)
+
+#opening a new dataframe with required columns
+coordinate_df=pd.DataFrame(columns=['File_path','','X_Centre','Y_Centre','Height','Width'])
+
+#looping through each file,extracting details and saving it to the dataframe
+for file_name in file_name_list:
+    try:
+        f = open(file_name, 'r')
+        #print(f.read())
+        for line in f:#looping for each line item (object details) in the file
+            line_items=line.split(' ')#splitting line into list of compenents
+            line_items.insert(0,file_name)#adding text file name to list to allow identification of image
+            line_item_df=pd.DataFrame([line_items],columns=['File_path','','X_Centre','Y_Centre','Height','Width'])#converting list to dataframe
+            coordinate_df=coordinate_df.append(line_item_df,ignore_index=True)#appending to main dataframe
+            
+    except:
+        pass
+
+#calculating pixel locations
+coordinate_df['X_Centre_px'] = coordinate_df['X_Centre'].apply(lambda x:float(x) * 256)
+coordinate_df['y_Centre_px'] = coordinate_df['Y_Centre'].apply(lambda x:float(x) * 256)
+coordinate_df['Height_px'] = coordinate_df['Height'].apply(lambda x:float(x) * 256)
+coordinate_df['Width_px'] = coordinate_df['Width'].apply(lambda x:float(x) * 256)
+coordinate_df['X1_px'] = coordinate_df['X_Centre_px'] - (coordinate_df['Height_px'])/2
+coordinate_df['Y1_px'] = coordinate_df['y_Centre_px'] - (coordinate_df['Width_px'])/2
+coordinate_df['X2_px'] = coordinate_df['X_Centre_px'] + (coordinate_df['Height_px'])/2
+coordinate_df['Y2_px'] = coordinate_df['y_Centre_px'] + (coordinate_df['Width_px'])/2
+
+#Creating column for image file name
+coordinate_df['Image_File_Path']=coordinate_df['File_path'].str.replace(r'txt','jpg')
+coordinate_df=coordinate_df[['File_path','Image_File_Path','','X_Centre','Y_Centre','Height','Width','X_Centre_px',
+'y_Centre_px','Height_px','Width_px','X1_px','Y1_px','X2_px','Y2_px']]
+
+#Replacing negative pixel values with zero
+cols=['X1_px','Y1_px','X2_px','Y2_px']
+for col in cols:
+    coordinate_df[col]= coordinate_df[col].apply(lambda x:0 if x<0 else x)
+    coordinate_df[col]= coordinate_df[col].apply(lambda x:256 if x>256 else x)
+
+"""
+#Validating pixel values by checking if x1<x2 and y1<y2
+coordinate_df['Validation'] = np.where((coordinate_df['X1_px']<coordinate_df['X2_px']) & (coordinate_df['Y1_px']<coordinate_df['Y2_px']),'Correct','Incorrect')
+del coordinate_df['Validation']
+"""
+
+#Write to excel
+with pd.ExcelWriter('Annotations_Interns.xlsx') as writer:  # doctest: +SKIP
+     coordinate_df.to_excel(writer, sheet_name='Annotations')
