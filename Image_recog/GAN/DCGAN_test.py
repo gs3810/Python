@@ -8,11 +8,10 @@ from keras.datasets import mnist
 from tqdm import tqdm
 from keras.layers.advanced_activations import LeakyReLU
 from keras.optimizers import adam
-
 import glob
 
 def load_data():
-    (x_train, y_train), (x_test, y_test) = mnist.load_data()
+    (x_train, y_train), (x_test, y_test) = mnist.load_data()    
     x_train = (x_train.astype(np.float32) - 127.5)/127.5
     # convert shape of x_train from (60000, 28, 28) to (60000, 784) 
     # 784 columns per row
@@ -53,63 +52,50 @@ def create_generator():
 
 def create_dcgenerator():
     img_size = [28,28]
-    upsample_layers = 5
-    starting_filters = 64
+    upsample_layers = 2
+    starting_filters = 14
     kernel_size = 3
-    channels = 3
+    channels = 1
     noise_shape = (100,)
 #    discriminator_path = discriminator_path
 #    generator_path = generator_path
 #    output_directory = output_directory
-
     model = Sequential()
     model.add(
-    Dense(starting_filters * (img_size[0] // (2 ** upsample_layers))  *  (img_size[1] // (2 ** upsample_layers)),
+    Dense(starting_filters*(img_size[0] // (2**upsample_layers))*(img_size[1] // (2**upsample_layers)),
           activation="relu", input_shape=noise_shape))
-    model.add(Reshape(((img_size[0] // (2 ** upsample_layers)),
-                       (img_size[1] // (2 ** upsample_layers)),
+    model.add(Reshape(((img_size[0] // (2**upsample_layers)),
+                       (img_size[1] // (2**upsample_layers)),
                        starting_filters)))
     model.add(BatchNormalization(momentum=0.8))
+    
+    print (img_size[1])
 
-    model.add(UpSampling2D())  # 6x8 -> 12x16
-    model.add(Conv2D(1024, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 12x16 -> 24x32
-    model.add(Conv2D(512, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 24x32 -> 48x64
-    model.add(Conv2D(256, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 48x64 -> 96x128
+    model.add(UpSampling2D())  # 7x7 -> 14x14
     model.add(Conv2D(128, kernel_size=kernel_size, padding="same"))
     model.add(Activation("relu"))
     model.add(BatchNormalization(momentum=0.8))
 
-    model.add(UpSampling2D())  # 96x128 -> 192x256
+    model.add(UpSampling2D())  # 14x14 -> 28x28
     model.add(Conv2D(64, kernel_size=kernel_size, padding="same"))
     model.add(Activation("relu"))
     model.add(BatchNormalization(momentum=0.8))
 
     model.add(Conv2D(32, kernel_size=kernel_size, padding="same"))
     model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
+#    model.add(BatchNormalization(momentum=0.8))
 
-    model.add(Conv2D(channels, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("tanh"))
+#    model.add(Conv2D(channels, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("tanh"))
+    
+    model.add(Flatten())
+    model.add(Dense(units=img_wid*img_hg, activation='tanh'))
 
     model.summary()
-
-    noise = Input(shape=noise_shape)
-    img = model(noise)
-
-    return Model(noise, img)
-
+    model.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
+#    noise = Input(shape=noise_shape)
+#    img = model(noise)
+    return model
 
 def create_discriminator():
     discriminator=Sequential()
@@ -199,7 +185,7 @@ def training(epochs=1, batch_size=128):
             gan.train_on_batch(noise, y_gen)
             
         if e == 1 or e % 20 == 0:           
-            plot_generated_images(e, generator)
+            plot_generated_images(e, generator)  
             
 
 (X_train, y_train,X_test, y_test) = load_data()
@@ -207,8 +193,8 @@ global img_wid, img_hg
 img_wid, img_hg = 28,28            
 #(X_train, y_train,X_test, y_test) = load_custom_images()
 
-g = create_generator()
-gdc = create_dcgenerator()
+#g = create_generator()
+g = create_dcgenerator()
 #g.summary()
 
 d = create_discriminator()
