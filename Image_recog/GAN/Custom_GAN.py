@@ -158,6 +158,8 @@ gan.summary()
 
 training(400,10)
 
+# Try DCGAn https://github.com/DataSnaek/DCGAN-Keras/blob/master/DCGAN.py 
+
 
 
 
