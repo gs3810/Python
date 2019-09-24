@@ -25,8 +25,12 @@ def load_custom_images():
     train_images = [((cv2.resize(cv2.imread(file,cv2.IMREAD_GRAYSCALE),(64,64))).astype(np.float32) - 127.5)/127.5 for file in glob.glob("images/train/*.png")]
     test_images = [cv2.resize(cv2.imread(file,cv2.IMREAD_GRAYSCALE),(64,64)) for file in glob.glob("images/test/*.png")]
     
-    x_train = np.dstack(train_images).reshape(len(train_images),img_wid*img_hg )
-    x_test = np.dstack(test_images).reshape(len(test_images),img_wid,img_hg )
+#    x_train = np.dstack(train_images).reshape(len(train_images),img_wid*img_hg )
+#    x_test = np.dstack(test_images).reshape(len(test_images),img_wid,img_hg )
+    
+    x_train = np.rollaxis(np.dstack(train_images),-1)
+    x_train = x_train.reshape(len(train_images),img_wid*img_hg)  # bring to 2D
+    x_test = np.rollaxis(np.dstack(test_images),-1)
     
     y_train = np.ones(len(train_images))
     y_test = np.ones(len(test_images))
@@ -34,7 +38,7 @@ def load_custom_images():
     return x_train, y_train, x_test, y_test
 
 def adam_optimizer():
-    return adam(lr=0.0002, beta_1=0.5)
+    return adam(lr=0.002, beta_1=0.5)
 
 def create_generator():
     generator=Sequential()
@@ -52,57 +56,57 @@ def create_generator():
     generator.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
     return generator
 
-def create_dcgenerator():
-    img_size = [img_wid, img_hg]
-    upsample_layers = 5
-    starting_filters = 16
-    kernel_size = 3
-    channels = 1                                        # No RGB channels
-    noise_shape = (100,)
-
-    model = Sequential()
-    model.add(
-    Dense(starting_filters*(img_size[0] // (2**upsample_layers))*(img_size[1] // (2**upsample_layers)),
-          activation="relu", input_shape=noise_shape))
-    model.add(Reshape(((img_size[0] // (2**upsample_layers)),
-                       (img_size[1] // (2**upsample_layers)),
-                       starting_filters)))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 2x2 -> 4x4 
-    model.add(Conv2D(1024, kernel_size=kernel_size, padding="same"))     # change the numbers of layers accordingly
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 4x4 -> 8x8
-    model.add(Conv2D(512, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 8x8 -> 16x16 
-    model.add(Conv2D(256, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 16x16 -> 32x32
-    model.add(Conv2D(128, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(UpSampling2D())  # 32x32 -> 64x64
-    model.add(Conv2D(64, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    model.add(BatchNormalization(momentum=0.8))
-
-    model.add(Conv2D(32, kernel_size=kernel_size, padding="same"))
-    model.add(Activation("relu"))
-    
-    model.add(Flatten())
-    model.add(Dense(units=img_wid*img_hg, activation='tanh'))
-
-    model.summary()
-    model.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
-    return model
+#def create_dcgenerator():
+#    img_size = [img_wid, img_hg]
+#    upsample_layers = 5
+#    starting_filters = 16
+#    kernel_size = 3
+#    channels = 1                                        # No RGB channels
+#    noise_shape = (100,)
+#
+#    model = Sequential()
+#    model.add(
+#    Dense(starting_filters*(img_size[0] // (2**upsample_layers))*(img_size[1] // (2**upsample_layers)),
+#          activation="relu", input_shape=noise_shape))
+#    model.add(Reshape(((img_size[0] // (2**upsample_layers)),
+#                       (img_size[1] // (2**upsample_layers)),
+#                       starting_filters)))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(UpSampling2D())  # 2x2 -> 4x4 
+#    model.add(Conv2D(512, kernel_size=kernel_size, padding="same"))     # change the numbers of layers accordingly
+#    model.add(Activation("relu"))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(UpSampling2D())  # 4x4 -> 8x8
+#    model.add(Conv2D(256, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("relu"))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(UpSampling2D())  # 8x8 -> 16x16 
+#    model.add(Conv2D(128, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("relu"))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(UpSampling2D())  # 16x16 -> 32x32
+#    model.add(Conv2D(64, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("relu"))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(UpSampling2D())  # 32x32 -> 64x64
+#    model.add(Conv2D(64, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("relu"))
+#    model.add(BatchNormalization(momentum=0.8))
+#
+#    model.add(Conv2D(32, kernel_size=kernel_size, padding="same"))
+#    model.add(Activation("relu"))
+#    
+#    model.add(Flatten())
+#    model.add(Dense(units=img_wid*img_hg, activation='tanh'))
+#
+#    model.summary()
+#    model.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
+#    return model
 
 def create_discriminator():
     discriminator=Sequential()
@@ -198,8 +202,8 @@ img_wid, img_hg = 64,64
 #(X_train, y_train,X_test, y_test) = load_data()
 (X_train, y_train,X_test, y_test) = load_custom_images()
 
-#g = create_generator()
-g = create_dcgenerator()
+g = create_generator()
+#g = create_dcgenerator()
 #g.summary()
 
 d = create_discriminator()
@@ -208,7 +212,7 @@ d = create_discriminator()
 gan = create_gan(d,g)
 gan.summary()
 
-training(20,128)
+training(200,30)
 
 # Try DCGAn https://github.com/DataSnaek/DCGAN-Keras/blob/master/DCGAN.py 
 
