@@ -8,13 +8,13 @@ from keras.datasets import mnist
 from tqdm import tqdm
 from keras.layers.advanced_activations import LeakyReLU
 from keras.optimizers import adam
+import cv2
 import glob
 
 def load_data():
     (x_train, y_train), (x_test, y_test) = mnist.load_data()    
     x_train = (x_train.astype(np.float32) - 127.5)/127.5
-    # convert shape of x_train from (60000, 28, 28) to (60000, 784) 
-    # 784 columns per row
+
     x_train = x_train.reshape(60000, 784)
     return (x_train, y_train, x_test, y_test)
 
@@ -36,7 +36,11 @@ def adam_optimizer():
 
 def create_generator():
     generator=Sequential()
-    generator.add(Dense(units=256,input_dim=100))
+    
+    generator.add(Dense(units=128,input_dim=100))
+    generator.add(LeakyReLU(0.2))
+    
+    generator.add(Dense(units=256))
     generator.add(LeakyReLU(0.2))
     
     generator.add(Dense(units=512))
@@ -51,16 +55,14 @@ def create_generator():
     return generator
 
 def create_dcgenerator():
-    img_size = [28,28]
+    img_size = [img_wid, img_hg]
     upsample_layers = 2
     starting_filters = 14
-    kernel_size = 3
-    channels = 1
+    kernel_size = 3                                      # No RGB channels
     noise_shape = (100,)
-#    discriminator_path = discriminator_path
-#    generator_path = generator_path
-#    output_directory = output_directory
+
     model = Sequential()
+    
     model.add(
     Dense(starting_filters*(img_size[0] // (2**upsample_layers))*(img_size[1] // (2**upsample_layers)),
           activation="relu", input_shape=noise_shape))
@@ -68,11 +70,9 @@ def create_dcgenerator():
                        (img_size[1] // (2**upsample_layers)),
                        starting_filters)))
     model.add(BatchNormalization(momentum=0.8))
-    
-    print (img_size[1])
 
     model.add(UpSampling2D())  # 7x7 -> 14x14
-    model.add(Conv2D(128, kernel_size=kernel_size, padding="same"))
+    model.add(Conv2D(128, kernel_size=kernel_size, padding="same"))     # change the numbers of layers accordingly
     model.add(Activation("relu"))
     model.add(BatchNormalization(momentum=0.8))
 
@@ -83,35 +83,56 @@ def create_dcgenerator():
 
     model.add(Conv2D(32, kernel_size=kernel_size, padding="same"))
     model.add(Activation("relu"))
-#    model.add(BatchNormalization(momentum=0.8))
-
-#    model.add(Conv2D(channels, kernel_size=kernel_size, padding="same"))
-#    model.add(Activation("tanh"))
+    model.add(BatchNormalization(momentum=0.8))
     
-    model.add(Flatten())
-    model.add(Dense(units=img_wid*img_hg, activation='tanh'))
+    model.add(Conv2D(1, kernel_size=kernel_size, padding="same"))
+    model.add(Activation("tanh"))
 
     model.summary()
     model.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
-#    noise = Input(shape=noise_shape)
-#    img = model(noise)
     return model
 
-def create_discriminator():
+def create_discriminator_old():
     discriminator=Sequential()
     discriminator.add(Dense(units=1024,input_dim=img_wid*img_hg))
     discriminator.add(LeakyReLU(0.2))
     discriminator.add(Dropout(0.3))
        
-    
     discriminator.add(Dense(units=512))
     discriminator.add(LeakyReLU(0.2))
     discriminator.add(Dropout(0.3))
+    
+    discriminator.add(Dense(units=256))
+    discriminator.add(LeakyReLU(0.2))
+    discriminator.add(Dropout(0.3))
+       
+    discriminator.add(Dense(units=128))
+    discriminator.add(LeakyReLU(0.2))
+    
+    discriminator.add(Dense(units=1, activation='sigmoid'))
+    
+    discriminator.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
+    return discriminator
+
+def create_discriminator():
+    img_shape = (img_wid, img_hg, 1)
+    kernel_size = 3  
+    
+    discriminator=Sequential()
+    
+    discriminator.add(Conv2D(32, kernel_size=kernel_size, strides=1, input_shape=img_shape, padding="same"))    # 28x28 -> 14x14
+    discriminator.add(LeakyReLU(alpha=0.2))
+    discriminator.add(Dropout(0.25))
+    
+    discriminator.add(Conv2D(64, kernel_size=kernel_size, strides=1, padding="same"))  # 14x14 -> 7x7
+    discriminator.add(LeakyReLU(alpha=0.2))
+    discriminator.add(Dropout(0.25))
        
     discriminator.add(Dense(units=256))
     discriminator.add(LeakyReLU(0.2))
     
-    discriminator.add(Dense(units=1, activation='sigmoid'))
+    discriminator.add(Flatten())
+    discriminator.add(Dense(1, activation='sigmoid'))
     
     discriminator.compile(loss='binary_crossentropy', optimizer=adam_optimizer())
     return discriminator
@@ -144,7 +165,7 @@ def training(epochs=1, batch_size=128):
     batch_count = X_train.shape[0] / batch_size
     
     # Creating GAN
-    generator= create_generator()
+    generator= create_dcgenerator()
     discriminator= create_discriminator()
     gan = create_gan(discriminator, generator)
 
@@ -155,13 +176,14 @@ def training(epochs=1, batch_size=128):
             noise= np.random.normal(0,1, [batch_size, 100])
             
             # Generate fake MNIST images from noised input
-            generated_images = generator.predict(noise)
+            generated_images = generator.predict(noise).reshape(batch_size,img_wid*img_hg,1)
             
             # Get a random set of  real images
-            image_batch =X_train[np.random.randint(low=0,high=X_train.shape[0],size=batch_size)]
-            
+            image_batch =X_train[np.random.randint(low=0,high=X_train.shape[0],size=batch_size)].reshape(batch_size,img_wid*img_hg,1)
+
             #Construct different batches of  real and fake data 
             X= np.concatenate([image_batch, generated_images])
+            X = X.reshape(batch_size*2,img_wid,img_hg,1)
             
             # Labels for generated and real data
             y_dis=np.zeros(2*batch_size)
@@ -187,10 +209,10 @@ def training(epochs=1, batch_size=128):
         if e == 1 or e % 20 == 0:           
             plot_generated_images(e, generator)  
             
+global img_wid, img_hg             
+img_wid, img_hg = 28,28  
 
 (X_train, y_train,X_test, y_test) = load_data()
-global img_wid, img_hg             
-img_wid, img_hg = 28,28            
 #(X_train, y_train,X_test, y_test) = load_custom_images()
 
 #g = create_generator()
@@ -205,12 +227,33 @@ gan.summary()
 
 training(400,128)
 
+"""
+discriminator1= create_discriminator_old()
+discriminator2= create_discriminator()
+
+generator1= create_dcgenerator()
+generator2= create_generator()
+
+noise= np.random.normal(0,1, [128, 100])
+#generated_images = generator1.predict(noise)
+
+generated_images = generator2.predict(noise).reshape(128,784,1)
+
+
+image_batch =X_train[np.random.randint(low=0,high=X_train.shape[0],size=128)].reshape(128,784,1)
+#Construct different batches of  real and fake data 
+X= np.concatenate([image_batch, generated_images])
+
+# Labels for generated and real data
+y_dis=np.zeros(2*128)
+y_dis[:128]=0.9
+
+
+X = X.reshape(256,28,28,1)
+#Pre train discriminator on  fake and real data  before starting the gan. 
+discriminator2.trainable=True
+discriminator2.train_on_batch(X, y_dis)
+
 # Try DCGAn https://github.com/DataSnaek/DCGAN-Keras/blob/master/DCGAN.py 
-
-
-
-
-
-
-
+"""
 
