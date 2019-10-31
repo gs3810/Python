@@ -32,4 +32,16 @@ Source: https://www.shopify.com/blog/crowdfunding-sites
 -	Getting IPG was very difficult (1 year; banks were reluctant due to risk)
 -	Registered as pvt – wasn’t too much bottlenecked
 
-6 
+6 Platform: Should we go with wordpress
+Ans: YES, you should go for the WordPress platform to start your Crowdfunding website only if
+You are testing waters: If you are new to the crowdfunding niche you want to jump in and not sure how the targetted audience will accept and adopt your platform.
+You are targetting small groups: If you are going to target a small group of people with less funding requirements and with the ability to invest a small amount of money.
+You are not sure about your plan: If you not sure whether you will take your crowdfunding business seriously and don’t want to spend serious money on it.
+Ans: NO, you should not choose the WordPress platform to start your Crowdfunding website if
+You are already tested: You are ready to go to your targetted market and already have large userbase.
+You want enterprise solution: WordPress is not the right fit if you want to develop an enterprise-level crowdfunding platform to support the large user base and crowdfunding ecosystem.
+You are fed up with limitations of WordPress: Yes, I’ve been contacted by many entrepreneurs who have already used WordPress and spent a few hundred dollars buying Crowdfunding WordPress themes and plugins but later realized WordPress is not able to support their ideas, business needs, and customizations.
+No doubt, WordPress is a strong and stable platform and technically you can do anything with it. WordPress is a great tool if you want to build a static website for your business with few content pages, landing pages, blog and magazine websites.
+However, to build an enterprise-level application with marketplace features like crowdfunding at large scale, WordPress is not a good fit. Software development companies do not rely on WordPress for this kind of solution development but go for strong and secure frameworks like Ruby on Rails, Codeigniter, Laravel and Foundation.
+
+
