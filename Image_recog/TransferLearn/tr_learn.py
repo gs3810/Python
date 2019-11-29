@@ -124,9 +124,11 @@ checkpointer = ModelCheckpoint(filepath='model/scratchmodel.best.hdf5',verbose=1
     
 model_transfer = create_model(train_features)
 model_transfer.compile(loss='categorical_crossentropy', optimizer='adam',metrics=['accuracy'])
-history = model_transfer.fit(train_features, y_train, batch_size=32, epochs=10,
+history = model_transfer.fit(train_features, y_train, batch_size=32, epochs=20,
           validation_data=(val_features, y_val), callbacks=[checkpointer],
           verbose=1, shuffle=True)
+
+model_transfer.save('model/tr_model.h5') 
 
 preds = le.inverse_transform(np.argmax(model_transfer.predict(test_features), axis=1))
 print("\nAccuracy on Test Data: ", accuracy_score(test_y, preds))
