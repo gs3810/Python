@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt;
 from sklearn.model_selection import GridSearchCV
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.preprocessing import LabelEncoder
 #from hypopt import GridSearch
 from keras.utils import np_utils
 from keras.models import Sequential
@@ -32,21 +33,17 @@ def show_imgs(X):
     plt.show()
 
 def create_features(dataset, pre_model):
- 
     x_scratch = []
     try:
         # loop over the images
         for imagePath in dataset:
-     
             # load the input image and image is resized to 224x224 pixels
             image = load_img(imagePath, target_size=(224, 224))
             image = img_to_array(image)
      
-            # preprocess the image by (1) expanding the dims and (2) subtracting mean RGB pixel intensity from the
-            # ImageNet dataset
+            # preprocess the image by (1) expanding the dims and (2) subtracting mean RGB pixel intensity from the ImageNet dataset
             image = np.expand_dims(image, axis=0)
             image = imagenet_utils.preprocess_input(image)
-     
             # add the image to the batch
             x_scratch.append(image)
     except:
@@ -66,30 +63,38 @@ def create_model():
     model_transfer.summary()
     return model_transfer
 
+def predict(path, model):
+    new_test = list(['Food-11/test/kinley1.jpg'])
+    new_test_x, new_test_features, new_test_features_flatten = create_features(new_test, model)
+    prob = model_transfer.predict(new_test_features)
+    preds = str(le.inverse_transform(np.argmax(model_transfer.predict(new_test_features), axis=1)))
+    return prob, preds
+
 train = [os.path.join("Food-11/training/",img) for img in os.listdir("Food-11/training")]
 val = [os.path.join("Food-11/validation/",img) for img in os.listdir("Food-11/validation")]
 test = [os.path.join("Food-11/evaluation/",img) for img in os.listdir("Food-11/evaluation")]
 
 print(len(train),len(val),len(test))
 
-train_y = [img.split("/")[-1].split("_")[0]for img in train]#[:-1]
-train_y = [int(i) for i in train_y]
-
-val_y = [img.split("/")[-1].split("_")[0]for img in val]#[:-1]
-val_y = [int(i) for i in val_y]
-
-test_y = [img.split("/")[-1].split("_")[0]for img in test]#[:-1]
-test_y = [int(i) for i in test_y]
-num_classes = 5 # 5 classes including 0
+train_y = [img.split("/")[-1].split("_")[0]for img in train][:-1]
+val_y = [img.split("/")[-1].split("_")[0]for img in val][:-1]
+test_y = [img.split("/")[-1].split("_")[0]for img in test][:-1]
+num_classes = 4 
  
 # Convert class labels in one hot encoded vector
-y_train = np_utils.to_categorical(train_y, num_classes)
-y_val = np_utils.to_categorical(val_y, num_classes)
-y_test = np_utils.to_categorical(test_y, num_classes)
+le = LabelEncoder()
+y_train = le.fit_transform(train_y)
+y_train = np_utils.to_categorical(y_train, num_classes)
+
+y_val = le.transform(val_y)
+y_val = np_utils.to_categorical(y_val, num_classes)
+
+y_test = le.transform(test_y)
+y_test = np_utils.to_categorical(y_test, num_classes)
 
 print("training data available in classes; ",[train_y.count(i) for i in range(0,num_classes)])
  
-food_classes = ('empty','kinley','knuckles','ozone','spark')
+food_classes = tuple(set(train_y))
  
 y_pos = np.arange(len(food_classes))
 counts = [train_y.count(i) for i in range(0,num_classes)]
@@ -123,17 +128,17 @@ history = model_transfer.fit(train_features, y_train, batch_size=32, epochs=10,
           validation_data=(val_features, y_val), callbacks=[checkpointer],
           verbose=1, shuffle=True)
 
-preds = np.argmax(model_transfer.predict(test_features), axis=1)
+preds = le.inverse_transform(np.argmax(model_transfer.predict(test_features), axis=1))
 print("\nAccuracy on Test Data: ", accuracy_score(test_y, preds))
-print("\nNumber of correctly identified imgaes: ",accuracy_score(test_y, preds, normalize=False),"\n")
-confusion_matrix(test_y, preds, labels=range(0,num_classes))
+#print("\nNumber of correctly identified imgaes: ",accuracy_score(test_y, preds, normalize=False),"\n")
+#confusion_matrix(test_y, preds, labels=range(0,num_classes))
 
-# deisgn for test
-new_test = list(['Food-11/test/test_knuckles.jpg'])
-new_test_x, new_test_features, new_test_features_flatten = create_features(new_test, model)
-preds = np.argmax(model_transfer.predict(new_test_features), axis=1)
-
-
+prob, pred = predict('Food-11/test/kinley1.jpg',model)
+if np.max(prob)>0.8:
+    pass
+else:
+    pred = ['unknown']     
+print (prob, pred)
 
 
 
