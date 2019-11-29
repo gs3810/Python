@@ -53,7 +53,7 @@ def create_features(dataset, pre_model):
     features_flatten = features.reshape((features.shape[0], 7 * 7 * 512))
     return x, features, features_flatten
 
-def create_model():
+def create_model(train_features):
     #build final covolutional network
     model_transfer = Sequential()
     model_transfer.add(GlobalAveragePooling2D(input_shape=train_features.shape[1:]))
@@ -122,7 +122,7 @@ print(test_x.shape, test_features.shape, test_features_flatten.shape)
 # Creating a checkpointer
 checkpointer = ModelCheckpoint(filepath='model/scratchmodel.best.hdf5',verbose=1,save_best_only=True)
     
-model_transfer = create_model()
+model_transfer = create_model(train_features)
 model_transfer.compile(loss='categorical_crossentropy', optimizer='adam',metrics=['accuracy'])
 history = model_transfer.fit(train_features, y_train, batch_size=32, epochs=10,
           validation_data=(val_features, y_val), callbacks=[checkpointer],
