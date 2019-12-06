@@ -1,5 +1,4 @@
 #https://medium.com/towards-artificial-intelligence/testing-tensorflow-lite-image-classification-model-e9c0100d8de3 
-import os
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -51,6 +50,7 @@ hist = model.fit(
 final_loss, final_accuracy = model.evaluate(valid_generator, steps = val_steps_per_epoch)
 print("Final loss: {:.2f}".format(final_loss))
 print("Final accuracy: {:.2f}%".format(final_accuracy * 100))
+
 
 FLOWERS_SAVED_MODEL = "models/10ep_model"
 tf.keras.experimental.export_saved_model(model, FLOWERS_SAVED_MODEL)
