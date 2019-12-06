@@ -51,3 +51,6 @@ hist = model.fit(
 final_loss, final_accuracy = model.evaluate(valid_generator, steps = val_steps_per_epoch)
 print("Final loss: {:.2f}".format(final_loss))
 print("Final accuracy: {:.2f}%".format(final_accuracy * 100))
+
+FLOWERS_SAVED_MODEL = "models/10ep_model"
+tf.keras.experimental.export_saved_model(model, FLOWERS_SAVED_MODEL)
