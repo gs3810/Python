@@ -4,21 +4,25 @@ import imgaug as ia
 import imgaug.augmenters as iaa
 from imgaug.augmentables.bbs import BoundingBox, BoundingBoxesOnImage
 import imageio
+import glob
 
 ia.seed(1)
 
-image = imageio.imread('image/test_1.jpg')
+images = [imageio.imread(file) for file in glob.glob("image/*.jpg")]
+# read coordinates file
+
+image = imageio.imread('image/coca_env_3.jpg')
+imgBBS = [137,44,282,441]
+
+
 bbs = BoundingBoxesOnImage([
-    BoundingBox(x1=65, y1=100, x2=200, y2=150),
+    BoundingBox(x1=imgBBS[0], y1=imgBBS[1], x2=imgBBS[2], y2=imgBBS[3]),
     BoundingBox(x1=150, y1=80, x2=200, y2=130)
 ], shape=image.shape)
 
 seq = iaa.Sequential([
     iaa.Multiply((1, 1)),     # change brightness (no effect BBs). 1.0 is normal
-    iaa.Affine(
-        translate_px={"x": 40, "y": 60},
-        scale=(0.5, 0.7)
-    ) # translate by 40/60px on x/y axis, and scale to 50-70%, affects BBs
+    iaa.Affine(rotate=(180, 0)) #scale=(0.5, 0.7), translate_px={"x": 40, "y": 60}
 ])
 
 # Augment BBs and images.
