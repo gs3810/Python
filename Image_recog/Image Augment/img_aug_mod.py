@@ -16,11 +16,13 @@ for file in glob.glob("images/*.jpg"):
     images.append(imageio.imread(file))
     file_name.append(file)
 
+#BBS_cod = data[data['name'] == file_name[0].replace(os.sep, '/')]
 
-BBS_cod = pd.DataFrame()
-for i in range(1):  #len(file_name):
-    BBS_cod.append(data[data['name'] == file_name[i].replace(os.sep, '/')]) # still not working
-
+BBS_cod = list()
+for i in range(2):  #len(file_name):
+    BBS_cod.append(data[data['name'] == file_name[i].replace(os.sep, '/')]) 
+BBS_cod = pd.concat(BBS_cod)                                                 # convert to df       
+    
 # build for _loop and add
 
 #---------------------------------------
