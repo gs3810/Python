@@ -34,7 +34,7 @@ images, file_name =[],[]
 for file in glob.glob("images/originals/*.jpg"):
     images.append(imageio.imread(file))
     file_name.append(file[re.search(r'(\\)[^\\]*$',file).start()+1:])               # both file_name and images have same index and placement
-                                                                                    # *$ is 1st instance, *? is last    
+
 BBS_cod = list()
 for i in range(len(images)):  #len(file_name):
     BBS_cod.append(data[data['name'] == file_name[i]]) 
@@ -46,8 +46,10 @@ for i in range(len(images)):
     image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0],rotation)      
     new_name = str(file_name[i])[:-4]+'_rot_'+str(rotation)+'.jpg'
     imageio.imwrite('images/'+new_name,image_aug)
-    new_bbs.append(np.array([bbs_aug.bounding_boxes[0].x1_int,bbs_aug.bounding_boxes[0].y1_int,
-                bbs_aug.bounding_boxes[0].x2_int,bbs_aug.bounding_boxes[0].y2_int]))          # only one BBs allowed, chosen through [0]]
+    new_bbs.append(np.array([bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].x1_int,            # clip and remove partial BBS
+                             bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].y1_int,
+                             bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].x2_int,
+                             bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].y2_int]))          # only one BBs allowed, chosen through [0]]
     new_file_names.append(new_name.replace(os.sep, '/'))    
 
 proc_data = pd.concat([pd.DataFrame(new_file_names),pd.DataFrame(new_bbs) ], axis=1)     
