@@ -6,9 +6,9 @@ import imageio
 import glob
 import os
 import pandas as pd
+import numpy as np
 
-def augmentation(image,imgBBS):   
-    rotation = 270
+def augmentation(image,imgBBS,rotation):   
     bbs = BoundingBoxesOnImage([
         BoundingBox(x1=imgBBS[0], y1=imgBBS[1], x2=imgBBS[2], y2=imgBBS[3]),
         ], shape=image.shape)
@@ -31,7 +31,7 @@ def print_BBS(bbs_aug):
             i,after.x1, after.y1, after.x2, after.y2))
 
 # open excel
-data = pd.read_excel('root/VGG_via_export.xlsx', index_col=0).reset_index()
+data = pd.read_excel('root_coord/VGG_via_export.xlsx', index_col=0).reset_index()
 ia.seed(1)
 
 images, file_name =[],[]
@@ -40,16 +40,22 @@ for file in glob.glob("images/*.jpg"):
     file_name.append(file)                                                   # both file_name and images have same index and placement
 
 BBS_cod = list()
-for i in range(2):  #len(file_name):
+for i in range(len(images)):  #len(file_name):
     BBS_cod.append(data[data['name'] == file_name[i].replace(os.sep, '/')]) 
 BBS_cod = pd.concat(BBS_cod)                                                 # convert to df       
-    
-new_bbs = list()
-for i in range(len(images)):
-    image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0])      
-    imageio.imwrite('images/new/new_'+str(i)+'.jpg',image_aug)
-    new_bbs.append(list(bbs_aug.bounding_boxes[0]))                         # only one BBs allowed
 
-new_bbs = pd.DataFrame(new_bbs)                                             # new BBS output
+rotation = 180    
+new_bbs = list()
+new_file_names = list()
+for i in range(len(images)):
+    image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0],rotation)      
+    new_name = str(file_name[i])[:-4]+'_rot_'+str(rotation)+'.jpg'
+    imageio.imwrite(new_name,image_aug)
+    new_bbs.append(np.array([bbs_aug.bounding_boxes[0].x1_int,bbs_aug.bounding_boxes[0].y1_int,
+                bbs_aug.bounding_boxes[0].x2_int,bbs_aug.bounding_boxes[0].y2_int]))          # only one BBs allowed, chosen through [0]]
+    new_file_names.append(new_name.replace(os.sep, '/'))    
+
+proc_data = pd.concat([pd.DataFrame(new_file_names),pd.DataFrame(new_bbs) ], axis=1)     
+proc_data.to_excel('output.xlsx')                                # new BBS output
 # can't go negative
 
