@@ -7,6 +7,7 @@ import glob
 import os
 import pandas as pd
 import numpy as np
+import re
 
 def augmentation(image,imgBBS,rotation):   
     bbs = BoundingBoxesOnImage([
@@ -14,43 +15,37 @@ def augmentation(image,imgBBS,rotation):
         ], shape=image.shape)
     
     seq = iaa.Sequential([
-        iaa.Multiply((1, 1)),                                   # change brightness (no effect BBs). 1.0 is normal
-        iaa.Affine(rotate=(rotation, 0))                        # scale=(0.5, 0.7), translate_px={"x": 40, "y": 60}
+        iaa.Multiply((1, 1)),                                           # change brightness (no effect BBs). 1.0 is normal
+        iaa.Affine(rotate=(rotation, 0))                                # scale=(0.5, 0.7), translate_px={"x": 40, "y": 60}
     ])
     
     # Augment BBs and images.
     image_aug, bbs_aug = seq(image=image, bounding_boxes=bbs)
-
     return image_aug, bbs_aug     
 
-def print_BBS(bbs_aug):
-    for i in range(len(bbs_aug.bounding_boxes)):
-        after = bbs_aug.bounding_boxes[i]
-    #    after = list(after)
-        print("BB %d:(%.4f, %.4f, %.4f, %.4f)" % (
-            i,after.x1, after.y1, after.x2, after.y2))
+# parameters
+rotation = 180
 
 # open excel
 data = pd.read_excel('root_coord/VGG_via_export.xlsx', index_col=0).reset_index()
 ia.seed(1)
 
 images, file_name =[],[]
-for file in glob.glob("images/*.jpg"):
+for file in glob.glob("images/originals/*.jpg"):
     images.append(imageio.imread(file))
-    file_name.append(file)                                                   # both file_name and images have same index and placement
-
+    file_name.append(file[re.search(r'(\\)[^\\]*$',file).start()+1:])               # both file_name and images have same index and placement
+                                                                                    # *$ is 1st instance, *? is last    
 BBS_cod = list()
 for i in range(len(images)):  #len(file_name):
-    BBS_cod.append(data[data['name'] == file_name[i].replace(os.sep, '/')]) 
-BBS_cod = pd.concat(BBS_cod)                                                 # convert to df       
-
-rotation = 180    
+    BBS_cod.append(data[data['name'] == file_name[i]]) 
+BBS_cod = pd.concat(BBS_cod)                                                        # convert to df       
+    
 new_bbs = list()
 new_file_names = list()
 for i in range(len(images)):
     image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0],rotation)      
     new_name = str(file_name[i])[:-4]+'_rot_'+str(rotation)+'.jpg'
-    imageio.imwrite(new_name,image_aug)
+    imageio.imwrite('images/'+new_name,image_aug)
     new_bbs.append(np.array([bbs_aug.bounding_boxes[0].x1_int,bbs_aug.bounding_boxes[0].y1_int,
                 bbs_aug.bounding_boxes[0].x2_int,bbs_aug.bounding_boxes[0].y2_int]))          # only one BBs allowed, chosen through [0]]
     new_file_names.append(new_name.replace(os.sep, '/'))    
