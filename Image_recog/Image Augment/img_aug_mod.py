@@ -9,22 +9,24 @@ import pandas as pd
 import numpy as np
 import re
 
-def augmentation(image,imgBBS,rotation):   
+def augmentation(image,imgBBS,degree):   
     bbs = BoundingBoxesOnImage([
         BoundingBox(x1=imgBBS[0], y1=imgBBS[1], x2=imgBBS[2], y2=imgBBS[3]),
         ], shape=image.shape)
     
     seq = iaa.Sequential([
         iaa.Multiply((1, 1)),                                           # change brightness (no effect BBs). 1.0 is normal
-        iaa.Affine(rotate=(rotation, 0))                                # scale=(0.5, 0.7), translate_px={"x": 40, "y": 60}
-    ])
+        iaa.Affine(rotate=(degree, 0)),                                 # scale=(0.5, 0.7), translate_px={"x": 40, "y": 60}
+        iaa.AverageBlur(k=(0, 0))                                       # blur 
+        ])
     
     # Augment BBs and images.
     image_aug, bbs_aug = seq(image=image, bounding_boxes=bbs)
     return image_aug, bbs_aug     
 
-# parameters
-rotation = 180
+""" ENSURE THAT ROOT AND IMAGES MATCH"""
+degree = 20
+augm = '_rot_'
 
 # open excel
 data = pd.read_excel('root_coord/VGG_via_export.xlsx', index_col=0).reset_index()
@@ -43,8 +45,8 @@ BBS_cod = pd.concat(BBS_cod)                                                    
 new_bbs = list()
 new_file_names = list()
 for i in range(len(images)):
-    image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0],rotation)      
-    new_name = str(file_name[i])[:-4]+'_rot_'+str(rotation)+'.jpg'
+    image_aug, bbs_aug = augmentation(images[i],BBS_cod.iloc[i:i+1,1:5].values.tolist()[0],degree)      
+    new_name = str(file_name[i])[:-4]+'_rot_'+str(degree)+'.jpg'
     imageio.imwrite('images/'+new_name,image_aug)
     new_bbs.append(np.array([bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].x1_int,            # clip and remove partial BBS
                              bbs_aug.remove_out_of_image().clip_out_of_image().bounding_boxes[0].y1_int,
@@ -54,5 +56,5 @@ for i in range(len(images)):
 
 proc_data = pd.concat([pd.DataFrame(new_file_names),pd.DataFrame(new_bbs) ], axis=1)     
 proc_data.to_excel('output.xlsx')                                # new BBS output
-# can't go negative
+
 
