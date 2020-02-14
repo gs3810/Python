@@ -1,0 +1,50 @@
+import sys
+import argparse
+from yolo import YOLO, detect_video
+from PIL import Image
+import tensorflow as tf
+print(tf.__version__)
+
+"""mAP https://github.com/rafaelpadilla/Object-Detection-Metrics"""
+
+def detect_img(yolo,inp_imgs):
+ 
+    for i in range(0,len(inp_imgs)):                        # while True:
+        img = inp_imgs[i]                                   #input('Input image filename:')  # file path e.g. images/keells_6.jpg (no 'commas')
+        try:
+            image = Image.open(img)                         # try RESIZING + img AUGMENTATION
+        except:
+            print('Open Error! Try again!')
+            continue
+        else:
+            r_image, out_boxes = yolo.detect_image(image)
+            print (out_boxes)
+            r_image.show()
+    return out_boxes
+#    yolo.close_session()
+
+FLAGS = None
+
+if __name__ == '__main__':
+    # class YOLO defines the default value, so suppress any default here
+    parser = argparse.ArgumentParser(argument_default=argparse.SUPPRESS)
+    
+    parser.add_argument(                    # turned default = True
+        '--image', default=True, action="store_true",
+        help='Image detection mode, will ignore all positional arguments'
+    )
+
+    FLAGS = parser.parse_args()
+    if True:
+        """
+        Image detection mode, disregard any remaining command line arguments
+        """
+        print("Image detection mode")
+        if "input" in FLAGS:
+            print(" Ignoring remaining command line arguments: " + FLAGS.input + "," + FLAGS.output)
+        
+        inp_imgs = ['images/test_images/test_0.jpg','images/test_images/test_1.jpg',
+        'images/test_images/coca_env_10.jpg']
+        
+        detect_img(YOLO(**vars(FLAGS)),inp_imgs)
+
