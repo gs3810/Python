@@ -7,6 +7,7 @@ from keras.models import Model
 from keras.optimizers import Adam
 from keras.callbacks import TensorBoard, ModelCheckpoint, ReduceLROnPlateau, EarlyStopping
 import tensorflow as tf
+from tensorflow.python.framework import graph_io
 from keras import backend as K
 
 from yolo3.model import preprocess_true_boxes, yolo_body, tiny_yolo_body, yolo_loss
@@ -39,6 +40,13 @@ def freeze_session(session, keep_var_names=None, output_names=None, clear_device
         frozen_graph = tf.graph_util.convert_variables_to_constants(
             session, input_graph_def, output_names, freeze_var_names)
         return frozen_graph
+
+def freeze_graph(graph, session, output):
+    with graph.as_default():
+        graphdef_inf = tf.graph_util.remove_training_nodes(graph.as_graph_def())
+        graphdef_frozen = tf.graph_util.convert_variables_to_constants(session, graphdef_inf, output)
+        graph_io.write_graph(graphdef_frozen, ".", "frozen_model.pb", as_text=False)
+
 
 def get_classes(classes_path):
     '''loads the classes'''
@@ -209,6 +217,13 @@ if True:
         callbacks=[checkpoint, reduce_lr, early_stopping])          # REMOVED logging
     model.save_weights(log_dir + 'trained_weights_final.h5')
     
-    frozen_graph = freeze_session(K.get_session(), output_names=[out.op.name for out in model.outputs])
-    tf.train.write_graph(frozen_graph, log_dir, "my_model.pb", as_text=False)   
+    # ONLY COPY FUNCTIONS
+    tf.keras.backend.set_learning_phase(0)
+    session = tf.keras.backend.get_session()
+    
+    frozen_graph = freeze_graph(session.graph, session, [out.op.name for out in model.outputs])
+
+#    frozen_graph = freeze_session(K.get_session(), output_names=[out.op.name for out in model.outputs])
+#    tf.train.write_graph(frozen_graph, log_dir, "my_model.pb", as_text=False)   
+
 
