@@ -1,20 +1,36 @@
 import tensorflow as tf
 
-def load_graph(frozen_graph_filename):
-    # We load the protobuf file from the disk and parse it to retrieve the 
-    # unserialized graph_def
-    with tf.gfile.GFile(frozen_graph_filename, "rb") as f:
-        graph_def = tf.GraphDef()
-        graph_def.ParseFromString(f.read())
+''' https://stackoverflow.com/questions/51858203/cant-import-frozen-graph-with-batchnorm-layer'''
+#def load_graph(frozen_graph_filename):
+#    # We load the protobuf file from the disk and parse it to retrieve the 
+#    # unserialized graph_def
+#    with tf.gfile.GFile(frozen_graph_filename, "rb") as f:
+#        graph_def = tf.GraphDef()
+#        graph_def.ParseFromString(f.read())
+#
+#    # Then, we import the graph_def into a new Graph and returns it 
+#    with tf.Graph().as_default() as graph:
+#        # The name var will prefix every op/nodes in your graph
+#
+#        # Since we load everything in a new graph, this is not needed
+#
+#        tf.import_graph_def(graph_def, name="prefix")
+#
+#    return graph
 
-    # Then, we import the graph_def into a new Graph and returns it 
-    with tf.Graph().as_default() as graph:
-        # The name var will prefix every op/nodes in your graph
+#load_graph('logs/frozen_model.pb')
 
-        # Since we load everything in a new graph, this is not needed
+graph_def = tf.GraphDef()
 
-        tf.import_graph_def(graph_def, name="prefix")
+with tf.gfile.GFile("logs/frozen_model.pb", "rb") as f:
+    graph_def.ParseFromString(f.read())
 
-    return graph
+graph = tf.Graph()
 
-load_graph('logs/my_model.pb')
+#with graph.as_default():
+#    net_inp, net_out = tf.import_graph_def(
+#        graph_def, return_elements=["input_1", "predictions/Softmax"]
+#    )
+#    with tf.Session(graph=graph) as sess:
+#        out = sess.run(net_out.outputs[0], feed_dict={net_inp.outputs[0]: im})
+#        print(np.argmax(out))
