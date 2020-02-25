@@ -1,0 +1,79 @@
+Challenge 1 - Improved Visibility of Plastic Waste Generation and Material Flows
+●	Southeast Asia’s existing systems are complex, often fragmented, and heavily reliant on the informal economy. 
+●	Lack of visibility and transparency on plastic waste generation patterns as well as plastic waste material flows
+
+Questions & Answers
+1.	How to better track and understand where plastic waste comes from and where does it go?
+-	Mobile app (CC) gathers information as to houses that produce recyclables/non-recyclable 
+-	CC Provides targeted education to the required households
+-	CC incentivizes proper recycling by rewarding redeemable points
+
+2.	Better understand waste generation based on its quality (type, cleanliness, etc) and source (urban/rural, commercial/household, community-level/country-level, etc)?
+-	CC & CB’s Image recognition to help identify the cleanliness and type of recyclability 
+-	Track the brands that use plastics, provide this data to help them better manage the responsibility. Tracked through image recognition which adds additional incentive rewards points
+-	CB provides crowd gathering areas, while CC provides home based on aggregate waste disposal patterns (increasing decreasing/types cleaning)
+
+3.	Predict the consumer attitudes and behaviors to identify potential channels of influence on plastics?
+-	CC and CB both gather the data of disposal and usage patterns
+-	Leverage advertisements and awareness dashboard to drive influence
+-	The dashboard organizes the incentivize to maximize the influence
+
+Example solutions 
+•	Crowdsourcing data collection tool to map local plastic waste flows and stakeholders
+•	Data visualization tool to provide insights and forecasting on plastic waste flows
+•	A photo-sharing app that gathers location information on waste generation, aggregation centers, and markets
+•	A sensor technology that collects data on community-level waste disposal volumes and/or directional flows
+•	Image recognition technology that verifies waste volumes through photo capture
+•	Waste-shed modeling tools
+•	Data collection software and hardware that measures real-time community-level plastic waste generation
+•	Data analysis and visualization of product-specific data (including packaging materials) from brands, FMCG companies, and distribution networks to accurately capture plastic sources
+•	Data analysis which links retail consumption and producer’s plastic generation data with plastic waste disposal data to understand behavioral aspects and identify opportunities for intervention
+•	An innovative labelling technology (ex, QR code) that improve waste collection and recycling
+
+Challenge 2 - Optimization of Circular Supply Chains for Plastics
+•	Collected-for-recycling rate of PET just ~26%, yet they import a large quantity
+•	Insufficient pricing of post-consumer materials/lack of visibility of post-consumer materials pricing for informal sector waste collection
+•	Lack of value creation mechanisms in the local supply chains
+•	Poor and short-term plastic waste collection efforts resulting in insufficient supply of quality, clean plastic feedstock
+•	Lack of new delivery models to eradicate usage of plastics
+
+Questions & Answers
+1.	How might we incentivize responsible for plastic use and waste management?
+-	As mentioned, our CC system relies on two stage basis of incentification, 1. Recycler based incentives, 2. Image recognition drives marketing based incentives. 
+-	Success rate of recycling is a direct function of the value of our incentive scheme. Our surveys across the regions of Colombo indicate that a range of LKR 150-400 per month is enough to get users to actively engage in collecting, and sorting their recyclable waste
+-	Subsequently, the payout from the recyclers requires and efficient operating base, one with already well established logistics infrastructure. We are currently exploring partnerships with a couple of private, waste collection entities regarding our solution to leverage their more efficient cost base and transfer maximum margin to users
+
+2.	How might we enhance the visibility, connectivity, and efficiency of informal sector waste collectors and aggregators?
+-	Answered above
+3.	How might we improve the visibility of pricing?
+-	Our platform shows the reward points for each type of item collected, helping users recognize the pricing of garbage. Furthermore, our system incentivizes the use of clean plastics, as the app penalizes unclean/incorrectly sorted waste.
+-	This method deeply embeds habitual recycling, which works even in places where there are no incentives 
+4.	How might we better track and improve value generation across the supply chain?
+-	No plans for this yet. However, our state-of-the art Image recognition and object detection algorithms, have a wealth of (proprietary) image data at their disposal which we will use as training to perform multilayered, segregation into increasingly more specific classes (e.g. reusable vs. reusable yoghourt cups packets). This enables more efficient industrial scale sorting reducing the requirement for manual labor. Please see object detection algorithm figure XXX
+5.	How might we best identify and improve awareness of existing gender and power dynamics across the value chain?
+-	No plans for this yet, but a requirement for gender at login will help us understand the 
+
+Example solutions 
+•	A data solution that allows informal waste pickers to access market data in exchange for sale information
+•	Predictive analytics on plastics pricing data that leverage a mix of local and global market datasets
+•	A mobile alert system to inform informal waste pickers and aggregators of local market information and pricing changes related to specific resin types
+•	A data solution that allows decision-makers to see if/how gender impacts variables along the value chain like pricing, and the interplay between gender and power
+•	Analytics that help identify and/or demonstrate correlations between gendered issues (e.g. gender-based violence), risk and returns
+•	Machine-learning and/or sensory hardware to measure and capture real-time data on plastic flows by the quantity and resin types
+•	An application that awards incentives for responsible disposal, recycling or reuse of plastics
+
+Challenge 3 - Identification & Prevention of Plastic Waste Leakage
+•	80% of ocean plastics come from land-based sources 
+•	Assessment of contributions to ocean pollution from inland populations through riverine systems has been being less frequent. 
+•	Explore advanced data solutions to better map, monitor, understand, and forecast plastic leakage into the environment
+
+Questions & Answers
+1.	How might we map and monitor plastic leakage entering waterways?
+-	Tracking of regions with waterways using Google maps/ CityBin
+2.	How might we better understand and address how plastic leakage relates to external factors (landfill location, waste storage, socioeconomic factors, etc)?
+
+Example solutions 
+•	Data analysis which heat maps leakage points by layering various datasets
+•	Prediction systems to correlate weather patterns and plastic flows, and identify priority intervention spots
+•	RFID-based sample tracking and mapping of plastic waste across the watershed
+•	Aerial drone mapping of plastic debris density along riverways and coastal areas
