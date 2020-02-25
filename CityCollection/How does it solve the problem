@@ -1,22 +1,22 @@
+How does it solve the problem?
+To understand how our solution neatly addresses every problem in the challenge, either directly or indirectly, we have organised a Q&A session below.
+
 Challenge 1 - Improved Visibility of Plastic Waste Generation and Material Flows
 ●	Southeast Asia’s existing systems are complex, often fragmented, and heavily reliant on the informal economy. 
 ●	Lack of visibility and transparency on plastic waste generation patterns as well as plastic waste material flows
 
 Questions & Answers
 1.	How to better track and understand where plastic waste comes from and where does it go?
--	Mobile app (CC) gathers information as to houses that produce recyclables/non-recyclable 
--	CC Provides targeted education to the required households
--	CC incentivizes proper recycling by rewarding redeemable points
+-	The CC mobile app gathers information as to the houses that produce recyclables/non-recyclables via our QR code identification 
+-	The dashboard tracks location, frequency, type, and even brand data via the image recognition portion of the app. The data is used to identify individual, community wise user patterns and behaviors to better focus collection efforts 
 
 2.	Better understand waste generation based on its quality (type, cleanliness, etc) and source (urban/rural, commercial/household, community-level/country-level, etc)?
 -	CC & CB’s Image recognition to help identify the cleanliness and type of recyclability 
--	Track the brands that use plastics, provide this data to help them better manage the responsibility. Tracked through image recognition which adds additional incentive rewards points
--	CB provides crowd gathering areas, while CC provides home based on aggregate waste disposal patterns (increasing decreasing/types cleaning)
+-	The app doubles down to track the brands that use plastics and other waste via the image recognition algorithm, which adds additional incentive rewards points (economics explained in the Our Platform section)
+-	Meanwhile, CB, our second iteration improves on the data collection procedure by going directly to the source of outdoor waste disposal (e.g. shopping malls, events) where CC influence is only indirect (home based solution that still incentivizes you to carry plastics home for recycling)
 
 3.	Predict the consumer attitudes and behaviors to identify potential channels of influence on plastics?
--	CC and CB both gather the data of disposal and usage patterns
--	Leverage advertisements and awareness dashboard to drive influence
--	The dashboard organizes the incentivize to maximize the influence
+-	As explained, the dashboard summarizes all of the relevant data to help identify individual and community wise user patterns. The app also has an ‘Awareness!’ section which displays weekly updates about plastic and waste related issues as heads up (not in a bothersome way!) This initiates public education of the responsible disposal of garbage
 
 Example solutions 
 •	Crowdsourcing data collection tool to map local plastic waste flows and stakeholders
@@ -42,7 +42,6 @@ Questions & Answers
 -	As mentioned, our CC system relies on two stage basis of incentification, 1. Recycler based incentives, 2. Image recognition drives marketing based incentives. 
 -	Success rate of recycling is a direct function of the value of our incentive scheme. Our surveys across the regions of Colombo indicate that a range of LKR 150-400 per month is enough to get users to actively engage in collecting, and sorting their recyclable waste
 -	Subsequently, the payout from the recyclers requires and efficient operating base, one with already well established logistics infrastructure. We are currently exploring partnerships with a couple of private, waste collection entities regarding our solution to leverage their more efficient cost base and transfer maximum margin to users
-
 2.	How might we enhance the visibility, connectivity, and efficiency of informal sector waste collectors and aggregators?
 -	Answered above
 3.	How might we improve the visibility of pricing?
