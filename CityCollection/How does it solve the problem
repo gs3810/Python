@@ -68,8 +68,10 @@ Challenge 3 - Identification & Prevention of Plastic Waste Leakage
 
 Questions & Answers
 1.	How might we map and monitor plastic leakage entering waterways?
--	Tracking of regions with waterways using Google maps/ CityBin
+-	This is an extension of the dashboard app in which we will layer the water bodies, including rivers and lakes nearest to the heat map for high activity locations.
+-	This allows for targeted collection and education in these critical zones.
 2.	How might we better understand and address how plastic leakage relates to external factors (landfill location, waste storage, socioeconomic factors, etc)?
+-	The sample user volume and location data is used to predict the fill rate of local landfills. It can even be used to predict collection capacities and requirements ahead of large beach events etc, and deploy resources effectively
 
 Example solutions 
 •	Data analysis which heat maps leakage points by layering various datasets
