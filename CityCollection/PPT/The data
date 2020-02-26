@@ -22,3 +22,17 @@ Why care?
 - Education of public (further drive growth)
 - Cutting edge data analytics 
 
+How do we implement it?
+
+- Individual bags collected by users
+- Each bag has unique QR code ID
+
+- Truck collects bag
+- Route optimization enabled
+
+1. At recycler, the bags, QR code gets input
+OR
+2. Validation at household itself
+
+
+
