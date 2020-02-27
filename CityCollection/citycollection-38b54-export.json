@@ -1,0 +1,484 @@
+{
+  "addItem" : {
+    "-M0IuFrLfXLIOSMEgMkF" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2F20200217_213447.jpg?alt=media&token=d282aeb4-5b16-4d5a-9af9-02e681f455f7",
+      "itemBrand" : "Ambewela",
+      "itemCategory" : "Paper",
+      "location" : "Wellawatte",
+      "name" : "Tha15"
+    },
+    "-M0JFBBhBx4afd9-Po8y" : {
+      "downloadUrl:" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820021652388676204651716528913.jpg?alt=media&token=25303063-cc86-4049-a6d2-bfbc320ceafb",
+      "itemBrand" : "Tablet card ",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nugegoda ",
+      "name" : "Suri482"
+    },
+    "-M0JFc26XFTidMLpGGAD" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820021652388676204651716528913.jpg?alt=media&token=25303063-cc86-4049-a6d2-bfbc320ceafb",
+      "itemBrand" : "Medicine card",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nugegoda",
+      "name" : "Suri482"
+    },
+    "-M0JG9BRCs0UZehuxSiY" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2Fimage.jpg?alt=media&token=46a919ff-60c8-4af9-bab6-9df044b1c7f5",
+      "itemBrand" : "Boxes",
+      "itemCategory" : "Cardboard",
+      "location" : "Nugegoda ",
+      "name" : "Suri482"
+    },
+    "-M0LHZNBZFydvaIXnPBf" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fsignal.jpeg?alt=media&token=b949a1fa-e8fe-4e36-bd32-d4d90c06866b",
+      "itemBrand" : "Signal",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nugegeoda",
+      "name" : "Suri482"
+    },
+    "-M0LdQwBx8KET6dFHlgC" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F20200218_100434.jpg?alt=media&token=e82365a4-2176-4097-b3de-02519331eb60",
+      "itemBrand" : "Kelloggs",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0LdZYTD8Oj6yGswMlI" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200218_154815.jpg?alt=media&token=175c5532-622c-4a18-b9f0-804d4a9439f6",
+      "itemBrand" : "No brand",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0LdqzMFDjJkpjt3x-i" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200218_100409.jpg?alt=media&token=3d72040b-6abc-4aa3-8b23-1ddc22271674",
+      "itemBrand" : "",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski "
+    },
+    "-M0LfhtGReb3qU0LPX7z" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Famoxil.jpg?alt=media&token=bf950c82-9dc1-4c2c-9ac8-9720a9037783",
+      "itemBrand" : "Amoxil Tablet sheet",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0Mk6hA7CCO3DYdqfbj" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2Fimage.jpg?alt=media&token=cb790baf-9248-4f94-8824-68f8e205be43",
+      "itemBrand" : "Tissue",
+      "itemCategory" : "Paper",
+      "location" : "Kynsey road, Austin Place ",
+      "name" : "Annie"
+    },
+    "-M0Mobb_ZnnUVO7m8Lwo" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200218_155021.jpg?alt=media&token=5e5c4f9a-8e54-450f-a445-d412ff11127f",
+      "itemBrand" : "Maped Sticky notes ",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MovrD3hHoD5204CHR" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F20200218_154940.jpg?alt=media&token=27009005-b93d-4edf-89f8-1391342d9eea",
+      "itemBrand" : "Ritzbury Chunky Choc",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MpIN_4yT8vVETq6IP" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200218_154946.jpg?alt=media&token=1d69bd08-7a87-4d9d-a390-15bb2b44a210",
+      "itemBrand" : "Ritzbury ",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MqzG8KnE-z-rvTAU4" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820218248283798334514445543494.jpg?alt=media&token=6090655d-d5e9-4cfd-852e-ebd9f8ca758b",
+      "itemBrand" : "Speedo Goggles",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0Mrn0PxPkNcgxpG1sZ" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820221466134583466014852000042.jpg?alt=media&token=053421cc-9994-4d97-857d-93f08b9c5b66",
+      "itemBrand" : "EA Games CD Case ",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0Ms7FRfWlpgMo3YCYr" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820222342742143539186963976725.jpg?alt=media&token=cd9e48a8-8b0d-4d34-b6bb-92dd4de9ecfd",
+      "itemBrand" : "CD/DVD",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0Mtdsw8q6U5HOB_Wni" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2F994B556B-2131-4199-9667-C083BEA60553.jpeg?alt=media&token=b12512cf-270f-4b0e-8f3e-9ac5623300d1",
+      "itemBrand" : "Cargills Magic",
+      "itemCategory" : "Paper",
+      "location" : "Dehiwela",
+      "name" : "Ajmal"
+    },
+    "-M0Mtr520cmj5lrfUFyX" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2FC4ADF083-3C24-437E-9E11-0124B29BE86A.jpeg?alt=media&token=c2994de0-5bf9-46a1-8b31-8f90a00eee8f",
+      "itemBrand" : "Cargills magic",
+      "itemCategory" : "Paper",
+      "location" : "Dehiwela",
+      "name" : "Ajmal"
+    },
+    "-M0MuNp3L0nr8PsWMlB4" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F20200218_161204.jpg?alt=media&token=ac31dcc9-aff8-4a93-9e13-234bc1c1f0ba",
+      "itemBrand" : "No brand - phone cases",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MupwS4KTi4-XM2Sus" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/plastic_Container%2F20200218_161324.jpg?alt=media&token=d5afd882-1a30-43f7-a56a-0b9778c0dbef",
+      "itemBrand" : "No brand",
+      "itemCategory" : "Plastic Container",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MvfYdmrqxeeF8yhqi" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2F15820231155924031136278547861403.jpg?alt=media&token=a08da09c-1a07-4691-bf82-71cd2aa153b7",
+      "itemBrand" : "MD Gunasena CR books",
+      "itemCategory" : "Paper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski "
+    },
+    "-M0MwJXwFjHNQlRvrO2E" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Paper%2F15820233430957342050796507743201.jpg?alt=media&token=8e6f9b48-4248-4b61-b178-b3fb068d6d62",
+      "itemBrand" : "Toastmasters International Booklets",
+      "itemCategory" : "Paper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0MxVddhwyfpEwPfYpW" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F15820236041246241062712765659362.jpg?alt=media&token=0b5d3f50-3097-4882-9ba3-e4e8bc90e159",
+      "itemBrand" : "Power World ",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski"
+    },
+    "-M0NHFpxZYwQp0hdADmq" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2Famerican%20water.png?alt=media&token=3e680f60-be81-4159-9d0e-e55258517921",
+      "itemBrand" : "American Water",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Dehiwela",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0NVSwsMWFtQhmS8muL" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F20200218_174242.jpg?alt=media&token=470fd7d3-031e-47cd-b01c-a24144ea72d1",
+      "itemBrand" : "Tun Huang Card Pack",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski "
+    },
+    "-M0NcT_VpyDG4fk8bEML" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Glass_Bottle%2Fimage.jpg?alt=media&token=9ef87544-092c-4b51-a96d-ae86ec7c2d6b",
+      "itemBrand" : "Elephant house ",
+      "itemCategory" : "Glass Bottle",
+      "location" : "Dehiwala ",
+      "name" : "Muhammad shawket Lahir",
+      "numberOfItems" : "2"
+    },
+    "-M0OAlm3-zd9mS8ZI4RL" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2Fimage.jpg?alt=media&token=46a919ff-60c8-4af9-bab6-9df044b1c7f5",
+      "itemBrand" : "Becca- highlighter ",
+      "itemCategory" : "Cardboard",
+      "location" : "Nugegoda",
+      "name" : "Suri482",
+      "numberOfItems" : "1"
+    },
+    "-M0OOcacNMrTZafiyDkt" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2F0BCF03BA-D21F-4260-B3DF-6854FFDCFBCB.jpeg?alt=media&token=19bc3828-71b7-4cf9-96c0-bc2dc9a86f42",
+      "itemBrand" : "EVL",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Dehiwela",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0RmzQ0R3DEJL2KxltF" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2Fimage.jpg?alt=media&token=bace021a-0727-4d11-ad24-34976b875939",
+      "itemBrand" : "Munchee ",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Kynsey road, Austin Place ",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0RryoFTrwkvzp1Jkz9" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F15821060989416191922954959629694.jpg?alt=media&token=be33a46f-16b2-4bb3-9b0c-2e2b3b286ad7",
+      "itemBrand" : "Hersheys",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Colombo 02",
+      "name" : "JKH Office",
+      "numberOfItems" : "1"
+    },
+    "-M0SYLPXPqjeb4SnH6yN" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2F15820021652388676204651716528913.jpg?alt=media&token=25303063-cc86-4049-a6d2-bfbc320ceafb",
+      "itemBrand" : "Rotomac Ten",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Dehiwela",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0WKNePOX8GITrLDJfR" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F993C66CB-159F-4FD5-9AF7-74B4FA8CD90A.jpeg?alt=media&token=5e23a370-e2fb-41d5-802a-a74f963bfaeb",
+      "itemBrand" : "Nescafe",
+      "itemCategory" : "Cardboard",
+      "location" : "Katubedda",
+      "name" : "Wmkthi",
+      "numberOfItems" : "1"
+    },
+    "-M0WKZNgXi6MkSoJQs00" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F993C66CB-159F-4FD5-9AF7-74B4FA8CD90A.jpeg?alt=media&token=5e23a370-e2fb-41d5-802a-a74f963bfaeb",
+      "itemBrand" : "Rich Life",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Katubedda",
+      "name" : "Wmkthi",
+      "numberOfItems" : "1"
+    },
+    "-M0_OQooS87BvTonYYJD" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Glass_Bottle%2F15822490955992409669982982675602.jpg?alt=media&token=9ffb2459-00f2-416f-8ab9-ed57d12cb576",
+      "itemBrand" : "Cipla",
+      "itemCategory" : "Glass Bottle",
+      "location" : "Mahabage",
+      "name" : "Alibaba",
+      "numberOfItems" : "2"
+    },
+    "-M0_n8WiRGEimfTIeVxL" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fsignal-toothpaste.jpg?alt=media&token=8bf2d29e-08b4-4512-9f47-f436320190a5",
+      "itemBrand" : "Signal toothpaste ",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Dehiwala ",
+      "name" : "Muhammad shawket Lahir",
+      "numberOfItems" : "4"
+    },
+    "-M0arKrziOR94ii8kxpE" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Cup%2F15822737216485369340074168258450.jpg?alt=media&token=0559d174-cca8-4c54-82bd-f7cc987ded2f",
+      "itemBrand" : "Nuts in a cup (I'm not kidding, it's the actual name)",
+      "itemCategory" : "Plastic Cup/Cups",
+      "location" : "Colombo 02",
+      "name" : "JKH Office",
+      "numberOfItems" : "2"
+    },
+    "-M0awtr3M9ot1s2DDObg" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F20200219_100918.jpg?alt=media&token=732966fa-1fab-4770-89cb-8286222445c2",
+      "itemBrand" : "Crest Toothpaste",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski",
+      "numberOfItems" : "1"
+    },
+    "-M0azTuyp_5Wn6bbQLR6" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200220_202031.jpg?alt=media&token=be3fa0ef-a87f-41ec-973f-bc097a16b929",
+      "itemBrand" : "Heinz Ketchup ",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski ",
+      "numberOfItems" : "1"
+    },
+    "-M0b274zWrhIYF5YsfJB" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200220_202031.jpg?alt=media&token=be3fa0ef-a87f-41ec-973f-bc097a16b929",
+      "itemBrand" : "Atlas chooty pen",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski ",
+      "numberOfItems" : "1"
+    },
+    "-M0b2OQOAdPVK5t79Yab" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200220_202031.jpg?alt=media&token=be3fa0ef-a87f-41ec-973f-bc097a16b929",
+      "itemBrand" : "Kheels Egg tray",
+      "itemCategory" : "Cardboard",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski",
+      "numberOfItems" : "1"
+    },
+    "-M0b2p9yLRb9vuZa__X-" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F20200220_202031.jpg?alt=media&token=be3fa0ef-a87f-41ec-973f-bc097a16b929",
+      "itemBrand" : "Street Burger Bag",
+      "itemCategory" : "Paper",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski",
+      "numberOfItems" : "1"
+    },
+    "-M0biYfheUMvt0CIbbIo" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/plastic_Container%2FIMG_20200221_175700.jpg?alt=media&token=36e3d224-6989-4046-b476-764efc2d904a",
+      "itemBrand" : "Highland",
+      "itemCategory" : "Plastic Container",
+      "location" : "Kandana",
+      "name" : "ReusableName",
+      "numberOfItems" : "10"
+    },
+    "-M0bztTapjIdABByrfmq" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fimage.jpg?alt=media&token=53c0d286-a0fc-4a91-8ef4-363dc987a768",
+      "itemBrand" : "Various pharmasuitcals ",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nugegoda ",
+      "name" : "Suri482",
+      "numberOfItems" : "4"
+    },
+    "-M0c-9vGSKpmXeJXdWSi" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fimage.jpg?alt=media&token=53c0d286-a0fc-4a91-8ef4-363dc987a768",
+      "itemBrand" : "Miniso cotton pads",
+      "itemCategory" : "None Of The Above",
+      "location" : "Nugegoda",
+      "name" : "Suri482",
+      "numberOfItems" : "2"
+    },
+    "-M0c-R412sFsVjHgLi1x" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/plastic_Container%2Fimage.jpg?alt=media&token=814eaab1-aaff-4c7b-b6a0-304fe43b6d2c",
+      "itemBrand" : "The body shop ",
+      "itemCategory" : "Plastic Container",
+      "location" : "Nugegoda ",
+      "name" : "Suri482",
+      "numberOfItems" : "1"
+    },
+    "-M0c-fpn5cBxMneGChKX" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fimage.jpg?alt=media&token=89b93b0f-0b66-4f05-94f9-972e7e30e5c4",
+      "itemBrand" : "L’Oréal ",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nugegoda",
+      "name" : "Suri482",
+      "numberOfItems" : "2"
+    },
+    "-M0gazaj_fjkWl1WdrCz" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/None%2Fcollaborative%20vs%20content%20base.png?alt=media&token=7fac1543-adff-45b0-ac38-8568c6604a03",
+      "itemBrand" : "efbe",
+      "itemCategory" : "None Of The Above",
+      "location" : "eevbqe",
+      "name" : "svwdfeb",
+      "numberOfItems" : "1"
+    },
+    "-M0ghtAmDk5zDKtXyDe5" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Glass_Other%2Fimage.jpg?alt=media&token=6845ce6e-3459-44f9-9648-83e94c00ba85",
+      "itemBrand" : "Glass cup",
+      "itemCategory" : "Glass - Other",
+      "location" : "Nedimala",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0gi7wBn_38Fs24MSHj" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Glass_Other%2Fimage.jpg?alt=media&token=ebaeade5-069d-4226-9fa8-0e149d872200",
+      "itemBrand" : "Glass cup",
+      "itemCategory" : "Glass - Other",
+      "location" : "Nedimala",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0gi_yXdLViMVufY4ZE" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2Fimage.jpg?alt=media&token=12873cb0-d396-4715-aa30-adebafa000c5",
+      "itemBrand" : "Scan bottled drinking water",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Nedimala",
+      "name" : "Akeel",
+      "numberOfItems" : "1"
+    },
+    "-M0giyXy3wZTi7uaZzEM" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2Fimage.jpg?alt=media&token=b5b18ccc-ac88-438e-9c96-50899d9006b9",
+      "itemBrand" : "Scan bottled water",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Nedimala",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0gjRWLXdRse8DrMitC" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Other%2Fimage.jpg?alt=media&token=907e459a-5c3b-4368-a36f-12fc96cf374c",
+      "itemBrand" : "Dettol",
+      "itemCategory" : "Plastic - Other",
+      "location" : "Nedimala",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0gmzvw7SsiKfOHpOW7" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2Fimage.jpg?alt=media&token=bace021a-0727-4d11-ad24-34976b875939",
+      "itemBrand" : "CBL",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Dehiwela-Maharagama ",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0gzKc6y6-mWdL_hMfx" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Aluminium_Can%2F20200222_110527.jpg?alt=media&token=51f78d73-f099-4744-814c-8505e239d2b4",
+      "itemBrand" : "Belcid Gastritis Medication",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Bambalapitiya ",
+      "name" : "Nuski ",
+      "numberOfItems" : "1"
+    },
+    "-M0my4i5utQrZMdMlyaQ" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2F20200216_182032.jpg?alt=media&token=2e1448ae-1346-49de-bfd3-d99a6f5bdc5f",
+      "itemBrand" : "Cola",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Narahenpita",
+      "name" : "Gamika testing ",
+      "numberOfItems" : "1"
+    },
+    "-M0mzbMuDOB_pp7q-jlq" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Bottle%2Fimage.jpg?alt=media&token=8bb0996c-00c5-48de-8b2f-3645cde56f0d",
+      "itemBrand" : "Vim",
+      "itemCategory" : "Plastic Bottle",
+      "location" : "Dehiwela-Maharagama ",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0mznd2tW3Ug16akAWa" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Milk_Packet%2Fimage.jpg?alt=media&token=cd7b5a1e-7098-4640-a12b-d159d92fc13b",
+      "itemBrand" : "Highland ",
+      "itemCategory" : "Milk Packet",
+      "location" : "Dehiwela-Maharagama ",
+      "name" : "Annie",
+      "numberOfItems" : "1"
+    },
+    "-M0n_RgkpJqpbPgJZZkV" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F04BE65F0-A786-446E-8D7A-FC57F462118F.jpeg?alt=media&token=e0a8e30c-04df-46c3-a12d-d229c755bcd3",
+      "itemBrand" : "Roots",
+      "itemCategory" : "Cardboard",
+      "location" : "Katubedda",
+      "name" : "Wmkthi",
+      "numberOfItems" : "5"
+    },
+    "-M0n_g-MmLgDARyKU2n1" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F2D73BEA4-C6B8-4C64-83CA-32361E6159E2.jpeg?alt=media&token=3f2702d9-674f-44c9-859e-22aadcce5040",
+      "itemBrand" : "Richlife",
+      "itemCategory" : "Cardboard",
+      "location" : "Katubedda",
+      "name" : "Wmkthi",
+      "numberOfItems" : "2"
+    },
+    "-M0rHgu2g4Q5tMt6GkFn" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Plastic_Wrapper%2F9D3AA1FC-4E5B-4C4D-93FA-97EEC18988BC.jpeg?alt=media&token=c524758e-d2f3-4af1-9b85-793c1382db52",
+      "itemBrand" : "Signal toothbrush",
+      "itemCategory" : "Plastic Wrapper",
+      "location" : "Dehiwela",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0rQWz3DaekVbDVe4C2" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Milk_Packet%2FIMG_20200224_190958.jpg?alt=media&token=47316438-1876-45a9-a235-233bb1822ae6",
+      "itemBrand" : "Kotmale",
+      "itemCategory" : "Milk Packet",
+      "location" : "Colombo Fort",
+      "name" : "DT_ENV",
+      "numberOfItems" : "1"
+    },
+    "-M0rdV4gsQYMt91QEhF7" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/Cardboard%2F7300C9A1-8C77-4051-AB19-F765E8C0C509.jpeg?alt=media&token=fe6dc57e-0d0e-4515-8625-1c4504bcfd11",
+      "itemBrand" : "Anchor Newdale",
+      "itemCategory" : "Cardboard",
+      "location" : "Dehiwela",
+      "name" : "Ajmal",
+      "numberOfItems" : "1"
+    },
+    "-M0x83IGQf-9dV7hm-iY" : {
+      "downloadUrl" : "https://firebasestorage.googleapis.com/v0/b/citycollection-38b54.appspot.com/o/plastic_Container%2FIMG_20200225_205326.jpg?alt=media&token=c4adf9dd-6323-4aa9-a7e4-c757babd7794",
+      "itemBrand" : "MeadowLea",
+      "itemCategory" : "Plastic Container",
+      "location" : "Kandana",
+      "name" : "ReusableName",
+      "numberOfItems" : "1"
+    }
+  }
+}
