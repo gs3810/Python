@@ -1,28 +1,4 @@
-# Who are we?
-
-We are a seed stage startup showcasing a proprietary platform to disrupt recycling in emerging markets. Our plan is to use the connectivity provided by increasing smartphone penetration, to drive incentive driven collection
-
-
-- 150LKR /month is enough to engage responsible recycling!
-- Custom dashboard and state-of-the-art machine learning algorithms that learns/predicts user disposal patterns
-- Directing logistics and connecting recyclers in the most efficient manner and connecting the main recyclers
-
-
-How does our platform work?
-
-- Recycling efficiency facilitator, that allows for mapping of individual contributions
-- Enabling incentive driven recycling through QR code ID
-- Data analytics enables more efficient recycling, and targeted education 
-
-
-Why care?
-
-- Unparalleled control of logistics
-- Efficient and rapid user base growth, driving economies of scale
-- Education of public (further drive growth)
-- Cutting edge data analytics 
-
-How do we implement it?
+# How do we implement it?
 
 - Individual bags collected by users
 - Each bag has unique QR code ID
@@ -33,6 +9,32 @@ How do we implement it?
 1. At recycler, the bags, QR code gets input
 OR
 2. Validation at household itself
+
+# Problems to overcome?
+
+Implementation Changes 
+
+Option 1: Validation @ recycler 
+Recycler validates by counting items in ID garbage bag during sorting
+Manually enter respective quantity into app after QR code recognizes bag’s ID (mapped to each user)
+
+Option 2: Validation @ household (by collector)
+Collector must validate by counting items for recycling in ID garbage bag
+Manually enter respective quantity into app after QR code recognizes bag’s ID (mapped to each user)
+
+Benefits
+
+Scalable (mobile devices/apps to be given to sorters at plant)
+Immune from bribery   
+
+Validation happens at collection, not sorting
+
+*We will provide the mobile devices free
+
+
+
+
+
 
 
 
