@@ -5,13 +5,30 @@ Our platform aims to solve the crisis by incentivizing individuals to throw, seg
 
 Once our app has a large enough user base, we will expand to encompass smart bins, which will seamlessly integrate to the system. They will be the last stage in the plan where we will leverage the disposal patterns for locations to effectively deploy the bins to areas to counter irresponsible disposal.
 
+Platform 
+Our platform is effectively a mobile app, that will…
 
+>> Describe final solution API... 
+Currently, our working POC uses…
+>> Describe current set up 
 
+Our primary set up and stage one is called CityCollection, with stage two followed by CityBin both of which will eventually use our proprietary API. 
 
+1.	Stage 1: CityCollection is the scalable solution designed to address household sorting and education 
+2.	Stage 2: CityBin will address all disposal of garbage by including automated sorting bins
 
+The Mobile App
+Our mobile app is the core interface for the users and will have the following functionalities
 
-
-
+>> Insert into table – display images/videos
+-Booking for pickups
+-See previous bookings
+-See upcoming pickups/cancel upcoming pickups
+-See nearby bins
+-See previous disposals
+-Authentication
+-Prize redemption
+-News/Advertising
 
 
 
