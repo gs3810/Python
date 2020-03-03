@@ -5,6 +5,24 @@ Our platform aims to solve the crisis by incentivizing individuals to throw, seg
 
 Once our app has a large enough user base, we will expand to encompass smart bins, which will seamlessly integrate to the system. They will be the last stage in the plan where we will leverage the disposal patterns for locations to effectively deploy the bins to areas to counter irresponsible disposal.
 
+Sri Lanka’s Pain Points 
+>>
+
+
+Business model
+The businesses primary source of income is the recycler’s payment for recyclable items, which will be manly used to sustain the collection expenses of the logistics system and user redemption, the core theme behind the application.
+
+Volume of recyclables is the key component of the system in that our apps collection and scheduling service aims to makes the route optimization (via Google maps) as efficient as possible so that the logistics costs will be semi-fixed, thus driving operating leverage when volume grows.
+
+>> Include financial model/feasibility?
+Collection model
+The business relies on incentivizing customers which will require being able to uniquely ID there waste contribution. We will be providing users with their own unique QR codes and IDs, which will pasted onto their garbage disposal bags (which will be returned on their next scheduling). 
+
+Once a pick up is scheduled, our platform will route a truck (given sufficient collection quantity along the path). Where it will deliver the content to the sorting arm of the recycler. 
+Here the sorters will use the Validation app (see section XXX) to manually verify if the number entered by the user is the correct amount of recyclables. 
+
+Once data is mapped to the user, we will provide the redemption when the cash is received from the recycler (negative cash flow conversion). 
+
 Platform 
 Our platform is effectively a mobile app, that will…
 
@@ -115,3 +133,7 @@ Example solutions
 •	Prediction systems to correlate weather patterns and plastic flows, and identify priority intervention spots
 •	RFID-based sample tracking and mapping of plastic waste across the watershed
 •	Aerial drone mapping of plastic debris density along riverways and coastal areas
+
+Our Team
+>>
+
